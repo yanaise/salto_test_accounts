@@ -1,0 +1,27 @@
+type d1.SoundAmethystAngelina2 {
+  annotations {
+    json DistinctTurquoiseTatum {
+    }
+    json OperationalOrangeMariana2 {
+    }
+    hidden_boolean MeanIvoryJulee4 {
+    }
+    string SafeCopperDorette {
+    }
+    serviceid_number GeographicalPeachMarlena4 {
+    }
+    hidden_boolean PriorRosePaulina2 {
+    }
+    number AlrightGoldGoldy {
+    }
+  }
+  json MajorBlushClaire2 {
+    _hidden_value = true
+  }
+  DistinctTurquoiseTatum = "What do you call two barracuda fish?  A Pairacuda!"
+  OperationalOrangeMariana2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SafeCopperDorette = "How come the stadium got hot after the game? Because all of the fans left."
+  GeographicalPeachMarlena4 = 481
+  AlrightGoldGoldy = 819
+  _hidden_value = true
+}

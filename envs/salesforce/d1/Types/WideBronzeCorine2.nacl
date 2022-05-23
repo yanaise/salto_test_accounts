@@ -1,0 +1,28 @@
+type d1.WideBronzeCorine2 {
+  annotations {
+    boolean ProperCoralElisa {
+    }
+    d1.DEFAULT VariableRedNona {
+    }
+    json OperationalOrangeMarian {
+    }
+    string GladGoldGlynda {
+    }
+    json PopularChocolateDaveta2 {
+    }
+    serviceid WeakAquamarineBelicia {
+    }
+  }
+  json SuperiorMaroonLiana {
+    _hidden_value = true
+  }
+  ProperCoralElisa = true
+  VariableRedNona = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  OperationalOrangeMarian = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GladGoldGlynda = "What creature is smarter than a talking parrot? A spelling bee."
+  PopularChocolateDaveta2 = "What creature is smarter than a talking parrot? A spelling bee."
+  WeakAquamarineBelicia = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

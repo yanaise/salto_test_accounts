@@ -1,0 +1,32 @@
+type d1.OrangePurpleMuffin {
+  annotations {
+    boolean OtherBlueCeline {
+    }
+    serviceid RecentBronzeCornie {
+    }
+    serviceid_number ProbableSalmonPhyllys {
+    }
+    json FamousCoralElfrieda {
+    }
+    boolean SurvivingSapphireRickie2 {
+    }
+    serviceid_number TraditionalChocolateDeirdre {
+    }
+    string BiologicalMaroonLetitia {
+    }
+    boolean IcyAquaAugusta {
+    }
+  }
+  d1.DEFAULT CivilianSapphireRanda {
+    _hidden_value = true
+  }
+  OtherBlueCeline = false
+  RecentBronzeCornie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ProbableSalmonPhyllys = 356
+  FamousCoralElfrieda = "Why do birds fly south for the winter? Because it's too far to walk."
+  SurvivingSapphireRickie2 = false
+  TraditionalChocolateDeirdre = 583
+  BiologicalMaroonLetitia = "What do you call two barracuda fish?  A Pairacuda!"
+  IcyAquaAugusta = false
+  _hidden_value = true
+}

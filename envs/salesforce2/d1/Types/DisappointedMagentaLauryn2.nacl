@@ -1,0 +1,23 @@
+type d1.DisappointedMagentaLauryn2 {
+  annotations {
+    json PatientPurpleNani2 {
+    }
+    hidden_boolean BewilderedAquamarineBernie {
+    }
+    d1.CognitiveSalmonQuinn UniformScarletRosalyn {
+    }
+    boolean MereGreenIdette {
+    }
+    hidden_boolean VerbalPinkMaxi2 {
+    }
+  }
+  hidden_boolean PhilosophicalRedNoell {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  PatientPurpleNani2 = "What do you call two barracuda fish?  A Pairacuda!"
+  UniformScarletRosalyn = "My first time using an elevator was an uplifting experience. The second time let me down."
+  MereGreenIdette = true
+  _hidden_value = true
+}

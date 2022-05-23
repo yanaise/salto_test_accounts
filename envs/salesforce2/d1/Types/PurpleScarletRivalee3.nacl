@@ -1,0 +1,31 @@
+type d1.PurpleScarletRivalee3 {
+  annotations {
+    hidden_boolean WetGrayHedi5 {
+    }
+    number CrowdedTomatoTania5 {
+    }
+    d1.RussianCyanFelicity CorporateEmeraldGalina {
+    }
+    boolean TinyCyanEula2 {
+    }
+    serviceid UnableCoralElonore {
+    }
+    d1.LongAmaranthAdina CausalSapphireRene {
+    }
+  }
+  serviceid ExactLimeKordula3 {
+    _hidden_value = true
+  }
+  serviceid FlyingMoccasinLorelei {
+    _hidden_value = true
+  }
+  serviceid_number MeanIvoryJulee3 {
+    _hidden_value = true
+  }
+  CrowdedTomatoTania5 = 467
+  CorporateEmeraldGalina = "What did one nut say as he chased another nut?  I'm a cashew!"
+  TinyCyanEula2 = true
+  UnableCoralElonore = "What creature is smarter than a talking parrot? A spelling bee."
+  CausalSapphireRene = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

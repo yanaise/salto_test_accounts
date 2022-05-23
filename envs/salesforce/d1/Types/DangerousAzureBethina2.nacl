@@ -1,0 +1,52 @@
+type d1.DangerousAzureBethina2 {
+  annotations {
+    serviceid_number DecentMoccasinLora {
+    }
+    boolean ExcitingGreenIssy {
+    }
+    string MagentaWhiteVenita2 {
+    }
+    serviceid_number KnownMaroonLexi3 {
+    }
+    serviceid DeliciousApricotArdis3 {
+    }
+    string GloriousScarletRosanne3 {
+    }
+  }
+  string StrangeCoralEdna3 {
+    _hidden_value = true
+  }
+  boolean NearbyLimeKoralle {
+    _hidden_value = true
+  }
+  number DullMoccasinLorette {
+    _hidden_value = true
+  }
+  hidden_boolean NationalBlushCherida2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number RevolutionaryJadeKaryl3 {
+    _hidden_value = true
+  }
+  boolean SurprisedEmeraldFredelia2 {
+    _hidden_value = true
+  }
+  json GrimScarletRonnica {
+    _hidden_value = true
+  }
+  json ExtendedPlumMildrid {
+    _hidden_value = true
+  }
+  json UnhappyMaroonLicha4 {
+    _hidden_value = true
+  }
+  DecentMoccasinLora = 49
+  ExcitingGreenIssy = false
+  MagentaWhiteVenita2 = "How come the stadium got hot after the game? Because all of the fans left."
+  KnownMaroonLexi3 = 796
+  DeliciousApricotArdis3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  GloriousScarletRosanne3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

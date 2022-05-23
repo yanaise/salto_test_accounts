@@ -1,0 +1,60 @@
+type d1.ProposedGoldGwendolyn4 {
+  serviceid WoodenAquamarineBelle2 {
+  }
+  boolean NotablePeachMartie4 {
+  }
+  string HardAquaAudre4 {
+  }
+  serviceid HurtAzureBlythe6 {
+  }
+  json CloseBrownCosetta2 {
+  }
+  string ProtectiveRoseOlivia2 {
+  }
+  d1.QuietApricotAnnmarie FriendlyBlackCarlynne3 {
+    SelectSalmonPhilippe = 509
+    DizzyVioletTrina = 183
+    NaturalBrownCrysta = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  number InherentRedNixie2 {
+  }
+  string PsychiatricSilverRozalie {
+  }
+  string TechnologicalOrangeMarianna5 {
+  }
+  d1.VariableRedNona2 DelicateOliveMable3 {
+    MagentaWhiteVelvet2 = 843
+    SadYellowWillamina = "Why do birds fly south for the winter? Because it's too far to walk."
+    ShallowAmberAloise = false
+    AdvancedHarlequinJacenta = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  d1.TightIvoryJoelly FuriousRedNicolle2 {
+    OtherBlueCeline3 = 649
+    AppropriateChocolateDarcee = 878
+    RearPurpleMuriel3 = true
+    DeafeningAmethystAnia = 610
+    MechanicalMagentaLeonie = 417
+    LikePeachMarlie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  serviceid_number CalmBeigeCalla {
+  }
+  serviceid_number NervousHarlequinJaquelin {
+  }
+  serviceid_number BrownFuchsiaGaylene3 {
+  }
+  number MixedMaroonLeslie {
+  }
+  hidden_boolean ClearTomatoTammara3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number TastyAquaAshli3 {
+  }
+  json IncreasedCrimsonEstelle6 {
+  }
+  serviceid_number MysteriousAzureBonnee3 {
+  }
+  boolean PastCoffeeDiann5 {
+  }
+}

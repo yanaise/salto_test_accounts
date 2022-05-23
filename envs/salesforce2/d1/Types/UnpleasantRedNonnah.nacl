@@ -1,0 +1,21 @@
+type d1.UnpleasantRedNonnah {
+  annotations {
+    string NoisyApricotAnnetta2 {
+    }
+    number ArchitecturalRosePatience {
+    }
+    hidden_boolean SimpleBronzeCorliss {
+    }
+    d1.DEFAULT EmpiricalPinkMeara {
+    }
+  }
+  number TropicalOliveLyda2 {
+    _hidden_value = true
+  }
+  NoisyApricotAnnetta2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ArchitecturalRosePatience = 69
+  EmpiricalPinkMeara = {
+    legit = "Why would the tomato blush? Because it saw the salad dressing."
+  }
+  _hidden_value = true
+}

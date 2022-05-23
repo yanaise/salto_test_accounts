@@ -1,0 +1,50 @@
+type d1.LoyalPurpleNatalee {
+  annotations {
+    json UnconsciousSapphireRaychel2 {
+    }
+    string DefensiveRoseOndrea {
+    }
+    boolean UpsetBeigeBrittani {
+    }
+    json OrganisationalTanShari {
+    }
+  }
+  serviceid ChosenSilverSari {
+    _hidden_value = true
+  }
+  boolean UglyYellowYvonne {
+    _hidden_value = true
+  }
+  number ChubbyAmberAlina {
+    _hidden_value = true
+  }
+  string TartYellowWynnie2 {
+    _hidden_value = true
+  }
+  serviceid_number CuteTomatoTanitansy {
+    _hidden_value = true
+  }
+  hidden_boolean HotAquaAudry {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.DEFAULT ElegantMoccasinLucila3 {
+    _hidden_value = true
+  }
+  hidden_boolean WildTomatoSuzie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean CombativeAquamarineBert {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  UnconsciousSapphireRaychel2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  DefensiveRoseOndrea = "A steak pun is a rare medium well done."
+  UpsetBeigeBrittani = false
+  OrganisationalTanShari = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

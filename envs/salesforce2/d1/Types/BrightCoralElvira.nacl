@@ -1,0 +1,16 @@
+type d1.BrightCoralElvira {
+  annotations {
+    serviceid_number PlainTurquoiseTheresina {
+    }
+    hidden_boolean ComparativePlumMisty2 {
+    }
+    serviceid_number LikelyBlushClarey2 {
+    }
+  }
+  serviceid ManagingLimeKizzee {
+    _hidden_value = true
+  }
+  PlainTurquoiseTheresina = 138
+  LikelyBlushClarey2 = 952
+  _hidden_value = true
+}

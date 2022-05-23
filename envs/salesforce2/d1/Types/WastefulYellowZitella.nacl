@@ -1,0 +1,32 @@
+type d1.WastefulYellowZitella {
+  annotations {
+    serviceid_number FavourablePinkMercie3 {
+    }
+    string MammothAmaranthAdora {
+    }
+    number OverseasIvoryJudith {
+    }
+    d1.DEFAULT ResidentSalmonRaeann {
+    }
+    serviceid_number TopChocolateDareen2 {
+    }
+    string DistinctHarlequinJanelle2 {
+    }
+    hidden_boolean QuickWhiteVonni3 {
+    }
+  }
+  hidden_boolean CuddlyAmberAlberta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  FavourablePinkMercie3 = 924
+  MammothAmaranthAdora = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  OverseasIvoryJudith = 202
+  ResidentSalmonRaeann = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  TopChocolateDareen2 = 923
+  DistinctHarlequinJanelle2 = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

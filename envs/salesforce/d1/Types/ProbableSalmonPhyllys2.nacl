@@ -1,0 +1,54 @@
+type d1.ProbableSalmonPhyllys2 {
+  annotations {
+    json DualSapphireRhianna {
+    }
+    string CleanTomatoTammara {
+    }
+    serviceid_number ProvincialPeachMarita2 {
+    }
+    serviceid_number OutstandingIndigoJenine {
+    }
+    serviceid HurtAzureBlythe3 {
+    }
+    serviceid ComparativePlumModesta {
+    }
+  }
+  boolean EncouragingLimeLacey2 {
+    _hidden_value = true
+  }
+  serviceid JuicyApricotAriadne {
+    _hidden_value = true
+  }
+  number GloriousScarletRose3 {
+    _hidden_value = true
+  }
+  json AdditionalCopperDotti2 {
+    _hidden_value = true
+  }
+  boolean ScaryBeigeBrett2 {
+    _hidden_value = true
+  }
+  hidden_boolean ControlledTanSheilah {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json TerritorialSalmonPrisca {
+    _hidden_value = true
+  }
+  hidden_boolean FlakyAmberAlfreda {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string AncientEmeraldFlor {
+    _hidden_value = true
+  }
+  DualSapphireRhianna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CleanTomatoTammara = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ProvincialPeachMarita2 = 356
+  OutstandingIndigoJenine = 414
+  HurtAzureBlythe3 = "I'll tell you what often gets over looked... garden fences."
+  ComparativePlumModesta = "Why would the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

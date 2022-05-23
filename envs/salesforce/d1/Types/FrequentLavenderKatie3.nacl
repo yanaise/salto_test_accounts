@@ -1,0 +1,56 @@
+type d1.FrequentLavenderKatie3 {
+  annotations {
+    string IntactRosePatsy {
+    }
+    json AfraidCrimsonEmmye2 {
+    }
+    string VastYellowZelda2 {
+    }
+    d1.DEFAULT EstimatedOrangeMargie {
+    }
+    serviceid_number UnawareSapphireReeba {
+    }
+    hidden_boolean WelcomeIvoryJosi {
+    }
+  }
+  serviceid_number MathematicalRoseOthelia {
+    _hidden_value = true
+  }
+  serviceid_number SplendidBlueCatlaina3 {
+    _hidden_value = true
+  }
+  boolean IllEmeraldGael3 {
+    _hidden_value = true
+  }
+  number LonelyOliveLynde {
+    _hidden_value = true
+  }
+  serviceid CharmingPlumMorena {
+    _hidden_value = true
+  }
+  d1.DEFAULT DeliciousApricotArdis2 {
+    _hidden_value = true
+  }
+  hidden_boolean ControlledTanShel {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number MentalCrimsonEsmaria {
+    _hidden_value = true
+  }
+  serviceid_number ScrawnyYellowWilma {
+    _hidden_value = true
+  }
+  number DelicateOliveMadalena2 {
+    _hidden_value = true
+  }
+  IntactRosePatsy = "Why would the kid cross the playground? To get to the other slide."
+  AfraidCrimsonEmmye2 = "Why would the kid cross the playground? To get to the other slide."
+  VastYellowZelda2 = "What do you call two barracuda fish?  A Pairacuda!"
+  EstimatedOrangeMargie = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  UnawareSapphireReeba = 985
+  _hidden_value = true
+}

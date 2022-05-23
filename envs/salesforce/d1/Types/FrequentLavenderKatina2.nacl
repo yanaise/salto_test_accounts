@@ -1,0 +1,84 @@
+type d1.FrequentLavenderKatina2 {
+  annotations {
+    serviceid_number IraqiOliveMadelle2 {
+    }
+    hidden_boolean VividTanShawnee {
+    }
+    serviceid BalancedSilverRoslyn2 {
+    }
+    serviceid_number TightAquamarineBecky {
+    }
+    hidden_boolean ContentPeachMatti {
+    }
+  }
+  boolean CapitalistMagentaLayne {
+    _hidden_value = true
+  }
+  boolean LegislativeMaroonLinell2 {
+    _hidden_value = true
+  }
+  hidden_boolean AbundantAmethystAndi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string SteepAmethystAlys3 {
+    _hidden_value = true
+  }
+  serviceid_number StraightHarlequinJaine {
+    _hidden_value = true
+  }
+  serviceid LimitedCoralElke2 {
+    _hidden_value = true
+  }
+  serviceid GreenChocolateDebora2 {
+    _hidden_value = true
+  }
+  json InclinedRedNydia {
+    _hidden_value = true
+  }
+  serviceid_number ApplicablePlumMirella {
+    _hidden_value = true
+  }
+  hidden_boolean BetterVioletTomasina2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DemocraticCrimsonEngracia2 {
+    _hidden_value = true
+  }
+  serviceid_number OtherBlueCeline4 {
+    _hidden_value = true
+  }
+  json OccasionalIvoryJulina3 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" PersistentRosePamela2 {
+    _hidden_value = true
+  }
+  boolean CooperativeBeigeCamile2 {
+    _hidden_value = true
+  }
+  serviceid HappyBlackCarola {
+    _hidden_value = true
+  }
+  string DustyAmberAlexina {
+    _hidden_value = true
+  }
+  number AncientEmeraldFlorance2 {
+    _hidden_value = true
+  }
+  serviceid JointCoralEliza2 {
+    _hidden_value = true
+  }
+  hidden_boolean ClumsyVioletTracee {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  IraqiOliveMadelle2 = 565
+  BalancedSilverRoslyn2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  TightAquamarineBecky = 175
+  _hidden_value = true
+}

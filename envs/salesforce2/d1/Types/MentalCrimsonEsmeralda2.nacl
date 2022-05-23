@@ -1,0 +1,21 @@
+type d1.MentalCrimsonEsmeralda2 {
+  annotations {
+    boolean ProfessionalChocolateDayna5 {
+    }
+    hidden_boolean NeatMoccasinLorine {
+    }
+    number ModestLavenderKelsi5 {
+    }
+    hidden_boolean EventualTanSharyl {
+    }
+    boolean OppositeHarlequinJaneczka3 {
+    }
+  }
+  d1.DEFAULT BiologicalMaroonLetitia2 {
+    _hidden_value = true
+  }
+  ProfessionalChocolateDayna5 = false
+  ModestLavenderKelsi5 = 30
+  OppositeHarlequinJaneczka3 = true
+  _hidden_value = true
+}

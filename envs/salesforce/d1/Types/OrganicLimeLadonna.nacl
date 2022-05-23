@@ -1,0 +1,82 @@
+type d1.OrganicLimeLadonna {
+  annotations {
+    json ImperialJadeKaterina {
+    }
+    json ConservationPlumMoira {
+    }
+    d1.OccupationalOliveMadel CrazyVioletTrescha2 {
+    }
+    string ModeratePurpleNatalie {
+    }
+    json AverageCoralElysha5 {
+    }
+    serviceid PoliteSalmonRafaela {
+    }
+    string GrievingAzureBlanca {
+    }
+  }
+  serviceid SuddenGoldGwen {
+    _hidden_value = true
+  }
+  boolean JealousAzureBobby {
+    _hidden_value = true
+  }
+  json DirectChocolateDeane4 {
+    _hidden_value = true
+  }
+  json CalmPurpleNancey2 {
+    _hidden_value = true
+  }
+  boolean SpanishGreenIrena3 {
+    _hidden_value = true
+  }
+  boolean ValidLavenderKerstin2 {
+    _hidden_value = true
+  }
+  serviceid_number JollyBlackCarri2 {
+    _hidden_value = true
+  }
+  json LocalBlueCharmane2 {
+    _hidden_value = true
+  }
+  serviceid ParentalRedNichol {
+    _hidden_value = true
+  }
+  d1.ImmenseAmaranthAdelice ReliableLavenderKiley {
+    PoliteSalmonRafa = {
+      legit = "Why would the kid cross the playground? To get to the other slide."
+    }
+    FrightenedAzureBlaire = "How come the stadium got hot after the game? Because all of the fans left."
+    AlertTomatoSydney = 340
+    AwakeRedNolana = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SteepAmberAlvira = false
+    InnocentTealStacey = true
+    GladGoldGlynnis = 660
+    ComingSilverSammy = "What do you do on a remote island? Try and find the TV island it belongs to."
+    UltimateJadeKandace = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ScatteredAquaAvie = 5
+    ConceptualTanShelbi = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    KindOrangeMaribelle = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  boolean GlobalGrayHermine2 {
+    _hidden_value = true
+  }
+  string ScaryBeigeBriana2 {
+    _hidden_value = true
+  }
+  serviceid_number FamousCoralElfrieda4 {
+    _hidden_value = true
+  }
+  serviceid_number ProspectiveRedNettie2 {
+    _hidden_value = true
+  }
+  ImperialJadeKaterina = "Why do birds fly south for the winter? Because it's too far to walk."
+  ConservationPlumMoira = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CrazyVioletTrescha2 = true
+  ModeratePurpleNatalie = "A steak pun is a rare medium well done."
+  AverageCoralElysha5 = "Dad Im hungry  Hi hungry Im dad"
+  PoliteSalmonRafaela = "How come the stadium got hot after the game? Because all of the fans left."
+  GrievingAzureBlanca = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

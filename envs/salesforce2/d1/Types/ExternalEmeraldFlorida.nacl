@@ -1,0 +1,41 @@
+type d1.ExternalEmeraldFlorida {
+  annotations {
+    d1.DEFAULT FashionableSapphireRenata5 {
+    }
+    serviceid ObligedOrangeMarcelline {
+    }
+    hidden_boolean AddedPinkMelicent {
+    }
+    serviceid_number CloseBrownCory {
+    }
+    json StraightforwardMaroonLeyla2 {
+    }
+    serviceid MysteriousAzureBonnee {
+    }
+  }
+  d1.ImmenseAmaranthAdelice UniqueFuchsiaGert {
+    PoliteSalmonRafa = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    FrightenedAzureBlaire = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    AlertTomatoSydney = 815
+    AwakeRedNolana = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    SteepAmberAlvira = true
+    InnocentTealStacey = true
+    GladGoldGlynnis = 738
+    ComingSilverSammy = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    UltimateJadeKandace = "Im only familiar with 25 letters in the English language. I dont know why."
+    ScatteredAquaAvie = 873
+    ConceptualTanShelbi = "A steak pun is a rare medium well done."
+    KindOrangeMaribelle = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  FashionableSapphireRenata5 = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  ObligedOrangeMarcelline = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  CloseBrownCory = 118
+  StraightforwardMaroonLeyla2 = "Slept like a log last night  woke up in the fireplace."
+  MysteriousAzureBonnee = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

@@ -1,0 +1,43 @@
+type d1.InnovativeTanSheeree {
+  annotations {
+    serviceid TypicalEmeraldFrancesca2 {
+    }
+    json HugeCoffeeDore {
+    }
+    number BlindIvoryJudi4 {
+    }
+    hidden_boolean TastelessAquaAshleigh {
+    }
+    d1.DEFAULT RespectiveSalmonPersis3 {
+    }
+    hidden_boolean WorryingSilverRozamond2 {
+    }
+  }
+  number LateBlushChristal {
+    _hidden_value = true
+  }
+  hidden_boolean OriginalChocolateDarrelle2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid BloodyCyanFedora {
+    _hidden_value = true
+  }
+  serviceid_number BasicChocolateDarleen {
+    _hidden_value = true
+  }
+  serviceid_number AmusedBeigeCacilia {
+    _hidden_value = true
+  }
+  number WoodenAquamarineBellanca3 {
+    _hidden_value = true
+  }
+  TypicalEmeraldFrancesca2 = "Why would the kid cross the playground? To get to the other slide."
+  HugeCoffeeDore = "What creature is smarter than a talking parrot? A spelling bee."
+  BlindIvoryJudi4 = 475
+  RespectiveSalmonPersis3 = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  _hidden_value = true
+}

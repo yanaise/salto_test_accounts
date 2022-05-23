@@ -1,0 +1,113 @@
+type d1.DisciplinarySilverSaba {
+  annotations {
+    number ElegantTurquoiseTeddi2 {
+    }
+    d1.LowBlushChristy VariedRedNoreen2 {
+    }
+    d1.AcceptedTanSerena PrettyWhiteVirgina {
+    }
+    string ParticularBlushClaude {
+    }
+    json ImpossibleTealSorcha {
+    }
+  }
+  serviceid_number AboveIvoryJoyann {
+    _hidden_value = true
+  }
+  json BoilingAmaranthAgneta {
+    _hidden_value = true
+  }
+  json AfraidCrimsonEmmye {
+    _hidden_value = true
+  }
+  "List<number>" ChubbyAmberAlis {
+    _hidden_value = true
+  }
+  serviceid_number RunningPlumMirabel {
+    _hidden_value = true
+  }
+  "List<serviceid>" HurtAzureBlondie2 {
+    _hidden_value = true
+  }
+  string GreekIndigoJoana {
+    _hidden_value = true
+  }
+  serviceid_number NiceWhiteVickie2 {
+    _hidden_value = true
+  }
+  serviceid PayableOrangeMarci {
+    _hidden_value = true
+  }
+  serviceid_number SmartPeachMarja {
+    _hidden_value = true
+  }
+  number EnglishBrownCrin {
+    _hidden_value = true
+  }
+  string AwkwardPeachMaryjane {
+    _hidden_value = true
+  }
+  hidden_boolean EntireEmeraldFrank {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean ShallowAmberAlmire2 {
+    _hidden_value = true
+  }
+  serviceid SoundAmethystAngelika2 {
+    _hidden_value = true
+  }
+  serviceid HonChocolateDaune {
+    _hidden_value = true
+  }
+  string DeterminedOrangeMarilyn {
+    _hidden_value = true
+  }
+  serviceid FunctionalMaroonLexis {
+    _hidden_value = true
+  }
+  serviceid_number DomesticCopperEba {
+    _hidden_value = true
+  }
+  json UncomfortablePlumModestia {
+    _hidden_value = true
+  }
+  serviceid EmbarrassingSilverSaudra {
+    _hidden_value = true
+  }
+  string CrowdedTomatoTani {
+    _hidden_value = true
+  }
+  hidden_boolean IncreasingCyanEvvie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PastCoffeeDianna {
+    _hidden_value = true
+  }
+  d1.ExistingCoffeeDeva NativeJadeKatalin {
+    PetiteAmaranthAdrianna = "Why was it called the dark ages? Because of all the knights. "
+    ExtraordinaryIndigoJessy = "Why was it called the dark ages? Because of all the knights. "
+    HonChocolateDaveen = true
+    ProfoundPinkMerla = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    UpperCyanFaunie = "What do you call two barracuda fish?  A Pairacuda!"
+    LegalBrownDahlia = 818
+    FeministPlumMina = "Did you know that protons have mass? I didn't even know they were catholic."
+    RelaxedPlumMinni = 728
+    FilthyTurquoiseTera2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RareEmeraldFlorentia = 631
+    EducationalCrimsonEryn = 975
+    _hidden_value = true
+  }
+  serviceid_number GrubbyAquaAudi2 {
+    _hidden_value = true
+  }
+  ElegantTurquoiseTeddi2 = 507
+  VariedRedNoreen2 = "I'll tell you what often gets over looked... garden fences."
+  PrettyWhiteVirgina = true
+  ParticularBlushClaude = "Did you know that protons have mass? I didn't even know they were catholic."
+  ImpossibleTealSorcha = "Why would the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

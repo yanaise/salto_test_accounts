@@ -1,0 +1,61 @@
+type d1.StrongBronzeColline2 {
+  annotations {
+    serviceid MushyWhiteVerla3 {
+    }
+    serviceid_number JoyousBlackCarry5 {
+    }
+    number BumpyAmaranthAili2 {
+    }
+    hidden_boolean PetiteAmaranthAdrianne2 {
+    }
+    number ChubbyAmberAlis4 {
+    }
+    json SelectSalmonPhilippa {
+    }
+  }
+  boolean RetiredSilverSarajane3 {
+    _hidden_value = true
+  }
+  serviceid ObnoxiousAzureBrandea {
+    _hidden_value = true
+  }
+  string ScatteredAquaAveryl4 {
+    _hidden_value = true
+  }
+  json ProtectiveRoseOlivette2 {
+    _hidden_value = true
+  }
+  number KindVioletValma2 {
+    _hidden_value = true
+  }
+  serviceid_number PinkIndigoJennette3 {
+    _hidden_value = true
+  }
+  json HotCoffeeDesdemona {
+    _hidden_value = true
+  }
+  boolean SlowCyanEugenie7 {
+    _hidden_value = true
+  }
+  serviceid_number KoreanSapphireRaquel {
+    _hidden_value = true
+  }
+  serviceid_number ObnoxiousAzureBrandice {
+    _hidden_value = true
+  }
+  serviceid InformalLavenderKathi2 {
+    _hidden_value = true
+  }
+  serviceid GeneralBlushChristan5 {
+    _hidden_value = true
+  }
+  string ExtraordinaryIndigoJessica4 {
+    _hidden_value = true
+  }
+  MushyWhiteVerla3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  JoyousBlackCarry5 = 758
+  BumpyAmaranthAili2 = 200
+  ChubbyAmberAlis4 = 678
+  SelectSalmonPhilippa = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

@@ -1,0 +1,88 @@
+type d1.MajorBlushCissy {
+  annotations {
+    d1.FashionableSapphireRenae QuietApricotAnnmaria {
+    }
+    number ImpressiveIndigoJessa {
+    }
+    json HostileOrangeMariejeanne {
+    }
+    string DrivingRoseOralle2 {
+    }
+    hidden_boolean LtdCoralElnora3 {
+    }
+  }
+  number InfluentialMoccasinLorene {
+    _hidden_value = true
+  }
+  serviceid_number DesperateIvoryJunie2 {
+    _hidden_value = true
+  }
+  string ThinCyanEvania {
+    _hidden_value = true
+  }
+  hidden_boolean ProspectiveRedNettle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number MagentaWhiteVelvet {
+    _hidden_value = true
+  }
+  json StupidTomatoSula {
+    _hidden_value = true
+  }
+  hidden_boolean AgreedTanSelie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean StructuralIvoryJosephina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ComplicatedIndigoJoanie {
+    _hidden_value = true
+  }
+  hidden_boolean ActiveCopperDreddy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string PlainTurquoiseTheresita {
+    _hidden_value = true
+  }
+  d1.DEFAULT BurningRedNikolia {
+    _hidden_value = true
+  }
+  serviceid EnthusiasticPinkMerrielle {
+    _hidden_value = true
+  }
+  "List<number>" ScreechingApricotAnthia {
+    _hidden_value = true
+  }
+  d1.DEFAULT ObligedOrangeMarcellina {
+    _hidden_value = true
+  }
+  serviceid_number RedWhiteWendeline {
+    _hidden_value = true
+  }
+  number CharmingPlumMorgan {
+    _hidden_value = true
+  }
+  d1.RoastedWhiteWenonah QuickWhiteVonni2 {
+    WhiteBronzeClotilda = "Did you know that protons have mass? I didn't even know they were catholic."
+    MutualLimeKimberli = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    BreakableTealShir = "Why is Peter Pan always flying? Because he Neverlands."
+    AgreedTanSelestina = "Why was it called the dark ages? Because of all the knights. "
+    _hidden_value = true
+  }
+  serviceid LatinLimeKonstance {
+    _hidden_value = true
+  }
+  QuietApricotAnnmaria = false
+  ImpressiveIndigoJessa = 427
+  HostileOrangeMariejeanne = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DrivingRoseOralle2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

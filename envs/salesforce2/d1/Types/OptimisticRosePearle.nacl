@@ -1,0 +1,24 @@
+type d1.OptimisticRosePearle {
+  annotations {
+    serviceid UndergroundScarletRomonda3 {
+    }
+    json SolidAquamarineBarrie2 {
+    }
+    number SoftApricotApril2 {
+    }
+    hidden_boolean AncientEmeraldFlorance4 {
+    }
+    number ManagerialPurpleNerissa2 {
+    }
+  }
+  hidden_boolean EfficientGoldGrethel3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  UndergroundScarletRomonda3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SolidAquamarineBarrie2 = "Slept like a log last night  woke up in the fireplace."
+  SoftApricotApril2 = 463
+  ManagerialPurpleNerissa2 = 740
+  _hidden_value = true
+}

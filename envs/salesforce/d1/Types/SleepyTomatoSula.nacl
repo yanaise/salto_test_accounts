@@ -1,0 +1,112 @@
+type d1.SleepyTomatoSula {
+  annotations {
+    string ShockedPinkMelisande {
+    }
+    boolean DangerousCrimsonEssy2 {
+    }
+    json InquisitiveTealStafani {
+    }
+    serviceid_number FluffyAmberAlia2 {
+    }
+  }
+  serviceid InnerFuchsiaGenvieve2 {
+    _hidden_value = true
+  }
+  serviceid_number UpperCyanFaustine {
+    _hidden_value = true
+  }
+  d1.UrbanCyanFan RecentBronzeCornelle3 {
+    KindBlackCaryl = "Dad Im hungry  Hi hungry Im dad"
+    PremierOrangeMargy = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    LtdCoralElnora = "Im only familiar with 25 letters in the English language. I dont know why."
+    SheerMagentaLauri = 447
+    FullBlushChristian = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    BroadAmberAlikee = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    AutomaticLavenderKi = "Slept like a log last night  woke up in the fireplace."
+    WesternChocolateDeerdre = 290
+    ExtraordinaryIndigoJessie = true
+    LittleBlushChlo = "How come the stadium got hot after the game? Because all of the fans left."
+    SurprisingGreenIbbie = 475
+    GloriousScarletRose = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ThickEmeraldFilippa = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    WeirdSilverRozanne = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ExplicitMaroonLisetta = "Why would the tomato blush? Because it saw the salad dressing."
+    GayOrangeMarietta = 369
+    DevotedRosePaulette = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    LimitedCoralElke = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  serviceid_number LeftCoffeeDeny2 {
+    _hidden_value = true
+  }
+  serviceid_number ClassicJadeKaitlynn2 {
+    _hidden_value = true
+  }
+  number NuttyWhiteVikky {
+    _hidden_value = true
+  }
+  serviceid CruelAquamarineBethanne {
+    _hidden_value = true
+  }
+  json SpiritualLavenderKatrinka2 {
+    _hidden_value = true
+  }
+  json OralLimeKylie2 {
+    _hidden_value = true
+  }
+  hidden_boolean ResonantApricotAnsley2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ZanyYellowZuzana {
+    _hidden_value = true
+  }
+  string RivalPurpleNara3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT ObjectiveOrangeMame {
+    _hidden_value = true
+  }
+  json AncientAmethystAmabelle3 {
+    _hidden_value = true
+  }
+  serviceid ArtificialMagentaLenee {
+    _hidden_value = true
+  }
+  string DampMoccasinLotta3 {
+    _hidden_value = true
+  }
+  json UsualCoralElmira3 {
+    _hidden_value = true
+  }
+  boolean PrettyIndigoJennifer {
+    _hidden_value = true
+  }
+  string GrubbyAquaAubry6 {
+    _hidden_value = true
+  }
+  d1.LowBlushChristy LoudApricotAnnadiana2 {
+    ExplicitMaroonLisetta2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    UnevenAquamarineBeitris = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    TameTomatoSusette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    KindOrangeMaribeth = "What do you do on a remote island? Try and find the TV island it belongs to."
+    BrokenAmaranthAilee = 842
+    RelievedSalmonPetronia = true
+    ComplexCopperDrucie = "Whoever invented the knock-knock joke should get a no bell prize."
+    PublicBlushChrysler = false
+    AverageCoralElysha = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    EntireEmeraldFranciska = 827
+    CurrentBrownDacey = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  ShockedPinkMelisande = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DangerousCrimsonEssy2 = false
+  InquisitiveTealStafani = "I'll tell you what often gets over looked... garden fences."
+  FluffyAmberAlia2 = 528
+  _hidden_value = true
+}

@@ -1,0 +1,89 @@
+type d1.ShyTomatoStormi2 {
+  annotations {
+    serviceid_number CreativeJadeKara {
+    }
+    hidden_boolean AsleepJadeKarlotte {
+    }
+    serviceid ProposedGoldGwendolyn3 {
+    }
+    boolean PrimitiveOrangeMarga2 {
+    }
+    boolean RepresentativePinkMerola3 {
+    }
+    d1.DEFAULT ProbableSalmonPhylys {
+    }
+    d1.DEFAULT HarshApricotAnjela2 {
+    }
+    d1.ExactLimeKordula NecessaryBronzeCorabella2 {
+    }
+  }
+  serviceid PreparedCyanFelice {
+    _hidden_value = true
+  }
+  boolean TheoreticalIndigoJenifer {
+    _hidden_value = true
+  }
+  json IrrelevantPurpleNancy2 {
+    _hidden_value = true
+  }
+  d1.OccasionalIvoryJuliette ActiveCopperDotty {
+    UglyTurquoiseTiphani = "How come the stadium got hot after the game? Because all of the fans left."
+    FairBlackCarlen = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    FuriousRedNicolle = 494
+    AbstractMaroonLilyan = 178
+    RipeApricotAriel = 166
+    OlympicRedNessa = 11
+    SignificantBrownDanna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    TenderAquamarineBecca = true
+    MysteriousAzureBonita = 98
+    VastEmeraldFreddi = 442
+    ConstantEmeraldFrayda = "What creature is smarter than a talking parrot? A spelling bee."
+    BigAmaranthAbbi = 686
+    WorriedGrayHarri = "What do you do on a remote island? Try and find the TV island it belongs to."
+    _hidden_value = true
+  }
+  hidden_boolean IndirectPeachMary2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ResultingPurpleNadeen {
+    _hidden_value = true
+  }
+  "List<boolean>" CoolAmaranthAinsley3 {
+    _hidden_value = true
+  }
+  serviceid_number UsefulChocolateDedie {
+    _hidden_value = true
+  }
+  boolean HotAquaAudry2 {
+    _hidden_value = true
+  }
+  serviceid DeafIvoryJoya3 {
+    _hidden_value = true
+  }
+  serviceid_number IntermediateRoseOfilia {
+    _hidden_value = true
+  }
+  number AmateurSalmonPierrette {
+    _hidden_value = true
+  }
+  number FormalCoralElizabet2 {
+    _hidden_value = true
+  }
+  json OutsideGrayHelene {
+    _hidden_value = true
+  }
+  CreativeJadeKara = 608
+  ProposedGoldGwendolyn3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  PrimitiveOrangeMarga2 = false
+  RepresentativePinkMerola3 = false
+  ProbableSalmonPhylys = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  HarshApricotAnjela2 = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  NecessaryBronzeCorabella2 = 311
+  _hidden_value = true
+}

@@ -1,0 +1,105 @@
+type d1.InnocentTealStacey2 {
+  annotations {
+    serviceid_number SadGrayHettie {
+    }
+    serviceid DistinctiveLimeKriste {
+    }
+    number SoreBeigeBrier {
+    }
+    serviceid_number RoyalBrownCristie {
+    }
+  }
+  serviceid PastCoffeeDiann {
+    _hidden_value = true
+  }
+  json ExplicitMaroonLisbeth2 {
+    _hidden_value = true
+  }
+  number FewAmethystAndria {
+    _hidden_value = true
+  }
+  json DeadTealSileas {
+    _hidden_value = true
+  }
+  boolean OutrageousAzureBrandise {
+    _hidden_value = true
+  }
+  boolean EnglishBrownCourtney {
+    _hidden_value = true
+  }
+  boolean TechnologicalOrangeMarianna {
+    _hidden_value = true
+  }
+  d1.DEFAULT VivaciousBlueCecilla {
+    _hidden_value = true
+  }
+  serviceid ChristianCoralElvina {
+    _hidden_value = true
+  }
+  serviceid_number BlushingTomatoTamar {
+    _hidden_value = true
+  }
+  d1.ManyAmethystAngel ChemicalGreenIsahella {
+    MinorEmeraldGabie = true
+    SplendidOrangeMandy = 98
+    StaticSapphireRebeka = 29
+    CircularRoseOrly = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    OrangeWhiteVinny = true
+    PureGrayHermia = "Why do birds fly south for the winter? Because it's too far to walk."
+    BreezyAmaranthAigneis = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    MiserableSalmonRachael = true
+    DomesticCopperEaster = false
+    KoreanSapphireRasia = 314
+    PrivateBronzeCoreen = 690
+    ShockedPinkMelisandra = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ObedientBlackCassondra = 897
+    RapidAmethystAmy2 = 178
+    _hidden_value = true
+  }
+  serviceid_number SadYellowWillette {
+    _hidden_value = true
+  }
+  string LevelJadeKameko {
+    _hidden_value = true
+  }
+  hidden_boolean DampAmberAlena {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean LargeBlueCharlot {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number DevelopedPinkMerilyn2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" FluffyAmberAlice2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SportingSilverRuthie2 {
+    _hidden_value = true
+  }
+  number FatAmaranthAbigale {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ImportantBlueChastity {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PsychologicalIvoryJojo {
+    _hidden_value = true
+  }
+  serviceid AtomicScarletRori {
+    _hidden_value = true
+  }
+  SadGrayHettie = 693
+  DistinctiveLimeKriste = "How come the stadium got hot after the game? Because all of the fans left."
+  SoreBeigeBrier = 886
+  RoyalBrownCristie = 302
+  _hidden_value = true
+}

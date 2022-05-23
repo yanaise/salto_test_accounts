@@ -1,0 +1,31 @@
+type d1.FastEmeraldFlo {
+  string EmotionalGrayHerta4 {
+  }
+  json CulturalCoralElinor2 {
+  }
+  json ShinyTurquoiseTiertza4 {
+  }
+  string WildTomatoSuzie3 {
+  }
+  string HorizontalSalmonPrissie3 {
+  }
+  serviceid_number MultipleLimeKimmy {
+  }
+  number LogicalLavenderKelcie3 {
+  }
+  boolean RelativeGoldGui5 {
+  }
+  boolean SteadyJadeKaitlin {
+  }
+  number NoblePurpleNeala4 {
+  }
+  serviceid_number OutsideGrayHelene3 {
+  }
+  number DramaticGoldHadria5 {
+  }
+  hidden_boolean DevelopedPinkMerissa5 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+}

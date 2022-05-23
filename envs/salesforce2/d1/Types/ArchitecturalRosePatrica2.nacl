@@ -1,0 +1,24 @@
+type d1.ArchitecturalRosePatrica2 {
+  annotations {
+    hidden_boolean WeeSapphireRevkah {
+    }
+    hidden_boolean RipeApricotAriana {
+    }
+    boolean ResponsibleCoffeeDevi {
+    }
+    serviceid AliveFuchsiaGillie {
+    }
+    serviceid AwkwardPeachMaryl {
+    }
+    boolean GiantMoccasinLotti {
+    }
+  }
+  d1.DEFAULT WorthwhilePinkMella {
+    _hidden_value = true
+  }
+  ResponsibleCoffeeDevi = true
+  AliveFuchsiaGillie = "Did you know that protons have mass? I didn't even know they were catholic."
+  AwkwardPeachMaryl = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  GiantMoccasinLotti = false
+  _hidden_value = true
+}

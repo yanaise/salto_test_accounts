@@ -1,0 +1,85 @@
+type d1.SocialBlueCharmine {
+  annotations {
+    number RemainingGoldGodiva {
+    }
+    json HarshApricotAnjela {
+    }
+    boolean DangerousAzureBetsey {
+    }
+    hidden_boolean ContinentalOliveMagdalena {
+    }
+    serviceid_number EncouragingBlackCaressa {
+    }
+    serviceid_number FashionableSapphireRenata2 {
+    }
+  }
+  serviceid_number LeftCoffeeDenys {
+    _hidden_value = true
+  }
+  string DevotedRosePauletta {
+    _hidden_value = true
+  }
+  d1.OrdinaryCopperEdi FiscalRedNike {
+    SillyYellowWini = 302
+    CruelAquamarineBessy = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    TameYellowYalonda = 637
+    RareWhiteWanda = 467
+    SpareMaroonLillis = "Whoever invented the knock-knock joke should get a no bell prize."
+    StupidGreenIzabel = 366
+    MaximumGreenIlyssa = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    TerritorialSalmonPriscella = "What do you call two barracuda fish?  A Pairacuda!"
+    VariedRedNoreen = 809
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 581
+    IntenseLavenderKatuscha = 809
+    SubtleMoccasinLucie = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  json RelativeGoldGui2 {
+    _hidden_value = true
+  }
+  serviceid_number RottenApricotAriella {
+    _hidden_value = true
+  }
+  string ChubbyAmberAlisa {
+    _hidden_value = true
+  }
+  string EqualCrimsonEmilia {
+    _hidden_value = true
+  }
+  json AnonymousSapphireRayshell {
+    _hidden_value = true
+  }
+  number RequiredMaroonLethia {
+    _hidden_value = true
+  }
+  serviceid SadGrayHestia {
+    _hidden_value = true
+  }
+  json MightyWhiteVeriee {
+    _hidden_value = true
+  }
+  serviceid CheerfulBeigeCally {
+    _hidden_value = true
+  }
+  boolean FlatGrayHanny {
+    _hidden_value = true
+  }
+  json DryCyanEvaleen {
+    _hidden_value = true
+  }
+  boolean CurlyAmberAlbertine {
+    _hidden_value = true
+  }
+  "List<serviceid>" BrightVioletTove {
+    _hidden_value = true
+  }
+  RemainingGoldGodiva = 455
+  HarshApricotAnjela = "I'll tell you what often gets over looked... garden fences."
+  DangerousAzureBetsey = true
+  EncouragingBlackCaressa = 875
+  FashionableSapphireRenata2 = 181
+  _hidden_value = true
+}

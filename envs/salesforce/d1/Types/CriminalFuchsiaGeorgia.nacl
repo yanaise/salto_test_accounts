@@ -1,0 +1,41 @@
+type d1.CriminalFuchsiaGeorgia {
+  annotations {
+    serviceid_number HonestIndigoJerrine {
+    }
+    number ThunderingApricotArabella {
+    }
+    serviceid_number FriendlyGoldGunilla {
+    }
+    number SkilledMoccasinLuci {
+    }
+    serviceid AmazingMoccasinLizette {
+    }
+    serviceid ZanyYellowZulema2 {
+    }
+  }
+  number HealthyGoldGracie {
+    _hidden_value = true
+  }
+  d1.DEFAULT EmptyAmethystAndie {
+    _hidden_value = true
+  }
+  serviceid_number InnerFuchsiaGenny {
+    _hidden_value = true
+  }
+  serviceid_number AgreedTanSelina {
+    _hidden_value = true
+  }
+  boolean FarBlushChristie3 {
+    _hidden_value = true
+  }
+  json SorryBrownDaphene2 {
+    _hidden_value = true
+  }
+  HonestIndigoJerrine = 11
+  ThunderingApricotArabella = 340
+  FriendlyGoldGunilla = 619
+  SkilledMoccasinLuci = 376
+  AmazingMoccasinLizette = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  ZanyYellowZulema2 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

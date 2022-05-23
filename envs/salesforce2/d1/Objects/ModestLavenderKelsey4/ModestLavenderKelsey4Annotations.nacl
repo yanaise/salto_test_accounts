@@ -1,0 +1,49 @@
+type d1.ModestLavenderKelsey4 {
+  annotations {
+    json BlindIvoryJudith {
+    }
+    string NearbyLimeKora2 {
+    }
+    serviceid ShaggyAquaAvis {
+    }
+    d1.StatutoryGrayHarriette UsefulChocolateDee {
+    }
+    string CuteTomatoTara7 {
+    }
+    serviceid FaithfulBlackCarlina3 {
+    }
+    d1.MobilePurpleMoselle BroadCoralElisabet {
+    }
+    boolean EnergeticBlackCaril3 {
+    }
+    d1.FaithfulTanShayna UnknownFuchsiaGilberta2 {
+    }
+    number ProfitablePurpleNanon2 {
+    }
+    d1.SpiritualLavenderKatrinka3 SophisticatedJadeKarlene3 {
+    }
+    string ArabLimeKirsteni2 {
+    }
+    hidden_boolean CoolGreenIona {
+    }
+    hidden_boolean EerieAzureBeverly2 {
+    }
+    serviceid_number ConcernedBronzeCorny4 {
+    }
+    hidden_boolean ChiefCopperDorree {
+    }
+    boolean HungryAzureBlithe2 {
+    }
+  }
+  BlindIvoryJudith = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  NearbyLimeKora2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  ShaggyAquaAvis = "Why is Peter Pan always flying? Because he Neverlands."
+  UsefulChocolateDee = false
+  CuteTomatoTara7 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FaithfulBlackCarlina3 = "I'll tell you what often gets over looked... garden fences."
+  EnergeticBlackCaril3 = true
+  ProfitablePurpleNanon2 = 105
+  ArabLimeKirsteni2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  ConcernedBronzeCorny4 = 123
+  HungryAzureBlithe2 = false
+}

@@ -1,0 +1,66 @@
+type d1.StandardCopperDrusilla {
+  annotations {
+    json BigAmaranthAbbe {
+    }
+    string AdvisoryOrangeMarieann {
+    }
+    boolean LonelyAzureBobette4 {
+    }
+    boolean IndependentChocolateDelinda3 {
+    }
+    boolean EnviousAzureBibi {
+    }
+    boolean ArrogantAquamarineBerna {
+    }
+  }
+  boolean ClosedMagentaLeilah2 {
+    _hidden_value = true
+  }
+  hidden_boolean VerticalOliveLyssa2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean LovelyCoralElli {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean JollyBlackCarri {
+    _hidden_value = true
+  }
+  json OrganisationalTanSharai2 {
+    _hidden_value = true
+  }
+  json PotentialCoralElbertine2 {
+    _hidden_value = true
+  }
+  string IntimateSilverRuthanne {
+    _hidden_value = true
+  }
+  serviceid_number HistoricLavenderKellsie2 {
+    _hidden_value = true
+  }
+  serviceid ConcernedBronzeCorny {
+    _hidden_value = true
+  }
+  json YoungAmethystAnastassia {
+    _hidden_value = true
+  }
+  d1.DEFAULT ColossalAmaranthAbbye2 {
+    _hidden_value = true
+  }
+  serviceid BurningRedNikki2 {
+    _hidden_value = true
+  }
+  json ArtisticPeachMatelda {
+    _hidden_value = true
+  }
+  BigAmaranthAbbe = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  AdvisoryOrangeMarieann = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  LonelyAzureBobette4 = true
+  IndependentChocolateDelinda3 = true
+  EnviousAzureBibi = true
+  ArrogantAquamarineBerna = false
+  _hidden_value = true
+}

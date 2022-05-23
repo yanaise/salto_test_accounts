@@ -1,0 +1,29 @@
+type d1.SpontaneousTanShauna2 {
+  annotations {
+    serviceid ProudHarlequinJana {
+    }
+    serviceid AngryFuchsiaGill {
+    }
+    number NaturalBrownCristionna2 {
+    }
+    string CombativeAquamarineBert2 {
+    }
+  }
+  boolean CrazyTealSibylle {
+    _hidden_value = true
+  }
+  serviceid LikePeachMarlo {
+    _hidden_value = true
+  }
+  number DynamicPeachMarney {
+    _hidden_value = true
+  }
+  json FitHarlequinJaclin {
+    _hidden_value = true
+  }
+  ProudHarlequinJana = "Why would the kid cross the playground? To get to the other slide."
+  AngryFuchsiaGill = "Why would the kid cross the playground? To get to the other slide."
+  NaturalBrownCristionna2 = 435
+  CombativeAquamarineBert2 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

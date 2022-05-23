@@ -1,0 +1,53 @@
+type d1.MildOliveMadalyn3 {
+  annotations {
+    serviceid_number DearGoldGloria2 {
+    }
+    serviceid DifficultBronzeClemence2 {
+    }
+    number LikelyBlushClaribel3 {
+    }
+    boolean VerticalOliveLynsey {
+    }
+    serviceid_number JuicyApricotArdyth {
+    }
+    json AccessibleOrangeMarilin2 {
+    }
+    d1.AcuteLavenderKeri MedicalCoffeeDevora3 {
+    }
+  }
+  string JapaneseCyanFidela2 {
+    _hidden_value = true
+  }
+  number WealthyPeachMaryjane4 {
+    _hidden_value = true
+  }
+  boolean TallYellowXylia3 {
+    _hidden_value = true
+  }
+  number RightBlushCherlyn {
+    _hidden_value = true
+  }
+  number InterestingChocolateDeloris {
+    _hidden_value = true
+  }
+  boolean ExoticScarletRikki2 {
+    _hidden_value = true
+  }
+  serviceid_number AnnualCoffeeDonny2 {
+    _hidden_value = true
+  }
+  "Map<json>" SubtleMoccasinLucie3 {
+    _hidden_value = true
+  }
+  boolean CuriousTealSidoney {
+    _hidden_value = true
+  }
+  DearGoldGloria2 = 577
+  DifficultBronzeClemence2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  LikelyBlushClaribel3 = 165
+  VerticalOliveLynsey = false
+  JuicyApricotArdyth = 405
+  AccessibleOrangeMarilin2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MedicalCoffeeDevora3 = 257
+  _hidden_value = true
+}

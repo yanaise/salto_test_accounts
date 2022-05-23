@@ -1,0 +1,28 @@
+type d1.StuckRoseOralee4 {
+  annotations {
+    boolean CompatibleSapphireRennie3 {
+    }
+    serviceid ContinentalOliveMagdalene3 {
+    }
+    serviceid OkayOliveMaggi {
+    }
+    d1.DEFAULT SuccessfulBlueCatlee2 {
+    }
+    serviceid_number SquareJadeKai4 {
+    }
+    boolean GrubbyAquaAudi4 {
+    }
+  }
+  json OrangeWhiteViole {
+    _hidden_value = true
+  }
+  CompatibleSapphireRennie3 = true
+  ContinentalOliveMagdalene3 = "Why would the kid cross the playground? To get to the other slide."
+  OkayOliveMaggi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SuccessfulBlueCatlee2 = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  SquareJadeKai4 = 780
+  GrubbyAquaAudi4 = false
+  _hidden_value = true
+}

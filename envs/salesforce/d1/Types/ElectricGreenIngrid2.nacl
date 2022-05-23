@@ -1,0 +1,25 @@
+type d1.ElectricGreenIngrid2 {
+  annotations {
+    serviceid CleanTomatoTamma2 {
+    }
+    number GreatBlueCharil {
+    }
+    json ForeignBronzeCoriss3 {
+    }
+    boolean ConventionalGoldGusella2 {
+    }
+    serviceid_number AwakeRedNoemi {
+    }
+    hidden_boolean GiganticAmaranthAdda3 {
+    }
+  }
+  number PastCoffeeDiann3 {
+    _hidden_value = true
+  }
+  CleanTomatoTamma2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  GreatBlueCharil = 456
+  ForeignBronzeCoriss3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ConventionalGoldGusella2 = true
+  AwakeRedNoemi = 38
+  _hidden_value = true
+}

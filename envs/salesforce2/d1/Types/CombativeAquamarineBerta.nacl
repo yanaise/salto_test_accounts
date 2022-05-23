@@ -1,0 +1,31 @@
+type d1.CombativeAquamarineBerta {
+  annotations {
+    boolean AfraidAquamarineBelvia {
+    }
+    number PurpleScarletRivalee {
+    }
+    serviceid_number WittyBlueCele {
+    }
+    d1.OrdinaryCopperEdi SouthernCyanEvie2 {
+    }
+    json FutureCoffeeDolores {
+    }
+    number UnsightlyTurquoiseTisha {
+    }
+  }
+  serviceid FreshCopperDyanna {
+    _hidden_value = true
+  }
+  hidden_boolean UnchangedSilverRozina2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  AfraidAquamarineBelvia = true
+  PurpleScarletRivalee = 285
+  WittyBlueCele = 799
+  SouthernCyanEvie2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FutureCoffeeDolores = "What do you do on a remote island? Try and find the TV island it belongs to."
+  UnsightlyTurquoiseTisha = 346
+  _hidden_value = true
+}

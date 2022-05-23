@@ -1,0 +1,62 @@
+type d1.BasicChocolateDarla3 {
+  string NaturalBrownCristionna4 {
+  }
+  hidden_boolean BlackBlushClarissa {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  boolean RelevantCoffeeDoralia4 {
+  }
+  serviceid TragicRosePaulita6 {
+  }
+  number LovelyBlackCasie {
+  }
+  hidden_boolean InstantSapphireRanee4 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  number LiteraryGreenIris2 {
+  }
+  json StraightAmethystAlyse {
+  }
+  serviceid_number DreadfulPinkMerrile5 {
+  }
+  string JollyVioletVallie2 {
+  }
+  serviceid_number AfraidAquamarineBelvia4 {
+  }
+  serviceid BitterApricotArdenia3 {
+  }
+  serviceid_number RenewedSilverSandy4 {
+  }
+  json DistantIndigoJilly3 {
+  }
+  d1.UnhappyMaroonLicha3 BindingSalmonPeta2 {
+    ChillyAmaranthAilyn = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    RedWhiteWendie3 = "Did you know that protons have mass? I didn't even know they were catholic."
+    FierceAzureBilli = 839
+    SacredRedNorma2 = "Did you know that protons have mass? I didn't even know they were catholic."
+    ReadyChocolateDebi = true
+  }
+  string TypicalEmeraldFrancine4 {
+  }
+  d1.AverageCrimsonElysia2 PositiveCoffeeDominique2 {
+    RecentBronzeCornelle = 839
+    TechnicalCopperEdee4 = 707
+    HelpfulBlackCarolina2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ControversialLimeKylen2 = 889
+  }
+  string FinancialBronzeCorette5 {
+  }
+  serviceid ExplicitMaroonLise4 {
+  }
+  d1.FormidableSilverSabrina ChosenSilverSarina3 {
+    FavourablePinkMercie4 = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    IncredibleRosePattie5 = 235
+    GradualSilverSalli2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+}

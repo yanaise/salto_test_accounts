@@ -1,0 +1,16 @@
+type d1.RoastedWhiteWenonah is string {
+  annotations {
+    json WhiteBronzeClotilda {
+    }
+    json MutualLimeKimberli {
+    }
+    json BreakableTealShir {
+    }
+    serviceid AgreedTanSelestina {
+    }
+  }
+  WhiteBronzeClotilda = "A steak pun is a rare medium well done."
+  MutualLimeKimberli = "Im only familiar with 25 letters in the English language. I dont know why."
+  BreakableTealShir = "What do you call two barracuda fish?  A Pairacuda!"
+  AgreedTanSelestina = "Slept like a log last night  woke up in the fireplace."
+}

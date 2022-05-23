@@ -1,0 +1,23 @@
+type d1.PurpleWhiteVivia2 {
+  annotations {
+    string ExperiencedMagentaLaural {
+    }
+    serviceid_number ConsciousHarlequinJeanette2 {
+    }
+    boolean WickedScarletRoseanne2 {
+    }
+    boolean SpareMaroonLillian3 {
+    }
+  }
+  number EverydayLimeLacee {
+    _hidden_value = true
+  }
+  number IntelligentMaroonLinnet4 {
+    _hidden_value = true
+  }
+  ExperiencedMagentaLaural = "Im only familiar with 25 letters in the English language. I dont know why."
+  ConsciousHarlequinJeanette2 = 92
+  WickedScarletRoseanne2 = true
+  SpareMaroonLillian3 = false
+  _hidden_value = true
+}

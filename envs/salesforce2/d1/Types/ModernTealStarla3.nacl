@@ -1,0 +1,27 @@
+type d1.ModernTealStarla3 {
+  annotations {
+    serviceid_number EssentialCoffeeDionne2 {
+    }
+    hidden_boolean PoisedTurquoiseThia {
+    }
+    boolean SorryBrownDanya2 {
+    }
+    number SplendidOrangeManon3 {
+    }
+    boolean SoftAquamarineBari {
+    }
+    d1.DEFAULT OkSapphireRhianna {
+    }
+  }
+  serviceid_number CrazyVioletTracy2 {
+    _hidden_value = true
+  }
+  EssentialCoffeeDionne2 = 124
+  SorryBrownDanya2 = true
+  SplendidOrangeManon3 = 116
+  SoftAquamarineBari = true
+  OkSapphireRhianna = {
+    legit = "Why would the tomato blush? Because it saw the salad dressing."
+  }
+  _hidden_value = true
+}

@@ -1,0 +1,149 @@
+type d1.PossibleBlushCheryl3 {
+  annotations {
+    boolean InevitableIvoryJolyn2 {
+    }
+    serviceid GeneticMoccasinLorianne2 {
+    }
+    string DigitalMaroonLib4 {
+    }
+    boolean LovelyCoralElli3 {
+    }
+    number IndustrialBrownDanny2 {
+    }
+  }
+  serviceid_number PoorBronzeCorenda {
+    _hidden_value = true
+  }
+  serviceid_number SuperPeachMarti {
+    _hidden_value = true
+  }
+  d1.DEFAULT LightCopperDulciana2 {
+    _hidden_value = true
+  }
+  serviceid NearFuchsiaGerianna3 {
+    _hidden_value = true
+  }
+  json IndirectPeachMary3 {
+    _hidden_value = true
+  }
+  number ToughGoldGlenna5 {
+    _hidden_value = true
+  }
+  number IllAzureBobbette6 {
+    _hidden_value = true
+  }
+  serviceid_number VictoriousBlueCecile5 {
+    _hidden_value = true
+  }
+  json JealousAzureBobbye2 {
+    _hidden_value = true
+  }
+  serviceid FriendlyGoldGuinna {
+    _hidden_value = true
+  }
+  boolean RunningPlumMirabelle {
+    _hidden_value = true
+  }
+  hidden_boolean FlyingMoccasinLoree {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SoundRoseOlia4 {
+    _hidden_value = true
+  }
+  number ExternalEmeraldFlorida4 {
+    _hidden_value = true
+  }
+  number TinyCyanEunice4 {
+    _hidden_value = true
+  }
+  d1.DiplomaticMagentaLenore OverseasIvoryJudye2 {
+    SouthernCyanEvie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    TartYellowWynnie = "Whoever invented the knock-knock joke should get a no bell prize."
+    WonderfulYellowZoe2 = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    UnlikelyCrimsonEthelin = "My first time using an elevator was an uplifting experience. The second time let me down."
+    JapaneseCyanFianna = 984
+    UpsetOliveMabel = "Why would the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  boolean SignificantBrownDanit {
+    _hidden_value = true
+  }
+  serviceid PriorRosePaulie2 {
+    _hidden_value = true
+  }
+  serviceid HarshAmethystAnjanette {
+    _hidden_value = true
+  }
+  boolean DesirableMagentaLanny {
+    _hidden_value = true
+  }
+  json ComparableMoccasinLizzie3 {
+    _hidden_value = true
+  }
+  hidden_boolean ElegantTurquoiseTeddy {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number AshamedScarletRosamund3 {
+    _hidden_value = true
+  }
+  d1.FashionableSapphireRenae WittyBlueCelene3 {
+    RealBlushClarie = 188
+    WholeBronzeClotilda = "Why was it called the dark ages? Because of all the knights. "
+    UnitedCopperEddi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    RearPurpleMuire = "Did you know that protons have mass? I didn't even know they were catholic."
+    GeographicalPeachMarlena = 242
+    EventualTanSharona = false
+    PureGrayHenryetta = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    SymbolicPurpleNadia = "Why was it called the dark ages? Because of all the knights. "
+    RespectiveSalmonPerry = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    DeepChocolateDelora = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    RattyWhiteWenda = 920
+    RareWhiteWaly = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    UrgentLimeKristy = false
+    _hidden_value = true
+  }
+  serviceid ExcessiveOliveMadelene2 {
+    _hidden_value = true
+  }
+  serviceid_number PerfectCrimsonEtti3 {
+    _hidden_value = true
+  }
+  string ConsistentHarlequinJanka3 {
+    _hidden_value = true
+  }
+  boolean CrazyVioletTrescha3 {
+    _hidden_value = true
+  }
+  json FineBlackCarlye2 {
+    _hidden_value = true
+  }
+  number EmbarrassedRedNissy {
+    _hidden_value = true
+  }
+  string LooseIvoryJuliet2 {
+    _hidden_value = true
+  }
+  json CuteTomatoTara3 {
+    _hidden_value = true
+  }
+  hidden_boolean StupidTomatoSula2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number TenderRedOdelinda2 {
+    _hidden_value = true
+  }
+  InevitableIvoryJolyn2 = true
+  GeneticMoccasinLorianne2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  DigitalMaroonLib4 = "I'll tell you what often gets over looked... garden fences."
+  LovelyCoralElli3 = true
+  IndustrialBrownDanny2 = 348
+  _hidden_value = true
+}

@@ -1,0 +1,77 @@
+type d1.ColourfulScarletRosabelle {
+  annotations {
+    number ShyScarletRosemonde2 {
+    }
+    json AshamedScarletRosamund2 {
+    }
+    number SpontaneousTanShaun3 {
+    }
+    hidden_boolean GoldenGrayHaley3 {
+    }
+    serviceid_number MuteApricotAnnecorinne {
+    }
+  }
+  serviceid BadVioletToinette2 {
+    _hidden_value = true
+  }
+  string DutchLavenderKendre {
+    _hidden_value = true
+  }
+  number PunyAmaranthAeriel2 {
+    _hidden_value = true
+  }
+  json NewBlueChandal2 {
+    _hidden_value = true
+  }
+  serviceid HealthyBlackCarolee2 {
+    _hidden_value = true
+  }
+  json WillingGoldGusti {
+    _hidden_value = true
+  }
+  serviceid_number NursingSalmonPhaedra {
+    _hidden_value = true
+  }
+  string InstantSapphireRandi {
+    _hidden_value = true
+  }
+  json DeliberateRedNoella2 {
+    _hidden_value = true
+  }
+  number ManyWhiteVeradis2 {
+    _hidden_value = true
+  }
+  json MechanicalMagentaLeonie3 {
+    _hidden_value = true
+  }
+  boolean IncreasedCrimsonEstelle3 {
+    _hidden_value = true
+  }
+  string IntactRosePatsy2 {
+    _hidden_value = true
+  }
+  json PuzzledTanShanie {
+    _hidden_value = true
+  }
+  d1.DEFAULT LevelJadeKameko3 {
+    _hidden_value = true
+  }
+  json IntelligentMaroonLinnet2 {
+    _hidden_value = true
+  }
+  "List<d1.AnxiousHarlequinJanna>" EnviousAzureBiddie2 {
+    ColonialPeachMaure = "Did you know that protons have mass? I didn't even know they were catholic."
+    GloriousBlackCarmine = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  hidden_boolean TameTomatoSusette2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ShyScarletRosemonde2 = 458
+  AshamedScarletRosamund2 = "Why would the kid cross the playground? To get to the other slide."
+  SpontaneousTanShaun3 = 846
+  MuteApricotAnnecorinne = 348
+  _hidden_value = true
+}

@@ -1,0 +1,19 @@
+type d1.FormalCoralElizabet {
+  annotations {
+    serviceid CreepyAmberAlaine5 {
+    }
+    string SkinnyAmberAloysia {
+    }
+    hidden_boolean ExcessSilverSara3 {
+    }
+    json AboveIvoryJoyan {
+    }
+  }
+  serviceid_number SharpAquaBabara {
+    _hidden_value = true
+  }
+  CreepyAmberAlaine5 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SkinnyAmberAloysia = "Why do birds fly south for the winter? Because it's too far to walk."
+  AboveIvoryJoyan = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

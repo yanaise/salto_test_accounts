@@ -1,0 +1,24 @@
+type d1.BlueCoffeeDiahann {
+  annotations {
+    hidden_boolean ContinuingGreenIsa2 {
+    }
+    d1.OrdinaryCopperEdi AwkwardPeachMaryl5 {
+    }
+    d1.DEFAULT WorthwhilePinkMelita2 {
+    }
+    boolean DisabledHarlequinJanifer2 {
+    }
+    serviceid_number LoudApricotAnnadiane2 {
+    }
+  }
+  number DustyAmberAlexina3 {
+    _hidden_value = true
+  }
+  AwkwardPeachMaryl5 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  WorthwhilePinkMelita2 = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  DisabledHarlequinJanifer2 = false
+  LoudApricotAnnadiane2 = 368
+  _hidden_value = true
+}

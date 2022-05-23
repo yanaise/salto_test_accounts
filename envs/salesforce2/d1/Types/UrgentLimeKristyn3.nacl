@@ -1,0 +1,198 @@
+type d1.UrgentLimeKristyn3 {
+  annotations {
+    string RepulsiveBeigeBrenn4 {
+    }
+    string EmptyCyanFanchon3 {
+    }
+    serviceid HappyBrownDaisi {
+    }
+    serviceid_number NegativeFuchsiaGavra2 {
+    }
+    serviceid_number IntelligentMaroonLinnet5 {
+    }
+  }
+  d1.DEFAULT CorrectCrimsonErinna {
+    _hidden_value = true
+  }
+  hidden_boolean MusicalIndigoJoanne6 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SeniorCoffeeDonetta3 {
+    _hidden_value = true
+  }
+  serviceid_number EstimatedOrangeMargie3 {
+    _hidden_value = true
+  }
+  hidden_boolean PersonalBronzeCordelia4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ContinuingGreenIrma2 {
+    _hidden_value = true
+  }
+  boolean SilkyAquaBabs2 {
+    _hidden_value = true
+  }
+  hidden_boolean WonderfulEmeraldFlossi4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number FormalCoralElizabet3 {
+    _hidden_value = true
+  }
+  boolean BeautifulVioletTommy3 {
+    _hidden_value = true
+  }
+  number MereGreenIleana2 {
+    _hidden_value = true
+  }
+  boolean ProtestantScarletRobina5 {
+    _hidden_value = true
+  }
+  hidden_boolean AttractiveCyanFerne5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number BrilliantGreenIlsa3 {
+    _hidden_value = true
+  }
+  hidden_boolean OutrageousAzureBreanne3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.DEFAULT StableHarlequinJasmin4 {
+    _hidden_value = true
+  }
+  boolean PossibleBlushCheslie2 {
+    _hidden_value = true
+  }
+  hidden_boolean SympatheticPinkMaye {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string InjuredScarletRosalind2 {
+    _hidden_value = true
+  }
+  hidden_boolean VerticalOliveLynnette2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean SquealingApricotArabel4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean PrimitiveOrangeMargalit3 {
+    _hidden_value = true
+  }
+  string DryAmberAlexa2 {
+    _hidden_value = true
+  }
+  serviceid_number ProminentLavenderKelcey2 {
+    _hidden_value = true
+  }
+  serviceid FluffyAmberAlice7 {
+    _hidden_value = true
+  }
+  serviceid RelativeGoldGuillemette2 {
+    _hidden_value = true
+  }
+  serviceid_number DampAmberAlene4 {
+    _hidden_value = true
+  }
+  number SportingSilverRuthie3 {
+    _hidden_value = true
+  }
+  hidden_boolean InnovativeTanSheelah {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ExtremeHarlequinJackelyn3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json WealthyPeachMaryjane6 {
+    _hidden_value = true
+  }
+  boolean RapidGrayHilde {
+    _hidden_value = true
+  }
+  serviceid SureBlushCindi2 {
+    _hidden_value = true
+  }
+  boolean ResidentSalmonRachelle4 {
+    _hidden_value = true
+  }
+  number AccusedSilverSallyanne2 {
+    _hidden_value = true
+  }
+  serviceid_number RedWhiteWendeline5 {
+    _hidden_value = true
+  }
+  string FemaleCrimsonEmmi4 {
+    _hidden_value = true
+  }
+  hidden_boolean TremendousMagentaLeola4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PrintedRedNeysa2 {
+    _hidden_value = true
+  }
+  string RapidAmethystAmye2 {
+    _hidden_value = true
+  }
+  hidden_boolean WoodenGreenHortense4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean DueCopperDosi3 {
+    _hidden_value = true
+  }
+  hidden_boolean OriginalChocolateDarsey4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.ExistingCoffeeDeva PricklyWhiteVittoria2 {
+    PetiteAmaranthAdrianna = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ExtraordinaryIndigoJessy = "What did one nut say as he chased another nut?  I'm a cashew!"
+    HonChocolateDaveen = false
+    ProfoundPinkMerla = "Why was it called the dark ages? Because of all the knights. "
+    UpperCyanFaunie = "How come the stadium got hot after the game? Because all of the fans left."
+    LegalBrownDahlia = 44
+    FeministPlumMina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RelaxedPlumMinni = 928
+    FilthyTurquoiseTera2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RareEmeraldFlorentia = 240
+    EducationalCrimsonEryn = 839
+    _hidden_value = true
+  }
+  json NetGoldGlen2 {
+    _hidden_value = true
+  }
+  json DevelopedPinkMerissa4 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" SouthernCyanEvey4 {
+    _hidden_value = true
+  }
+  RepulsiveBeigeBrenn4 = "Im only familiar with 25 letters in the English language. I dont know why."
+  EmptyCyanFanchon3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  HappyBrownDaisi = "My first time using an elevator was an uplifting experience. The second time let me down."
+  NegativeFuchsiaGavra2 = 201
+  IntelligentMaroonLinnet5 = 810
+  _hidden_value = true
+}

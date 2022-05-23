@@ -1,0 +1,85 @@
+type d1.PaleGrayHarriett {
+  annotations {
+    boolean CrookedAmberAlisa {
+    }
+    serviceid ColouredMoccasinLivvy {
+    }
+    d1.AlrightGoldGoldina GreatBlueChantalle {
+    }
+    json WonderfulBlueCelesta {
+    }
+    d1.DEFAULT RealTomatoStephine {
+    }
+    hidden_boolean KindOrangeMarice3 {
+    }
+    serviceid_number CivilCoffeeDode2 {
+    }
+  }
+  json FriendlyVioletTrula {
+    _hidden_value = true
+  }
+  boolean TurkishPurpleMozelle {
+    _hidden_value = true
+  }
+  string DisturbedAzureBeverley {
+    _hidden_value = true
+  }
+  json BizarreTanSeana {
+    _hidden_value = true
+  }
+  json CorporateEmeraldGarnet2 {
+    _hidden_value = true
+  }
+  serviceid_number SuspiciousPurpleMyriam {
+    _hidden_value = true
+  }
+  serviceid SolidAquamarineBarrie {
+    _hidden_value = true
+  }
+  string StrictLavenderKatharina {
+    _hidden_value = true
+  }
+  serviceid SureBlushCinderella {
+    _hidden_value = true
+  }
+  d1.FederalGrayHalli DelightedIvoryJulianne {
+    DullVioletTrina = 409
+    PunyAmaranthAeriel = 975
+    YoungBlueCheri = "Why would the tomato blush? Because it saw the salad dressing."
+    InquisitiveTealStacie = "How come the stadium got hot after the game? Because all of the fans left."
+    ExtraCoffeeDiandra2 = true
+    SensibleIvoryJordan = true
+    DeadTealSile = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    LexicalSilverSadella = true
+    SuddenGoldGusty = 759
+    DeadTealSigrid = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  d1.AnxiousHarlequinJanna OuterJadeKaron {
+    ColonialPeachMaure = "Whoever invented the knock-knock joke should get a no bell prize."
+    GloriousBlackCarmine = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    _hidden_value = true
+  }
+  number InstitutionalMaroonLesley {
+    _hidden_value = true
+  }
+  number DistinctHarlequinJanella {
+    _hidden_value = true
+  }
+  hidden_boolean NaughtyAzureBonny {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  CrookedAmberAlisa = false
+  ColouredMoccasinLivvy = "Whoever invented the knock-knock joke should get a no bell prize."
+  GreatBlueChantalle = false
+  WonderfulBlueCelesta = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RealTomatoStephine = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  CivilCoffeeDode2 = 508
+  _hidden_value = true
+}

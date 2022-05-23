@@ -1,0 +1,135 @@
+type d1.OverwhelmingPurpleMyrlene {
+  annotations {
+    boolean TropicalOliveLyda {
+    }
+    json KindOrangeMaribeth2 {
+    }
+    d1.DEFAULT ClosedMagentaLela2 {
+    }
+    hidden_boolean UglyPlumMicky {
+    }
+    serviceid DoubtfulRosePaola {
+    }
+    string LexicalSilverSada {
+    }
+    string GeneralBlushChristean {
+    }
+  }
+  serviceid_number PatientPurpleNani {
+    _hidden_value = true
+  }
+  hidden_boolean ThoughtfulBlueCatriona {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean NetGoldGleda2 {
+    _hidden_value = true
+  }
+  d1.UrbanCyanFan BreakableTealShina {
+    KindBlackCaryl = "Dad Im hungry  Hi hungry Im dad"
+    PremierOrangeMargy = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    LtdCoralElnora = "Why was it called the dark ages? Because of all the knights. "
+    SheerMagentaLauri = 942
+    FullBlushChristian = "A steak pun is a rare medium well done."
+    BroadAmberAlikee = {
+      legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+    }
+    AutomaticLavenderKi = "Dad Im hungry  Hi hungry Im dad"
+    WesternChocolateDeerdre = 887
+    ExtraordinaryIndigoJessie = true
+    LittleBlushChlo = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SurprisingGreenIbbie = 217
+    GloriousScarletRose = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ThickEmeraldFilippa = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    WeirdSilverRozanne = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ExplicitMaroonLisetta = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    GayOrangeMarietta = 604
+    DevotedRosePaulette = "What do you call two barracuda fish?  A Pairacuda!"
+    LimitedCoralElke = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  string IrrelevantPurpleNanete {
+    _hidden_value = true
+  }
+  hidden_boolean ConsciousHarlequinJeanette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number SevereEmeraldGae {
+    _hidden_value = true
+  }
+  serviceid BrilliantGreenIlse {
+    _hidden_value = true
+  }
+  string UselessRedNina2 {
+    _hidden_value = true
+  }
+  number JudicialJadeKarita2 {
+    _hidden_value = true
+  }
+  string MistyTurquoiseTheadora {
+    _hidden_value = true
+  }
+  hidden_boolean UsualCoralEllynn2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number OptimisticRosePearline {
+    _hidden_value = true
+  }
+  json ManagerialPurpleNerita {
+    _hidden_value = true
+  }
+  json PreciousOrangeMariele3 {
+    _hidden_value = true
+  }
+  serviceid_number DoubtfulRosePansy {
+    _hidden_value = true
+  }
+  boolean ElegantMoccasinLucila2 {
+    _hidden_value = true
+  }
+  json CharmingBeigeCalli {
+    _hidden_value = true
+  }
+  boolean FoolishSapphireRemy {
+    _hidden_value = true
+  }
+  string OverallCrimsonEmmalynn2 {
+    _hidden_value = true
+  }
+  number TopChocolateDarcy {
+    _hidden_value = true
+  }
+  number WearyBeigeBrunhilde {
+    _hidden_value = true
+  }
+  boolean GreatVioletTyne {
+    _hidden_value = true
+  }
+  json YellowYellowZondra {
+    _hidden_value = true
+  }
+  hidden_boolean RollingSilverRubie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean BrokenAmaranthAileen {
+    _hidden_value = true
+  }
+  TropicalOliveLyda = false
+  KindOrangeMaribeth2 = "Why would the tomato blush? Because it saw the salad dressing."
+  ClosedMagentaLela2 = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  DoubtfulRosePaola = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  LexicalSilverSada = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  GeneralBlushChristean = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

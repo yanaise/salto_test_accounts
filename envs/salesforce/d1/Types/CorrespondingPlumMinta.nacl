@@ -1,0 +1,42 @@
+type d1.CorrespondingPlumMinta {
+  annotations {
+    serviceid StormyTurquoiseTim3 {
+    }
+    string WonderfulBlueCelesta5 {
+    }
+    hidden_boolean FitHarlequinJackqueline {
+    }
+    boolean CostlySapphireRegan {
+    }
+  }
+  json CompulsoryOliveMallorie2 {
+    _hidden_value = true
+  }
+  json AmateurSalmonPia {
+    _hidden_value = true
+  }
+  number FlutteringAquaAthene2 {
+    _hidden_value = true
+  }
+  string LivelyPeachMarylin2 {
+    _hidden_value = true
+  }
+  serviceid EvolutionarySilverRuperta {
+    _hidden_value = true
+  }
+  string QuickCoralEleonore2 {
+    _hidden_value = true
+  }
+  hidden_boolean UndergroundScarletRomona {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean LooseAquaAugustine {
+    _hidden_value = true
+  }
+  StormyTurquoiseTim3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WonderfulBlueCelesta5 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CostlySapphireRegan = false
+  _hidden_value = true
+}

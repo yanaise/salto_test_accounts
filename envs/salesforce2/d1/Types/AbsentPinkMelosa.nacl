@@ -1,0 +1,75 @@
+type d1.AbsentPinkMelosa {
+  annotations {
+    number HardAquaAudra {
+    }
+    serviceid_number InterimOrangeMalory {
+    }
+    hidden_boolean AbsoluteGreenImojean {
+    }
+    d1.DEFAULT ColouredMoccasinLivvy2 {
+    }
+  }
+  boolean ClearBlushCindy2 {
+    _hidden_value = true
+  }
+  json CasualOliveLusa2 {
+    _hidden_value = true
+  }
+  boolean NormalBrownDana {
+    _hidden_value = true
+  }
+  number MidPinkMelisse {
+    _hidden_value = true
+  }
+  string NewBlueChad {
+    _hidden_value = true
+  }
+  boolean QuaintWhiteVivianna2 {
+    _hidden_value = true
+  }
+  json HarshOliveMahalia3 {
+    _hidden_value = true
+  }
+  serviceid_number BusyTealShirlene2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT ImaginativeTanSeline2 {
+    _hidden_value = true
+  }
+  boolean ThinCyanEvangeline {
+    _hidden_value = true
+  }
+  d1.DEFAULT FollowingBrownCynthea {
+    _hidden_value = true
+  }
+  serviceid_number TerribleBeigeBriney2 {
+    _hidden_value = true
+  }
+  string OutrageousAzureBrandy2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" OkSapphireRhodia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PriorRosePaulina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string InterestedCoffeeDido {
+    _hidden_value = true
+  }
+  hidden_boolean RollingSilverRubina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  HardAquaAudra = 806
+  InterimOrangeMalory = 113
+  ColouredMoccasinLivvy2 = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  _hidden_value = true
+}

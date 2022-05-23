@@ -1,0 +1,127 @@
+type d1.AttractiveCyanFerne {
+  annotations {
+    serviceid_number AverageCrimsonElysia {
+    }
+    json BroadAmberAlika {
+    }
+    string SatisfiedHarlequinJeana3 {
+    }
+    serviceid_number StraightforwardMaroonLexy {
+    }
+    serviceid SocialistHarlequinJacquenette {
+    }
+    serviceid KindOrangeMaribelle2 {
+    }
+    serviceid PeacefulOrangeMargot {
+    }
+  }
+  hidden_boolean FormidableSilverSacha {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string DifferentBlueCharline2 {
+    _hidden_value = true
+  }
+  string AlternativeEmeraldFionnula {
+    _hidden_value = true
+  }
+  d1.ProvincialPeachMarita AdequateGrayHilde {
+    FineBlackCarlyn = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    OldAmethystAmi = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    VariedRedNorah = false
+    ShakyAquaAyn = "Why was it called the dark ages? Because of all the knights. "
+    _hidden_value = true
+  }
+  boolean TotalBrownDaniella {
+    _hidden_value = true
+  }
+  number SickFuchsiaGerda {
+    _hidden_value = true
+  }
+  serviceid_number LivelyBlackCasi {
+    _hidden_value = true
+  }
+  number UglyTurquoiseTiphanie {
+    _hidden_value = true
+  }
+  boolean SplendidBlueCati {
+    _hidden_value = true
+  }
+  serviceid_number IntactRosePatrizia {
+    _hidden_value = true
+  }
+  serviceid UnpleasantRedNora {
+    _hidden_value = true
+  }
+  serviceid_number UptightBeigeBrittne {
+    _hidden_value = true
+  }
+  hidden_boolean VisitingScarletRoanne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<boolean>" AbleBlushChrista {
+    _hidden_value = true
+  }
+  json MedievalJadeKarel2 {
+    _hidden_value = true
+  }
+  boolean StatisticalMagentaLanie {
+    _hidden_value = true
+  }
+  boolean WastefulYellowZia2 {
+    _hidden_value = true
+  }
+  boolean CleverJadeKaria {
+    _hidden_value = true
+  }
+  string CostlySapphireReggi2 {
+    _hidden_value = true
+  }
+  number LuckyBlackCassi {
+    _hidden_value = true
+  }
+  json NetGoldGleda3 {
+    _hidden_value = true
+  }
+  boolean ProposedGoldGwendolyn2 {
+    _hidden_value = true
+  }
+  string SpanishGreenIra {
+    _hidden_value = true
+  }
+  string InternalCoralEffie {
+    _hidden_value = true
+  }
+  serviceid_number SocialBlueCharmion {
+    _hidden_value = true
+  }
+  boolean WickedBeigeBryana {
+    _hidden_value = true
+  }
+  number LinearRedNesta {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" CorporateEmeraldGarnet3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number VisibleIndigoJillana {
+    _hidden_value = true
+  }
+  AverageCrimsonElysia = 812
+  BroadAmberAlika = "Whoever invented the knock-knock joke should get a no bell prize."
+  SatisfiedHarlequinJeana3 = "What do you call two barracuda fish?  A Pairacuda!"
+  StraightforwardMaroonLexy = 141
+  SocialistHarlequinJacquenette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  KindOrangeMaribelle2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  PeacefulOrangeMargot = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

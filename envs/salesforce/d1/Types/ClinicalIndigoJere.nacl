@@ -1,0 +1,25 @@
+type d1.ClinicalIndigoJere {
+  annotations {
+    number LightAmethystAnett {
+    }
+    boolean FeministPlumMina2 {
+    }
+    json AggregateScarletRobbin {
+    }
+    serviceid_number TropicalOliveLuz {
+    }
+    number JustMaroonLissie {
+    }
+    hidden_boolean QualifiedPinkMellicent {
+    }
+  }
+  string AmusedBeigeBunny {
+    _hidden_value = true
+  }
+  LightAmethystAnett = 14
+  FeministPlumMina2 = false
+  AggregateScarletRobbin = "Why would the kid cross the playground? To get to the other slide."
+  TropicalOliveLuz = 944
+  JustMaroonLissie = 325
+  _hidden_value = true
+}

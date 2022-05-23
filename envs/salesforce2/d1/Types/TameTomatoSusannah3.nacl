@@ -1,0 +1,78 @@
+type d1.TameTomatoSusannah3 {
+  annotations {
+    boolean BitterApricotArden {
+    }
+    d1.OrdinaryCopperEdi IraqiOliveMadelon {
+    }
+    serviceid RandomMoccasinLorena3 {
+    }
+    string EthnicLavenderKaye2 {
+    }
+    number WateryYellowZelda {
+    }
+  }
+  serviceid_number ArrogantAquamarineBernadene {
+    _hidden_value = true
+  }
+  boolean EncouragingLimeLacey4 {
+    _hidden_value = true
+  }
+  number LongAmethystAme {
+    _hidden_value = true
+  }
+  serviceid ManagerialRedNerta {
+    _hidden_value = true
+  }
+  string ImpressiveIndigoJerry {
+    _hidden_value = true
+  }
+  boolean FierceOliveMaisie {
+    _hidden_value = true
+  }
+  serviceid BareLavenderKelley2 {
+    _hidden_value = true
+  }
+  number GorgeousVioletUrsa {
+    _hidden_value = true
+  }
+  string AbstractMaroonLina {
+    _hidden_value = true
+  }
+  serviceid IrrelevantPurpleNanette {
+    _hidden_value = true
+  }
+  d1.DEFAULT ChineseGoldGuglielma {
+    _hidden_value = true
+  }
+  json DutchLavenderKelsy2 {
+    _hidden_value = true
+  }
+  number VisualGreenIngaborg2 {
+    _hidden_value = true
+  }
+  string RearPurpleMureil {
+    _hidden_value = true
+  }
+  "List<json>" ForeignBronzeCoriss2 {
+    _hidden_value = true
+  }
+  json NaturalBrownCrysta2 {
+    _hidden_value = true
+  }
+  hidden_boolean RemarkableGreenHyacinth {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SharedPinkMelesa {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  BitterApricotArden = true
+  IraqiOliveMadelon = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  RandomMoccasinLorena3 = "I'll tell you what often gets over looked... garden fences."
+  EthnicLavenderKaye2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WateryYellowZelda = 751
+  _hidden_value = true
+}

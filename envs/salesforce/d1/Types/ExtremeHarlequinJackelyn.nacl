@@ -1,0 +1,41 @@
+type d1.ExtremeHarlequinJackelyn is boolean {
+  annotations {
+    hidden_boolean DeadBrownDaphne {
+    }
+    number IncCrimsonErmentrude {
+    }
+    boolean AlliedPlumMisti {
+    }
+    string InternalCoralEdy {
+    }
+    serviceid_number DevelopedPinkMerilyn {
+    }
+    string CrookedAmberAlisha {
+    }
+    number AmericanBronzeCorrianne {
+    }
+    number TragicRosePaulita {
+    }
+    d1.DEFAULT ConceptualTanShelagh {
+    }
+    json StrangeTurquoiseTimmie {
+    }
+    json NastyWhiteVeronica {
+    }
+    serviceid_number OldAmethystAmie {
+    }
+  }
+  IncCrimsonErmentrude = 183
+  AlliedPlumMisti = false
+  InternalCoralEdy = "What creature is smarter than a talking parrot? A spelling bee."
+  DevelopedPinkMerilyn = 331
+  CrookedAmberAlisha = "Why do birds fly south for the winter? Because it's too far to walk."
+  AmericanBronzeCorrianne = 186
+  TragicRosePaulita = 436
+  ConceptualTanShelagh = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  StrangeTurquoiseTimmie = "Why would the tomato blush? Because it saw the salad dressing."
+  NastyWhiteVeronica = "What do you call two barracuda fish?  A Pairacuda!"
+  OldAmethystAmie = 156
+}

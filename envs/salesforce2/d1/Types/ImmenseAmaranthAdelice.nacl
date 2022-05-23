@@ -1,0 +1,48 @@
+type d1.ImmenseAmaranthAdelice is number {
+  annotations {
+    d1.DEFAULT PoliteSalmonRafa {
+    }
+    serviceid FrightenedAzureBlaire {
+    }
+    hidden_boolean ActualCopperEbonee {
+    }
+    number AlertTomatoSydney {
+    }
+    serviceid AwakeRedNolana {
+    }
+    boolean SteepAmberAlvira {
+    }
+    boolean InnocentTealStacey {
+    }
+    serviceid_number GladGoldGlynnis {
+    }
+    json ComingSilverSammy {
+    }
+    string UltimateJadeKandace {
+    }
+    hidden_boolean JollyVioletValli {
+    }
+    serviceid_number ScatteredAquaAvie {
+    }
+    serviceid ConceptualTanShelbi {
+    }
+    string KindOrangeMaribelle {
+    }
+    hidden_boolean OverseasIvoryJudye {
+    }
+  }
+  PoliteSalmonRafa = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  FrightenedAzureBlaire = "What creature is smarter than a talking parrot? A spelling bee."
+  AlertTomatoSydney = 342
+  AwakeRedNolana = "Why do birds fly south for the winter? Because it's too far to walk."
+  SteepAmberAlvira = true
+  InnocentTealStacey = true
+  GladGoldGlynnis = 232
+  ComingSilverSammy = "What do you call two barracuda fish?  A Pairacuda!"
+  UltimateJadeKandace = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ScatteredAquaAvie = 184
+  ConceptualTanShelbi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  KindOrangeMaribelle = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+}

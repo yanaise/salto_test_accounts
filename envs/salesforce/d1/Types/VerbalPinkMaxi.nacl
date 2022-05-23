@@ -1,0 +1,31 @@
+type d1.VerbalPinkMaxi {
+  annotations {
+    number PreferredTanSavina {
+    }
+    string UncertainMagentaLelia2 {
+    }
+    hidden_boolean FierceAzureBilly {
+    }
+    d1.IllAzureBobbee UnpleasantRedNora2 {
+    }
+    json DizzyVioletTricia2 {
+    }
+    string OppositeHarlequinJaneczka2 {
+    }
+  }
+  serviceid MightyWhiteVerene {
+    _hidden_value = true
+  }
+  serviceid_number InvisibleRoseOrelia {
+    _hidden_value = true
+  }
+  string CoolGreenIolande2 {
+    _hidden_value = true
+  }
+  PreferredTanSavina = 619
+  UncertainMagentaLelia2 = "What do you call two barracuda fish?  A Pairacuda!"
+  UnpleasantRedNora2 = true
+  DizzyVioletTricia2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  OppositeHarlequinJaneczka2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

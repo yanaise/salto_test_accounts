@@ -1,0 +1,4 @@
+d1.Full InstWithStatic {
+  strField = file("static.txt")
+  numField = 111
+}

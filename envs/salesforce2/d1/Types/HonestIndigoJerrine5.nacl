@@ -1,0 +1,94 @@
+type d1.HonestIndigoJerrine5 {
+  annotations {
+    json DryCyanEvaleen4 {
+    }
+    boolean LovelyCoralEllie4 {
+    }
+    number InvisibleRoseOrelee3 {
+    }
+    number MoralCyanFeliza2 {
+    }
+    serviceid SmallAmaranthAgathe5 {
+    }
+    number DrunkPeachMarlee3 {
+    }
+  }
+  string BoldPlumMinette3 {
+    _hidden_value = true
+  }
+  "List<boolean>" LongAmaranthAdiana4 {
+    _hidden_value = true
+  }
+  serviceid ShrillApricotAntonia {
+    _hidden_value = true
+  }
+  json FilthyTurquoiseTeresa {
+    _hidden_value = true
+  }
+  "Map<json>" ImperialJadeKaterina2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT AngryFuchsiaGill3 {
+    _hidden_value = true
+  }
+  serviceid_number EuropeanBronzeConcordia2 {
+    _hidden_value = true
+  }
+  boolean PrettyIndigoJennifer2 {
+    _hidden_value = true
+  }
+  serviceid DomesticCopperEba3 {
+    _hidden_value = true
+  }
+  string SympatheticPinkMeade3 {
+    _hidden_value = true
+  }
+  json StripedYellowWrennie3 {
+    _hidden_value = true
+  }
+  serviceid_number YoungAmethystAndeee2 {
+    _hidden_value = true
+  }
+  serviceid_number SadGrayHettie2 {
+    _hidden_value = true
+  }
+  json MechanicalMagentaLeonie4 {
+    _hidden_value = true
+  }
+  d1.ExtraCoffeeDianemarie TallYellowXena {
+    _hidden_value = true
+  }
+  hidden_boolean CoherentScarletRoselin2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid FierceOliveMaisie2 {
+    _hidden_value = true
+  }
+  json AlliedPlumMisti3 {
+    _hidden_value = true
+  }
+  "List<string>" DistinguishedPurpleNatassia3 {
+    _hidden_value = true
+  }
+  boolean IrrelevantPurpleNanette3 {
+    _hidden_value = true
+  }
+  d1.OccupationalOliveMadel UrgentLimeKristyn2 {
+    DifferentBlueCharleen = 251
+    AverageCoralElysha2 = {
+      legit = "Did you know that protons have mass? I didn't even know they were catholic."
+    }
+    WearyBeigeBrooke = "What do you do on a remote island? Try and find the TV island it belongs to."
+    PoisedTurquoiseThomasin = 429
+    _hidden_value = true
+  }
+  DryCyanEvaleen4 = "Slept like a log last night  woke up in the fireplace."
+  LovelyCoralEllie4 = false
+  InvisibleRoseOrelee3 = 371
+  MoralCyanFeliza2 = 289
+  SmallAmaranthAgathe5 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  DrunkPeachMarlee3 = 989
+  _hidden_value = true
+}

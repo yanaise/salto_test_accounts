@@ -1,0 +1,29 @@
+type d1.IndianGrayHarmonie2 {
+  annotations {
+    number DomesticCopperEaster4 {
+    }
+    boolean MisleadingRoseOrelie {
+    }
+    serviceid_number BusyCyanFayth2 {
+    }
+    number SoundRoseOlia {
+    }
+  }
+  string CurvedAmberAlisun3 {
+    _hidden_value = true
+  }
+  serviceid GracefulTurquoiseTerri2 {
+    _hidden_value = true
+  }
+  serviceid EmbarrassedAzureBibby {
+    _hidden_value = true
+  }
+  serviceid RichCoffeeDorelia {
+    _hidden_value = true
+  }
+  DomesticCopperEaster4 = 470
+  MisleadingRoseOrelie = false
+  BusyCyanFayth2 = 7
+  SoundRoseOlia = 66
+  _hidden_value = true
+}

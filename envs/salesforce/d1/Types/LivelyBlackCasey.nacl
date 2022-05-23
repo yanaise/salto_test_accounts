@@ -1,0 +1,26 @@
+type d1.LivelyBlackCasey {
+  annotations {
+    number HappyVioletValaria {
+    }
+    serviceid_number AmusedBeigeCacilie2 {
+    }
+    d1.UnemployedIvoryJoly OldAmethystAmi2 {
+    }
+    serviceid_number CircularRoseOriana {
+    }
+    serviceid_number ComparableMoccasinLizette {
+    }
+    string BlushingTomatoTamar2 {
+    }
+  }
+  string ConfusedAquamarineBerty {
+    _hidden_value = true
+  }
+  HappyVioletValaria = 791
+  AmusedBeigeCacilie2 = 384
+  OldAmethystAmi2 = false
+  CircularRoseOriana = 807
+  ComparableMoccasinLizette = 762
+  BlushingTomatoTamar2 = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

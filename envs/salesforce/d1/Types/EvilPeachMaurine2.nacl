@@ -1,0 +1,92 @@
+type d1.EvilPeachMaurine2 {
+  annotations {
+    json FamousCoralElfrieda3 {
+    }
+    boolean MolecularRedNerte {
+    }
+    number SilentApricotAntonietta2 {
+    }
+    hidden_boolean CertainBronzeClemmie2 {
+    }
+    boolean IncCrimsonErmentrude2 {
+    }
+  }
+  d1.DEFAULT SharedPinkMelesa2 {
+    _hidden_value = true
+  }
+  json WoodenGreenHoratia3 {
+    _hidden_value = true
+  }
+  boolean IncredibleRosePattie4 {
+    _hidden_value = true
+  }
+  boolean IdealEmeraldFredericka {
+    _hidden_value = true
+  }
+  serviceid_number EmptyCyanFancie2 {
+    _hidden_value = true
+  }
+  string DeliberateRedNoella {
+    _hidden_value = true
+  }
+  string GloriousBlackCarmencita2 {
+    _hidden_value = true
+  }
+  serviceid SilentApricotAntonie {
+    _hidden_value = true
+  }
+  hidden_boolean PurpleWhiteViviana {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ProtectiveRoseOlive2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number RuralCoralElsa {
+    _hidden_value = true
+  }
+  string ContentPeachMatilda {
+    _hidden_value = true
+  }
+  hidden_boolean RidiculousMoccasinLiza2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FrozenScarletRosa2 {
+    _hidden_value = true
+  }
+  json HiddenRedOdessa3 {
+    _hidden_value = true
+  }
+  string SuddenGoldGusty3 {
+    _hidden_value = true
+  }
+  hidden_boolean JealousAzureBobbi {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean LegislativeMaroonLinell {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid InitialCoralElsey {
+    _hidden_value = true
+  }
+  string UglyTurquoiseTiphani3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT TinyCyanEula {
+    _hidden_value = true
+  }
+  FamousCoralElfrieda3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  MolecularRedNerte = true
+  SilentApricotAntonietta2 = 595
+  IncCrimsonErmentrude2 = false
+  _hidden_value = true
+}

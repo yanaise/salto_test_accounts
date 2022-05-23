@@ -1,0 +1,56 @@
+type d1.InterimOrangeMalvina2 {
+  annotations {
+    boolean LeadingCrimsonEma2 {
+    }
+    serviceid_number LiveIndigoJodi4 {
+    }
+    number GrumpyVioletUrsula2 {
+    }
+    serviceid DisastrousScarletRochell {
+    }
+    d1.RequiredMaroonLetisha SeparateCopperDorolice {
+    }
+    json PlainTurquoiseTheresina2 {
+    }
+    string UncomfortablePlumMoina4 {
+    }
+    hidden_boolean SoundAmethystAngelina3 {
+    }
+    hidden_boolean ForthcomingPeachMarris3 {
+    }
+    json AttractiveCyanFiann2 {
+    }
+    string AbsoluteGreenImojean3 {
+    }
+    string MarkedMagentaLaura2 {
+    }
+    boolean RobustYellowWhitney2 {
+    }
+    serviceid SocialBlueCharmion4 {
+    }
+    boolean ConservativeCoralEllen3 {
+    }
+    hidden_boolean ArchitecturalRosePatrica6 {
+    }
+    json FamiliarCrimsonEstrellita3 {
+    }
+    string CrazyMoccasinLorrayne3 {
+    }
+    d1.ResonantApricotAnny CompetentSalmonPeria {
+    }
+  }
+  LeadingCrimsonEma2 = true
+  LiveIndigoJodi4 = 130
+  GrumpyVioletUrsula2 = 651
+  DisastrousScarletRochell = "Im only familiar with 25 letters in the English language. I dont know why."
+  PlainTurquoiseTheresina2 = "Slept like a log last night  woke up in the fireplace."
+  UncomfortablePlumMoina4 = "How come the stadium got hot after the game? Because all of the fans left."
+  AttractiveCyanFiann2 = "Why would the kid cross the playground? To get to the other slide."
+  AbsoluteGreenImojean3 = "Dad Im hungry  Hi hungry Im dad"
+  MarkedMagentaLaura2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  RobustYellowWhitney2 = false
+  SocialBlueCharmion4 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ConservativeCoralEllen3 = false
+  FamiliarCrimsonEstrellita3 = "How come the stadium got hot after the game? Because all of the fans left."
+  CrazyMoccasinLorrayne3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+}

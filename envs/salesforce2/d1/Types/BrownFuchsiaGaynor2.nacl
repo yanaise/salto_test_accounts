@@ -1,0 +1,29 @@
+type d1.BrownFuchsiaGaynor2 {
+  annotations {
+    boolean SweetAquaAshil {
+    }
+    serviceid PrincipalGoldGreta2 {
+    }
+    serviceid AmusedBeigeBunny3 {
+    }
+    json ContinuingGreenIrma {
+    }
+    string ChineseGoldGuenna {
+    }
+    number LovelyBlackCassandra3 {
+    }
+    d1.AdverseSapphireRanna LateAmethystAmberly {
+    }
+  }
+  serviceid DarkTurquoiseTaryn2 {
+    _hidden_value = true
+  }
+  SweetAquaAshil = true
+  PrincipalGoldGreta2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  AmusedBeigeBunny3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ContinuingGreenIrma = "What do you call two barracuda fish?  A Pairacuda!"
+  ChineseGoldGuenna = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  LovelyBlackCassandra3 = 930
+  LateAmethystAmberly = 783
+  _hidden_value = true
+}

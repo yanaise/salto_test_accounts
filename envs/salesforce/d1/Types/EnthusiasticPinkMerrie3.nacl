@@ -1,0 +1,52 @@
+type d1.EnthusiasticPinkMerrie3 {
+  annotations {
+    serviceid GenerousLavenderKaylee2 {
+    }
+    serviceid ArtisticPeachMathilda2 {
+    }
+    serviceid_number ModestLavenderKelsi7 {
+    }
+    json BrightTomatoTamara {
+    }
+  }
+  boolean RigidPinkMerrily3 {
+    _hidden_value = true
+  }
+  hidden_boolean ArmedGrayHelaina2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json GreatBlueCharil4 {
+    _hidden_value = true
+  }
+  serviceid_number RattyWhiteWandis {
+    _hidden_value = true
+  }
+  string BoldPlumMinnaminnie5 {
+    _hidden_value = true
+  }
+  d1.DEFAULT HelpfulHarlequinJaneta2 {
+    _hidden_value = true
+  }
+  json RequiredMaroonLeta3 {
+    _hidden_value = true
+  }
+  string BloodyTomatoTallou4 {
+    _hidden_value = true
+  }
+  number FatIvoryJoelle2 {
+    _hidden_value = true
+  }
+  serviceid BusyTealShirlene4 {
+    _hidden_value = true
+  }
+  string NationalBlueCherianne {
+    _hidden_value = true
+  }
+  GenerousLavenderKaylee2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  ArtisticPeachMathilda2 = "What do you call two barracuda fish?  A Pairacuda!"
+  ModestLavenderKelsi7 = 738
+  BrightTomatoTamara = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

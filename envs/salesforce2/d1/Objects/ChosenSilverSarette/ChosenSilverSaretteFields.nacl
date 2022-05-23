@@ -1,0 +1,65 @@
+type d1.ChosenSilverSarette {
+  number WrittenGreenIvette4 {
+  }
+  d1.CrazyVioletTresa DifficultBronzeClementina {
+    DeepChocolateDeloria = true
+    MarginalLimeKristal = false
+    UpsetOliveMab3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  boolean AllegedOliveLynnea {
+  }
+  number NuclearCoffeeDonielle5 {
+  }
+  string MainBlushCindelyn2 {
+  }
+  number GastricMagentaLavinie {
+  }
+  number ItchyVioletValera {
+  }
+  hidden_boolean TeenageScarletRobinett2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.FederalGrayHalli AshamedAquamarineBernadette2 {
+    DullVioletTrina = 573
+    PunyAmaranthAeriel = 199
+    YoungBlueCheri = "Whoever invented the knock-knock joke should get a no bell prize."
+    InquisitiveTealStacie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ExtraCoffeeDiandra2 = true
+    SensibleIvoryJordan = true
+    DeadTealSile = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    LexicalSilverSadella = false
+    SuddenGoldGusty = 30
+    DeadTealSigrid = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  serviceid_number MagnificentWhiteVanny4 {
+  }
+  boolean SelfishBeigeBridget2 {
+  }
+  json ComplexCopperDrusi {
+  }
+  hidden_boolean ResidentialIndigoJessamyn2 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  string UninterestedTomatoSusi2 {
+  }
+  d1.FancyTurquoiseTeirtza SingleBronzeCorabelle2 {
+    TallYellowXylia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    CheapCopperEdita = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SharedPinkMelicent = 985
+    StuckRoseOralee = 419
+    SorryBrownDanyelle = 914
+    GoverningTanSelle = 197
+    JointCoralEliza = "Why was it called the dark ages? Because of all the knights. "
+    SorryBrownDanyelle2 = 843
+    PainfulMaroonLilly = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RichTomatoStorm = "Why is Peter Pan always flying? Because he Neverlands."
+    ImplicitSapphireRhea = 719
+    FlyingMoccasinLoralyn = false
+  }
+}

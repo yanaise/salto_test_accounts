@@ -1,0 +1,8 @@
+type d1.Profile {
+  "Map<d1.Permissions>" ObjectLevelPermissions {
+  }
+  "Map<Map<d1.Permissions>>" FieldLevelPermissions {
+  }
+  "Map<List<d1.LayoutAssignments>>" LayoutAssignments {
+  }
+}

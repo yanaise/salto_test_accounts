@@ -1,0 +1,27 @@
+type d1.ParallelMoccasinLudovika3 {
+  annotations {
+    serviceid HotAquaAudrey {
+    }
+    d1.DEFAULT ArtificialMagentaLenka2 {
+    }
+    hidden_boolean EasyTealSisely2 {
+    }
+    number PoisedTurquoiseThomasa6 {
+    }
+    serviceid SatisfactoryLimeKrissy5 {
+    }
+    string WetAmberAlida {
+    }
+  }
+  serviceid HelplessTealSonny {
+    _hidden_value = true
+  }
+  HotAquaAudrey = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ArtificialMagentaLenka2 = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  PoisedTurquoiseThomasa6 = 217
+  SatisfactoryLimeKrissy5 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  WetAmberAlida = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

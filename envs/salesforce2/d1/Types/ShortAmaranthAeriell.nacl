@@ -1,0 +1,42 @@
+type d1.ShortAmaranthAeriell {
+  annotations {
+    d1.DEFAULT DangerousCrimsonEsta {
+    }
+    json FarBlushChristin2 {
+    }
+    number BumpyAmaranthAilina {
+    }
+    json SkilledMoccasinLuci2 {
+    }
+    json CoolAmaranthAindrea2 {
+    }
+    hidden_boolean HeavyAmethystAndriette {
+    }
+  }
+  serviceid_number ProfoundPinkMerlina4 {
+    _hidden_value = true
+  }
+  serviceid CleverTealSibel {
+    _hidden_value = true
+  }
+  number TightIvoryJoelynn2 {
+    _hidden_value = true
+  }
+  string LooseAquaAugustina3 {
+    _hidden_value = true
+  }
+  serviceid_number SharpFuchsiaGeorgine {
+    _hidden_value = true
+  }
+  number CognitiveSalmonQuentin2 {
+    _hidden_value = true
+  }
+  DangerousCrimsonEsta = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  FarBlushChristin2 = "Slept like a log last night  woke up in the fireplace."
+  BumpyAmaranthAilina = 218
+  SkilledMoccasinLuci2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CoolAmaranthAindrea2 = "Why would the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

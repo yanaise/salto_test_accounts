@@ -1,0 +1,73 @@
+type d1.MaturePeachMatty2 {
+  annotations {
+    string SubstantialCoralElspeth {
+    }
+    hidden_boolean JapaneseCyanFidela {
+    }
+    boolean CalmBeigeCalley {
+    }
+    json ProudHarlequinJana2 {
+    }
+    number RemarkableGreenHyacinth2 {
+    }
+    hidden_boolean CivilianSapphireRanda3 {
+    }
+  }
+  d1.ExistingCoffeeDeva ShinyTurquoiseTiertza {
+    PetiteAmaranthAdrianna = "Im only familiar with 25 letters in the English language. I dont know why."
+    ExtraordinaryIndigoJessy = "Did you know that protons have mass? I didn't even know they were catholic."
+    HonChocolateDaveen = true
+    ProfoundPinkMerla = "Slept like a log last night  woke up in the fireplace."
+    UpperCyanFaunie = "What did one nut say as he chased another nut?  I'm a cashew!"
+    LegalBrownDahlia = 287
+    FeministPlumMina = "What creature is smarter than a talking parrot? A spelling bee."
+    RelaxedPlumMinni = 787
+    FilthyTurquoiseTera2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    RareEmeraldFlorentia = 255
+    EducationalCrimsonEryn = 532
+    _hidden_value = true
+  }
+  string PaleGrayHarriet {
+    _hidden_value = true
+  }
+  serviceid_number InjuredScarletRosalie2 {
+    _hidden_value = true
+  }
+  serviceid HandsomeOliveMalena {
+    _hidden_value = true
+  }
+  json GratefulIvoryJorey3 {
+    _hidden_value = true
+  }
+  json ElatedBeigeCara2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT HuskyApricotAnnabella {
+    _hidden_value = true
+  }
+  boolean DarkChocolateDebbi {
+    _hidden_value = true
+  }
+  serviceid_number WarmCopperDulcinea3 {
+    _hidden_value = true
+  }
+  serviceid LongVioletVan3 {
+    _hidden_value = true
+  }
+  d1.ImportantTealSophi HeavyAmethystAndy {
+    PrimeBrownDanielle = 454
+    FilthyTurquoiseTera = 251
+    ExuberantBlackCarleen = "I'll tell you what often gets over looked... garden fences."
+    DutchLavenderKelsy = 665
+    SpareMaroonLilli = 445
+    OldAmethystAmie2 = "How come the stadium got hot after the game? Because all of the fans left."
+    DominantIndigoJenda = 972
+    AncientEmeraldFlora = 167
+    _hidden_value = true
+  }
+  SubstantialCoralElspeth = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CalmBeigeCalley = true
+  ProudHarlequinJana2 = "What creature is smarter than a talking parrot? A spelling bee."
+  RemarkableGreenHyacinth2 = 892
+  _hidden_value = true
+}

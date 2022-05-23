@@ -1,0 +1,52 @@
+type d1.PrimeBrownDanika {
+  annotations {
+    d1.LongAmaranthAdina EmptyCyanFanechka {
+    }
+    hidden_boolean VitalEmeraldFilia3 {
+    }
+    hidden_boolean WeeSapphireRey {
+    }
+    d1.HelpfulHarlequinJaneta CooperativeBeigeCamile5 {
+    }
+    serviceid_number SecureMoccasinLou3 {
+    }
+    serviceid_number MarineMagentaLeona2 {
+    }
+    number LonelyAzureBobina2 {
+    }
+    serviceid TerritorialSalmonPriscilla5 {
+    }
+    boolean CurrentBrownCynthy5 {
+    }
+    json KeyCopperDorothea3 {
+    }
+    number EducationalCrimsonErtha4 {
+    }
+    string WorthyRoseOdille3 {
+    }
+    serviceid SlimRoseOlwen2 {
+    }
+    boolean QuaintTurquoiseThomasine2 {
+    }
+    string OverseasIvoryJuditha4 {
+    }
+    json TeenageScarletRobinett3 {
+    }
+    number MedicalCoffeeDevora4 {
+    }
+  }
+  EmptyCyanFanechka = file("SmallBlueCharleen.txt")
+  SecureMoccasinLou3 = 764
+  MarineMagentaLeona2 = 274
+  LonelyAzureBobina2 = 313
+  TerritorialSalmonPriscilla5 = "Why is Peter Pan always flying? Because he Neverlands."
+  CurrentBrownCynthy5 = true
+  KeyCopperDorothea3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  EducationalCrimsonErtha4 = 129
+  WorthyRoseOdille3 = "Why would the kid cross the playground? To get to the other slide."
+  SlimRoseOlwen2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  QuaintTurquoiseThomasine2 = false
+  OverseasIvoryJuditha4 = "A steak pun is a rare medium well done."
+  TeenageScarletRobinett3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  MedicalCoffeeDevora4 = 653
+}

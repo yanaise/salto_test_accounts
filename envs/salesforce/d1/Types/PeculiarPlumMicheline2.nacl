@@ -1,0 +1,93 @@
+type d1.PeculiarPlumMicheline2 {
+  annotations {
+    string CombativeAquamarineBerta2 {
+    }
+    hidden_boolean NearFuchsiaGerianna2 {
+    }
+    serviceid_number MistyTurquoiseTheadora3 {
+    }
+    hidden_boolean WateryYellowZelda2 {
+    }
+  }
+  boolean DampMoccasinLorry2 {
+    _hidden_value = true
+  }
+  serviceid SurprisedEmeraldFredelia {
+    _hidden_value = true
+  }
+  hidden_boolean SoundAmethystAngeline {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid PremierOrangeMaria {
+    _hidden_value = true
+  }
+  number EmbarrassingSilverSaudra3 {
+    _hidden_value = true
+  }
+  number HealthyBlackCarolann {
+    _hidden_value = true
+  }
+  serviceid IndividualBrownCrystal2 {
+    _hidden_value = true
+  }
+  string StrangeYellowWinni {
+    _hidden_value = true
+  }
+  serviceid EqualCrimsonEmilie {
+    _hidden_value = true
+  }
+  boolean GreatAmaranthAddia3 {
+    _hidden_value = true
+  }
+  serviceid UnpleasantRedNonnah2 {
+    _hidden_value = true
+  }
+  number InadequateLavenderKeelia {
+    _hidden_value = true
+  }
+  serviceid_number MaleCoffeeDidi2 {
+    _hidden_value = true
+  }
+  serviceid_number FantasticSapphireRegina2 {
+    _hidden_value = true
+  }
+  boolean IntermediateRoseOfilia2 {
+    _hidden_value = true
+  }
+  boolean TotalBrownDanice2 {
+    _hidden_value = true
+  }
+  string BraveBeigeCaitlin2 {
+    _hidden_value = true
+  }
+  hidden_boolean GrandEmeraldFrancene2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PainfulMaroonLilllie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid OrangePurpleMuire3 {
+    _hidden_value = true
+  }
+  serviceid_number MinimumIndigoJerrie {
+    _hidden_value = true
+  }
+  json IncCrimsonErma {
+    _hidden_value = true
+  }
+  json SuperiorMaroonLia2 {
+    _hidden_value = true
+  }
+  serviceid InnovativeTanSheena2 {
+    _hidden_value = true
+  }
+  CombativeAquamarineBerta2 = "Slept like a log last night  woke up in the fireplace."
+  MistyTurquoiseTheadora3 = 94
+  _hidden_value = true
+}

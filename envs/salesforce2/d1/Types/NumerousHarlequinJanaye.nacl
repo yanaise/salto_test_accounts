@@ -1,0 +1,119 @@
+type d1.NumerousHarlequinJanaye {
+  annotations {
+    number IntimateSilverRuthe {
+    }
+    serviceid ImmediateCrimsonEmeline {
+    }
+    hidden_boolean FriendlyVioletTrudie2 {
+    }
+    serviceid_number GoodBlueCesya {
+    }
+    string FrightenedAzureBlaire2 {
+    }
+  }
+  boolean CompetentSalmonPepita {
+    _hidden_value = true
+  }
+  number DetailedCrimsonEmlynne {
+    _hidden_value = true
+  }
+  hidden_boolean LonelyAzureBobette2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string DisturbingTealSherie {
+    _hidden_value = true
+  }
+  json DisappointedMagentaLaurie {
+    _hidden_value = true
+  }
+  serviceid SillyIndigoJoeann {
+    _hidden_value = true
+  }
+  number MassGreenIlise2 {
+    _hidden_value = true
+  }
+  boolean AdvancedHarlequinJacinta {
+    _hidden_value = true
+  }
+  d1.KeenGrayHannah TroubledBeigeBrittani2 {
+    ExoticScarletRina = false
+    LiquidRoseOttilie = 985
+    WidespreadHarlequinJacquie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    HolyIndigoJemie = 648
+    SlowAmethystAnalise = "What did one nut say as he chased another nut?  I'm a cashew!"
+    MarginalLimeKriste = {
+      legit = "Why would the kid cross the playground? To get to the other slide."
+    }
+    AcuteLavenderKerianne = 343
+    HugeCoffeeDoralynne = "A steak pun is a rare medium well done."
+    ShrillApricotAntonella = 449
+    PublicBlushChrysa = "Why would the kid cross the playground? To get to the other slide."
+    PleasantIvoryJosee = 114
+    ExcessiveOliveMadelena = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    ScaredSalmonRafaelita2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    IndustrialBrownDanny = 492
+    DoubtfulRosePansie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    InteriorPurpleNathalie = 415
+    BlackVioletTonya = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    CurvedAmberAlix = 679
+    _hidden_value = true
+  }
+  hidden_boolean GleamingTurquoiseTeri3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean GrimScarletRonni {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid BumpyAmaranthAilene {
+    _hidden_value = true
+  }
+  boolean RightBlushCherise {
+    _hidden_value = true
+  }
+  d1.ExactLimeKordula AdverseSapphireRanique {
+    _hidden_value = true
+  }
+  string SatisfactoryLimeKrissy2 {
+    _hidden_value = true
+  }
+  json LatinLimeKonstance2 {
+    _hidden_value = true
+  }
+  string ContinuousIvoryJsandye {
+    _hidden_value = true
+  }
+  number CommunistGoldGisella {
+    _hidden_value = true
+  }
+  serviceid_number FoolishAzureBinnie {
+    _hidden_value = true
+  }
+  string LiableLimeKimberlyn {
+    _hidden_value = true
+  }
+  boolean ItalianGoldGray {
+    _hidden_value = true
+  }
+  json ProperCoralElinore {
+    _hidden_value = true
+  }
+  json WelcomeIvoryJosy {
+    _hidden_value = true
+  }
+  number ApparentCyanFawnia {
+    _hidden_value = true
+  }
+  IntimateSilverRuthe = 572
+  ImmediateCrimsonEmeline = "How come the stadium got hot after the game? Because all of the fans left."
+  GoodBlueCesya = 152
+  FrightenedAzureBlaire2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

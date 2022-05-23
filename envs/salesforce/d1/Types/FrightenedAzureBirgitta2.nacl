@@ -1,0 +1,64 @@
+type d1.FrightenedAzureBirgitta2 {
+  annotations {
+    hidden_boolean OddFuchsiaGenevra {
+    }
+    number WildTomatoSuzie2 {
+    }
+    d1.SwissPlumMikaela IllAzureBobbi {
+    }
+    number QuickWhiteVonni7 {
+    }
+    hidden_boolean ProudHarlequinJammie {
+    }
+    string ClosedMagentaLeila2 {
+    }
+  }
+  boolean UniversalJadeJyoti2 {
+    _hidden_value = true
+  }
+  boolean SlipperyAquamarineBarbe2 {
+    _hidden_value = true
+  }
+  serviceid GrubbyAquaAubry5 {
+    _hidden_value = true
+  }
+  d1.DEFAULT FaithfulTanShayna4 {
+    _hidden_value = true
+  }
+  serviceid InadequateLavenderKaylyn2 {
+    _hidden_value = true
+  }
+  json ArchitecturalRosePatrica4 {
+    _hidden_value = true
+  }
+  hidden_boolean HorizontalSalmonPrudence2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean EnviousAzureBiddie3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string AdditionalCopperDottie3 {
+    _hidden_value = true
+  }
+  number FutureCoffeeDolores2 {
+    _hidden_value = true
+  }
+  string SolarRosePammy {
+    _hidden_value = true
+  }
+  serviceid AbsentPinkMelony2 {
+    _hidden_value = true
+  }
+  serviceid ImpressiveIndigoJessa2 {
+    _hidden_value = true
+  }
+  WildTomatoSuzie2 = 503
+  IllAzureBobbi = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  QuickWhiteVonni7 = 177
+  ClosedMagentaLeila2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

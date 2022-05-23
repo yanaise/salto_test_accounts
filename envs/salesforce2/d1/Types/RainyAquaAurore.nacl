@@ -1,0 +1,39 @@
+type d1.RainyAquaAurore {
+  annotations {
+    d1.OccasionalIvoryJuliette SteadyAquamarineBatsheva2 {
+    }
+    number MildOliveMaddalena {
+    }
+    hidden_boolean GreyEmeraldFrankie {
+    }
+    number BoringPeachMarnie2 {
+    }
+  }
+  serviceid_number SkilledMoccasinLuce3 {
+    _hidden_value = true
+  }
+  boolean ExtremeHarlequinJacinthe2 {
+    _hidden_value = true
+  }
+  json PlannedPlumMiran3 {
+    _hidden_value = true
+  }
+  number GreenChocolateDebra2 {
+    _hidden_value = true
+  }
+  number SuperTomatoSusanetta2 {
+    _hidden_value = true
+  }
+  boolean RubberSilverSarena3 {
+    _hidden_value = true
+  }
+  hidden_boolean TerribleEmeraldFredrika3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  SteadyAquamarineBatsheva2 = 521
+  MildOliveMaddalena = 679
+  BoringPeachMarnie2 = 24
+  _hidden_value = true
+}

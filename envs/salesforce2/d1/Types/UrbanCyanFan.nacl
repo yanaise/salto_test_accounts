@@ -1,0 +1,74 @@
+type d1.UrbanCyanFan is string {
+  annotations {
+    string KindBlackCaryl {
+    }
+    hidden_boolean SlowCyanEugenia {
+    }
+    hidden_boolean FollowingBrownCyndy {
+    }
+    hidden_boolean LongVioletVan {
+    }
+    json PremierOrangeMargy {
+    }
+    string LtdCoralElnora {
+    }
+    hidden_boolean AbstractMaroonLind {
+    }
+    number SheerMagentaLauri {
+    }
+    serviceid FullBlushChristian {
+    }
+    d1.DEFAULT BroadAmberAlikee {
+    }
+    json AutomaticLavenderKi {
+    }
+    number WesternChocolateDeerdre {
+    }
+    boolean ExtraordinaryIndigoJessie {
+    }
+    string LittleBlushChlo {
+    }
+    hidden_boolean FastAmethystAmara {
+    }
+    serviceid_number SurprisingGreenIbbie {
+    }
+    serviceid GloriousScarletRose {
+    }
+    d1.DEFAULT ThickEmeraldFilippa {
+    }
+    hidden_boolean ClearTomatoTammi {
+    }
+    string WeirdSilverRozanne {
+    }
+    json ExplicitMaroonLisetta {
+    }
+    serviceid_number GayOrangeMarietta {
+    }
+    serviceid DevotedRosePaulette {
+    }
+    serviceid LimitedCoralElke {
+    }
+  }
+  KindBlackCaryl = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  PremierOrangeMargy = "What do you do on a remote island? Try and find the TV island it belongs to."
+  LtdCoralElnora = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SheerMagentaLauri = 446
+  FullBlushChristian = "To be Frank, I'd have to change my name."
+  BroadAmberAlikee = {
+    legit = "Why would the tomato blush? Because it saw the salad dressing."
+  }
+  AutomaticLavenderKi = "What do you call two barracuda fish?  A Pairacuda!"
+  WesternChocolateDeerdre = 182
+  ExtraordinaryIndigoJessie = false
+  LittleBlushChlo = "Why would the kid cross the playground? To get to the other slide."
+  SurprisingGreenIbbie = 437
+  GloriousScarletRose = "Why was it called the dark ages? Because of all the knights. "
+  ThickEmeraldFilippa = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  WeirdSilverRozanne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ExplicitMaroonLisetta = "How come the stadium got hot after the game? Because all of the fans left."
+  GayOrangeMarietta = 856
+  DevotedRosePaulette = "A steak pun is a rare medium well done."
+  LimitedCoralElke = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}

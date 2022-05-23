@@ -1,0 +1,41 @@
+type d1.UnacceptableSalmonPen2 {
+  annotations {
+    hidden_boolean TypicalEmeraldFranciska {
+    }
+    json AfraidAquamarineBelva {
+    }
+    serviceid NaughtyAzureBonni2 {
+    }
+    hidden_boolean PopularChocolateDavina {
+    }
+    json AcceptableGrayHelsa2 {
+    }
+    serviceid ShortAmethystAnabel2 {
+    }
+  }
+  number LinguisticJadeKarin {
+    _hidden_value = true
+  }
+  boolean DisturbingTealSherill2 {
+    _hidden_value = true
+  }
+  hidden_boolean UninterestedTomatoSusy2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ClumsyVioletTracee2 {
+    _hidden_value = true
+  }
+  json WiseLavenderKatharyn2 {
+    _hidden_value = true
+  }
+  json SourApricotArlena2 {
+    _hidden_value = true
+  }
+  AfraidAquamarineBelva = "I'll tell you what often gets over looked... garden fences."
+  NaughtyAzureBonni2 = "Slept like a log last night  woke up in the fireplace."
+  AcceptableGrayHelsa2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ShortAmethystAnabel2 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

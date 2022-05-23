@@ -1,0 +1,23 @@
+type d1.OldBlueChanna2 {
+  annotations {
+    json ConfidentHarlequinJade3 {
+    }
+    string PermanentFuchsiaGay {
+    }
+    serviceid_number CheerfulSapphireRhodie5 {
+    }
+    string UglyTurquoiseTiphanie3 {
+    }
+    string RecentBronzeCornelle4 {
+    }
+  }
+  d1.DEFAULT ColdChocolateDebbie2 {
+    _hidden_value = true
+  }
+  ConfidentHarlequinJade3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PermanentFuchsiaGay = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CheerfulSapphireRhodie5 = 256
+  UglyTurquoiseTiphanie3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RecentBronzeCornelle4 = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

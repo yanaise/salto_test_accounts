@@ -1,0 +1,122 @@
+type d1.DelightfulSilverRosy {
+  annotations {
+    serviceid ConfidentialScarletRodina {
+    }
+    boolean SpecifiedSalmonPortia2 {
+    }
+    string StillIndigoJoann2 {
+    }
+    serviceid_number ForthcomingPeachMarquita2 {
+    }
+    number GentleBlackCarmelita2 {
+    }
+    boolean WittyBlueCelene2 {
+    }
+  }
+  json ImmediateCrimsonEmeline3 {
+    _hidden_value = true
+  }
+  string ZealousBlueCelestine {
+    _hidden_value = true
+  }
+  json WonderfulBlueCeleste2 {
+    _hidden_value = true
+  }
+  d1.OrdinaryCopperEdi BitterJadeKasey {
+    SillyYellowWini = 30
+    CruelAquamarineBessy = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    TameYellowYalonda = 208
+    RareWhiteWanda = 938
+    SpareMaroonLillis = "What do you call two barracuda fish?  A Pairacuda!"
+    StupidGreenIzabel = 667
+    MaximumGreenIlyssa = "Whoever invented the knock-knock joke should get a no bell prize."
+    TerritorialSalmonPriscella = "What do you do on a remote island? Try and find the TV island it belongs to."
+    VariedRedNoreen = 36
+    DangerousCrimsonEssie = false
+    UselessRedNinetta = 582
+    IntenseLavenderKatuscha = 548
+    SubtleMoccasinLucie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    _hidden_value = true
+  }
+  serviceid MassGreenIlla2 {
+    _hidden_value = true
+  }
+  string PalestinianTanShanda {
+    _hidden_value = true
+  }
+  number SpontaneousTanShaun4 {
+    _hidden_value = true
+  }
+  string KindBlackCaryn2 {
+    _hidden_value = true
+  }
+  boolean NearFuchsiaGerianne {
+    _hidden_value = true
+  }
+  json ObligedOrangeMarcelline3 {
+    _hidden_value = true
+  }
+  serviceid DistantIndigoJilli {
+    _hidden_value = true
+  }
+  hidden_boolean PurringApricotAnnie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid DarkTurquoiseTarrah2 {
+    _hidden_value = true
+  }
+  serviceid RelaxedPlumMinni6 {
+    _hidden_value = true
+  }
+  d1.KeenGrayHannah StickyAquamarineBeatrisa4 {
+    ExoticScarletRina = true
+    LiquidRoseOttilie = 454
+    WidespreadHarlequinJacquie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    HolyIndigoJemie = 962
+    SlowAmethystAnalise = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    MarginalLimeKriste = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    AcuteLavenderKerianne = 534
+    HugeCoffeeDoralynne = "Why would the tomato blush? Because it saw the salad dressing."
+    ShrillApricotAntonella = 233
+    PublicBlushChrysa = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    PleasantIvoryJosee = 892
+    ExcessiveOliveMadelena = "What creature is smarter than a talking parrot? A spelling bee."
+    ScaredSalmonRafaelita2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    IndustrialBrownDanny = 690
+    DoubtfulRosePansie = "How come the stadium got hot after the game? Because all of the fans left."
+    InteriorPurpleNathalie = 167
+    BlackVioletTonya = {
+      legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    }
+    CurvedAmberAlix = 457
+    _hidden_value = true
+  }
+  string ComingSilverSammy3 {
+    _hidden_value = true
+  }
+  number GratefulIvoryJorey4 {
+    _hidden_value = true
+  }
+  json AwfulAquamarineBernelle2 {
+    _hidden_value = true
+  }
+  string CooingAmethystAngelique2 {
+    _hidden_value = true
+  }
+  string FamousCoralElga {
+    _hidden_value = true
+  }
+  ConfidentialScarletRodina = "How come the stadium got hot after the game? Because all of the fans left."
+  SpecifiedSalmonPortia2 = false
+  StillIndigoJoann2 = "Why would the tomato blush? Because it saw the salad dressing."
+  ForthcomingPeachMarquita2 = 200
+  GentleBlackCarmelita2 = 893
+  WittyBlueCelene2 = true
+  _hidden_value = true
+}

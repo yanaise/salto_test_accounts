@@ -1,0 +1,62 @@
+type d1.BrightCoralElvira4 {
+  annotations {
+    hidden_boolean RenewedSilverSandy3 {
+    }
+    string StormyTurquoiseTimmi3 {
+    }
+    serviceid_number DoubtfulTealSimonne2 {
+    }
+    hidden_boolean WorriedBeigeBrynna2 {
+    }
+    string ModernBrownDacie {
+    }
+    hidden_boolean AnxiousAquamarineBerenice5 {
+    }
+    json QualifiedPinkMellicent3 {
+    }
+    json DarkChocolateDeanne6 {
+    }
+    d1.AcuteLavenderKeri SkinnyAmberAlthea2 {
+    }
+    d1.ExtraCoffeeDianemarie AssistantOliveLynnelle2 {
+    }
+    string VaguePinkMei {
+    }
+    boolean KnownMaroonLettie {
+    }
+    serviceid_number HomelessSilverSalomi {
+    }
+    boolean ManyWhiteVenus {
+    }
+    boolean MiserableSalmonRachel3 {
+    }
+    d1.LatinLimeKonstanze EarlyAmethystAmalita {
+    }
+    d1.FullBlushChristian2 DevelopedPinkMeris3 {
+    }
+    d1.UltimateJadeKamilah HomelessSilverSalomi2 {
+    }
+    boolean UsualCoralEllyn4 {
+    }
+    number FashionableSapphireRenata10 {
+    }
+    number BrokenIndigoJocelyne3 {
+    }
+  }
+  StormyTurquoiseTimmi3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DoubtfulTealSimonne2 = 555
+  ModernBrownDacie = "Why do birds fly south for the winter? Because it's too far to walk."
+  QualifiedPinkMellicent3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DarkChocolateDeanne6 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  SkinnyAmberAlthea2 = 954
+  AssistantOliveLynnelle2 = false
+  VaguePinkMei = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  KnownMaroonLettie = true
+  HomelessSilverSalomi = 97
+  ManyWhiteVenus = true
+  MiserableSalmonRachel3 = true
+  EarlyAmethystAmalita = 716
+  UsualCoralEllyn4 = true
+  FashionableSapphireRenata10 = 73
+  BrokenIndigoJocelyne3 = 82
+}

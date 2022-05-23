@@ -1,0 +1,119 @@
+type d1.StrongBronzeColline {
+  annotations {
+    json DynamicPeachMarna {
+    }
+    json VictoriousBlueCecile3 {
+    }
+    string DistinctiveLimeKristi {
+    }
+    serviceid_number CautiousScarletRivy2 {
+    }
+    d1.DEFAULT ShallowPinkMeghan {
+    }
+    serviceid_number FilthyTurquoiseTera5 {
+    }
+    serviceid AppropriateChocolateDarci2 {
+    }
+  }
+  serviceid AncientAmethystAmalee2 {
+    _hidden_value = true
+  }
+  string YoungAmethystAnastassia2 {
+    _hidden_value = true
+  }
+  string MotionlessTurquoiseTheodora2 {
+    _hidden_value = true
+  }
+  serviceid_number TallCyanFaydra2 {
+    _hidden_value = true
+  }
+  string SpicyAquaArlina2 {
+    _hidden_value = true
+  }
+  string WholeBronzeClo {
+    _hidden_value = true
+  }
+  number NuclearCoffeeDonica2 {
+    _hidden_value = true
+  }
+  serviceid_number ComparableMoccasinLizzie2 {
+    _hidden_value = true
+  }
+  d1.AcceptedTanSerena TemporaryGrayHalimeda {
+    HarshOliveMaia = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    EvolutionarySilverRuby = "Dad Im hungry  Hi hungry Im dad"
+    SoundAmethystAngelika = "To be Frank, I'd have to change my name."
+    ExtraCoffeeDiandra = "To be Frank, I'd have to change my name."
+    QuaintWhiteVivianna = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  string DecentMoccasinLorain {
+    _hidden_value = true
+  }
+  json CruelPlumMichaela2 {
+    _hidden_value = true
+  }
+  string RetailMaroonLeora {
+    _hidden_value = true
+  }
+  number PartialOliveLyndell2 {
+    _hidden_value = true
+  }
+  serviceid RomanFuchsiaGermain3 {
+    _hidden_value = true
+  }
+  serviceid_number HardAquaAudra2 {
+    _hidden_value = true
+  }
+  json SmoothAquamarineBarbie {
+    _hidden_value = true
+  }
+  serviceid DrunkPeachMarlee {
+    _hidden_value = true
+  }
+  boolean ToughGoldGlenna2 {
+    _hidden_value = true
+  }
+  json PaleGrayHarriett3 {
+    _hidden_value = true
+  }
+  d1.FarBlushChristin ImaginativeTanSelle {
+    _hidden_value = true
+  }
+  string RelaxedPlumMinni5 {
+    _hidden_value = true
+  }
+  boolean GrossLavenderKetti3 {
+    _hidden_value = true
+  }
+  json BriefEmeraldFlorri2 {
+    _hidden_value = true
+  }
+  hidden_boolean MiddleCopperDyana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DifferentBlueCharleen2 {
+    _hidden_value = true
+  }
+  number BitterJadeKass {
+    _hidden_value = true
+  }
+  json RudeTanShaylyn {
+    _hidden_value = true
+  }
+  boolean DistinctTurquoiseTatiana4 {
+    _hidden_value = true
+  }
+  DynamicPeachMarna = "I'll tell you what often gets over looked... garden fences."
+  VictoriousBlueCecile3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DistinctiveLimeKristi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  CautiousScarletRivy2 = 283
+  ShallowPinkMeghan = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  FilthyTurquoiseTera5 = 820
+  AppropriateChocolateDarci2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

@@ -1,0 +1,9 @@
+type d1.ValuableGoldGwynne5 {
+  hidden_boolean ColdAmaranthAimee5 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  string SoleLimeKirsti2 {
+  }
+}

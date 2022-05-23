@@ -1,0 +1,46 @@
+type d1.MobilePurpleMoselle {
+  annotations {
+    json UrbanCyanFallon2 {
+    }
+    d1.DEFAULT FashionableSapphireRenata3 {
+    }
+    d1.StatutoryGrayHarriette UnchangedSilverRozella {
+    }
+    serviceid VastYellowZea {
+    }
+    boolean ChemicalGreenIsahella2 {
+    }
+  }
+  json FrozenScarletRosa {
+    _hidden_value = true
+  }
+  json DistinctTurquoiseTatiana {
+    _hidden_value = true
+  }
+  string CrazyMoccasinLorrin {
+    _hidden_value = true
+  }
+  serviceid TemporaryGrayHalie {
+    _hidden_value = true
+  }
+  number DreadfulPinkMerrili3 {
+    _hidden_value = true
+  }
+  json CircularRoseOrsa {
+    _hidden_value = true
+  }
+  serviceid PotentialCoralElbertine {
+    _hidden_value = true
+  }
+  string ParallelMoccasinLudovika {
+    _hidden_value = true
+  }
+  UrbanCyanFallon2 = "Why would the kid cross the playground? To get to the other slide."
+  FashionableSapphireRenata3 = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  UnchangedSilverRozella = true
+  VastYellowZea = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ChemicalGreenIsahella2 = true
+  _hidden_value = true
+}

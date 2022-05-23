@@ -1,0 +1,35 @@
+type d1.AwfulAquamarineBernardine2 {
+  annotations {
+    boolean SharpFuchsiaGeorgina {
+    }
+    hidden_boolean OkayOliveMaggee3 {
+    }
+    hidden_boolean WorriedGrayHarmony3 {
+    }
+    hidden_boolean RetiredSilverSaraann3 {
+    }
+  }
+  boolean PowerfulTomatoStephana4 {
+    _hidden_value = true
+  }
+  json DramaticGoldHaily2 {
+    _hidden_value = true
+  }
+  serviceid RespectableRosePearl3 {
+    _hidden_value = true
+  }
+  "List<serviceid>" AdvisoryOrangeMaridel2 {
+    _hidden_value = true
+  }
+  serviceid DeliciousScarletRodi2 {
+    _hidden_value = true
+  }
+  json HelpfulBlackCarolina3 {
+    _hidden_value = true
+  }
+  boolean CorporateEmeraldGalina2 {
+    _hidden_value = true
+  }
+  SharpFuchsiaGeorgina = true
+  _hidden_value = true
+}

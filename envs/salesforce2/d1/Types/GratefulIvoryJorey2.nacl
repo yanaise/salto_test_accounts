@@ -1,0 +1,78 @@
+type d1.GratefulIvoryJorey2 {
+  annotations {
+    json YellowGoldGiulietta {
+    }
+    string TopChocolateDareen {
+    }
+    string CasualOliveLusa {
+    }
+    boolean RegularCopperDorris {
+    }
+    boolean GiganticAmaranthAdda2 {
+    }
+    hidden_boolean WorthyRoseOdille {
+    }
+  }
+  d1.DEFAULT UnknownFuchsiaGilberte {
+    _hidden_value = true
+  }
+  boolean RationalLavenderKatusha {
+    _hidden_value = true
+  }
+  d1.ExtraCoffeeDianemarie CreepyAmberAlaine2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT AestheticSapphireReba {
+    _hidden_value = true
+  }
+  serviceid_number ProvincialPeachMarissa2 {
+    _hidden_value = true
+  }
+  hidden_boolean ExtraordinaryIndigoJessica {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number PuzzledTanShandy {
+    _hidden_value = true
+  }
+  hidden_boolean UnusualTurquoiseTobey {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json MarriedCyanFanni {
+    _hidden_value = true
+  }
+  hidden_boolean HelpfulTealSonnnie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number SlowAmethystAnaliese2 {
+    _hidden_value = true
+  }
+  serviceid FinancialBronzeCori {
+    _hidden_value = true
+  }
+  serviceid_number MainBlushCinda {
+    _hidden_value = true
+  }
+  serviceid VulnerableJadeKarola {
+    _hidden_value = true
+  }
+  string NeighbouringPurpleNananne {
+    _hidden_value = true
+  }
+  hidden_boolean TeenageScarletRobinett {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  YellowGoldGiulietta = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TopChocolateDareen = "A steak pun is a rare medium well done."
+  CasualOliveLusa = "To be Frank, I'd have to change my name."
+  RegularCopperDorris = true
+  GiganticAmaranthAdda2 = true
+  _hidden_value = true
+}

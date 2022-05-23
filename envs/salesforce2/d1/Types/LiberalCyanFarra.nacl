@@ -1,0 +1,145 @@
+type d1.LiberalCyanFarra {
+  annotations {
+    json SillyYellowWinna3 {
+    }
+    hidden_boolean MetropolitanOrangeMargaux {
+    }
+    d1.DEFAULT SquealingApricotArabela {
+    }
+    d1.DEFAULT SatisfiedHarlequinJazmin {
+    }
+  }
+  serviceid FairBlackCarlen2 {
+    _hidden_value = true
+  }
+  json MeltedAquaAurel2 {
+    _hidden_value = true
+  }
+  boolean PriorRosePauli2 {
+    _hidden_value = true
+  }
+  string GivenHarlequinJaneva {
+    _hidden_value = true
+  }
+  boolean SpecifiedSalmonPoppy {
+    _hidden_value = true
+  }
+  hidden_boolean DifferentTealSilvia2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string AncientEmeraldFlorance {
+    _hidden_value = true
+  }
+  json NoisyApricotAnnelise {
+    _hidden_value = true
+  }
+  number HardAquaAudie2 {
+    _hidden_value = true
+  }
+  serviceid_number ElectoralLimeKristine {
+    _hidden_value = true
+  }
+  string WarmCopperDulcinea {
+    _hidden_value = true
+  }
+  hidden_boolean FaintMaroonLiv {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json RepulsiveBeigeBrena2 {
+    _hidden_value = true
+  }
+  boolean BriefEmeraldFlory {
+    _hidden_value = true
+  }
+  boolean IncreasedCrimsonEstella {
+    _hidden_value = true
+  }
+  hidden_boolean NuttyWhiteVikki3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.LatinLimeKonstanze ThinCyanEvania2 {
+    ResidentSalmonRae = "Whoever invented the knock-knock joke should get a no bell prize."
+    CrazyMoccasinLorrayne = "Im only familiar with 25 letters in the English language. I dont know why."
+    LevelJadeKally2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    WellFuchsiaGipsy = "I'll tell you what often gets over looked... garden fences."
+    ProperCoralElisabet = 640
+    OutstandingIndigoJenna = 779
+    PositiveCoffeeDona = 636
+    ThoughtlessBeigeBrit = "How come the stadium got hot after the game? Because all of the fans left."
+    CrowdedTomatoTania2 = 235
+    FairCoffeeDinnie = 487
+    PeacefulOrangeMargret = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ToxicSalmonPhedra = 928
+    GleamingTurquoiseTeri = false
+    JoyousBlackCarry = "Why was it called the dark ages? Because of all the knights. "
+    RoughGreenIdelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ParliamentaryFuchsiaGiacinta = false
+    AggressiveMaroonLiliane = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    IntegralSalmonPhilly = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    MidPinkMelissa = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SurprisingGreenIanthe = 108
+    SteadyJadeKaile = true
+    ObnoxiousAzureBrandie = {
+      legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    }
+    KindVioletValma = "What creature is smarter than a talking parrot? A spelling bee."
+    RainyAquaAurora = true
+    RudeTanShayla = true
+    _hidden_value = true
+  }
+  serviceid_number ChangingJadeKassia2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT GradualSilverSallee {
+    _hidden_value = true
+  }
+  hidden_boolean UncertainMagentaLena {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json FormidableSilverSabine2 {
+    _hidden_value = true
+  }
+  serviceid_number QuickAmethystAmity2 {
+    _hidden_value = true
+  }
+  hidden_boolean TurkishPurpleMoyna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json EventualTanSharon {
+    _hidden_value = true
+  }
+  d1.TameTomatoSusannah MeltedAquaAurel3 {
+    TragicRosePauline = "Slept like a log last night  woke up in the fireplace."
+    ScornfulBeigeBrianna = false
+    _hidden_value = true
+  }
+  d1.DEFAULT ContemporaryFuchsiaGeorgianne {
+    _hidden_value = true
+  }
+  serviceid SecureMoccasinLou2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT DistantIndigoJillian {
+    _hidden_value = true
+  }
+  SillyYellowWinna3 = "Why is Peter Pan always flying? Because he Neverlands."
+  SquealingApricotArabela = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  SatisfiedHarlequinJazmin = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  _hidden_value = true
+}

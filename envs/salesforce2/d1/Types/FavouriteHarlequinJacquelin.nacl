@@ -1,0 +1,26 @@
+type d1.FavouriteHarlequinJacquelin {
+  annotations {
+    boolean AwkwardPeachMaryl3 {
+    }
+    number UnsightlyTurquoiseTiphany {
+    }
+    serviceid IncreasedCrimsonEstella2 {
+    }
+    d1.ImmenseAmaranthAdelice InstantSapphireRandy3 {
+    }
+    number SportingSilverRuthi {
+    }
+    string BeautifulVioletTommy2 {
+    }
+  }
+  boolean InherentRedNita {
+    _hidden_value = true
+  }
+  AwkwardPeachMaryl3 = false
+  UnsightlyTurquoiseTiphany = 742
+  IncreasedCrimsonEstella2 = "A steak pun is a rare medium well done."
+  InstantSapphireRandy3 = 228
+  SportingSilverRuthi = 813
+  BeautifulVioletTommy2 = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

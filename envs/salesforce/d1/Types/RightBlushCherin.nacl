@@ -1,0 +1,32 @@
+type d1.RightBlushCherin {
+  annotations {
+    d1.RussianCyanFelicity BlackVioletTonye {
+    }
+    string LoyalPurpleNata {
+    }
+    serviceid CleanCyanFernandina {
+    }
+    json EnviousAzureBiddy {
+    }
+    json CreepyAquamarineBessie {
+    }
+    boolean WittyBlueCeil {
+    }
+    serviceid ColossalAmaranthAbbye {
+    }
+    string RepulsiveBeigeBrenda {
+    }
+  }
+  string SpareMaroonLillian {
+    _hidden_value = true
+  }
+  BlackVioletTonye = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  LoyalPurpleNata = "To be Frank, I'd have to change my name."
+  CleanCyanFernandina = "A steak pun is a rare medium well done."
+  EnviousAzureBiddy = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CreepyAquamarineBessie = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  WittyBlueCeil = true
+  ColossalAmaranthAbbye = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RepulsiveBeigeBrenda = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

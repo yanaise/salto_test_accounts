@@ -1,0 +1,34 @@
+type d1.PersonalBronzeCordelia3 {
+  annotations {
+    d1.StatutoryGrayHarriette FunOrangeMarcile2 {
+    }
+    boolean PayableOrangeMarcie2 {
+    }
+    number ShinyTurquoiseTiffani {
+    }
+    hidden_boolean BroadCoralElisabetta7 {
+    }
+    string InterestedCoffeeDina3 {
+    }
+  }
+  serviceid_number StrikingOliveMagdalen {
+    _hidden_value = true
+  }
+  number ProudBlueCathe {
+    _hidden_value = true
+  }
+  serviceid_number SatisfiedHarlequinJean2 {
+    _hidden_value = true
+  }
+  boolean LongAmethystAmbur {
+    _hidden_value = true
+  }
+  boolean LivingGrayHenrieta2 {
+    _hidden_value = true
+  }
+  FunOrangeMarcile2 = false
+  PayableOrangeMarcie2 = false
+  ShinyTurquoiseTiffani = 810
+  InterestedCoffeeDina3 = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

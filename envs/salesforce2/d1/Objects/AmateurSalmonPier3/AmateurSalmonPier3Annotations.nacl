@@ -1,0 +1,67 @@
+type d1.AmateurSalmonPier3 {
+  annotations {
+    hidden_boolean HarshOliveMahala3 {
+    }
+    string LeadingCrimsonElyssa2 {
+    }
+    string SensitiveGrayHendrika3 {
+    }
+    d1.UnemployedIvoryJoly HeavyChocolateDavita5 {
+    }
+    json InsufficientPurpleNeila2 {
+    }
+    string TallCyanFayette {
+    }
+    number BraveMoccasinLucina {
+    }
+    serviceid_number ChemicalGreenIsahella3 {
+    }
+    serviceid_number StrongAquaAshely2 {
+    }
+    serviceid SoundAmethystAngelica2 {
+    }
+    hidden_boolean ConcernedTealSibella2 {
+    }
+    json ObjectiveOrangeMame4 {
+    }
+    d1.RoastedWhiteWenonah ParentalRedNichole {
+    }
+    d1.DampAmberAlene3 ModestLavenderKelsi8 {
+    }
+    string PoorTomatoStepha3 {
+    }
+    number JollyBlackCarrie3 {
+    }
+    serviceid HappyBlackCarol {
+    }
+    boolean HeadPinkMegen2 {
+    }
+    json BoringPeachMarnie3 {
+    }
+    serviceid_number PriorRosePauli6 {
+    }
+    serviceid_number ExclusiveMagentaLatashia4 {
+    }
+    string GiganticVioletUmeko3 {
+    }
+  }
+  LeadingCrimsonElyssa2 = "Why is Peter Pan always flying? Because he Neverlands."
+  SensitiveGrayHendrika3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  HeavyChocolateDavita5 = false
+  InsufficientPurpleNeila2 = "Slept like a log last night  woke up in the fireplace."
+  TallCyanFayette = "Why do birds fly south for the winter? Because it's too far to walk."
+  BraveMoccasinLucina = 477
+  ChemicalGreenIsahella3 = 731
+  StrongAquaAshely2 = 175
+  SoundAmethystAngelica2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  ObjectiveOrangeMame4 = "To be Frank, I'd have to change my name."
+  ParentalRedNichole = file("PolishPinkMercy2.txt")
+  PoorTomatoStepha3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  JollyBlackCarrie3 = 821
+  HappyBlackCarol = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  HeadPinkMegen2 = false
+  BoringPeachMarnie3 = "How come the stadium got hot after the game? Because all of the fans left."
+  PriorRosePauli6 = 774
+  ExclusiveMagentaLatashia4 = 531
+  GiganticVioletUmeko3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+}

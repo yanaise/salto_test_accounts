@@ -1,0 +1,68 @@
+type d1.KeenGrayHannah is boolean {
+  annotations {
+    boolean ExoticScarletRina {
+    }
+    serviceid_number LiquidRoseOttilie {
+    }
+    serviceid WidespreadHarlequinJacquie {
+    }
+    number HolyIndigoJemie {
+    }
+    hidden_boolean ReducedPinkMersey {
+    }
+    string SlowAmethystAnalise {
+    }
+    d1.DEFAULT MarginalLimeKriste {
+    }
+    serviceid_number AcuteLavenderKerianne {
+    }
+    serviceid HugeCoffeeDoralynne {
+    }
+    number ShrillApricotAntonella {
+    }
+    hidden_boolean ArchitecturalRosePatrica {
+    }
+    string PublicBlushChrysa {
+    }
+    number PleasantIvoryJosee {
+    }
+    serviceid ExcessiveOliveMadelena {
+    }
+    hidden_boolean LonelyOliveLynda {
+    }
+    json ScaredSalmonRafaelita2 {
+    }
+    number IndustrialBrownDanny {
+    }
+    string DoubtfulRosePansie {
+    }
+    number InteriorPurpleNathalie {
+    }
+    d1.DEFAULT BlackVioletTonya {
+    }
+    serviceid_number CurvedAmberAlix {
+    }
+  }
+  ExoticScarletRina = false
+  LiquidRoseOttilie = 734
+  WidespreadHarlequinJacquie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  HolyIndigoJemie = 794
+  SlowAmethystAnalise = "What creature is smarter than a talking parrot? A spelling bee."
+  MarginalLimeKriste = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  AcuteLavenderKerianne = 954
+  HugeCoffeeDoralynne = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ShrillApricotAntonella = 56
+  PublicBlushChrysa = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  PleasantIvoryJosee = 312
+  ExcessiveOliveMadelena = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ScaredSalmonRafaelita2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  IndustrialBrownDanny = 117
+  DoubtfulRosePansie = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  InteriorPurpleNathalie = 898
+  BlackVioletTonya = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  CurvedAmberAlix = 56
+}

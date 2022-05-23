@@ -1,0 +1,31 @@
+type d1.LtdCoralElna5 {
+  hidden_boolean ReducedPinkMeryl3 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  serviceid_number BitterApricotArden3 {
+  }
+  hidden_boolean ModernBrownDacy3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<number>" FastAmethystAmandie5 {
+  }
+  d1.MarineMagentaLeonanie2 TenseBeigeBrigit2 {
+    MushyWhiteVerine2 = "What creature is smarter than a talking parrot? A spelling bee."
+    PrivateBronzeCordy2 = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    SuperPeachMarthe = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  serviceid HorribleOrangeMaren3 {
+  }
+  string SmilingBlueCathyleen2 {
+  }
+  string LivelyPeachMarylinda2 {
+  }
+  serviceid FederalGrayHalli3 {
+  }
+}

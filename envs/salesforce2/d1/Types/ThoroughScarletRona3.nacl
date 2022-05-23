@@ -1,0 +1,39 @@
+type d1.ThoroughScarletRona3 {
+  annotations {
+    d1.DEFAULT SolidGreenIdalina3 {
+    }
+    number InvolvedCoffeeDenice3 {
+    }
+    hidden_boolean SoundAmethystAngeline2 {
+    }
+    string BroadCoralElisabetta5 {
+    }
+    serviceid_number ContinuousIvoryJoycelin {
+    }
+  }
+  json RelatedIndigoJessamine2 {
+    _hidden_value = true
+  }
+  string KindBlackCaryl3 {
+    _hidden_value = true
+  }
+  serviceid WesternChocolateDeerdre4 {
+    _hidden_value = true
+  }
+  serviceid_number CondemnedAquamarineBerthe2 {
+    _hidden_value = true
+  }
+  json AmericanBronzeCorrianne4 {
+    _hidden_value = true
+  }
+  json AmbitiousPeachMaureene2 {
+    _hidden_value = true
+  }
+  SolidGreenIdalina3 = {
+    legit = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  }
+  InvolvedCoffeeDenice3 = 758
+  BroadCoralElisabetta5 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ContinuousIvoryJoycelin = 341
+  _hidden_value = true
+}

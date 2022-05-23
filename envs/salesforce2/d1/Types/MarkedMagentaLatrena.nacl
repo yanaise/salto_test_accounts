@@ -1,0 +1,24 @@
+type d1.MarkedMagentaLatrena {
+  annotations {
+    number AgreeableBeigeBunnie2 {
+    }
+    d1.CharmingBeigeCallida DreadfulPinkMerrile4 {
+    }
+    hidden_boolean ChronicOliveMallissa2 {
+    }
+    boolean MissingPinkMelloney {
+    }
+  }
+  number NegativeEmeraldGarnette {
+    _hidden_value = true
+  }
+  hidden_boolean ChiefCopperDorrie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  AgreeableBeigeBunnie2 = 769
+  DreadfulPinkMerrile4 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MissingPinkMelloney = true
+  _hidden_value = true
+}

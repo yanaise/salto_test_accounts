@@ -1,0 +1,160 @@
+type d1.BlindIvoryJudi5 {
+  annotations {
+    serviceid FrenchBrownCyndi3 {
+    }
+    string ClumsyVioletTracey2 {
+    }
+    json ElectricGreenIngunna2 {
+    }
+    string TiredGoldGretchen3 {
+    }
+    serviceid_number SolidGreenIda2 {
+    }
+    string BizarreTanSeka3 {
+    }
+  }
+  hidden_boolean LongAmaranthAdina2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ConservativeCoralEllene2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean FoolishAzureBinni2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ExperimentalLavenderKatleen {
+    _hidden_value = true
+  }
+  json PalestinianTanShana2 {
+    _hidden_value = true
+  }
+  boolean TragicRosePaulita5 {
+    _hidden_value = true
+  }
+  serviceid LatinLimeKonstanze3 {
+    _hidden_value = true
+  }
+  number SacredRedNorina2 {
+    _hidden_value = true
+  }
+  boolean ClinicalIndigoJenny {
+    _hidden_value = true
+  }
+  boolean TerribleBeigeBriney3 {
+    _hidden_value = true
+  }
+  serviceid_number IslamicRoseOlympie2 {
+    _hidden_value = true
+  }
+  serviceid_number CurrentBrownCynthy3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT CorrectCrimsonErinn3 {
+    _hidden_value = true
+  }
+  json HilariousBlackCarolynn4 {
+    _hidden_value = true
+  }
+  serviceid MushyWhiteVerla2 {
+    _hidden_value = true
+  }
+  serviceid NursingSalmonPetunia {
+    _hidden_value = true
+  }
+  serviceid_number UnusualGoldGlad {
+    _hidden_value = true
+  }
+  boolean FineBrownCourtnay {
+    _hidden_value = true
+  }
+  serviceid RelievedSalmonPetronella3 {
+    _hidden_value = true
+  }
+  hidden_boolean MonetaryIvoryJoey3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean MidPinkMelisse2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json WrongBrownCrista2 {
+    _hidden_value = true
+  }
+  boolean RelatedIndigoJessamine {
+    _hidden_value = true
+  }
+  serviceid_number FullBlushChristen {
+    _hidden_value = true
+  }
+  hidden_boolean FlexibleLavenderKathlin2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean MiserableSalmonQuintina {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json CrucialFuchsiaGenny4 {
+    _hidden_value = true
+  }
+  "List<boolean>" IntelligentMaroonLinnell {
+    _hidden_value = true
+  }
+  boolean SlimRoseOlva3 {
+    _hidden_value = true
+  }
+  hidden_boolean SplendidOrangeManon2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean BrainyTealSherrie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid UnacceptableSalmonPenelope2 {
+    _hidden_value = true
+  }
+  string GrandEmeraldFran3 {
+    _hidden_value = true
+  }
+  number WorthyRedOdilia2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT MinisterialTanSheelagh2 {
+    _hidden_value = true
+  }
+  serviceid_number ShiveringAquaBabs2 {
+    _hidden_value = true
+  }
+  number WildTomatoSuzi {
+    _hidden_value = true
+  }
+  number SensibleIvoryJordain {
+    _hidden_value = true
+  }
+  hidden_boolean StupidTomatoSusan2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  FrenchBrownCyndi3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ClumsyVioletTracey2 = "Why was it called the dark ages? Because of all the knights. "
+  ElectricGreenIngunna2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  TiredGoldGretchen3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  SolidGreenIda2 = 297
+  BizarreTanSeka3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

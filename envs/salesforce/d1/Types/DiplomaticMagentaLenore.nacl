@@ -1,0 +1,24 @@
+type d1.DiplomaticMagentaLenore is number {
+  annotations {
+    json SouthernCyanEvie {
+    }
+    serviceid TartYellowWynnie {
+    }
+    d1.DEFAULT WonderfulYellowZoe2 {
+    }
+    json UnlikelyCrimsonEthelin {
+    }
+    number JapaneseCyanFianna {
+    }
+    string UpsetOliveMabel {
+    }
+  }
+  SouthernCyanEvie = "Why do birds fly south for the winter? Because it's too far to walk."
+  TartYellowWynnie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WonderfulYellowZoe2 = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  UnlikelyCrimsonEthelin = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  JapaneseCyanFianna = 666
+  UpsetOliveMabel = "To be Frank, I'd have to change my name."
+}

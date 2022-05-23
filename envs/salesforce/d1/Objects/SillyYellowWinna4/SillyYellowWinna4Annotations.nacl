@@ -1,0 +1,75 @@
+type d1.SillyYellowWinna4 {
+  annotations {
+    string AbsoluteGreenImojean4 {
+    }
+    d1.CharmingBeigeCallida CurvedAmberAlla2 {
+    }
+    json MoaningApricotAnne5 {
+    }
+    serviceid_number RareWhiteWaly2 {
+    }
+    boolean InstitutionalMaroonLeshia4 {
+    }
+    boolean CrudePlumMil5 {
+    }
+    serviceid_number CheerfulSapphireRhona2 {
+    }
+    json EldestTanSharlene5 {
+    }
+    serviceid_number StrikingOliveMagda {
+    }
+    json CompetentSalmonPeri3 {
+    }
+    serviceid_number NuclearCoffeeDonielle6 {
+    }
+    serviceid_number PoisedTurquoiseThomasa8 {
+    }
+    number WelshGrayHatty {
+    }
+    number CompleteCoffeeDevondra2 {
+    }
+    number DistinguishedPurpleNatassia4 {
+    }
+    serviceid MushyWhiteVerile3 {
+    }
+    hidden_boolean ExceptionalOliveMadlin3 {
+    }
+    json ExtensiveGoldGloriane4 {
+    }
+    d1.LowBlushChristy BoringPeachMarni4 {
+    }
+    serviceid SpareMaroonLillian5 {
+    }
+    json CreepyAquamarineBess2 {
+    }
+    hidden_boolean BurningRedNikki4 {
+    }
+    d1.StrongBronzeColline RegisteredPurpleNalani {
+    }
+    hidden_boolean OralLimeKylynn2 {
+    }
+    boolean ImmenseAmaranthAdele7 {
+    }
+  }
+  AbsoluteGreenImojean4 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  CurvedAmberAlla2 = file("HomelessAzureBlinnie6.txt")
+  MoaningApricotAnne5 = "Why do birds fly south for the winter? Because it's too far to walk."
+  RareWhiteWaly2 = 227
+  InstitutionalMaroonLeshia4 = true
+  CrudePlumMil5 = true
+  CheerfulSapphireRhona2 = 209
+  EldestTanSharlene5 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  StrikingOliveMagda = 793
+  CompetentSalmonPeri3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  NuclearCoffeeDonielle6 = 389
+  PoisedTurquoiseThomasa8 = 126
+  WelshGrayHatty = 524
+  CompleteCoffeeDevondra2 = 462
+  DistinguishedPurpleNatassia4 = 320
+  MushyWhiteVerile3 = "Why was it called the dark ages? Because of all the knights. "
+  ExtensiveGoldGloriane4 = "How come the stadium got hot after the game? Because all of the fans left."
+  BoringPeachMarni4 = file("IntimateSilverRuthanne3.txt")
+  SpareMaroonLillian5 = "What creature is smarter than a talking parrot? A spelling bee."
+  CreepyAquamarineBess2 = "What do you call two barracuda fish?  A Pairacuda!"
+  ImmenseAmaranthAdele7 = false
+}

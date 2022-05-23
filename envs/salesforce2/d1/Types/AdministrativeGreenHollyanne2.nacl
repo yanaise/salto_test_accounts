@@ -1,0 +1,42 @@
+type d1.AdministrativeGreenHollyanne2 {
+  annotations {
+    json NovelScarletRoshelle3 {
+    }
+    string EnvironmentalCoffeeDomeniga2 {
+    }
+    json TremendousMagentaLeola {
+    }
+    boolean DisgustedAzureBeulah2 {
+    }
+    string MushyWhiteVerile {
+    }
+    serviceid_number SickFuchsiaGeraldine2 {
+    }
+  }
+  json SourApricotArlene {
+    _hidden_value = true
+  }
+  hidden_boolean LiquidRoseOttilie3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number SheerMagentaLaurianne {
+    _hidden_value = true
+  }
+  string FarBlushChristie4 {
+    _hidden_value = true
+  }
+  hidden_boolean HappyBlackCaroljean2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  NovelScarletRoshelle3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  EnvironmentalCoffeeDomeniga2 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  TremendousMagentaLeola = "Slept like a log last night  woke up in the fireplace."
+  DisgustedAzureBeulah2 = true
+  MushyWhiteVerile = "Dad Im hungry  Hi hungry Im dad"
+  SickFuchsiaGeraldine2 = 513
+  _hidden_value = true
+}

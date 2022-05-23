@@ -1,0 +1,133 @@
+type d1.StrangeCoralEdwina {
+  annotations {
+    serviceid IncredibleRosePatty2 {
+    }
+    hidden_boolean WastefulYellowZia {
+    }
+    hidden_boolean WealthyPeachMarybeth {
+    }
+    string CurlyAmberAlbina {
+    }
+    json SillyBlueCathrine {
+    }
+    number PriorRosePaulie {
+    }
+    string ManagingLimeKitty {
+    }
+  }
+  string ChiefCopperDorri {
+    _hidden_value = true
+  }
+  json FortunateRoseOllie {
+    _hidden_value = true
+  }
+  serviceid_number ColossalAmaranthAbbie2 {
+    _hidden_value = true
+  }
+  serviceid_number RespectableRosePearl {
+    _hidden_value = true
+  }
+  string SocialBlueCharmine2 {
+    _hidden_value = true
+  }
+  d1.OrdinaryCopperEdi GreatBlueCharis {
+    SillyYellowWini = 159
+    CruelAquamarineBessy = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    TameYellowYalonda = 412
+    RareWhiteWanda = 534
+    SpareMaroonLillis = "How come the stadium got hot after the game? Because all of the fans left."
+    StupidGreenIzabel = 92
+    MaximumGreenIlyssa = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    TerritorialSalmonPriscella = "What did one nut say as he chased another nut?  I'm a cashew!"
+    VariedRedNoreen = 974
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 817
+    IntenseLavenderKatuscha = 16
+    SubtleMoccasinLucie = "Why is Peter Pan always flying? Because he Neverlands."
+    _hidden_value = true
+  }
+  number JuicyApricotAretha {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" StaticSapphireRebekkah {
+    _hidden_value = true
+  }
+  hidden_boolean NuttyWhiteVikki2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AccessibleOrangeMarika {
+    _hidden_value = true
+  }
+  d1.DEFAULT PersistentRosePam {
+    _hidden_value = true
+  }
+  serviceid_number AcuteLavenderKeri2 {
+    _hidden_value = true
+  }
+  number FlatAmberAllie {
+    _hidden_value = true
+  }
+  string FrenchBrownCyndie {
+    _hidden_value = true
+  }
+  d1.DEFAULT ScatteredAquaAveline {
+    _hidden_value = true
+  }
+  json UpsetOliveMabel3 {
+    _hidden_value = true
+  }
+  serviceid JointCoralElissa {
+    _hidden_value = true
+  }
+  string CriticalCrimsonEstell2 {
+    _hidden_value = true
+  }
+  boolean IdenticalLimeKorney2 {
+    _hidden_value = true
+  }
+  hidden_boolean UpsetOliveMabel4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean TechnologicalOrangeMarianna2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json DeliberateRedNoelyn2 {
+    _hidden_value = true
+  }
+  serviceid_number WeeSapphireRetha {
+    _hidden_value = true
+  }
+  d1.CognitiveSalmonQuinn ModernTealStarlene {
+    GreatVioletTwyla = "A steak pun is a rare medium well done."
+    WorthwhilePinkMelita = "How come the stadium got hot after the game? Because all of the fans left."
+    GlamorousTurquoiseTeresina = "Im only familiar with 25 letters in the English language. I dont know why."
+    AgriculturalGoldGoldi = 767
+    FreshCopperDyane = 843
+    _hidden_value = true
+  }
+  hidden_boolean MammothAmaranthAdore3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean LightAmethystAnestassia {
+    _hidden_value = true
+  }
+  string CompactPurpleNannie {
+    _hidden_value = true
+  }
+  IncredibleRosePatty2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CurlyAmberAlbina = "Why was it called the dark ages? Because of all the knights. "
+  SillyBlueCathrine = "I'll tell you what often gets over looked... garden fences."
+  PriorRosePaulie = 472
+  ManagingLimeKitty = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

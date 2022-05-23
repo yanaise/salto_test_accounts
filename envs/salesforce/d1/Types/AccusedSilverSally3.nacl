@@ -1,0 +1,23 @@
+type d1.AccusedSilverSally3 {
+  annotations {
+    serviceid CulturalCoralElie3 {
+    }
+    d1.ImportantTealSophi RareEmeraldFlorentia3 {
+    }
+    number AncientAmethystAmabelle4 {
+    }
+    serviceid GreekIndigoJoana3 {
+    }
+    number UnnecessaryMoccasinLoraine3 {
+    }
+  }
+  string EvilAzureBill3 {
+    _hidden_value = true
+  }
+  CulturalCoralElie3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RareEmeraldFlorentia3 = 862
+  AncientAmethystAmabelle4 = 79
+  GreekIndigoJoana3 = "Why would the kid cross the playground? To get to the other slide."
+  UnnecessaryMoccasinLoraine3 = 970
+  _hidden_value = true
+}

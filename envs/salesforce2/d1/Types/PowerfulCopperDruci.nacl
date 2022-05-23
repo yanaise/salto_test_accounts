@@ -1,0 +1,111 @@
+type d1.PowerfulCopperDruci {
+  annotations {
+    boolean TroubledBeigeBrittan {
+    }
+    serviceid MagentaWhiteVenita {
+    }
+    d1.DEFAULT AverageAmaranthAaren {
+    }
+    serviceid_number DevotedRosePaulette2 {
+    }
+  }
+  string ManualRosePaolina {
+    _hidden_value = true
+  }
+  serviceid_number FaintAmethystAnica2 {
+    _hidden_value = true
+  }
+  serviceid_number IdenticalLimeKorry2 {
+    _hidden_value = true
+  }
+  json IntactRosePatricia3 {
+    _hidden_value = true
+  }
+  hidden_boolean QuaintTurquoiseTierney {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json CuddlyAmberAlberta3 {
+    _hidden_value = true
+  }
+  serviceid FancyTurquoiseTedi2 {
+    _hidden_value = true
+  }
+  boolean AlliedPlumMisti2 {
+    _hidden_value = true
+  }
+  hidden_boolean PrimeBrownDanila {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ChubbyAmberAlisa3 {
+    _hidden_value = true
+  }
+  string VastYellowZaria {
+    _hidden_value = true
+  }
+  boolean UncomfortablePlumModesty2 {
+    _hidden_value = true
+  }
+  serviceid FaintAmethystAnissa {
+    _hidden_value = true
+  }
+  d1.AcuteLavenderKeri BriefAmethystAmaleta {
+    TerribleBeigeBrinna = 837
+    ShrillApricotAntonetta = 716
+    FineBrownCourtenay = "What do you do on a remote island? Try and find the TV island it belongs to."
+    HelpfulBlackCarolin = false
+    ConsiderableChocolateDemetra = "Why would the tomato blush? Because it saw the salad dressing."
+    ThoughtfulBlueCaye = "Why would the tomato blush? Because it saw the salad dressing."
+    LiveIndigoJody = "Dad Im hungry  Hi hungry Im dad"
+    PoorBronzeCorene = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ShallowAmberAlmire = 359
+    ClosedMagentaLela = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  boolean LiberalCyanFarand {
+    _hidden_value = true
+  }
+  "List<serviceid>" NoisySilverSal {
+    _hidden_value = true
+  }
+  string DyingScarletRoby {
+    _hidden_value = true
+  }
+  hidden_boolean BlackBlushClarita {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.FashionableSapphireRenae RottenApricotAriela2 {
+    RealBlushClarie = 318
+    WholeBronzeClotilda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    UnitedCopperEddi = "Why would the tomato blush? Because it saw the salad dressing."
+    RearPurpleMuire = "Dad Im hungry  Hi hungry Im dad"
+    GeographicalPeachMarlena = 518
+    EventualTanSharona = false
+    PureGrayHenryetta = "Why would the tomato blush? Because it saw the salad dressing."
+    SymbolicPurpleNadia = "Why would the kid cross the playground? To get to the other slide."
+    RespectiveSalmonPerry = "What do you call two barracuda fish?  A Pairacuda!"
+    DeepChocolateDelora = "What do you call two barracuda fish?  A Pairacuda!"
+    RattyWhiteWenda = 814
+    RareWhiteWaly = "What do you call two barracuda fish?  A Pairacuda!"
+    UrgentLimeKristy = true
+    _hidden_value = true
+  }
+  boolean GrandEmeraldFlss {
+    _hidden_value = true
+  }
+  serviceid FriendlyVioletTrudy {
+    _hidden_value = true
+  }
+  TroubledBeigeBrittan = true
+  MagentaWhiteVenita = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AverageAmaranthAaren = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  DevotedRosePaulette2 = 30
+  _hidden_value = true
+}

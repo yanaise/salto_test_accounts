@@ -1,0 +1,84 @@
+type d1.GrandEmeraldFlss2 {
+  annotations {
+    serviceid BloodyTomatoTally4 {
+    }
+    number AverageTomatoTabbatha5 {
+    }
+    number EmotionalGrayHester2 {
+    }
+    json LabourBrownDaffy {
+    }
+    serviceid_number PlasticAquaAurelie2 {
+    }
+  }
+  serviceid_number SquealingApricotArabel3 {
+    _hidden_value = true
+  }
+  boolean LittleAmaranthAdella {
+    _hidden_value = true
+  }
+  d1.ExtraCoffeeDianemarie OccasionalIvoryJuliette3 {
+    _hidden_value = true
+  }
+  hidden_boolean PreciseIndigoJobie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json OkSapphireRhianon4 {
+    _hidden_value = true
+  }
+  string SimilarBronzeConstancia {
+    _hidden_value = true
+  }
+  json BadVioletToma5 {
+    _hidden_value = true
+  }
+  serviceid CorrespondingPlumMiquela3 {
+    _hidden_value = true
+  }
+  number PricklyWhiteVivi {
+    _hidden_value = true
+  }
+  d1.DEFAULT ApparentCyanFay3 {
+    _hidden_value = true
+  }
+  number SkinnyAmberAlthea {
+    _hidden_value = true
+  }
+  boolean SuccessfulBlueCatriona {
+    _hidden_value = true
+  }
+  serviceid_number FancyTurquoiseTedi5 {
+    _hidden_value = true
+  }
+  d1.ExtraCoffeeDianemarie AsleepJadeKarlyn {
+    _hidden_value = true
+  }
+  hidden_boolean SensibleIvoryJordanna3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json HelpfulBlackCaroline {
+    _hidden_value = true
+  }
+  boolean CatholicHarlequinJamie3 {
+    _hidden_value = true
+  }
+  serviceid PerfectCrimsonEttie {
+    _hidden_value = true
+  }
+  serviceid EquivalentJadeKakalina2 {
+    _hidden_value = true
+  }
+  string PermanentFuchsiaGaye {
+    _hidden_value = true
+  }
+  BloodyTomatoTally4 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  AverageTomatoTabbatha5 = 849
+  EmotionalGrayHester2 = 696
+  LabourBrownDaffy = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PlasticAquaAurelie2 = 416
+  _hidden_value = true
+}

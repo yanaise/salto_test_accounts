@@ -1,0 +1,93 @@
+type d1.ExtraCoffeeDiane {
+  annotations {
+    serviceid HeadPinkMeg2 {
+    }
+    hidden_boolean ElectricalLavenderKerrie {
+    }
+    boolean UglyTurquoiseTine {
+    }
+    d1.MagnificentWhiteVanya HomelessAzureBlinnie {
+    }
+    boolean DirtyIvoryJosefina2 {
+    }
+  }
+  serviceid_number NakedMagentaLeanor {
+    _hidden_value = true
+  }
+  hidden_boolean TypicalEmeraldFrancine2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean HurtAzureBlythe2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string HuskyApricotAnnabela2 {
+    _hidden_value = true
+  }
+  json HilariousBlackCarolynn {
+    _hidden_value = true
+  }
+  hidden_boolean SpecifiedSalmonPortia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number WittyBlueCeil2 {
+    _hidden_value = true
+  }
+  serviceid_number EuropeanBronzeConcordia {
+    _hidden_value = true
+  }
+  serviceid_number RoughGreenIdelle2 {
+    _hidden_value = true
+  }
+  number PerfectCyanEtty {
+    _hidden_value = true
+  }
+  string MagnificentMagentaLeena {
+    _hidden_value = true
+  }
+  serviceid_number HugeAmaranthAdel2 {
+    _hidden_value = true
+  }
+  "Map<d1.DEFAULT>" ImportantTealSophey2 {
+    _hidden_value = true
+  }
+  number SurroundingOrangeMargeaux {
+    _hidden_value = true
+  }
+  json StandardCopperDulce {
+    _hidden_value = true
+  }
+  d1.ProvincialPeachMarita ComparativePlumMitzi {
+    FineBlackCarlyn = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    OldAmethystAmi = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    VariedRedNorah = true
+    ShakyAquaAyn = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  boolean AbstractMaroonLin {
+    _hidden_value = true
+  }
+  serviceid_number TallYellowXylia2 {
+    _hidden_value = true
+  }
+  json PhilosophicalRedNoelani {
+    _hidden_value = true
+  }
+  boolean BrilliantGreenIlsa {
+    _hidden_value = true
+  }
+  HeadPinkMeg2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  UglyTurquoiseTine = false
+  HomelessAzureBlinnie = false
+  DirtyIvoryJosefina2 = true
+  _hidden_value = true
+}

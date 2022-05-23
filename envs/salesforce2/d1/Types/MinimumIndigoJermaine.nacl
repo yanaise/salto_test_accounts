@@ -1,0 +1,104 @@
+type d1.MinimumIndigoJermaine {
+  annotations {
+    hidden_boolean TiredBeigeBritt2 {
+    }
+    serviceid_number WickedBeigeBrunhilde2 {
+    }
+    boolean BeneficialPlumMona {
+    }
+  }
+  hidden_boolean CompulsoryOrangeMallory {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.DEFAULT SwiftAmethystAnastasia2 {
+    _hidden_value = true
+  }
+  serviceid ImpossibleCopperDulcia {
+    _hidden_value = true
+  }
+  serviceid MiddleCopperDyana2 {
+    _hidden_value = true
+  }
+  d1.FarBlushChristin VaryingPurpleNelly3 {
+    _hidden_value = true
+  }
+  hidden_boolean UnexpectedMagentaLauree3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean NosyWhiteVictoria {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.DEFAULT DangerousCrimsonEssy3 {
+    _hidden_value = true
+  }
+  serviceid PastCoffeeDianna4 {
+    _hidden_value = true
+  }
+  "List<json>" ExcitingGreenIssie {
+    _hidden_value = true
+  }
+  boolean HelplessAzureBlanch2 {
+    _hidden_value = true
+  }
+  serviceid_number RudeTanShaylynn {
+    _hidden_value = true
+  }
+  serviceid DyingScarletRoby2 {
+    _hidden_value = true
+  }
+  serviceid_number GreasyAquaAubree {
+    _hidden_value = true
+  }
+  serviceid_number UnchangedSilverRubetta2 {
+    _hidden_value = true
+  }
+  serviceid HealthyGoldGracie2 {
+    _hidden_value = true
+  }
+  string ContinentalOliveMagdalene2 {
+    _hidden_value = true
+  }
+  hidden_boolean NosyWhiteVida {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string TopChocolateDareen4 {
+    _hidden_value = true
+  }
+  json LongAmethystAmelia {
+    _hidden_value = true
+  }
+  json FinalBrownDalia3 {
+    _hidden_value = true
+  }
+  hidden_boolean NosyWhiteVictoria2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json NakedMagentaLebbie2 {
+    _hidden_value = true
+  }
+  number DiplomaticMagentaLenna {
+    _hidden_value = true
+  }
+  serviceid HotAquaAudrye {
+    _hidden_value = true
+  }
+  json PurringApricotAnnice {
+    _hidden_value = true
+  }
+  json ScrawnyYellowWillyt {
+    _hidden_value = true
+  }
+  WickedBeigeBrunhilde2 = 740
+  BeneficialPlumMona = true
+  _hidden_value = true
+}

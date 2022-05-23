@@ -1,0 +1,37 @@
+type d1.UnhappyMaroonLicha3 {
+  annotations {
+    json ChillyAmaranthAilyn {
+    }
+    serviceid RedWhiteWendie3 {
+    }
+    number FierceAzureBilli {
+    }
+    string SacredRedNorma2 {
+    }
+    boolean ReadyChocolateDebi {
+    }
+  }
+  number YoungAmethystAndeee {
+    _hidden_value = true
+  }
+  hidden_boolean PoliticalBlushChloette2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number AccusedSilverSally2 {
+    _hidden_value = true
+  }
+  serviceid_number IncredibleRosePatty3 {
+    _hidden_value = true
+  }
+  serviceid_number StatutoryGrayHarriot2 {
+    _hidden_value = true
+  }
+  ChillyAmaranthAilyn = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  RedWhiteWendie3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FierceAzureBilli = 12
+  SacredRedNorma2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ReadyChocolateDebi = true
+  _hidden_value = true
+}

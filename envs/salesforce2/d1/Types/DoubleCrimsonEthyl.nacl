@@ -1,0 +1,89 @@
+type d1.DoubleCrimsonEthyl {
+  annotations {
+    serviceid UnusualGoldGladi {
+    }
+    hidden_boolean FormidableSilverSabra {
+    }
+    string BigAmaranthAbagail {
+    }
+    hidden_boolean LovelyCoralEllie {
+    }
+    number AwakeRedNola {
+    }
+    d1.PrivateBronzeCordy ClearBlushCissiee {
+    }
+  }
+  json HeavyChocolateDawn {
+    _hidden_value = true
+  }
+  serviceid CleverJadeKari {
+    _hidden_value = true
+  }
+  d1.CharmingBeigeCallida ModernTealStar {
+    LonelyAzureBobette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    IndustrialBrownDanya = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    DelightfulBeigeCandi = 236
+    PrettyIndigoJennilee = true
+    RollingSilverRubie = "What do you do on a remote island? Try and find the TV island it belongs to."
+    MinimalPlumMorgen = 856
+    IntegratedOliveMadonna = false
+    FatAmaranthAbigael = true
+    TallAmaranthAggy = 286
+    BusyCyanFayina = 358
+    _hidden_value = true
+  }
+  boolean NeighbouringPurpleNance {
+    _hidden_value = true
+  }
+  hidden_boolean DreadfulPinkMerrili2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean BottomMoccasinLoutitia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SlimRoseOlly {
+    _hidden_value = true
+  }
+  json ArabLimeKirsten {
+    _hidden_value = true
+  }
+  boolean GreyEmeraldFrank {
+    _hidden_value = true
+  }
+  number HostileOrangeMarieann {
+    _hidden_value = true
+  }
+  serviceid_number GentleBlackCarmelita {
+    _hidden_value = true
+  }
+  serviceid TestyYellowYolanda {
+    _hidden_value = true
+  }
+  string CrucialFuchsiaGennie {
+    _hidden_value = true
+  }
+  boolean OverwhelmingPurpleMyrta2 {
+    _hidden_value = true
+  }
+  number NastyWhiteVerla {
+    _hidden_value = true
+  }
+  serviceid_number GeneticMoccasinLorianne {
+    _hidden_value = true
+  }
+  boolean PrettyIndigoJennie {
+    _hidden_value = true
+  }
+  json FashionableSapphireRena {
+    _hidden_value = true
+  }
+  UnusualGoldGladi = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  BigAmaranthAbagail = "How come the stadium got hot after the game? Because all of the fans left."
+  AwakeRedNola = 894
+  ClearBlushCissiee = true
+  _hidden_value = true
+}

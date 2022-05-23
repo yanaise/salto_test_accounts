@@ -1,0 +1,83 @@
+type d1.DiverseRedNicola2 {
+  annotations {
+    serviceid MonetaryIvoryJoete3 {
+    }
+    serviceid RedundantSalmonPhilippine2 {
+    }
+    json StingyYellowWinna {
+    }
+    hidden_boolean GenerousLavenderKayley3 {
+    }
+    serviceid_number ProtectiveRoseOlimpia3 {
+    }
+    serviceid_number IdealEmeraldFredericka2 {
+    }
+  }
+  serviceid_number ScientificCrimsonEran2 {
+    _hidden_value = true
+  }
+  serviceid TerritorialSalmonPriscilla3 {
+    _hidden_value = true
+  }
+  string HomelessAzureBlinny2 {
+    _hidden_value = true
+  }
+  serviceid_number EmpiricalPinkMeara2 {
+    _hidden_value = true
+  }
+  json GiganticVioletUlrika {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" PhysicalCoffeeDenni3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number RedWhiteWendeline4 {
+    _hidden_value = true
+  }
+  serviceid RedWhiteWendi {
+    _hidden_value = true
+  }
+  json BigAmaranthAbbi3 {
+    _hidden_value = true
+  }
+  string ConventionalGoldGussi {
+    _hidden_value = true
+  }
+  serviceid DelightfulBeigeCandace {
+    _hidden_value = true
+  }
+  serviceid TurkishPurpleMozelle2 {
+    _hidden_value = true
+  }
+  serviceid_number UncomfortablePlumModestia2 {
+    _hidden_value = true
+  }
+  "List<boolean>" ProbableSalmonPhyllida2 {
+    _hidden_value = true
+  }
+  number FlakyAmberAlfie {
+    _hidden_value = true
+  }
+  serviceid_number WrongTomatoSybila {
+    _hidden_value = true
+  }
+  boolean OrdinaryWhiteViolet2 {
+    _hidden_value = true
+  }
+  hidden_boolean GothicSapphireRana2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.DEFAULT CivilianSapphireRandi {
+    _hidden_value = true
+  }
+  MonetaryIvoryJoete3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RedundantSalmonPhilippine2 = "Slept like a log last night  woke up in the fireplace."
+  StingyYellowWinna = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ProtectiveRoseOlimpia3 = 236
+  IdealEmeraldFredericka2 = 479
+  _hidden_value = true
+}

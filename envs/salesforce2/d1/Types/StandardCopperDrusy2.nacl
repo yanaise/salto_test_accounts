@@ -1,0 +1,25 @@
+type d1.StandardCopperDrusy2 {
+  annotations {
+    number CorrespondingPlumMinny2 {
+    }
+    hidden_boolean CrucialFuchsiaGenni {
+    }
+    boolean NervousAzureBrande3 {
+    }
+    json AdverseSapphireRanna4 {
+    }
+    serviceid_number DefensiveRoseOneida {
+    }
+    number DependentGrayHeather3 {
+    }
+  }
+  number LittleBlushChlo3 {
+    _hidden_value = true
+  }
+  CorrespondingPlumMinny2 = 966
+  NervousAzureBrande3 = true
+  AdverseSapphireRanna4 = "To be Frank, I'd have to change my name."
+  DefensiveRoseOneida = 67
+  DependentGrayHeather3 = 495
+  _hidden_value = true
+}

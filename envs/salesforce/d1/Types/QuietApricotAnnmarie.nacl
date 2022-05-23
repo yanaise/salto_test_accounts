@@ -1,0 +1,87 @@
+type d1.QuietApricotAnnmarie {
+  annotations {
+    serviceid_number SelectSalmonPhilippe {
+    }
+    hidden_boolean AfraidCrimsonEmmie2 {
+    }
+    serviceid_number DizzyVioletTrina {
+    }
+    serviceid NaturalBrownCrysta {
+    }
+  }
+  hidden_boolean ExtensiveGoldGloriane {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number PricklyAquaAuroora {
+    _hidden_value = true
+  }
+  boolean FreeBronzeCodi {
+    _hidden_value = true
+  }
+  hidden_boolean InterimOrangeMalory2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string MadHarlequinJanet {
+    _hidden_value = true
+  }
+  string GenerousLavenderKaylee {
+    _hidden_value = true
+  }
+  serviceid_number ParallelMoccasinLudovika2 {
+    _hidden_value = true
+  }
+  serviceid_number SmoothIndigoJemmy {
+    _hidden_value = true
+  }
+  serviceid_number AdministrativeGreenHollyanne {
+    _hidden_value = true
+  }
+  serviceid ShockedPinkMelisandra2 {
+    _hidden_value = true
+  }
+  "List<string>" RightBlushCherise2 {
+    _hidden_value = true
+  }
+  boolean DramaticGoldHadria2 {
+    _hidden_value = true
+  }
+  hidden_boolean AngryAquamarineBenetta {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid HeavyChocolateDawn2 {
+    _hidden_value = true
+  }
+  string TechnologicalOrangeMaribel2 {
+    _hidden_value = true
+  }
+  serviceid SuccessfulChocolateDarya2 {
+    _hidden_value = true
+  }
+  serviceid_number FiscalRedNiki2 {
+    _hidden_value = true
+  }
+  number MilitaryChocolateDaron {
+    _hidden_value = true
+  }
+  boolean CognitiveSalmonQueenie {
+    _hidden_value = true
+  }
+  hidden_boolean SolidGreenIdalina2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string OutstandingTealSteffi {
+    _hidden_value = true
+  }
+  SelectSalmonPhilippe = 204
+  DizzyVioletTrina = 339
+  NaturalBrownCrysta = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

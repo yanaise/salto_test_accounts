@@ -1,0 +1,56 @@
+type d1.LightTurquoiseThalia3 {
+  annotations {
+    d1.ExactLimeKordula SoreBeigeBrietta2 {
+    }
+    hidden_boolean DefiantAzureBetti {
+    }
+    boolean ChineseGoldGuenevere2 {
+    }
+    d1.FastAmethystAmargo WickedScarletRoseanne4 {
+    }
+    number BlueCoffeeDi2 {
+    }
+    number FirmGrayHedi {
+    }
+    json NearbyLimeKoral3 {
+    }
+    boolean MagentaWhiteVelma3 {
+    }
+    string FrenchBrownCyndi4 {
+    }
+    serviceid PlainTurquoiseTheressa2 {
+    }
+    serviceid_number SilentApricotAntonie2 {
+    }
+    string PinkIndigoJennette4 {
+    }
+    boolean MinorEmeraldGabriel5 {
+    }
+    string VeryCoralElfreda2 {
+    }
+    boolean SunnyTanSharla {
+    }
+    serviceid_number PlainIndigoJewell3 {
+    }
+    serviceid CapableEmeraldFlorina3 {
+    }
+    string CorrespondingPlumMinny4 {
+    }
+  }
+  SoreBeigeBrietta2 = 295
+  ChineseGoldGuenevere2 = true
+  BlueCoffeeDi2 = 60
+  FirmGrayHedi = 925
+  NearbyLimeKoral3 = "Why would the tomato blush? Because it saw the salad dressing."
+  MagentaWhiteVelma3 = false
+  FrenchBrownCyndi4 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PlainTurquoiseTheressa2 = "Why would the kid cross the playground? To get to the other slide."
+  SilentApricotAntonie2 = 419
+  PinkIndigoJennette4 = "How come the stadium got hot after the game? Because all of the fans left."
+  MinorEmeraldGabriel5 = false
+  VeryCoralElfreda2 = "Why would the tomato blush? Because it saw the salad dressing."
+  SunnyTanSharla = true
+  PlainIndigoJewell3 = 698
+  CapableEmeraldFlorina3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CorrespondingPlumMinny4 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+}

@@ -1,0 +1,31 @@
+type d1.WorkingCrimsonEmlynne2 {
+  annotations {
+    json SilentGrayHarley2 {
+    }
+    hidden_boolean RichCoffeeDorelia3 {
+    }
+    json DoubleCrimsonEthelyn {
+    }
+    json ForthcomingPeachMarquita3 {
+    }
+    boolean RadicalGrayHelenelizabeth3 {
+    }
+  }
+  number DistantIndigoJilli2 {
+    _hidden_value = true
+  }
+  boolean TenderRedOdele2 {
+    _hidden_value = true
+  }
+  boolean StrategicHarlequinJeannette {
+    _hidden_value = true
+  }
+  number SubjectiveSapphireRiannon {
+    _hidden_value = true
+  }
+  SilentGrayHarley2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DoubleCrimsonEthelyn = "A steak pun is a rare medium well done."
+  ForthcomingPeachMarquita3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RadicalGrayHelenelizabeth3 = true
+  _hidden_value = true
+}

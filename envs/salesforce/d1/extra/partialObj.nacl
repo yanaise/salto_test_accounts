@@ -1,0 +1,9 @@
+type d1.Partial {
+  annotations {
+    string strAnno {
+    }
+  }
+  string strField {
+  }
+  strAnno = "ANNO"
+}

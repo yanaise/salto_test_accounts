@@ -1,0 +1,26 @@
+type d1.VoluntaryGoldGwenette4 {
+  annotations {
+    json ColonialPeachMaude3 {
+    }
+    serviceid OfficialCopperDorise2 {
+    }
+    d1.CharmingBeigeCallida MaleCoffeeDidi4 {
+    }
+    boolean PrimitiveOrangeMargalo3 {
+    }
+    string TinyAmaranthAgnella3 {
+    }
+    boolean EncouragingBlackCarey3 {
+    }
+  }
+  serviceid DutchLavenderKendra3 {
+    _hidden_value = true
+  }
+  ColonialPeachMaude3 = "To be Frank, I'd have to change my name."
+  OfficialCopperDorise2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  MaleCoffeeDidi4 = "Why would the tomato blush? Because it saw the salad dressing."
+  PrimitiveOrangeMargalo3 = true
+  TinyAmaranthAgnella3 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  EncouragingBlackCarey3 = true
+  _hidden_value = true
+}

@@ -1,0 +1,37 @@
+type d1.SovietChocolateDari {
+  annotations {
+    json ReadyChocolateDebor {
+    }
+    number FaithfulTanShayne {
+    }
+    hidden_boolean ResidentSalmonRachelle {
+    }
+    number PureGrayHenryetta2 {
+    }
+    serviceid_number StableHarlequinJasmin2 {
+    }
+  }
+  serviceid ModestLavenderKelsi {
+    _hidden_value = true
+  }
+  serviceid_number WesternChocolateDeerdre2 {
+    _hidden_value = true
+  }
+  serviceid StrictLavenderKatha2 {
+    _hidden_value = true
+  }
+  string MarineMagentaLeonanie {
+    _hidden_value = true
+  }
+  json GermanChocolateDelila {
+    _hidden_value = true
+  }
+  json BrightVioletTova2 {
+    _hidden_value = true
+  }
+  ReadyChocolateDebor = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FaithfulTanShayne = 735
+  PureGrayHenryetta2 = 569
+  StableHarlequinJasmin2 = 638
+  _hidden_value = true
+}

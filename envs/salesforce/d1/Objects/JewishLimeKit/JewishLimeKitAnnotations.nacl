@@ -1,0 +1,63 @@
+type d1.JewishLimeKit {
+  annotations {
+    serviceid_number MarineMagentaLeoline3 {
+    }
+    hidden_boolean LivingGrayHenrieta3 {
+    }
+    number OpenTealStarr {
+    }
+    string VeryCoralElfrida {
+    }
+    hidden_boolean WorldwideTanShannah {
+    }
+    hidden_boolean ModernTealStarlene2 {
+    }
+    d1.TanYellowYelena2 KnownMaroonLetti2 {
+    }
+    serviceid_number GracefulTurquoiseTerri3 {
+    }
+    string DangerousCrimsonEsta3 {
+    }
+    hidden_boolean HomelessAzureBlinnie5 {
+    }
+    d1.ExtraCoffeeDiane3 BoredPlumMoreen3 {
+    }
+    serviceid ElaborateRedNicolette2 {
+    }
+    string ExperiencedMagentaLauralee3 {
+    }
+    boolean SecondaryFuchsiaGertruda2 {
+    }
+    boolean HighAmberAllison2 {
+    }
+    boolean BraveMoccasinLucita2 {
+    }
+    serviceid_number SmoggyTurquoiseTiffie2 {
+    }
+    serviceid_number EmbarrassedAzureBianka {
+    }
+    string CuteTomatoTara5 {
+    }
+    boolean JuicyApricotArdyth3 {
+    }
+    hidden_boolean DistinguishedPurpleNatalya2 {
+    }
+    string ColossalAmaranthAbby2 {
+    }
+  }
+  MarineMagentaLeoline3 = 236
+  OpenTealStarr = 631
+  VeryCoralElfrida = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  GracefulTurquoiseTerri3 = 35
+  DangerousCrimsonEsta3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ElaborateRedNicolette2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ExperiencedMagentaLauralee3 = "Slept like a log last night  woke up in the fireplace."
+  SecondaryFuchsiaGertruda2 = true
+  HighAmberAllison2 = true
+  BraveMoccasinLucita2 = true
+  SmoggyTurquoiseTiffie2 = 202
+  EmbarrassedAzureBianka = 924
+  CuteTomatoTara5 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  JuicyApricotArdyth3 = true
+  ColossalAmaranthAbby2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}

@@ -1,0 +1,26 @@
+type d1.WhisperingApricotArdelia {
+  annotations {
+    boolean HelpfulHarlequinJaneva2 {
+    }
+    serviceid_number ExceptionalOliveMadlen2 {
+    }
+    json FixedGreenHinda {
+    }
+    d1.MagnificentWhiteVanya HushedApricotAnnadiane2 {
+    }
+  }
+  number LeftCoffeeDenys3 {
+    _hidden_value = true
+  }
+  serviceid MathematicalRoseOtha2 {
+    _hidden_value = true
+  }
+  boolean NuttyWhiteViki2 {
+    _hidden_value = true
+  }
+  HelpfulHarlequinJaneva2 = false
+  ExceptionalOliveMadlen2 = 350
+  FixedGreenHinda = "Slept like a log last night  woke up in the fireplace."
+  HushedApricotAnnadiane2 = false
+  _hidden_value = true
+}

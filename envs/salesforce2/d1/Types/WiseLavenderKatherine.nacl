@@ -1,0 +1,103 @@
+type d1.WiseLavenderKatherine {
+  annotations {
+    number OutrageousAzureBreanne {
+    }
+    string AustralianJadeKat {
+    }
+    json FunOrangeMarcille3 {
+    }
+    hidden_boolean ProbableSalmonPhyllida {
+    }
+    string ArtificialMagentaLena2 {
+    }
+    serviceid RedWhiteWendie {
+    }
+  }
+  serviceid LovelyBlackCassandra {
+    _hidden_value = true
+  }
+  serviceid_number MushyWhiteVerine {
+    _hidden_value = true
+  }
+  number JollyVioletValli2 {
+    _hidden_value = true
+  }
+  number FastEmeraldFleur {
+    _hidden_value = true
+  }
+  serviceid DizzyVioletTricia {
+    _hidden_value = true
+  }
+  boolean PositiveCoffeeDominica {
+    _hidden_value = true
+  }
+  boolean UnconsciousSapphireRaven {
+    _hidden_value = true
+  }
+  d1.DEFAULT MusicalIndigoJoannes {
+    _hidden_value = true
+  }
+  boolean NarrowCyanFannie2 {
+    _hidden_value = true
+  }
+  serviceid InnerFuchsiaGenovera2 {
+    _hidden_value = true
+  }
+  d1.UrbanCyanFan OriginalChocolateDarrelle {
+    KindBlackCaryl = "What do you do on a remote island? Try and find the TV island it belongs to."
+    PremierOrangeMargy = "I'll tell you what often gets over looked... garden fences."
+    LtdCoralElnora = "To be Frank, I'd have to change my name."
+    SheerMagentaLauri = 182
+    FullBlushChristian = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    BroadAmberAlikee = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    AutomaticLavenderKi = "Did you know that protons have mass? I didn't even know they were catholic."
+    WesternChocolateDeerdre = 951
+    ExtraordinaryIndigoJessie = true
+    LittleBlushChlo = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SurprisingGreenIbbie = 999
+    GloriousScarletRose = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ThickEmeraldFilippa = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    WeirdSilverRozanne = "Why is Peter Pan always flying? Because he Neverlands."
+    ExplicitMaroonLisetta = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    GayOrangeMarietta = 884
+    DevotedRosePaulette = "How come the stadium got hot after the game? Because all of the fans left."
+    LimitedCoralElke = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  string HorribleOrangeMaren {
+    _hidden_value = true
+  }
+  number TraditionalChocolateDeina {
+    _hidden_value = true
+  }
+  json WorthwhilePinkMelitta {
+    _hidden_value = true
+  }
+  hidden_boolean QualifiedPinkMellicent2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean AdjacentSilverRoxie {
+    _hidden_value = true
+  }
+  string SpicyAquaArliene {
+    _hidden_value = true
+  }
+  d1.DEFAULT InstitutionalMaroonLesli {
+    _hidden_value = true
+  }
+  boolean RealisticMoccasinLona {
+    _hidden_value = true
+  }
+  OutrageousAzureBreanne = 247
+  AustralianJadeKat = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FunOrangeMarcille3 = "Why was it called the dark ages? Because of all the knights. "
+  ArtificialMagentaLena2 = "Slept like a log last night  woke up in the fireplace."
+  RedWhiteWendie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

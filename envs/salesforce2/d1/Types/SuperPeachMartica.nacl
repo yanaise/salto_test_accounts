@@ -1,0 +1,83 @@
+type d1.SuperPeachMartica {
+  annotations {
+    d1.DEFAULT OrganicLimeLaina {
+    }
+    number HighBlueCharita {
+    }
+    number LazyWhiteVanni3 {
+    }
+    json SilkyAquaBamby3 {
+    }
+    serviceid LiableLimeKimmie {
+    }
+  }
+  number ExcitingGreenIvett4 {
+    _hidden_value = true
+  }
+  string JudicialJadeKarisa4 {
+    _hidden_value = true
+  }
+  json LikePeachMarlo3 {
+    _hidden_value = true
+  }
+  hidden_boolean IntenseLavenderKatti {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean EerieAzureBevvy {
+    _hidden_value = true
+  }
+  boolean BewilderedAquamarineBernita6 {
+    _hidden_value = true
+  }
+  boolean MereGreenIleana {
+    _hidden_value = true
+  }
+  hidden_boolean TastelessAquaAshlee {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SufficientCrimsonEolanda5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean JudicialJadeKarita4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number DreadfulPinkMerrili4 {
+    _hidden_value = true
+  }
+  boolean DynamicPeachMarlyn3 {
+    _hidden_value = true
+  }
+  "List<number>" InstitutionalMaroonLesley3 {
+    _hidden_value = true
+  }
+  hidden_boolean ChristianCoralElva {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number BrightCoralElwira {
+    _hidden_value = true
+  }
+  json EligiblePurpleNeile3 {
+    _hidden_value = true
+  }
+  number OutdoorSilverSarine {
+    _hidden_value = true
+  }
+  OrganicLimeLaina = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  HighBlueCharita = 339
+  LazyWhiteVanni3 = 564
+  SilkyAquaBamby3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  LiableLimeKimmie = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

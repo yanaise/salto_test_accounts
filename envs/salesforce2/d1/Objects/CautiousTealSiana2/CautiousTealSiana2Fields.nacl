@@ -1,0 +1,57 @@
+type d1.CautiousTealSiana2 {
+  number NervousAzureBrandea4 {
+  }
+  string MilitaryChocolateDarline2 {
+  }
+  string SolidGreenIbby {
+  }
+  serviceid_number ObedientBlackCassi {
+  }
+  boolean UnconsciousSapphireRaven5 {
+  }
+  string CoolAmaranthAindrea3 {
+  }
+  boolean InstitutionalMaroonLesli4 {
+  }
+  serviceid SouthernCyanEveline {
+  }
+  boolean CleanTomatoTamiko2 {
+  }
+  d1.ManyAmethystAngel CulturalCoralElicia3 {
+    MinorEmeraldGabie = false
+    SplendidOrangeMandy = 113
+    StaticSapphireRebeka = 444
+    CircularRoseOrly = "Did you know that protons have mass? I didn't even know they were catholic."
+    OrangeWhiteVinny = false
+    PureGrayHermia = "To be Frank, I'd have to change my name."
+    BreezyAmaranthAigneis = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    MiserableSalmonRachael = true
+    DomesticCopperEaster = true
+    KoreanSapphireRasia = 963
+    PrivateBronzeCoreen = 768
+    ShockedPinkMelisandra = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ObedientBlackCassondra = 317
+    RapidAmethystAmy2 = 348
+  }
+  serviceid HorizontalSalmonPru2 {
+  }
+  hidden_boolean AtomicScarletRori2 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  hidden_boolean ElectricalLavenderKerrill2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number SovietChocolateDarelle {
+  }
+  serviceid_number CatholicHarlequinJammie2 {
+  }
+  hidden_boolean MathematicalRoseOrtensia2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+}

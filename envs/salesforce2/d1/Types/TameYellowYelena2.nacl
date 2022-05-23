@@ -1,0 +1,77 @@
+type d1.TameYellowYelena2 {
+  annotations {
+    string RearPurpleMuire2 {
+    }
+    number CommercialCopperDorena2 {
+    }
+    hidden_boolean UnconsciousSapphireRay {
+    }
+    json AsleepJadeKarly2 {
+    }
+  }
+  serviceid_number AwkwardPeachMaryl4 {
+    _hidden_value = true
+  }
+  hidden_boolean SeniorCoffeeDonetta {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SecondaryFuchsiaGertrud {
+    _hidden_value = true
+  }
+  serviceid SickFuchsiaGeri {
+    _hidden_value = true
+  }
+  serviceid_number FastAmethystAmandie2 {
+    _hidden_value = true
+  }
+  string NoblePurpleNeala2 {
+    _hidden_value = true
+  }
+  number FixedGreenHilliary {
+    _hidden_value = true
+  }
+  boolean LittleAmaranthAdelle {
+    _hidden_value = true
+  }
+  string AccessibleOrangeMarika2 {
+    _hidden_value = true
+  }
+  boolean SlowCyanEugenie2 {
+    _hidden_value = true
+  }
+  number StatutoryGrayHarriot {
+    _hidden_value = true
+  }
+  boolean HugeCoffeeDoralynne2 {
+    _hidden_value = true
+  }
+  serviceid MagneticPeachMax2 {
+    _hidden_value = true
+  }
+  json DirtyAmberAlethea {
+    _hidden_value = true
+  }
+  hidden_boolean UpperCyanFaustina2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json InnovativeTanSheila {
+    _hidden_value = true
+  }
+  serviceid StandardCopperDrusie2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT LivelyBlackCasi2 {
+    _hidden_value = true
+  }
+  string LtdCoralElnora4 {
+    _hidden_value = true
+  }
+  RearPurpleMuire2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  CommercialCopperDorena2 = 240
+  AsleepJadeKarly2 = "Why would the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

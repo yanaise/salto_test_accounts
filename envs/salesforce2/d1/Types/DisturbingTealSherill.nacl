@@ -1,0 +1,111 @@
+type d1.DisturbingTealSherill {
+  annotations {
+    hidden_boolean SeriousBrownDanella {
+    }
+    hidden_boolean HelpfulHarlequinJanette {
+    }
+    boolean GrubbyAquaAubrey {
+    }
+    number ManyWhiteVere {
+    }
+    hidden_boolean RichTomatoStoddard {
+    }
+    hidden_boolean ExtremeHarlequinJacinthe {
+    }
+  }
+  d1.DEFAULT FluffyAmberAlia {
+    _hidden_value = true
+  }
+  boolean FarBlushChristie {
+    _hidden_value = true
+  }
+  d1.CognitiveSalmonQuinn FellowJadeJustine {
+    GreatVioletTwyla = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    WorthwhilePinkMelita = "Slept like a log last night  woke up in the fireplace."
+    GlamorousTurquoiseTeresina = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    AgriculturalGoldGoldi = 226
+    FreshCopperDyane = 43
+    _hidden_value = true
+  }
+  number FrightenedMagentaLaverne {
+    _hidden_value = true
+  }
+  string FavourablePinkMercie2 {
+    _hidden_value = true
+  }
+  serviceid RandomMoccasinLoren3 {
+    _hidden_value = true
+  }
+  string WoodenGreenHonoria {
+    _hidden_value = true
+  }
+  json LikelyBlushClari {
+    _hidden_value = true
+  }
+  "List<boolean>" HotCoffeeDeonne {
+    _hidden_value = true
+  }
+  boolean EquivalentJadeKaleena {
+    _hidden_value = true
+  }
+  "List<json>" FriendlyBlackCarlynne {
+    _hidden_value = true
+  }
+  d1.DEFAULT EasyTealSisely {
+    _hidden_value = true
+  }
+  d1.LongAmaranthAdina LtdCoralElnora2 {
+    GrubbyAquaAubry = {
+      legit = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    }
+    GloriousScarletRose2 = false
+    _hidden_value = true
+  }
+  json AwfulAquamarineBernelle {
+    _hidden_value = true
+  }
+  serviceid_number ModernTealStar2 {
+    _hidden_value = true
+  }
+  number ElatedBeigeCaralie {
+    _hidden_value = true
+  }
+  serviceid_number RottenApricotArielle2 {
+    _hidden_value = true
+  }
+  string LateAmethystAmargo {
+    _hidden_value = true
+  }
+  serviceid SteadyAquamarineBathsheba {
+    _hidden_value = true
+  }
+  number GrossLavenderKetti {
+    _hidden_value = true
+  }
+  json UncertainMagentaLelah {
+    _hidden_value = true
+  }
+  number InterestedCoffeeDierdre {
+    _hidden_value = true
+  }
+  serviceid_number QuietWhiteViviene2 {
+    _hidden_value = true
+  }
+  string TerribleBeigeBrinn2 {
+    _hidden_value = true
+  }
+  hidden_boolean MightyTanShandie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json DepressedAzureBettina {
+    _hidden_value = true
+  }
+  string SexualCopperDyna {
+    _hidden_value = true
+  }
+  GrubbyAquaAubrey = false
+  ManyWhiteVere = 573
+  _hidden_value = true
+}

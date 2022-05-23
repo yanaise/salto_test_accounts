@@ -1,0 +1,46 @@
+type d1.RedundantSalmonPhilippe {
+  annotations {
+    serviceid_number UnemployedIvoryJoline {
+    }
+    hidden_boolean AnxiousAquamarineBeret {
+    }
+    hidden_boolean ReasonableCrimsonEmalee {
+    }
+    boolean AppallingTanSelene {
+    }
+  }
+  serviceid_number BlushingTomatoTalya2 {
+    _hidden_value = true
+  }
+  string GentleIndigoJobyna3 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" EvilPeachMaurine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ConventionalGoldGus {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CondemnedAquamarineBertie {
+    _hidden_value = true
+  }
+  string CompleteCoffeeDevondra {
+    _hidden_value = true
+  }
+  json GracefulTurquoiseTerrijo {
+    _hidden_value = true
+  }
+  boolean TightIvoryJoelynn {
+    _hidden_value = true
+  }
+  number PopularChocolateDaveta {
+    _hidden_value = true
+  }
+  UnemployedIvoryJoline = 734
+  AppallingTanSelene = true
+  _hidden_value = true
+}

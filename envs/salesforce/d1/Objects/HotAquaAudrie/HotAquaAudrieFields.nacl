@@ -1,0 +1,67 @@
+type d1.HotAquaAudrie {
+  string LazyWhiteVanna4 {
+  }
+  serviceid_number SickFuchsiaGerhardine {
+  }
+  json DifferentTealSilvia5 {
+  }
+  d1.LoudLavenderKiele2 AggressiveMaroonLilias4 {
+    AlrightGoldGoldy2 = "What creature is smarter than a talking parrot? A spelling bee."
+    IdeologicalOrangeMargarette3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    EducationalCrimsonErtha2 = "To be Frank, I'd have to change my name."
+    AppallingTanSelena = "What creature is smarter than a talking parrot? A spelling bee."
+    UsualCoralEllynn4 = 329
+    EligiblePurpleNeile2 = 754
+    WildCyanEyde3 = 727
+  }
+  json IndividualBrownCthrine3 {
+  }
+  hidden_boolean DisappointedMagentaLaurianne4 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  string CrookedAmberAlissa3 {
+  }
+  number MoralCyanFeliza3 {
+  }
+  boolean LargeBlueCharlotte2 {
+  }
+  serviceid DrunkPeachMarlee4 {
+  }
+  boolean RepresentativePinkMerola6 {
+  }
+  d1.CrazyMoccasinLorrayne2 CloseBrownCortney3 {
+    PreciseIndigoJobina = "What do you do on a remote island? Try and find the TV island it belongs to."
+    FaithfulBlackCarlie = "Why was it called the dark ages? Because of all the knights. "
+    SubtleMoccasinLucie2 = true
+    OldAmethystAmie3 = 993
+    GreyEmeraldFranky = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SingleBronzeCorabella = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  serviceid DoubleCrimsonEthelyn4 {
+  }
+  boolean IcyAquaAudy2 {
+  }
+  "List<number>" MereGreenIlene {
+  }
+  boolean ScreechingApricotAnthia3 {
+  }
+  serviceid VitalEmeraldFifine4 {
+  }
+  serviceid InlandSalmonPrue {
+  }
+  boolean AcceptedTanSerena3 {
+  }
+  boolean FullBlushChristian4 {
+  }
+  serviceid_number OpenBronzeClerissa {
+  }
+  hidden_boolean MoralCyanFeodora {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  number ObnoxiousAzureBrandice2 {
+  }
+}

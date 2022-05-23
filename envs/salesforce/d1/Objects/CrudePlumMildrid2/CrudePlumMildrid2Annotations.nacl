@@ -1,0 +1,43 @@
+type d1.CrudePlumMildrid2 {
+  annotations {
+    d1.AverageCoralElysha4 EagerPlumMilzie3 {
+    }
+    hidden_boolean BewilderedAquamarineBernie5 {
+    }
+    serviceid AvailableBlushCicely2 {
+    }
+    boolean DeterminedOrangeMarina2 {
+    }
+    d1.CharmingBeigeCallida LiteraryGreenIrina {
+    }
+    string CharmingPlumMorgan3 {
+    }
+    serviceid_number ManyAmethystAngel2 {
+    }
+    hidden_boolean HistoricLavenderKellsie3 {
+    }
+    serviceid_number SpontaneousTanShaun6 {
+    }
+    hidden_boolean MeltedAquaAurea5 {
+    }
+    json WideBronzeCorine4 {
+    }
+    boolean MonetaryIvoryJohannah2 {
+    }
+    hidden_boolean ToryGreenIndira3 {
+    }
+    serviceid AvailableBlushChrystel3 {
+    }
+    hidden_boolean ForeignBronzeCorinne {
+    }
+  }
+  AvailableBlushCicely2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DeterminedOrangeMarina2 = false
+  LiteraryGreenIrina = file("AwfulHarlequinJaquenette.txt")
+  CharmingPlumMorgan3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ManyAmethystAngel2 = 421
+  SpontaneousTanShaun6 = 905
+  WideBronzeCorine4 = "I'll tell you what often gets over looked... garden fences."
+  MonetaryIvoryJohannah2 = false
+  AvailableBlushChrystel3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}

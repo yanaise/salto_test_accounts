@@ -1,0 +1,19 @@
+type d1.SpottyYellowWynn2 {
+  annotations {
+    number PlasticAquaAurelie {
+    }
+    json ForwardSapphireRianon {
+    }
+    hidden_boolean AngryAquamarineBenedicta2 {
+    }
+    boolean NewBlueChandal3 {
+    }
+  }
+  serviceid AnonymousSapphireRaynell {
+    _hidden_value = true
+  }
+  PlasticAquaAurelie = 41
+  ForwardSapphireRianon = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  NewBlueChandal3 = false
+  _hidden_value = true
+}

@@ -1,0 +1,90 @@
+type d1.InvolvedCoffeeDenice2 {
+  annotations {
+    hidden_boolean FierceAzureBilly3 {
+    }
+    string IllEmeraldGael4 {
+    }
+    hidden_boolean UrgentLimeKrysta3 {
+    }
+    d1.ImmenseAmaranthAdelice SelectedPlumMilka {
+    }
+    serviceid_number EmbarrassingSilverSasha {
+    }
+    hidden_boolean WidespreadHarlequinJacqui {
+    }
+    serviceid_number ImmediateCrimsonEmelina {
+    }
+  }
+  d1.EntitledIvoryJuliann CloudyTomatoTammy {
+    _hidden_value = true
+  }
+  serviceid_number SteadyAquamarineBathsheba2 {
+    _hidden_value = true
+  }
+  number IntermediateRoseOfelia3 {
+    _hidden_value = true
+  }
+  serviceid VeryCoralElfie {
+    _hidden_value = true
+  }
+  number BitterApricotArdenia {
+    _hidden_value = true
+  }
+  boolean AverageTomatoTabbatha2 {
+    _hidden_value = true
+  }
+  json FeministPlumMina3 {
+    _hidden_value = true
+  }
+  string CheerfulBeigeCalypso3 {
+    _hidden_value = true
+  }
+  hidden_boolean ArtisticPeachMasha2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid LegitimatePinkMay {
+    _hidden_value = true
+  }
+  boolean LowBlushChristy2 {
+    _hidden_value = true
+  }
+  string IndirectPeachMartynne {
+    _hidden_value = true
+  }
+  string InnocentMagentaLarina {
+    _hidden_value = true
+  }
+  string EfficientGoldGretta {
+    _hidden_value = true
+  }
+  string ConcernedBronzeCorny2 {
+    _hidden_value = true
+  }
+  boolean JustMaroonLissie2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT FeministPlumMin {
+    _hidden_value = true
+  }
+  number ExtraordinaryIndigoJessica3 {
+    _hidden_value = true
+  }
+  number LuckyFuchsiaGinger {
+    _hidden_value = true
+  }
+  hidden_boolean InstitutionalMaroonLesli2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number MildOliveMaddi {
+    _hidden_value = true
+  }
+  IllEmeraldGael4 = "Why would the kid cross the playground? To get to the other slide."
+  SelectedPlumMilka = 223
+  EmbarrassingSilverSasha = 962
+  ImmediateCrimsonEmelina = 800
+  _hidden_value = true
+}

@@ -1,0 +1,65 @@
+type d1.FoolishSapphireReine {
+  annotations {
+    boolean ShyTomatoStormi {
+    }
+    serviceid PotentialCoralElberta2 {
+    }
+    d1.AdverseSapphireRanna LongVioletVanda {
+    }
+    string CuteTomatoTara2 {
+    }
+  }
+  serviceid_number AbsentPinkMelosa2 {
+    _hidden_value = true
+  }
+  boolean VastYellowZea2 {
+    _hidden_value = true
+  }
+  serviceid EligiblePurpleNeilla {
+    _hidden_value = true
+  }
+  boolean UglyPlumMignon {
+    _hidden_value = true
+  }
+  serviceid_number ManagingLimeKitti2 {
+    _hidden_value = true
+  }
+  number PreferredTanScarlett {
+    _hidden_value = true
+  }
+  json CautiousTealSibbie3 {
+    _hidden_value = true
+  }
+  hidden_boolean ConfusedAquamarineBertine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.ExtremeHarlequinJackelyn DreadfulPinkMerrile3 {
+    IncCrimsonErmentrude = 347
+    AlliedPlumMisti = false
+    InternalCoralEdy = "Slept like a log last night  woke up in the fireplace."
+    DevelopedPinkMerilyn = 904
+    CrookedAmberAlisha = "Why would the kid cross the playground? To get to the other slide."
+    AmericanBronzeCorrianne = 164
+    TragicRosePaulita = 86
+    ConceptualTanShelagh = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    StrangeTurquoiseTimmie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    NastyWhiteVeronica = "Why do birds fly south for the winter? Because it's too far to walk."
+    OldAmethystAmie = 426
+    _hidden_value = true
+  }
+  json ElectoralLimeKristin {
+    _hidden_value = true
+  }
+  d1.DEFAULT FriendlyGoldGunilla2 {
+    _hidden_value = true
+  }
+  ShyTomatoStormi = false
+  PotentialCoralElberta2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  LongVioletVanda = 62
+  CuteTomatoTara2 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

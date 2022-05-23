@@ -1,0 +1,107 @@
+type d1.CompetitiveGrayHedy {
+  annotations {
+    number EnthusiasticBlackCarina2 {
+    }
+    string ScaryBeigeBria {
+    }
+    string RevolutionaryJadeKaryl {
+    }
+    hidden_boolean ApparentCyanFawn {
+    }
+    string BareLavenderKellia {
+    }
+    hidden_boolean HistoricLavenderKellina {
+    }
+  }
+  string RoughAquaAustine {
+    _hidden_value = true
+  }
+  d1.BindingSalmonPeta CombinedOliveMaighdiln2 {
+    UsedFuchsiaGeorgeanne = "Why was it called the dark ages? Because of all the knights. "
+    ExplicitMaroonLisbeth = true
+    RelievedSalmonPetronilla = false
+    ModestLavenderKelsey = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SwiftAmethystAnastasie = 862
+    WarmCopperDusty = "What do you call two barracuda fish?  A Pairacuda!"
+    ComfortableGoldGriselda = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    RetiredSilverSarah = 286
+    EducationalCrimsonErnestine = 823
+    MobilePurpleMorna = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    BoringPeachMarnie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    BizarreTanSeka = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    LovelyBlackCassandre = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    FellowJadeJustinn = "Why is Peter Pan always flying? Because he Neverlands."
+    ColourfulScarletRosalia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RelaxedPlumMinnnie = "What do you do on a remote island? Try and find the TV island it belongs to."
+    GeneralBlushChristan = false
+    _hidden_value = true
+  }
+  hidden_boolean BumpyAmaranthAili {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number NoblePurpleNeda2 {
+    _hidden_value = true
+  }
+  number EmptyCyanFanchon {
+    _hidden_value = true
+  }
+  serviceid FamousCoralElianora2 {
+    _hidden_value = true
+  }
+  d1.SwissPlumMikaela StickyAquaArlyn {
+    UndergroundScarletRona = 813
+    SatisfiedHarlequinJeana = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    DynamicPeachMarlyn = "Why is Peter Pan always flying? Because he Neverlands."
+    UselessRedNina = "Why is Peter Pan always flying? Because he Neverlands."
+    RegulatorySalmonQuintilla = "What do you call two barracuda fish?  A Pairacuda!"
+    DrivingRoseOralle = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    _hidden_value = true
+  }
+  number IdealEmeraldFredi {
+    _hidden_value = true
+  }
+  json MoaningApricotAnne {
+    _hidden_value = true
+  }
+  boolean FinalBrownDale {
+    _hidden_value = true
+  }
+  serviceid CrookedAmberAlana {
+    _hidden_value = true
+  }
+  d1.AcuteLavenderKeri ReliableLavenderKim {
+    TerribleBeigeBrinna = 964
+    ShrillApricotAntonetta = 667
+    FineBrownCourtenay = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    HelpfulBlackCarolin = true
+    ConsiderableChocolateDemetra = "Whoever invented the knock-knock joke should get a no bell prize."
+    ThoughtfulBlueCaye = "Dad Im hungry  Hi hungry Im dad"
+    LiveIndigoJody = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    PoorBronzeCorene = "Slept like a log last night  woke up in the fireplace."
+    ShallowAmberAlmire = 113
+    ClosedMagentaLela = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    _hidden_value = true
+  }
+  json QuickCoralElenore2 {
+    _hidden_value = true
+  }
+  hidden_boolean BloodyTomatoTallou {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ComprehensiveGreenHyacinthe {
+    _hidden_value = true
+  }
+  EnthusiasticBlackCarina2 = 869
+  ScaryBeigeBria = "I'll tell you what often gets over looked... garden fences."
+  RevolutionaryJadeKaryl = "Why was it called the dark ages? Because of all the knights. "
+  BareLavenderKellia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

@@ -1,0 +1,57 @@
+type d1.BindingSalmonPeta is string {
+  annotations {
+    serviceid UsedFuchsiaGeorgeanne {
+    }
+    boolean ExplicitMaroonLisbeth {
+    }
+    boolean RelievedSalmonPetronilla {
+    }
+    json ModestLavenderKelsey {
+    }
+    serviceid_number SwiftAmethystAnastasie {
+    }
+    string WarmCopperDusty {
+    }
+    d1.DEFAULT ComfortableGoldGriselda {
+    }
+    serviceid_number RetiredSilverSarah {
+    }
+    number EducationalCrimsonErnestine {
+    }
+    string MobilePurpleMorna {
+    }
+    serviceid BoringPeachMarnie {
+    }
+    json BizarreTanSeka {
+    }
+    serviceid LovelyBlackCassandre {
+    }
+    string FellowJadeJustinn {
+    }
+    json ColourfulScarletRosalia {
+    }
+    serviceid RelaxedPlumMinnnie {
+    }
+    boolean GeneralBlushChristan {
+    }
+  }
+  UsedFuchsiaGeorgeanne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ExplicitMaroonLisbeth = false
+  RelievedSalmonPetronilla = false
+  ModestLavenderKelsey = "A steak pun is a rare medium well done."
+  SwiftAmethystAnastasie = 312
+  WarmCopperDusty = "Why is Peter Pan always flying? Because he Neverlands."
+  ComfortableGoldGriselda = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  RetiredSilverSarah = 801
+  EducationalCrimsonErnestine = 864
+  MobilePurpleMorna = "I'll tell you what often gets over looked... garden fences."
+  BoringPeachMarnie = "What do you call two barracuda fish?  A Pairacuda!"
+  BizarreTanSeka = "What did one nut say as he chased another nut?  I'm a cashew!"
+  LovelyBlackCassandre = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  FellowJadeJustinn = "I'll tell you what often gets over looked... garden fences."
+  ColourfulScarletRosalia = "Dad Im hungry  Hi hungry Im dad"
+  RelaxedPlumMinnnie = "Why would the tomato blush? Because it saw the salad dressing."
+  GeneralBlushChristan = false
+}

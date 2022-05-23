@@ -1,0 +1,39 @@
+type d1.ExistingCoffeeDeva is boolean {
+  annotations {
+    string PetiteAmaranthAdrianna {
+    }
+    json ExtraordinaryIndigoJessy {
+    }
+    boolean HonChocolateDaveen {
+    }
+    json ProfoundPinkMerla {
+    }
+    hidden_boolean TerribleEmeraldFredrika {
+    }
+    json UpperCyanFaunie {
+    }
+    number LegalBrownDahlia {
+    }
+    string FeministPlumMina {
+    }
+    serviceid_number RelaxedPlumMinni {
+    }
+    json FilthyTurquoiseTera2 {
+    }
+    serviceid_number RareEmeraldFlorentia {
+    }
+    serviceid_number EducationalCrimsonEryn {
+    }
+  }
+  PetiteAmaranthAdrianna = "Why was it called the dark ages? Because of all the knights. "
+  ExtraordinaryIndigoJessy = "What creature is smarter than a talking parrot? A spelling bee."
+  HonChocolateDaveen = true
+  ProfoundPinkMerla = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UpperCyanFaunie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  LegalBrownDahlia = 774
+  FeministPlumMina = "Slept like a log last night  woke up in the fireplace."
+  RelaxedPlumMinni = 365
+  FilthyTurquoiseTera2 = "A steak pun is a rare medium well done."
+  RareEmeraldFlorentia = 120
+  EducationalCrimsonEryn = 976
+}

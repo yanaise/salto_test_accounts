@@ -1,0 +1,18 @@
+type d1.OccupationalOliveMadel is boolean {
+  annotations {
+    serviceid_number DifferentBlueCharleen {
+    }
+    d1.DEFAULT AverageCoralElysha2 {
+    }
+    serviceid WearyBeigeBrooke {
+    }
+    serviceid_number PoisedTurquoiseThomasin {
+    }
+  }
+  DifferentBlueCharleen = 17
+  AverageCoralElysha2 = {
+    legit = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  }
+  WearyBeigeBrooke = "What did one nut say as he chased another nut?  I'm a cashew!"
+  PoisedTurquoiseThomasin = 159
+}

@@ -1,0 +1,88 @@
+type d1.UltimateJadeKamilah {
+  annotations {
+    json NearFuchsiaGerianna {
+    }
+    d1.DEFAULT SuperbMagentaLaurene {
+    }
+    hidden_boolean ImaginativeTanSeline3 {
+    }
+    boolean GrowingCrimsonEnrichetta3 {
+    }
+    boolean GoldenGrayHaleigh {
+    }
+    boolean LiberalCyanFarica2 {
+    }
+  }
+  "List<hidden_boolean>" DeliberateRedNoelyn4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string CrazyTealSibylla2 {
+    _hidden_value = true
+  }
+  boolean PureGrayHenryetta3 {
+    _hidden_value = true
+  }
+  serviceid_number SpanishGreenIormina {
+    _hidden_value = true
+  }
+  "List<number>" TenderAquamarineBeatriz {
+    _hidden_value = true
+  }
+  d1.ManyAmethystAngel PassingSalmonPollyanna {
+    MinorEmeraldGabie = false
+    SplendidOrangeMandy = 816
+    StaticSapphireRebeka = 477
+    CircularRoseOrly = "What do you call two barracuda fish?  A Pairacuda!"
+    OrangeWhiteVinny = false
+    PureGrayHermia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    BreezyAmaranthAigneis = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    MiserableSalmonRachael = false
+    DomesticCopperEaster = false
+    KoreanSapphireRasia = 672
+    PrivateBronzeCoreen = 794
+    ShockedPinkMelisandra = "To be Frank, I'd have to change my name."
+    ObedientBlackCassondra = 616
+    RapidAmethystAmy2 = 774
+    _hidden_value = true
+  }
+  json SlimyAquamarineBarbara {
+    _hidden_value = true
+  }
+  boolean OfficialCopperDorita2 {
+    _hidden_value = true
+  }
+  serviceid_number RegulatorySalmonQuintana3 {
+    _hidden_value = true
+  }
+  serviceid_number ImmediateCrimsonEmelita {
+    _hidden_value = true
+  }
+  json FamousCoralElianora3 {
+    _hidden_value = true
+  }
+  serviceid_number PurpleScarletRita2 {
+    _hidden_value = true
+  }
+  serviceid_number TurkishPurpleMoyna2 {
+    _hidden_value = true
+  }
+  number GoldenGrayHaley {
+    _hidden_value = true
+  }
+  serviceid DirectChocolateDeana2 {
+    _hidden_value = true
+  }
+  serviceid_number ModernAmethystAmelie {
+    _hidden_value = true
+  }
+  NearFuchsiaGerianna = "Im only familiar with 25 letters in the English language. I dont know why."
+  SuperbMagentaLaurene = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  GrowingCrimsonEnrichetta3 = false
+  GoldenGrayHaleigh = false
+  LiberalCyanFarica2 = true
+  _hidden_value = true
+}

@@ -1,0 +1,56 @@
+type d1.CrazyVioletTresa {
+  annotations {
+    boolean DeepChocolateDeloria {
+    }
+    boolean MarginalLimeKristal {
+    }
+    hidden_boolean QuietCoralElaina3 {
+    }
+    serviceid UpsetOliveMab3 {
+    }
+    hidden_boolean NetGoldGlenda2 {
+    }
+  }
+  json ImperialLavenderKaterine4 {
+    _hidden_value = true
+  }
+  json NearbyLimeKoral {
+    _hidden_value = true
+  }
+  serviceid_number GenuineGreenIsobel {
+    _hidden_value = true
+  }
+  "List<serviceid>" LocalBlueCharmian2 {
+    _hidden_value = true
+  }
+  number BlindIvoryJuanita2 {
+    _hidden_value = true
+  }
+  serviceid DutchLavenderKenna {
+    _hidden_value = true
+  }
+  serviceid ProminentLavenderKelci2 {
+    _hidden_value = true
+  }
+  string InnocentTealStacey3 {
+    _hidden_value = true
+  }
+  serviceid_number UnknownFuchsiaGilberte3 {
+    _hidden_value = true
+  }
+  number NavalPinkMela {
+    _hidden_value = true
+  }
+  "List<boolean>" ProtestantScarletRobina2 {
+    _hidden_value = true
+  }
+  hidden_boolean EmpiricalPinkMeaghan {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  DeepChocolateDeloria = false
+  MarginalLimeKristal = true
+  UpsetOliveMab3 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

@@ -1,0 +1,115 @@
+type d1.SouthernCyanEvita {
+  annotations {
+    json HeavyChocolateDavita3 {
+    }
+    serviceid WonderfulYellowZoe6 {
+    }
+    json SymbolicPurpleNadine {
+    }
+    d1.DEFAULT FierceAzureBillye3 {
+    }
+  }
+  number LightAmethystAnet {
+    _hidden_value = true
+  }
+  serviceid_number GreyEmeraldFranni2 {
+    _hidden_value = true
+  }
+  hidden_boolean HonChocolateDatha2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean PowerfulCopperDru2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean BraveMoccasinLucine2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean EagerBeigeCandra {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean MutualLimeKimberley2 {
+    _hidden_value = true
+  }
+  number LivingGrayHenrietta {
+    _hidden_value = true
+  }
+  d1.UrbanCyanFan StupidTomatoSusan3 {
+    KindBlackCaryl = "What did one nut say as he chased another nut?  I'm a cashew!"
+    PremierOrangeMargy = "What did one nut say as he chased another nut?  I'm a cashew!"
+    LtdCoralElnora = "Why was it called the dark ages? Because of all the knights. "
+    SheerMagentaLauri = 540
+    FullBlushChristian = "Why is Peter Pan always flying? Because he Neverlands."
+    BroadAmberAlikee = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    AutomaticLavenderKi = "Why was it called the dark ages? Because of all the knights. "
+    WesternChocolateDeerdre = 572
+    ExtraordinaryIndigoJessie = true
+    LittleBlushChlo = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SurprisingGreenIbbie = 946
+    GloriousScarletRose = "Whoever invented the knock-knock joke should get a no bell prize."
+    ThickEmeraldFilippa = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    WeirdSilverRozanne = "To be Frank, I'd have to change my name."
+    ExplicitMaroonLisetta = "Whoever invented the knock-knock joke should get a no bell prize."
+    GayOrangeMarietta = 47
+    DevotedRosePaulette = "To be Frank, I'd have to change my name."
+    LimitedCoralElke = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  serviceid OrangePurpleMufinella2 {
+    _hidden_value = true
+  }
+  boolean HappyVioletVale3 {
+    _hidden_value = true
+  }
+  serviceid NearFuchsiaGerianne3 {
+    _hidden_value = true
+  }
+  boolean RespectiveSalmonPerry4 {
+    _hidden_value = true
+  }
+  number WeeSapphireRetha3 {
+    _hidden_value = true
+  }
+  number KeenGrayHannah2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT GrandEmeraldFrancene3 {
+    _hidden_value = true
+  }
+  serviceid LightAmethystAnett3 {
+    _hidden_value = true
+  }
+  "List<json>" ConventionalGoldGussie3 {
+    _hidden_value = true
+  }
+  serviceid UptightBeigeBrook2 {
+    _hidden_value = true
+  }
+  string GothicSapphireRamona2 {
+    _hidden_value = true
+  }
+  json FantasticBlackCarlotta5 {
+    _hidden_value = true
+  }
+  serviceid HostileOrangeMariejeanne4 {
+    _hidden_value = true
+  }
+  HeavyChocolateDavita3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  WonderfulYellowZoe6 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SymbolicPurpleNadine = "To be Frank, I'd have to change my name."
+  FierceAzureBillye3 = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  _hidden_value = true
+}

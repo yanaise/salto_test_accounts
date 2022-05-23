@@ -1,0 +1,58 @@
+type d1.CrudePlumMildred3 {
+  annotations {
+    string NumerousAmethystAngele {
+    }
+    d1.ExtremeHarlequinJackelyn ElegantTurquoiseTeddi3 {
+    }
+    d1.OccasionalIvoryJuliette LooseIvoryJulienne {
+    }
+    boolean LoyalPurpleNatala {
+    }
+  }
+  json FundamentalFuchsiaGenevieve3 {
+    _hidden_value = true
+  }
+  d1.ExtraCoffeeDianemarie QuaintTurquoiseTiena2 {
+    _hidden_value = true
+  }
+  json SorryBrownDanyelle3 {
+    _hidden_value = true
+  }
+  string ColdAmaranthAimee4 {
+    _hidden_value = true
+  }
+  string ForeignBronzeCoriss4 {
+    _hidden_value = true
+  }
+  hidden_boolean OverwhelmingPurpleMyrta4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string AggregateScarletRobbin2 {
+    _hidden_value = true
+  }
+  serviceid DifferentTealSilvia4 {
+    _hidden_value = true
+  }
+  serviceid_number RevolutionaryJadeKarry2 {
+    _hidden_value = true
+  }
+  serviceid_number DutchLavenderKelsy3 {
+    _hidden_value = true
+  }
+  json LovelyCoralEllie3 {
+    _hidden_value = true
+  }
+  number EfficientGoldGrethel2 {
+    _hidden_value = true
+  }
+  boolean BoredAquamarineBerry3 {
+    _hidden_value = true
+  }
+  NumerousAmethystAngele = "Did you know that protons have mass? I didn't even know they were catholic."
+  ElegantTurquoiseTeddi3 = true
+  LooseIvoryJulienne = 298
+  LoyalPurpleNatala = false
+  _hidden_value = true
+}

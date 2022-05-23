@@ -1,0 +1,88 @@
+type d1.JealousAzureBobby2 {
+  annotations {
+    json ImprovedMagentaLark {
+    }
+    d1.DEFAULT AgreedTanSelina2 {
+    }
+    boolean AfricanFuchsiaGianina2 {
+    }
+    json FriendlyBlackCarlynn {
+    }
+    serviceid_number DistantIndigoJilly2 {
+    }
+    hidden_boolean IntimateSilverRuth {
+    }
+  }
+  hidden_boolean HonChocolateDasya4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.DEFAULT ThinCyanEvangeline3 {
+    _hidden_value = true
+  }
+  number RealTomatoStesha3 {
+    _hidden_value = true
+  }
+  d1.PrivateBronzeCordy TightAquamarineBecky3 {
+    CoolAmaranthAindrea = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    CoherentScarletRoselin = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    OverallCrimsonEmmalynn = "What do you do on a remote island? Try and find the TV island it belongs to."
+    IncreasedCrimsonEsther = "Why do birds fly south for the winter? Because it's too far to walk."
+    MightyWhiteVerena = "Why is Peter Pan always flying? Because he Neverlands."
+    IrishCrimsonErminia = "What do you call two barracuda fish?  A Pairacuda!"
+    AutomaticLavenderKevyn = false
+    _hidden_value = true
+  }
+  string SpecificBrownDarb3 {
+    _hidden_value = true
+  }
+  hidden_boolean LivelyBlackCasi4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid GrossLavenderKetty2 {
+    _hidden_value = true
+  }
+  serviceid FatAmaranthAbigale6 {
+    _hidden_value = true
+  }
+  boolean CleverJadeKarie2 {
+    _hidden_value = true
+  }
+  hidden_boolean GloriousScarletRoseann {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number PinkIndigoJennica2 {
+    _hidden_value = true
+  }
+  json ShinyTurquoiseTiffani2 {
+    _hidden_value = true
+  }
+  serviceid_number MarxistSapphireRaine5 {
+    _hidden_value = true
+  }
+  json OnlyBlushClareta {
+    _hidden_value = true
+  }
+  serviceid_number ClassicJadeKaitlin2 {
+    _hidden_value = true
+  }
+  boolean TechnologicalOrangeMarianna4 {
+    _hidden_value = true
+  }
+  serviceid_number LostJadeKaralynn3 {
+    _hidden_value = true
+  }
+  ImprovedMagentaLark = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AgreedTanSelina2 = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  AfricanFuchsiaGianina2 = false
+  FriendlyBlackCarlynn = "Dad Im hungry  Hi hungry Im dad"
+  DistantIndigoJilly2 = 274
+  _hidden_value = true
+}

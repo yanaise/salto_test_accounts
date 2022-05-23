@@ -1,0 +1,41 @@
+type d1.RunningPlumMirabel4 {
+  annotations {
+    string DivineRoseOphelia {
+    }
+    boolean StillIndigoJinny {
+    }
+    serviceid_number GenuineGreenIssi3 {
+    }
+    json MajorBlushClaire3 {
+    }
+    string ClassicalHarlequinJacklyn3 {
+    }
+  }
+  boolean OrthodoxSapphireRebecca2 {
+    _hidden_value = true
+  }
+  string MusicalIndigoJobey4 {
+    _hidden_value = true
+  }
+  string GeographicalPeachMarleen2 {
+    _hidden_value = true
+  }
+  boolean BewilderedAquamarineBernita5 {
+    _hidden_value = true
+  }
+  json SharpFuchsiaGeorgine3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT HushedApricotAnnamaria {
+    _hidden_value = true
+  }
+  boolean ZanyYellowZsazsa3 {
+    _hidden_value = true
+  }
+  DivineRoseOphelia = "Dad Im hungry  Hi hungry Im dad"
+  StillIndigoJinny = true
+  GenuineGreenIssi3 = 526
+  MajorBlushClaire3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ClassicalHarlequinJacklyn3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

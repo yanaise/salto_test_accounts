@@ -1,0 +1,24 @@
+type d1.LogicalLavenderKellen {
+  annotations {
+    json HeadPinkMegan4 {
+    }
+    hidden_boolean StripedYellowWrennie2 {
+    }
+    hidden_boolean ConfidentialScarletRodina2 {
+    }
+    d1.ExistingCoffeeDeva UnusualTurquoiseTobe {
+    }
+  }
+  serviceid_number GreatAmaranthAddie4 {
+    _hidden_value = true
+  }
+  json MotionlessTurquoiseThelma2 {
+    _hidden_value = true
+  }
+  number UniqueFuchsiaGert2 {
+    _hidden_value = true
+  }
+  HeadPinkMegan4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  UnusualTurquoiseTobe = false
+  _hidden_value = true
+}

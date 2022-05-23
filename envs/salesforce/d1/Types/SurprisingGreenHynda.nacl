@@ -1,0 +1,20 @@
+type d1.SurprisingGreenHynda {
+  annotations {
+    boolean ManagerialPurpleNerissa {
+    }
+    serviceid_number SteadyAquamarineBatsheva {
+    }
+    boolean ThenSalmonPhylis {
+    }
+  }
+  number TameYellowYasmin2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT EstablishedMagentaLeigh {
+    _hidden_value = true
+  }
+  ManagerialPurpleNerissa = false
+  SteadyAquamarineBatsheva = 614
+  ThenSalmonPhylis = false
+  _hidden_value = true
+}

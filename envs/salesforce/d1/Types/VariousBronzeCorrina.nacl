@@ -1,0 +1,18 @@
+type d1.VariousBronzeCorrina {
+  annotations {
+    json DampAmberAlene {
+    }
+    hidden_boolean NovelScarletRosette {
+    }
+    string UnchangedSilverRozina {
+    }
+  }
+  hidden_boolean VariableRedNollie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  DampAmberAlene = "What did one nut say as he chased another nut?  I'm a cashew!"
+  UnchangedSilverRozina = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

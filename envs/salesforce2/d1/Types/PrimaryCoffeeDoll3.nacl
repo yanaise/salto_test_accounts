@@ -1,0 +1,31 @@
+type d1.PrimaryCoffeeDoll3 {
+  annotations {
+    string PrincipalGoldGrazia {
+    }
+    hidden_boolean CharmingPlumMorgana2 {
+    }
+    boolean ScaryYellowWilli3 {
+    }
+    serviceid_number JollyVioletValida2 {
+    }
+    string FormidableSilverSabrina2 {
+    }
+    number JollyBlackCarree {
+    }
+  }
+  string ExtraCoffeeDianemarie2 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ThenSalmonPhoebe4 {
+    _hidden_value = true
+  }
+  boolean PureGrayHenryetta4 {
+    _hidden_value = true
+  }
+  PrincipalGoldGrazia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ScaryYellowWilli3 = false
+  JollyVioletValida2 = 784
+  FormidableSilverSabrina2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  JollyBlackCarree = 726
+  _hidden_value = true
+}

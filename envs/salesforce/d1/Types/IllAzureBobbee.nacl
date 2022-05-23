@@ -1,0 +1,51 @@
+type d1.IllAzureBobbee is boolean {
+  annotations {
+    serviceid CriticalCrimsonEstell {
+    }
+    serviceid_number GorgeousVioletUna {
+    }
+    string TraditionalChocolateDeidre {
+    }
+    json ScaredSalmonRafaelita {
+    }
+    hidden_boolean EarlyAmethystAmanda {
+    }
+    number MotionlessTurquoiseTheodora {
+    }
+    serviceid BreezyAmaranthAidan {
+    }
+    boolean ScaredSapphireRahal {
+    }
+    string BeautifulTomatoTabina {
+    }
+    serviceid_number ExceptionalOliveMadlin {
+    }
+    number HeadPinkMeg {
+    }
+    boolean UrgentLimeKristyn {
+    }
+    json DeliberateRedNoelyn {
+    }
+    serviceid BeneficialPlumMonica {
+    }
+    json WillingGoldGussy {
+    }
+    boolean MobilePurpleMoria {
+    }
+  }
+  CriticalCrimsonEstell = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  GorgeousVioletUna = 0
+  TraditionalChocolateDeidre = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  ScaredSalmonRafaelita = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  MotionlessTurquoiseTheodora = 796
+  BreezyAmaranthAidan = "Did you know that protons have mass? I didn't even know they were catholic."
+  ScaredSapphireRahal = true
+  BeautifulTomatoTabina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ExceptionalOliveMadlin = 851
+  HeadPinkMeg = 127
+  UrgentLimeKristyn = false
+  DeliberateRedNoelyn = "I'll tell you what often gets over looked... garden fences."
+  BeneficialPlumMonica = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WillingGoldGussy = "Slept like a log last night  woke up in the fireplace."
+  MobilePurpleMoria = false
+}

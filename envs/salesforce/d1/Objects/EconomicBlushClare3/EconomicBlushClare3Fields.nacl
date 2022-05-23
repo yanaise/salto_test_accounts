@@ -1,0 +1,51 @@
+type d1.EconomicBlushClare3 {
+  boolean DoubtfulRosePansy2 {
+  }
+  boolean ElegantTurquoiseTeddi5 {
+  }
+  string ProposedGoldGweneth5 {
+  }
+  string LivingGrayHenrietta3 {
+  }
+  serviceid_number ResonantApricotAnselma3 {
+  }
+  "List<d1.StandardCopperDrusy2>" AliveFuchsiaGillian2 {
+    CorrespondingPlumMinny2 = 25
+    NervousAzureBrande3 = false
+    AdverseSapphireRanna4 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    DefensiveRoseOneida = 250
+    DependentGrayHeather3 = 769
+  }
+  json StructuralIvoryJosephine {
+  }
+  number InstitutionalMaroonLesli5 {
+  }
+  number RisingScarletRosemary {
+  }
+  serviceid UniversalJadeKacey3 {
+  }
+  number SportingSilverRuthy4 {
+  }
+  json WarmCopperDulsea2 {
+  }
+  string ManualRosePat {
+  }
+  d1.DiplomaticMagentaLenore3 ChineseGoldGuenna3 {
+    OralLimeKylie3 = 354
+    TallAmaranthAggy2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    EssentialCoffeeDion2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  boolean RetailMagentaLeonore {
+  }
+  boolean MagneticPeachMax4 {
+  }
+  boolean DifficultBronzeClementia4 {
+  }
+  hidden_boolean RoughAquaAustina4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json GrumpyVioletUrsula3 {
+  }
+}

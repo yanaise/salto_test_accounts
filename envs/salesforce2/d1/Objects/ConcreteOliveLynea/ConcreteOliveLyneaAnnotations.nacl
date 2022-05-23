@@ -1,0 +1,54 @@
+type d1.ConcreteOliveLynea {
+  annotations {
+    serviceid WetAquamarineBelita3 {
+    }
+    json ModestLavenderKelsey5 {
+    }
+    serviceid GorgeousVioletUna4 {
+    }
+    string LongAmaranthAdina4 {
+    }
+    string SurprisingGreenHynda2 {
+    }
+    hidden_boolean DifferentTealSilvia6 {
+    }
+    d1.StatutoryGrayHarriette CrucialFuchsiaGenni2 {
+    }
+    serviceid_number AnnualCoffeeDonni3 {
+    }
+    d1.SouthernCyanEvita BadBlushCiel {
+    }
+    string FunnyEmeraldGabbi5 {
+    }
+    number LateAmethystAmberly2 {
+    }
+    boolean WelcomeIvoryJosselyn {
+    }
+    d1.PrivateBronzeCordy AcceptableGrayHeloise2 {
+    }
+    d1.AshamedAquamarineBernardina IntegratedOliveMaegan {
+    }
+    number ConcernedTealSibella4 {
+    }
+    boolean AdorableTomatoSydelle2 {
+    }
+    serviceid_number VerbalPeachMax2 {
+    }
+    hidden_boolean GreenVioletUlla2 {
+    }
+  }
+  WetAquamarineBelita3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ModestLavenderKelsey5 = "What do you call two barracuda fish?  A Pairacuda!"
+  GorgeousVioletUna4 = "Why do birds fly south for the winter? Because it's too far to walk."
+  LongAmaranthAdina4 = "I'll tell you what often gets over looked... garden fences."
+  SurprisingGreenHynda2 = "How come the stadium got hot after the game? Because all of the fans left."
+  CrucialFuchsiaGenni2 = false
+  AnnualCoffeeDonni3 = 108
+  FunnyEmeraldGabbi5 = "Why would the kid cross the playground? To get to the other slide."
+  LateAmethystAmberly2 = 29
+  WelcomeIvoryJosselyn = true
+  AcceptableGrayHeloise2 = false
+  ConcernedTealSibella4 = 909
+  AdorableTomatoSydelle2 = false
+  VerbalPeachMax2 = 543
+}

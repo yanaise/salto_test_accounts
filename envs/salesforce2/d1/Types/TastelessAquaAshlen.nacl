@@ -1,0 +1,83 @@
+type d1.TastelessAquaAshlen {
+  annotations {
+    serviceid_number WildCyanEvy {
+    }
+    hidden_boolean BlondeTomatoTaffy {
+    }
+    hidden_boolean LongBlueChelsey2 {
+    }
+    hidden_boolean JointCoralElita {
+    }
+    serviceid_number MechanicalMagentaLeonie2 {
+    }
+  }
+  number ImmenseAmaranthAdele4 {
+    _hidden_value = true
+  }
+  number StiffPeachMaryann2 {
+    _hidden_value = true
+  }
+  serviceid_number SystematicOrangeMarcela2 {
+    _hidden_value = true
+  }
+  serviceid_number AgreeableBeigeBunni {
+    _hidden_value = true
+  }
+  serviceid_number NumerousHarlequinJanaye2 {
+    _hidden_value = true
+  }
+  json LargeAmaranthAdelind {
+    _hidden_value = true
+  }
+  string UnfairMaroonLilah2 {
+    _hidden_value = true
+  }
+  hidden_boolean TenseBeigeBrigitta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean AdvancedHarlequinJacinda {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.DEFAULT PetiteAmaranthAdriena {
+    _hidden_value = true
+  }
+  serviceid DefinitePeachMartha {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" DeterminedOrangeMarillin3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<number>" IrishCrimsonErminia2 {
+    _hidden_value = true
+  }
+  json HumanBronzeConstantina {
+    _hidden_value = true
+  }
+  serviceid_number QuickAmethystAmil {
+    _hidden_value = true
+  }
+  number UgliestYellowZarah {
+    _hidden_value = true
+  }
+  string VictoriousBlueCecile2 {
+    _hidden_value = true
+  }
+  json FashionableSapphireRenata6 {
+    _hidden_value = true
+  }
+  string AdvancedHarlequinJacinda2 {
+    _hidden_value = true
+  }
+  number SolarRosePamella2 {
+    _hidden_value = true
+  }
+  WildCyanEvy = 766
+  MechanicalMagentaLeonie2 = 784
+  _hidden_value = true
+}

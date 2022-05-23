@@ -1,0 +1,24 @@
+type d1.RandomMoccasinLorena2 {
+  annotations {
+    string PromisingRedNonie {
+    }
+    d1.SpectacularMaroonLibbie AccusedSilverSally {
+    }
+    serviceid UnemployedIvoryJoly2 {
+    }
+    string RapidGrayHildagarde {
+    }
+    hidden_boolean ModestLavenderKelsi2 {
+    }
+    hidden_boolean TechnicalCopperEde {
+    }
+  }
+  string EasyBronzeCollen {
+    _hidden_value = true
+  }
+  PromisingRedNonie = "Dad Im hungry  Hi hungry Im dad"
+  AccusedSilverSally = 545
+  UnemployedIvoryJoly2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RapidGrayHildagarde = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

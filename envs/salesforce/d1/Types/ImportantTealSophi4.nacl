@@ -1,0 +1,25 @@
+type d1.ImportantTealSophi4 {
+  annotations {
+    number AloneCyanFaina2 {
+    }
+    hidden_boolean GivenHarlequinJaneva2 {
+    }
+    json SystematicOrangeMarabel {
+    }
+    serviceid TenderYellowYevette2 {
+    }
+    serviceid FairCoffeeDinny3 {
+    }
+    string NetGoldGleda5 {
+    }
+  }
+  boolean PositiveCoffeeDominica3 {
+    _hidden_value = true
+  }
+  AloneCyanFaina2 = 293
+  SystematicOrangeMarabel = "Why was it called the dark ages? Because of all the knights. "
+  TenderYellowYevette2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FairCoffeeDinny3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  NetGoldGleda5 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

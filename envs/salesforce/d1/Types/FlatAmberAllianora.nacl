@@ -1,0 +1,45 @@
+type d1.FlatAmberAllianora {
+  annotations {
+    boolean GivenHarlequinJaney {
+    }
+    json ColdAmaranthAimee3 {
+    }
+    serviceid TragicRosePaulita4 {
+    }
+    string ConfidentHarlequinJade {
+    }
+    hidden_boolean SpareMaroonLilli2 {
+    }
+    json FellowJadeJustinn3 {
+    }
+    hidden_boolean VaguePinkMeghann2 {
+    }
+    d1.MagnificentWhiteVanya CuriousLimeKira {
+    }
+  }
+  string BlondeTomatoTalia {
+    _hidden_value = true
+  }
+  serviceid FamousTealSiusan {
+    _hidden_value = true
+  }
+  json HandsomeVioletUta {
+    _hidden_value = true
+  }
+  string RelativeGoldGuillema2 {
+    _hidden_value = true
+  }
+  boolean VastYellowZarla {
+    _hidden_value = true
+  }
+  json CompleteCoffeeDevina {
+    _hidden_value = true
+  }
+  GivenHarlequinJaney = false
+  ColdAmaranthAimee3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  TragicRosePaulita4 = "What do you call two barracuda fish?  A Pairacuda!"
+  ConfidentHarlequinJade = "Did you know that protons have mass? I didn't even know they were catholic."
+  FellowJadeJustinn3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CuriousLimeKira = true
+  _hidden_value = true
+}

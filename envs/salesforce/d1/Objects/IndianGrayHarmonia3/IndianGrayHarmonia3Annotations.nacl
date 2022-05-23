@@ -1,0 +1,51 @@
+type d1.IndianGrayHarmonia3 {
+  annotations {
+    boolean LittleAmaranthAdelle5 {
+    }
+    number MagnificentWhiteVeda {
+    }
+    string BrightVioletTove3 {
+    }
+    boolean FitHarlequinJaclyn {
+    }
+    number LittleBlushChiquita2 {
+    }
+    serviceid_number DramaticGoldHailee2 {
+    }
+    d1.DisappointedMagentaLauryn2 ReluctantMagentaLeda2 {
+    }
+    serviceid ValuableGoldGwyneth {
+    }
+    hidden_boolean GracefulTurquoiseTerrijo3 {
+    }
+    d1.SourAquaArlette DifferentTealSilvie3 {
+    }
+    serviceid CrookedAmberAlisha2 {
+    }
+    string BurningRedNikoletta2 {
+    }
+    string RedundantSalmonPhillida {
+    }
+    d1.VictoriousBlueCecelia2 NumerousHarlequinJanean {
+    }
+    json CompetentSalmonPerl2 {
+    }
+    serviceid KindVioletVally3 {
+    }
+    string StrictLavenderKath2 {
+    }
+  }
+  LittleAmaranthAdelle5 = false
+  MagnificentWhiteVeda = 406
+  BrightVioletTove3 = "Why would the kid cross the playground? To get to the other slide."
+  FitHarlequinJaclyn = false
+  LittleBlushChiquita2 = 584
+  DramaticGoldHailee2 = 136
+  ValuableGoldGwyneth = "Why is Peter Pan always flying? Because he Neverlands."
+  CrookedAmberAlisha2 = "Why was it called the dark ages? Because of all the knights. "
+  BurningRedNikoletta2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  RedundantSalmonPhillida = "Why would the tomato blush? Because it saw the salad dressing."
+  CompetentSalmonPerl2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  KindVioletVally3 = "A steak pun is a rare medium well done."
+  StrictLavenderKath2 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+}

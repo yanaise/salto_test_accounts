@@ -1,0 +1,29 @@
+type d1.LinearRedNessy2 {
+  annotations {
+    boolean DizzyVioletTrina2 {
+    }
+    number PreparedCyanFelicity {
+    }
+    serviceid_number CapableEmeraldFlorinda2 {
+    }
+    serviceid_number DependentGrayHeather2 {
+    }
+  }
+  string AwakeRedNola3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT EthicalScarletRobbyn {
+    _hidden_value = true
+  }
+  string TerribleEmeraldFreida3 {
+    _hidden_value = true
+  }
+  number OfficialCopperDorise {
+    _hidden_value = true
+  }
+  DizzyVioletTrina2 = false
+  PreparedCyanFelicity = 307
+  CapableEmeraldFlorinda2 = 817
+  DependentGrayHeather2 = 309
+  _hidden_value = true
+}

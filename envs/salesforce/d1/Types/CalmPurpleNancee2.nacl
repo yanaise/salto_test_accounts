@@ -1,0 +1,55 @@
+type d1.CalmPurpleNancee2 {
+  annotations {
+    serviceid RussianCyanFelipa2 {
+    }
+    serviceid_number UgliestYellowZara {
+    }
+    serviceid_number TurkishPurpleMoyra2 {
+    }
+    number AwfulAquamarineBernete {
+    }
+    json HeavyChocolateDavina {
+    }
+    serviceid_number SplendidBlueCatie {
+    }
+    number CreativeJadeKania2 {
+    }
+  }
+  boolean MarkedMagentaLauraine {
+    _hidden_value = true
+  }
+  string SmoothIndigoJemmie {
+    _hidden_value = true
+  }
+  string OtherBlueCelinka {
+    _hidden_value = true
+  }
+  string OverallCrimsonEmmalynne {
+    _hidden_value = true
+  }
+  hidden_boolean FlakyAmberAli {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean BurningRedNiki {
+    _hidden_value = true
+  }
+  boolean GastricMagentaLavinia2 {
+    _hidden_value = true
+  }
+  json ForeignBronzeCoriss {
+    _hidden_value = true
+  }
+  serviceid_number HappyVioletVale {
+    _hidden_value = true
+  }
+  RussianCyanFelipa2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  UgliestYellowZara = 90
+  TurkishPurpleMoyra2 = 190
+  AwfulAquamarineBernete = 122
+  HeavyChocolateDavina = "Why would the tomato blush? Because it saw the salad dressing."
+  SplendidBlueCatie = 930
+  CreativeJadeKania2 = 634
+  _hidden_value = true
+}

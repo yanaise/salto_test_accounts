@@ -1,0 +1,77 @@
+type d1.RidiculousMoccasinLiz {
+  annotations {
+    json LengthySapphireRania5 {
+    }
+    number IndustrialBrownDannie {
+    }
+    string ImperialLavenderKaterine5 {
+    }
+    boolean WeirdSilverRoze3 {
+    }
+    string MajorBlushClair {
+    }
+  }
+  serviceid SymbolicPurpleNadiya3 {
+    _hidden_value = true
+  }
+  number ObjectiveOrangeMamie {
+    _hidden_value = true
+  }
+  boolean SportingSilverRyann {
+    _hidden_value = true
+  }
+  string PeculiarPlumMichelina4 {
+    _hidden_value = true
+  }
+  serviceid MilitaryChocolateDarline {
+    _hidden_value = true
+  }
+  json SeparateCopperDoroteya {
+    _hidden_value = true
+  }
+  serviceid_number SparklingTurquoiseTildi2 {
+    _hidden_value = true
+  }
+  boolean AngryAquamarineBenedikta2 {
+    _hidden_value = true
+  }
+  number ClearBlushCinnamon3 {
+    _hidden_value = true
+  }
+  hidden_boolean ModernAmethystAmeline5 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.FashionableSapphireRenae FatAmaranthAbigale5 {
+    RealBlushClarie = 486
+    WholeBronzeClotilda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    UnitedCopperEddi = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RearPurpleMuire = "Why would the tomato blush? Because it saw the salad dressing."
+    GeographicalPeachMarlena = 104
+    EventualTanSharona = false
+    PureGrayHenryetta = "I'll tell you what often gets over looked... garden fences."
+    SymbolicPurpleNadia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RespectiveSalmonPerry = "How come the stadium got hot after the game? Because all of the fans left."
+    DeepChocolateDelora = "Why was it called the dark ages? Because of all the knights. "
+    RattyWhiteWenda = 675
+    RareWhiteWaly = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    UrgentLimeKristy = false
+    _hidden_value = true
+  }
+  string WorkingCrimsonEmmaline2 {
+    _hidden_value = true
+  }
+  serviceid ProvincialPeachMarita4 {
+    _hidden_value = true
+  }
+  json WeakFuchsiaGayleen {
+    _hidden_value = true
+  }
+  LengthySapphireRania5 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  IndustrialBrownDannie = 196
+  ImperialLavenderKaterine5 = "A steak pun is a rare medium well done."
+  WeirdSilverRoze3 = false
+  MajorBlushClair = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

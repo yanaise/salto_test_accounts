@@ -1,0 +1,62 @@
+type d1.GreekIndigoJoana4 {
+  annotations {
+    boolean MysteriousAzureBonita3 {
+    }
+    string AnxiousHarlequinJanka2 {
+    }
+    d1.EntitledIvoryJuliann FavourablePinkMercedes {
+    }
+    d1.TightIvoryJoelly FullBlushChristen2 {
+    }
+    boolean ShrillApricotAntonella2 {
+    }
+    number BlindIvoryJudi8 {
+    }
+    boolean HomelessSilverSalome2 {
+    }
+    number NumerousHarlequinJanaye5 {
+    }
+    d1.FaintAmethystAnica AfraidAquamarineBenedetta3 {
+    }
+    d1.ComingSilverSammy2 LongBlueChelsy3 {
+    }
+    string InlandSalmonPrudi {
+    }
+    serviceid_number EagerBeigeCandie {
+    }
+    number LittleAmaranthAdey {
+    }
+    serviceid_number FamiliarCrimsonEthel3 {
+    }
+    serviceid_number GayOrangeMarigold2 {
+    }
+    json ThenSalmonPhilomena3 {
+    }
+    hidden_boolean IntellectualJadeKalila3 {
+    }
+    serviceid_number TastelessAquaAshlee3 {
+    }
+    hidden_boolean GreatBlueCharis2 {
+    }
+    serviceid_number BlueVioletTorrie {
+    }
+    serviceid_number StrictLavenderKatha4 {
+    }
+  }
+  MysteriousAzureBonita3 = false
+  AnxiousHarlequinJanka2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FavourablePinkMercedes = file("UnwillingTanShelby2.txt")
+  ShrillApricotAntonella2 = true
+  BlindIvoryJudi8 = 212
+  HomelessSilverSalome2 = true
+  NumerousHarlequinJanaye5 = 175
+  InlandSalmonPrudi = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  EagerBeigeCandie = 902
+  LittleAmaranthAdey = 228
+  FamiliarCrimsonEthel3 = 712
+  GayOrangeMarigold2 = 37
+  ThenSalmonPhilomena3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  TastelessAquaAshlee3 = 22
+  BlueVioletTorrie = 230
+  StrictLavenderKatha4 = 326
+}

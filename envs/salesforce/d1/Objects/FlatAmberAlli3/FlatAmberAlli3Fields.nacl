@@ -1,0 +1,92 @@
+type d1.FlatAmberAlli3 {
+  hidden_boolean AwfulAquamarineBernelle6 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ChristianCoralElva2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string LesserMoccasinLucy2 {
+  }
+  hidden_boolean LevelJadeKameko5 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  string QuickAmethystAmitie {
+  }
+  json FascinatingOrangeMargareta {
+  }
+  number ArtisticPeachMathilda3 {
+  }
+  serviceid IllAzureBobbee5 {
+  }
+  boolean UncertainMagentaLelah3 {
+  }
+  string PaleGrayHarriett5 {
+  }
+  d1.FarBlushChristin SpiritualLavenderKatrinka4 {
+  }
+  boolean SatisfactoryLimeKrissy8 {
+  }
+  hidden_boolean BindingSalmonPetrina2 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  number ElderlyEmeraldFlorencia2 {
+  }
+  json FragileTealSonia3 {
+  }
+  d1.NarrowCyanFannie CoolAmaranthAinsley5 {
+    DistinguishedPurpleNatasha = 27
+    EmotionalGrayHermione = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    IncreasingCyanEvita = 533
+    MildOliveMadalyn = 277
+  }
+  "List<string>" YellowYellowZonnya2 {
+  }
+  serviceid_number FemaleCrimsonEmmey3 {
+  }
+  json EmptyCyanFancy2 {
+  }
+  serviceid DependentGrayHazel {
+  }
+  boolean HandsomeOliveMaitilde2 {
+  }
+  serviceid ScreechingApricotAnthiathia {
+  }
+  d1.ExistingCoffeeDeva AmateurSalmonPia5 {
+    PetiteAmaranthAdrianna = "Why is Peter Pan always flying? Because he Neverlands."
+    ExtraordinaryIndigoJessy = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    HonChocolateDaveen = false
+    ProfoundPinkMerla = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    UpperCyanFaunie = "Whoever invented the knock-knock joke should get a no bell prize."
+    LegalBrownDahlia = 477
+    FeministPlumMina = "Im only familiar with 25 letters in the English language. I dont know why."
+    RelaxedPlumMinni = 339
+    FilthyTurquoiseTera2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    RareEmeraldFlorentia = 398
+    EducationalCrimsonEryn = 261
+  }
+  hidden_boolean SafeCopperDorey3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean DailyCyanEvelina2 {
+  }
+  hidden_boolean StraightforwardMaroonLeyla4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" GentleIndigoJobye3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+}

@@ -1,0 +1,48 @@
+type d1.WeirdSilverRozele {
+  annotations {
+    serviceid SillyBlueCathlene {
+    }
+    number PleasedEmeraldGabriell {
+    }
+    string FarBlushChristiana {
+    }
+  }
+  number AnnualCoffeeDonny {
+    _hidden_value = true
+  }
+  hidden_boolean GloriousScarletRosanna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MagentaWhiteVelma {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string OpenBronzeClio {
+    _hidden_value = true
+  }
+  json JustMaroonLissi {
+    _hidden_value = true
+  }
+  json EndlessPeachMarjorie {
+    _hidden_value = true
+  }
+  serviceid AngryAquamarineBenedicta {
+    _hidden_value = true
+  }
+  number InterestingChocolateDelphine2 {
+    _hidden_value = true
+  }
+  json DramaticGoldHadria {
+    _hidden_value = true
+  }
+  serviceid_number StingyYellowWinnah {
+    _hidden_value = true
+  }
+  SillyBlueCathlene = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PleasedEmeraldGabriell = 134
+  FarBlushChristiana = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

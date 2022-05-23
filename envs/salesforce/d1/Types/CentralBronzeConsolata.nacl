@@ -1,0 +1,88 @@
+type d1.CentralBronzeConsolata {
+  annotations {
+    json CombativeAquamarineBerte {
+    }
+    number ThoroughScarletRona2 {
+    }
+    json TerribleEmeraldFredia {
+    }
+    string ProfessionalChocolateDdene {
+    }
+    number SymbolicPurpleNadiya2 {
+    }
+  }
+  d1.BindingSalmonPeta TastyAquaAshlie2 {
+    UsedFuchsiaGeorgeanne = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ExplicitMaroonLisbeth = true
+    RelievedSalmonPetronilla = false
+    ModestLavenderKelsey = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SwiftAmethystAnastasie = 90
+    WarmCopperDusty = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ComfortableGoldGriselda = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    RetiredSilverSarah = 13
+    EducationalCrimsonErnestine = 97
+    MobilePurpleMorna = "Whoever invented the knock-knock joke should get a no bell prize."
+    BoringPeachMarnie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    BizarreTanSeka = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    LovelyBlackCassandre = "What did one nut say as he chased another nut?  I'm a cashew!"
+    FellowJadeJustinn = "A steak pun is a rare medium well done."
+    ColourfulScarletRosalia = "Why would the tomato blush? Because it saw the salad dressing."
+    RelaxedPlumMinnnie = "Slept like a log last night  woke up in the fireplace."
+    GeneralBlushChristan = false
+    _hidden_value = true
+  }
+  string AdministrativeGreenHoney {
+    _hidden_value = true
+  }
+  hidden_boolean SaltyApricotArlena {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json ConfusedAquamarineBertine2 {
+    _hidden_value = true
+  }
+  serviceid ArchitecturalRosePatrica3 {
+    _hidden_value = true
+  }
+  json FantasticBlackCarlotta {
+    _hidden_value = true
+  }
+  json EthnicLavenderKayla {
+    _hidden_value = true
+  }
+  serviceid AshamedAquamarineBernadette {
+    _hidden_value = true
+  }
+  serviceid RegulatorySalmonQuintana4 {
+    _hidden_value = true
+  }
+  string ReligiousCoralElectra {
+    _hidden_value = true
+  }
+  serviceid_number RapidGrayHilda {
+    _hidden_value = true
+  }
+  serviceid_number ForthcomingPeachMarrissa2 {
+    _hidden_value = true
+  }
+  number RapidAmethystAmmamaria {
+    _hidden_value = true
+  }
+  hidden_boolean PlainIndigoJewel {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number OutdoorSilverSarita {
+    _hidden_value = true
+  }
+  CombativeAquamarineBerte = "I'll tell you what often gets over looked... garden fences."
+  ThoroughScarletRona2 = 633
+  TerribleEmeraldFredia = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ProfessionalChocolateDdene = "Why is Peter Pan always flying? Because he Neverlands."
+  SymbolicPurpleNadiya2 = 163
+  _hidden_value = true
+}

@@ -1,0 +1,88 @@
+type d1.EventualTanSharona2 {
+  annotations {
+    hidden_boolean SubstantialCoralElsie {
+    }
+    hidden_boolean FrozenScarletRosabel {
+    }
+    boolean SemanticRedNinnetta {
+    }
+    boolean ClassicalHarlequinJacklyn {
+    }
+    number LonelyOliveLydie {
+    }
+    serviceid NosyWhiteVicky {
+    }
+  }
+  number SpicyAquaArlina {
+    _hidden_value = true
+  }
+  serviceid_number GeographicalPeachMarlena2 {
+    _hidden_value = true
+  }
+  "List<d1.DEFAULT>" SwissPlumMiguela {
+    _hidden_value = true
+  }
+  number LovelyCoralElly2 {
+    _hidden_value = true
+  }
+  serviceid_number RegularCopperDorthy {
+    _hidden_value = true
+  }
+  json SuddenGoldGusty2 {
+    _hidden_value = true
+  }
+  serviceid BroadCoralElisabetta {
+    _hidden_value = true
+  }
+  boolean MonetaryIvoryJoey2 {
+    _hidden_value = true
+  }
+  hidden_boolean WellFuchsiaGisele {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number CentralBronzeConni {
+    _hidden_value = true
+  }
+  serviceid_number IndependentChocolateDelinda {
+    _hidden_value = true
+  }
+  boolean MightyWhiteVeriee2 {
+    _hidden_value = true
+  }
+  number ImperialLavenderKath {
+    _hidden_value = true
+  }
+  json SoleLimeKirstyn {
+    _hidden_value = true
+  }
+  json DifficultTealSimone {
+    _hidden_value = true
+  }
+  serviceid_number NorthernCoralElectra {
+    _hidden_value = true
+  }
+  serviceid_number PreparedCyanFelicdad {
+    _hidden_value = true
+  }
+  d1.StatutoryGrayHarriette AutonomousScarletRoobbie {
+    BeneficialPlumMonika = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    PossibleBlushCheryl = "A steak pun is a rare medium well done."
+    SpotlessTurquoiseTilly = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SadYellowWilletta = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    RottenApricotArielle = "What do you do on a remote island? Try and find the TV island it belongs to."
+    WetGrayHedi = true
+    PrettyWhiteVirgie = false
+    NetGoldGlen = 864
+    FreeBronzeCody = 860
+    _hidden_value = true
+  }
+  SemanticRedNinnetta = false
+  ClassicalHarlequinJacklyn = true
+  LonelyOliveLydie = 786
+  NosyWhiteVicky = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

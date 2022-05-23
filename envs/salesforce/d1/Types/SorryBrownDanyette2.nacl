@@ -1,0 +1,95 @@
+type d1.SorryBrownDanyette2 {
+  annotations {
+    d1.DEFAULT SteepAmethystAlys {
+    }
+    d1.DEFAULT UnfairMaroonLilia2 {
+    }
+    serviceid DutchLavenderKendra2 {
+    }
+    number JudicialJadeKarita {
+    }
+    json IsolatedPeachMarjory2 {
+    }
+  }
+  json CrazyTealSibyl {
+    _hidden_value = true
+  }
+  hidden_boolean SoundAmethystAngelika3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SensibleIvoryJordana2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean RaspyApricotAnnora {
+    _hidden_value = true
+  }
+  serviceid DifferentTealSilvie {
+    _hidden_value = true
+  }
+  serviceid ImprovedMagentaLarisa {
+    _hidden_value = true
+  }
+  serviceid_number MajorBlushClara {
+    _hidden_value = true
+  }
+  serviceid_number OpenBronzeCleopatra {
+    _hidden_value = true
+  }
+  number RubberSilverSarene {
+    _hidden_value = true
+  }
+  boolean MagnificentWhiteVanny {
+    _hidden_value = true
+  }
+  boolean CombinedOliveMaighdiln3 {
+    _hidden_value = true
+  }
+  serviceid_number ColdAmaranthAimee2 {
+    _hidden_value = true
+  }
+  boolean MentalCrimsonEsmeralda {
+    _hidden_value = true
+  }
+  serviceid MobilePurpleMorna2 {
+    _hidden_value = true
+  }
+  serviceid_number MoralCyanFeliza {
+    _hidden_value = true
+  }
+  hidden_boolean TerribleEmeraldFredrika2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.ProvincialPeachMarita SuitableCrimsonEmilee {
+    FineBlackCarlyn = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    OldAmethystAmi = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    VariedRedNorah = true
+    ShakyAquaAyn = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    _hidden_value = true
+  }
+  serviceid_number FashionableSapphireRenate {
+    _hidden_value = true
+  }
+  string PreciousOrangeMariele2 {
+    _hidden_value = true
+  }
+  SteepAmethystAlys = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  UnfairMaroonLilia2 = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  DutchLavenderKendra2 = "How come the stadium got hot after the game? Because all of the fans left."
+  JudicialJadeKarita = 281
+  IsolatedPeachMarjory2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

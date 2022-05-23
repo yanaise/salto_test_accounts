@@ -1,0 +1,43 @@
+type d1.DeafIvoryJourdan2 {
+  string RandomMoccasinLorelle2 {
+  }
+  "List<boolean>" ConvincingSalmonPeggy5 {
+  }
+  json HappyBrownDaisy3 {
+  }
+  hidden_boolean VulnerableJadeKarola4 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid BalancedSilverRosita4 {
+  }
+  "Map<string>" DearGoldGlennie3 {
+  }
+  boolean ExtendedPlumMilissent3 {
+  }
+  boolean OrangeWhiteViolante2 {
+  }
+  hidden_boolean CooingAmethystAngelique5 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  boolean ArbitrarySilverRoxane6 {
+  }
+  serviceid_number JealousAzureBobby3 {
+  }
+  number LiquidRosePaige4 {
+  }
+  string InfluentialMoccasinLorene4 {
+  }
+  serviceid OutstandingIndigoJenine3 {
+  }
+  hidden_boolean MightyTanShandie4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json VulnerableJadeKarol {
+  }
+}

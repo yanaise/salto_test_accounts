@@ -1,0 +1,64 @@
+type d1.InformalLavenderKathi3 {
+  annotations {
+    d1.EldestTanSharlene ObligedOrangeMarcelline5 {
+    }
+    serviceid_number PeacefulOrangeMargret3 {
+    }
+    serviceid_number StrategicIndigoJeannine2 {
+    }
+    string ItalianGoldGray5 {
+    }
+    serviceid_number TameTomatoSusannah7 {
+    }
+    hidden_boolean WhisperingApricotArdelia3 {
+    }
+    string NecessaryBronzeCookie2 {
+    }
+    number DullTurquoiseTawsha3 {
+    }
+    serviceid_number PaleGrayHarrietta4 {
+    }
+    json WanderingTomatoSuzann3 {
+    }
+    boolean DramaticGoldHaily4 {
+    }
+    serviceid CommercialCopperDoretta {
+    }
+    number FatIvoryJoellen3 {
+    }
+    boolean ResponsibleCoffeeDevi4 {
+    }
+    boolean DeliberateRedNoelle6 {
+    }
+    hidden_boolean SocialBlueCharmion5 {
+    }
+    d1.RussianCyanFelicity ExcitedOrangeMarion6 {
+    }
+    json LightCopperDulciana3 {
+    }
+    boolean EncouragingLimeLacy2 {
+    }
+    number BeautifulCoffeeDixie2 {
+    }
+    serviceid FavouriteHarlequinJacquelyn {
+    }
+  }
+  PeacefulOrangeMargret3 = 463
+  StrategicIndigoJeannine2 = 436
+  ItalianGoldGray5 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  TameTomatoSusannah7 = 135
+  NecessaryBronzeCookie2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DullTurquoiseTawsha3 = 470
+  PaleGrayHarrietta4 = 235
+  WanderingTomatoSuzann3 = "Why would the tomato blush? Because it saw the salad dressing."
+  DramaticGoldHaily4 = true
+  CommercialCopperDoretta = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FatIvoryJoellen3 = 337
+  ResponsibleCoffeeDevi4 = true
+  DeliberateRedNoelle6 = false
+  ExcitedOrangeMarion6 = file("PainfulMaroonLilly5.txt")
+  LightCopperDulciana3 = "What do you call two barracuda fish?  A Pairacuda!"
+  EncouragingLimeLacy2 = true
+  BeautifulCoffeeDixie2 = 35
+  FavouriteHarlequinJacquelyn = "My first time using an elevator was an uplifting experience. The second time let me down."
+}

@@ -1,0 +1,35 @@
+type d1.ContinentalOliveMagdalene {
+  annotations {
+    serviceid_number CompleteCoffeeDevinne {
+    }
+    string WoodenAquamarineBellanca {
+    }
+    d1.KeenGrayHannah MushyWhiteVerina {
+    }
+    serviceid LargeAmaranthAdeline2 {
+    }
+    number SpanishGreenIona {
+    }
+  }
+  string UnconsciousSapphireRaychel {
+    _hidden_value = true
+  }
+  serviceid_number CalmPurpleNanci {
+    _hidden_value = true
+  }
+  json MagicOrangeManya {
+    _hidden_value = true
+  }
+  serviceid_number SurroundingOrangeMargette2 {
+    _hidden_value = true
+  }
+  json LovelyBlackCassandry {
+    _hidden_value = true
+  }
+  CompleteCoffeeDevinne = 800
+  WoodenAquamarineBellanca = "Why do birds fly south for the winter? Because it's too far to walk."
+  MushyWhiteVerina = false
+  LargeAmaranthAdeline2 = "I'll tell you what often gets over looked... garden fences."
+  SpanishGreenIona = 190
+  _hidden_value = true
+}

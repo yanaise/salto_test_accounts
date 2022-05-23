@@ -1,0 +1,79 @@
+type d1.GiantMoccasinLottie {
+  annotations {
+    serviceid CloseBrownCortney2 {
+    }
+    number DelightedIvoryJulianna {
+    }
+    serviceid CrudePlumMil2 {
+    }
+    hidden_boolean NormalBrownDamaris {
+    }
+  }
+  json FunOrangeMarcille2 {
+    _hidden_value = true
+  }
+  boolean GrossLavenderKetti2 {
+    _hidden_value = true
+  }
+  boolean TragicRosePaulita2 {
+    _hidden_value = true
+  }
+  serviceid_number LuckyBlackCassaundra {
+    _hidden_value = true
+  }
+  string ConvenientMagentaLeesa {
+    _hidden_value = true
+  }
+  boolean EvilPeachMaurene {
+    _hidden_value = true
+  }
+  json OrangeWhiteViolante {
+    _hidden_value = true
+  }
+  hidden_boolean SuccessfulBlueCatrina {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.ExtraCoffeeDianemarie PureGrayHenriette {
+    _hidden_value = true
+  }
+  json YoungAmethystAnatola {
+    _hidden_value = true
+  }
+  hidden_boolean PartialOliveLyndell {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean WetAmberAlicia {
+    _hidden_value = true
+  }
+  number LabourBrownDaffie {
+    _hidden_value = true
+  }
+  string DevelopedPinkMeris {
+    _hidden_value = true
+  }
+  serviceid ThoughtlessBeigeBrinna2 {
+    _hidden_value = true
+  }
+  string HollowAmberAllissa {
+    _hidden_value = true
+  }
+  number MelodicApricotAnnamaria {
+    _hidden_value = true
+  }
+  hidden_boolean SoftAquamarineBarby {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number OverwhelmingPurpleMyrna2 {
+    _hidden_value = true
+  }
+  CloseBrownCortney2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  DelightedIvoryJulianna = 409
+  CrudePlumMil2 = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

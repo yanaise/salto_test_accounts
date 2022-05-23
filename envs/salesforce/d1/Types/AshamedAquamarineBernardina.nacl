@@ -1,0 +1,140 @@
+type d1.AshamedAquamarineBernardina {
+  annotations {
+    serviceid MistyTurquoiseThekla {
+    }
+    serviceid UncertainMagentaLelia {
+    }
+    number RulingLimeKippie {
+    }
+    serviceid_number BreakableTealShirl {
+    }
+    hidden_boolean RoundIvoryJohna {
+    }
+  }
+  string LateBlushChristabella {
+    _hidden_value = true
+  }
+  d1.DEFAULT WildCyanEyde {
+    _hidden_value = true
+  }
+  number TightAquamarineBee2 {
+    _hidden_value = true
+  }
+  serviceid_number RespectiveSalmonPersis {
+    _hidden_value = true
+  }
+  string ColossalAmaranthAbbie {
+    _hidden_value = true
+  }
+  boolean FavourablePinkMercie {
+    _hidden_value = true
+  }
+  json CoastalPlumMichal2 {
+    _hidden_value = true
+  }
+  d1.LowBlushChristy RipeApricotAridatha {
+    ExplicitMaroonLisetta2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    UnevenAquamarineBeitris = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    TameTomatoSusette = "I'll tell you what often gets over looked... garden fences."
+    KindOrangeMaribeth = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    BrokenAmaranthAilee = 444
+    RelievedSalmonPetronia = false
+    ComplexCopperDrucie = "My first time using an elevator was an uplifting experience. The second time let me down."
+    PublicBlushChrysler = true
+    AverageCoralElysha = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    EntireEmeraldFranciska = 263
+    CurrentBrownDacey = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    _hidden_value = true
+  }
+  string LoyalPurpleNat {
+    _hidden_value = true
+  }
+  boolean UnexpectedMagentaLaureen {
+    _hidden_value = true
+  }
+  boolean MelodicApricotAnnaliese {
+    _hidden_value = true
+  }
+  hidden_boolean SweetGreenHollyanne {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean IrrelevantPurpleNancy {
+    _hidden_value = true
+  }
+  string EagerBeigeCandis {
+    _hidden_value = true
+  }
+  json ColouredMaroonLivia {
+    _hidden_value = true
+  }
+  hidden_boolean RivalPurpleNara2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number MarineMagentaLeoline {
+    _hidden_value = true
+  }
+  number GrotesqueTurquoiseTerza {
+    _hidden_value = true
+  }
+  serviceid_number BrightTomatoTamarah {
+    _hidden_value = true
+  }
+  d1.DEFAULT CheerfulSapphireRhodie {
+    _hidden_value = true
+  }
+  json FragileTealSondra2 {
+    _hidden_value = true
+  }
+  number SimilarBronzeConstance {
+    _hidden_value = true
+  }
+  d1.DEFAULT PresidentialLimeKrystalle {
+    _hidden_value = true
+  }
+  serviceid_number ConcernedTealSibella {
+    _hidden_value = true
+  }
+  number TroubledBeigeBrittani {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ExperiencedMagentaLauralee {
+    _hidden_value = true
+  }
+  d1.DEFAULT SupposedCyanFarrand {
+    _hidden_value = true
+  }
+  boolean SubtleMoccasinLuciana {
+    _hidden_value = true
+  }
+  json DoubtfulTealSioux {
+    _hidden_value = true
+  }
+  serviceid LevelJadeKameko2 {
+    _hidden_value = true
+  }
+  json EthicalScarletRobenia {
+    _hidden_value = true
+  }
+  json ParticularBlushClaudelle {
+    _hidden_value = true
+  }
+  hidden_boolean StaleAquaArline {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FilthyAmberAlexine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  MistyTurquoiseThekla = "How come the stadium got hot after the game? Because all of the fans left."
+  UncertainMagentaLelia = "I'll tell you what often gets over looked... garden fences."
+  RulingLimeKippie = 457
+  BreakableTealShirl = 240
+  _hidden_value = true
+}

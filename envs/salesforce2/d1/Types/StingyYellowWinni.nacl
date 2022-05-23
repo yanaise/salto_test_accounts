@@ -1,0 +1,88 @@
+type d1.StingyYellowWinni {
+  annotations {
+    string MiniatureAmaranthAdriana4 {
+    }
+    hidden_boolean TraditionalChocolateDeirdre3 {
+    }
+    json IsraeliPinkMerilee3 {
+    }
+    number RainyWhiteWalliw2 {
+    }
+    string BadBlushCicily3 {
+    }
+    number WetAmberAlicea {
+    }
+    string DeadTealSile3 {
+    }
+  }
+  d1.DEFAULT SpecialBronzeClea {
+    _hidden_value = true
+  }
+  json CleverJadeKarena {
+    _hidden_value = true
+  }
+  json MidPinkMelisent2 {
+    _hidden_value = true
+  }
+  d1.ExtremeHarlequinJackelyn SelectiveRedNorrie3 {
+    IncCrimsonErmentrude = 716
+    AlliedPlumMisti = true
+    InternalCoralEdy = "I'll tell you what often gets over looked... garden fences."
+    DevelopedPinkMerilyn = 903
+    CrookedAmberAlisha = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AmericanBronzeCorrianne = 221
+    TragicRosePaulita = 205
+    ConceptualTanShelagh = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    StrangeTurquoiseTimmie = "Im only familiar with 25 letters in the English language. I dont know why."
+    NastyWhiteVeronica = "Whoever invented the knock-knock joke should get a no bell prize."
+    OldAmethystAmie = 980
+    _hidden_value = true
+  }
+  number LeftCoffeeDenys4 {
+    _hidden_value = true
+  }
+  serviceid_number DampMoccasinLorrin {
+    _hidden_value = true
+  }
+  serviceid ThickEmeraldFilide {
+    _hidden_value = true
+  }
+  number NearFuchsiaGerianne4 {
+    _hidden_value = true
+  }
+  hidden_boolean IdenticalLimeKorney3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number FaintAmethystAnia2 {
+    _hidden_value = true
+  }
+  serviceid LongAmethystAme3 {
+    _hidden_value = true
+  }
+  string SmoothAquamarineBarbey3 {
+    _hidden_value = true
+  }
+  d1.EntitledIvoryJuliann SubjectiveSapphireRhonda3 {
+    _hidden_value = true
+  }
+  boolean BlindIvoryJudi7 {
+    _hidden_value = true
+  }
+  json DeadTealSile4 {
+    _hidden_value = true
+  }
+  serviceid RealisticMoccasinLolly {
+    _hidden_value = true
+  }
+  MiniatureAmaranthAdriana4 = "Why was it called the dark ages? Because of all the knights. "
+  IsraeliPinkMerilee3 = "Why was it called the dark ages? Because of all the knights. "
+  RainyWhiteWalliw2 = 427
+  BadBlushCicily3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  WetAmberAlicea = 536
+  DeadTealSile3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

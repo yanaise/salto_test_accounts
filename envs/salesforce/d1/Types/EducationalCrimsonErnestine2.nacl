@@ -1,0 +1,89 @@
+type d1.EducationalCrimsonErnestine2 {
+  annotations {
+    serviceid SplendidBlueCatina {
+    }
+    json LongVioletVan2 {
+    }
+    d1.DEFAULT EndlessPeachMarji {
+    }
+    number ZealousBlueCelestina {
+    }
+    hidden_boolean SlowCyanEugenie4 {
+    }
+    boolean PersistentRosePam2 {
+    }
+  }
+  serviceid ProfessionalChocolateDayna3 {
+    _hidden_value = true
+  }
+  hidden_boolean FlutteringAquaAstrix {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean FilthyTurquoiseTera4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number WesternChocolateDeeyn {
+    _hidden_value = true
+  }
+  serviceid WetAmberAlicia2 {
+    _hidden_value = true
+  }
+  hidden_boolean PowerfulTomatoStephanie3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json SatisfiedHarlequinJean {
+    _hidden_value = true
+  }
+  string WrittenGreenIvonne2 {
+    _hidden_value = true
+  }
+  json TheoreticalIndigoJenifer2 {
+    _hidden_value = true
+  }
+  hidden_boolean BusyCyanFayth {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number CloudyTomatoTana {
+    _hidden_value = true
+  }
+  serviceid OfficialCopperDoro {
+    _hidden_value = true
+  }
+  d1.DEFAULT SelectiveRedNorri2 {
+    _hidden_value = true
+  }
+  string MedicalCoffeeDevondra {
+    _hidden_value = true
+  }
+  json ShortAmaranthAg {
+    _hidden_value = true
+  }
+  boolean FrightenedAzureBlair2 {
+    _hidden_value = true
+  }
+  serviceid BriefEmeraldFlorri {
+    _hidden_value = true
+  }
+  serviceid StickyAquamarineBeatriz {
+    _hidden_value = true
+  }
+  string AtomicScarletRorie3 {
+    _hidden_value = true
+  }
+  SplendidBlueCatina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  LongVioletVan2 = "Why would the kid cross the playground? To get to the other slide."
+  EndlessPeachMarji = {
+    legit = "Why is Peter Pan always flying? Because he Neverlands."
+  }
+  ZealousBlueCelestina = 428
+  PersistentRosePam2 = true
+  _hidden_value = true
+}

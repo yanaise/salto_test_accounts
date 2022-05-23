@@ -1,0 +1,37 @@
+type d1.GentleIndigoJobyna2 {
+  annotations {
+    serviceid_number ImmenseAmaranthAdele {
+    }
+    boolean StrictLavenderKatharina2 {
+    }
+    serviceid_number MilitaryChocolateDarlene {
+    }
+    serviceid EquivalentJadeKakalina {
+    }
+    json MelodicApricotAnnalise {
+    }
+    hidden_boolean FantasticSapphireRegine {
+    }
+    string FancyTurquoiseTeena {
+    }
+  }
+  string ParliamentaryFuchsiaGerty {
+    _hidden_value = true
+  }
+  serviceid_number AliveFuchsiaGilligan2 {
+    _hidden_value = true
+  }
+  boolean DevelopedPinkMeris2 {
+    _hidden_value = true
+  }
+  serviceid_number BoldPlumMinna {
+    _hidden_value = true
+  }
+  ImmenseAmaranthAdele = 294
+  StrictLavenderKatharina2 = true
+  MilitaryChocolateDarlene = 822
+  EquivalentJadeKakalina = "Did you know that protons have mass? I didn't even know they were catholic."
+  MelodicApricotAnnalise = "What do you call two barracuda fish?  A Pairacuda!"
+  FancyTurquoiseTeena = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

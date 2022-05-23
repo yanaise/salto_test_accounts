@@ -1,0 +1,69 @@
+type d1.NervousHarlequinJanot {
+  annotations {
+    json DecentMoccasinLonnie2 {
+    }
+    d1.DEFAULT UrgentLimeKrysta4 {
+    }
+    json SmoggyTurquoiseTiffi {
+    }
+    hidden_boolean WastefulYellowZita2 {
+    }
+    boolean ClassicJadeKaitlyn4 {
+    }
+  }
+  serviceid_number StrictLavenderKatharine3 {
+    _hidden_value = true
+  }
+  number ContinuingGreenIrita3 {
+    _hidden_value = true
+  }
+  string EnglishBrownCourtnay {
+    _hidden_value = true
+  }
+  json SlowAmethystAnaliese4 {
+    _hidden_value = true
+  }
+  json JuicyApricotArdyth2 {
+    _hidden_value = true
+  }
+  serviceid LovelyCoralEllie5 {
+    _hidden_value = true
+  }
+  boolean FashionableSapphireRenae2 {
+    _hidden_value = true
+  }
+  string CurvedAmberAlix2 {
+    _hidden_value = true
+  }
+  serviceid_number VaryingPurpleNelli {
+    _hidden_value = true
+  }
+  serviceid VocationalTanShalna2 {
+    _hidden_value = true
+  }
+  serviceid_number PurpleScarletRiva2 {
+    _hidden_value = true
+  }
+  serviceid WrongTomatoSybil2 {
+    _hidden_value = true
+  }
+  serviceid_number PleasantIvoryJorrie2 {
+    _hidden_value = true
+  }
+  boolean TinyCyanEula4 {
+    _hidden_value = true
+  }
+  boolean ParticularBlushClaude4 {
+    _hidden_value = true
+  }
+  boolean SweetGreenHolly2 {
+    _hidden_value = true
+  }
+  DecentMoccasinLonnie2 = "Slept like a log last night  woke up in the fireplace."
+  UrgentLimeKrysta4 = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  SmoggyTurquoiseTiffi = "I'll tell you what often gets over looked... garden fences."
+  ClassicJadeKaitlyn4 = true
+  _hidden_value = true
+}

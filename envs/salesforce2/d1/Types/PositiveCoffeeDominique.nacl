@@ -1,0 +1,60 @@
+type d1.PositiveCoffeeDominique {
+  annotations {
+    json PrimitiveOrangeMargalit {
+    }
+    hidden_boolean ScornfulBeigeBrianne2 {
+    }
+    hidden_boolean WearyBeigeBrooke3 {
+    }
+    number GratefulIvoryJorey6 {
+    }
+  }
+  json ElegantMoccasinLucilia {
+    _hidden_value = true
+  }
+  string BoldPlumMinnaminnie3 {
+    _hidden_value = true
+  }
+  number FineBlackCarlye {
+    _hidden_value = true
+  }
+  serviceid_number MonthlyMaroonLinnea3 {
+    _hidden_value = true
+  }
+  number EqualCrimsonEmiline {
+    _hidden_value = true
+  }
+  string HealthyBlackCarolan {
+    _hidden_value = true
+  }
+  string MagneticPeachMavis3 {
+    _hidden_value = true
+  }
+  json OriginalChocolateDarryl2 {
+    _hidden_value = true
+  }
+  "Map<string>" QuickCoralEleonore3 {
+    _hidden_value = true
+  }
+  serviceid ClassicJadeKaitlin {
+    _hidden_value = true
+  }
+  json ConvenientMagentaLegra2 {
+    _hidden_value = true
+  }
+  d1.AlrightGoldGoldina GloriousScarletRosanne2 {
+    RivalPurpleNara = 645
+    SingleBronzeCoral = 342
+    ProfoundPinkMerlina = 669
+    RelativeGoldGui = "Why would the kid cross the playground? To get to the other slide."
+    AngryFuchsiaGilli = "How come the stadium got hot after the game? Because all of the fans left."
+    QuickestWhiteVyky = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    AgreedTanSelia = "I'll tell you what often gets over looked... garden fences."
+    IntenseLavenderKattie = true
+    ExcitingGreenIvett = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  PrimitiveOrangeMargalit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  GratefulIvoryJorey6 = 452
+  _hidden_value = true
+}

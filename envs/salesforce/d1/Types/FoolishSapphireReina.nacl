@@ -1,0 +1,41 @@
+type d1.FoolishSapphireReina {
+  annotations {
+    d1.DEFAULT BoredAquamarineBerny {
+    }
+    serviceid_number NorthernCoralEleanore {
+    }
+    json UnlikelyCrimsonEthelin2 {
+    }
+    serviceid DirtyAmberAlessandra {
+    }
+  }
+  hidden_boolean AliveTealSherri {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean LoudApricotAnnabella {
+    _hidden_value = true
+  }
+  number UncomfortablePlumModesty {
+    _hidden_value = true
+  }
+  number ResponsibleCoffeeDevan {
+    _hidden_value = true
+  }
+  string LargeAmaranthAdeline {
+    _hidden_value = true
+  }
+  hidden_boolean NoblePurpleNeala {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  BoredAquamarineBerny = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  NorthernCoralEleanore = 861
+  UnlikelyCrimsonEthelin2 = "What do you call two barracuda fish?  A Pairacuda!"
+  DirtyAmberAlessandra = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

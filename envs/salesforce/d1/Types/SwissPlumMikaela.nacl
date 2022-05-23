@@ -1,0 +1,28 @@
+type d1.SwissPlumMikaela is string {
+  annotations {
+    serviceid_number UndergroundScarletRona {
+    }
+    hidden_boolean EnormousFuchsiaGiorgia {
+    }
+    hidden_boolean PolishPinkMeridel {
+    }
+    string SatisfiedHarlequinJeana {
+    }
+    string DynamicPeachMarlyn {
+    }
+    string UselessRedNina {
+    }
+    json RegulatorySalmonQuintilla {
+    }
+    d1.DEFAULT DrivingRoseOralle {
+    }
+  }
+  UndergroundScarletRona = 159
+  SatisfiedHarlequinJeana = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DynamicPeachMarlyn = "What do you do on a remote island? Try and find the TV island it belongs to."
+  UselessRedNina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RegulatorySalmonQuintilla = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  DrivingRoseOralle = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+}

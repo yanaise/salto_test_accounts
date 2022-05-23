@@ -1,0 +1,69 @@
+type d1.AmateurSalmonPier2 {
+  annotations {
+    json DisastrousScarletRochelle2 {
+    }
+    serviceid CrowdedTomatoTani3 {
+    }
+    string FunnyBlackCarmelia2 {
+    }
+  }
+  serviceid UpsetOliveMabel5 {
+    _hidden_value = true
+  }
+  serviceid DeterminedBeigeCandida2 {
+    _hidden_value = true
+  }
+  hidden_boolean CarefulCyanFerdinande2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number UnlikelyCrimsonEthelda2 {
+    _hidden_value = true
+  }
+  serviceid_number OkSapphireRhianon2 {
+    _hidden_value = true
+  }
+  number TropicalOliveLydia2 {
+    _hidden_value = true
+  }
+  hidden_boolean AssistantOliveLynnelle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PunyAmaranthAdrienne {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string GentleBlackCarmelita3 {
+    _hidden_value = true
+  }
+  hidden_boolean ToughGoldGlennie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string NervousHarlequinJany {
+    _hidden_value = true
+  }
+  serviceid_number NeighbouringPurpleNana2 {
+    _hidden_value = true
+  }
+  number MentalCrimsonEssa {
+    _hidden_value = true
+  }
+  hidden_boolean ThenSalmonPhylis2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json NeutralPeachMaryrose2 {
+    _hidden_value = true
+  }
+  DisastrousScarletRochelle2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  CrowdedTomatoTani3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  FunnyBlackCarmelia2 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

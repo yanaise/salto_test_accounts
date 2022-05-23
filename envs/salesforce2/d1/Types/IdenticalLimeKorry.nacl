@@ -1,0 +1,46 @@
+type d1.IdenticalLimeKorry {
+  annotations {
+    boolean LivelyPeachMarylin {
+    }
+    number CrudePlumMil3 {
+    }
+    serviceid SharedPinkMelessa {
+    }
+    hidden_boolean RequiredMaroonLeticia2 {
+    }
+    hidden_boolean ImaginativeTanSeline4 {
+    }
+    serviceid NastyWhiteVeronica3 {
+    }
+  }
+  json CasualOliveLusa3 {
+    _hidden_value = true
+  }
+  number FoolishSapphireReina4 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" ScaredSalmonRafaelita3 {
+    _hidden_value = true
+  }
+  d1.ExtremeHarlequinJackelyn MaximumGreenImelda {
+    IncCrimsonErmentrude = 0
+    AlliedPlumMisti = true
+    InternalCoralEdy = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DevelopedPinkMerilyn = 446
+    CrookedAmberAlisha = "Whoever invented the knock-knock joke should get a no bell prize."
+    AmericanBronzeCorrianne = 451
+    TragicRosePaulita = 319
+    ConceptualTanShelagh = {
+      legit = "How come the stadium got hot after the game? Because all of the fans left."
+    }
+    StrangeTurquoiseTimmie = "Why was it called the dark ages? Because of all the knights. "
+    NastyWhiteVeronica = "Im only familiar with 25 letters in the English language. I dont know why."
+    OldAmethystAmie = 700
+    _hidden_value = true
+  }
+  LivelyPeachMarylin = true
+  CrudePlumMil3 = 181
+  SharedPinkMelessa = "To be Frank, I'd have to change my name."
+  NastyWhiteVeronica3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

@@ -1,0 +1,67 @@
+type d1.ScaredSapphireRahal4 {
+  annotations {
+    string TechnicalCopperEdee5 {
+    }
+    serviceid_number UncertainMagentaLelia3 {
+    }
+    d1.LongAmaranthAdina CurrentBrownDacey3 {
+    }
+    string PricklyAquaAuroora2 {
+    }
+    json DutchLavenderKendre4 {
+    }
+    string GrievingAzureBlanca3 {
+    }
+    json NeutralPeachMarysa {
+    }
+    boolean AdequateGrayHildegarde {
+    }
+    json EverydayLimeKynthia2 {
+    }
+    json ConcernedTealSibella3 {
+    }
+    d1.EvilPeachMaurine2 NaughtyAzureBonnibelle3 {
+    }
+    d1.OrdinaryCopperEdi PromisingRedNoni2 {
+    }
+    json DisturbedAzureBeverlee2 {
+    }
+    d1.FancyTurquoiseTeirtza PreliminaryOliveLyndy2 {
+    }
+    d1.PurpleWhiteVivia2 CuteTomatoTara6 {
+    }
+    d1.PreciseIndigoJoby PermanentFuchsiaGayel3 {
+    }
+    json AccessibleOrangeMarilin3 {
+    }
+    number ReluctantMagentaLeda3 {
+    }
+    number TemporaryGrayHalie2 {
+    }
+    serviceid_number LiberalCyanFarah {
+    }
+    serviceid MutualLavenderKimberlee {
+    }
+    d1.EntitledIvoryJuliann WholeBronzeCloris2 {
+    }
+  }
+  TechnicalCopperEdee5 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  UncertainMagentaLelia3 = 587
+  CurrentBrownDacey3 = file("ElectricalLavenderKerri2.txt")
+  PricklyAquaAuroora2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DutchLavenderKendre4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  GrievingAzureBlanca3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  NeutralPeachMarysa = "Im only familiar with 25 letters in the English language. I dont know why."
+  AdequateGrayHildegarde = false
+  EverydayLimeKynthia2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ConcernedTealSibella3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  PromisingRedNoni2 = file("EncouragingBlackCaresse3.txt")
+  DisturbedAzureBeverlee2 = "I'll tell you what often gets over looked... garden fences."
+  PreliminaryOliveLyndy2 = 166
+  AccessibleOrangeMarilin3 = "Dad Im hungry  Hi hungry Im dad"
+  ReluctantMagentaLeda3 = 591
+  TemporaryGrayHalie2 = 594
+  LiberalCyanFarah = 796
+  MutualLavenderKimberlee = "Slept like a log last night  woke up in the fireplace."
+  WholeBronzeCloris2 = file("FunnyEmeraldGabbey2.txt")
+}

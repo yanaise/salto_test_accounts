@@ -1,0 +1,66 @@
+type d1.FoolishSapphireReiko2 {
+  annotations {
+    serviceid UnawareSapphireReeta {
+    }
+    json MiniatureAmaranthAdriaens {
+    }
+    hidden_boolean HugeAmaranthAdelaida {
+    }
+    serviceid FaintAmethystAnita {
+    }
+    serviceid_number WetAquamarineBella {
+    }
+    number DisgustedAzureBev2 {
+    }
+  }
+  string PassingSalmonPolly2 {
+    _hidden_value = true
+  }
+  serviceid SupremeGreenIsabelita {
+    _hidden_value = true
+  }
+  serviceid_number ElectoralLimeKristina {
+    _hidden_value = true
+  }
+  serviceid RelievedBlueCatherine {
+    _hidden_value = true
+  }
+  serviceid_number RelaxedPlumMinnie {
+    _hidden_value = true
+  }
+  serviceid ProminentLavenderKelcey {
+    _hidden_value = true
+  }
+  hidden_boolean HelpfulHarlequinJanette2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string ComfortableBeigeCamellia {
+    _hidden_value = true
+  }
+  string FreeBronzeCody2 {
+    _hidden_value = true
+  }
+  number FrightenedMagentaLaverne2 {
+    _hidden_value = true
+  }
+  string FinancialBronzeCorette {
+    _hidden_value = true
+  }
+  json AcceptableGrayHelli {
+    _hidden_value = true
+  }
+  serviceid ExcessiveOliveMadelene {
+    _hidden_value = true
+  }
+  json SupportingSilverSamantha {
+    _hidden_value = true
+  }
+  UnawareSapphireReeta = "Whoever invented the knock-knock joke should get a no bell prize."
+  MiniatureAmaranthAdriaens = "How come the stadium got hot after the game? Because all of the fans left."
+  FaintAmethystAnita = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  WetAquamarineBella = 304
+  DisgustedAzureBev2 = 245
+  _hidden_value = true
+}

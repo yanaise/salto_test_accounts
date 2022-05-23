@@ -1,0 +1,56 @@
+type d1.OrthodoxSapphireRebecka {
+  annotations {
+    number UninterestedTomatoSusie {
+    }
+    hidden_boolean PassingSalmonPippy {
+    }
+    serviceid_number SecondaryFuchsiaGertruda {
+    }
+    hidden_boolean PainfulMaroonLilly3 {
+    }
+    serviceid_number ProbableSalmonPhylys2 {
+    }
+    serviceid LoudApricotAnnadiana {
+    }
+  }
+  d1.DEFAULT LovelyCoralEllissa3 {
+    _hidden_value = true
+  }
+  serviceid_number FantasticBlackCarline {
+    _hidden_value = true
+  }
+  number SkilledMoccasinLuce {
+    _hidden_value = true
+  }
+  hidden_boolean DoubleCrimsonEthyl2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json SillyIvoryJoelie {
+    _hidden_value = true
+  }
+  number JollyVioletValina2 {
+    _hidden_value = true
+  }
+  json FrozenScarletRos {
+    _hidden_value = true
+  }
+  serviceid_number ProvincialPeachMarita3 {
+    _hidden_value = true
+  }
+  boolean RoundAmberAlmeta {
+    _hidden_value = true
+  }
+  number CuddlyAmberAlayne {
+    _hidden_value = true
+  }
+  string PleasantBlackCatha2 {
+    _hidden_value = true
+  }
+  UninterestedTomatoSusie = 992
+  SecondaryFuchsiaGertruda = 359
+  ProbableSalmonPhylys2 = 992
+  LoudApricotAnnadiana = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

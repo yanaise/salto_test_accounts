@@ -1,0 +1,39 @@
+type d1.ExternalEmeraldFlorina {
+  annotations {
+    json PoisedTurquoiseThomasa {
+    }
+    hidden_boolean DrabTurquoiseTate {
+    }
+    serviceid_number FellowJadeJustinn2 {
+    }
+    number PastCoffeeDiann2 {
+    }
+    serviceid_number BigBlushCheslie {
+    }
+    serviceid_number HeavyAmethystAndromache {
+    }
+  }
+  serviceid_number SupposedCyanFarrah2 {
+    _hidden_value = true
+  }
+  serviceid_number PsychologicalIvoryJolee {
+    _hidden_value = true
+  }
+  serviceid_number PoisedTurquoiseThomasa2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT SupremeGreenIsabelle {
+    _hidden_value = true
+  }
+  hidden_boolean PublicBlushChrysler2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  PoisedTurquoiseThomasa = "Why do birds fly south for the winter? Because it's too far to walk."
+  FellowJadeJustinn2 = 598
+  PastCoffeeDiann2 = 580
+  BigBlushCheslie = 473
+  HeavyAmethystAndromache = 649
+  _hidden_value = true
+}

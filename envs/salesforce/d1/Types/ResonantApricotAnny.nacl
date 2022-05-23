@@ -1,0 +1,37 @@
+type d1.ResonantApricotAnny {
+  annotations {
+    boolean ConvincingSalmonPeggy3 {
+    }
+    number ComingSilverSande {
+    }
+    serviceid CheapCoralEdithe {
+    }
+    d1.ProvincialPeachMarita InjuredScarletRosalinde {
+    }
+    hidden_boolean ConsciousHarlequinJeane {
+    }
+  }
+  string EstablishedMagentaLeigh2 {
+    _hidden_value = true
+  }
+  serviceid_number PoliteSalmonRafa4 {
+    _hidden_value = true
+  }
+  serviceid_number HostileOrangeMarieann2 {
+    _hidden_value = true
+  }
+  string ArbitrarySilverRoxane3 {
+    _hidden_value = true
+  }
+  number ShortBronzeColleen {
+    _hidden_value = true
+  }
+  serviceid_number VivaciousBlueCecily {
+    _hidden_value = true
+  }
+  ConvincingSalmonPeggy3 = true
+  ComingSilverSande = 177
+  CheapCoralEdithe = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  InjuredScarletRosalinde = 168
+  _hidden_value = true
+}

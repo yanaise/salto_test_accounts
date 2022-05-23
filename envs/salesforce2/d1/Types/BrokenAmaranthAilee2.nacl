@@ -1,0 +1,37 @@
+type d1.BrokenAmaranthAilee2 {
+  annotations {
+    boolean ContinuousIvoryJoye {
+    }
+    serviceid DisabledHarlequinJanie2 {
+    }
+    d1.AcuteLavenderKeri NewBlueChandra {
+    }
+    d1.ProvincialPeachMarita IdenticalLimeKorrie {
+    }
+    string SatisfactoryLimeKrissy3 {
+    }
+  }
+  serviceid_number VaguePinkMeghann {
+    _hidden_value = true
+  }
+  serviceid_number InnerFuchsiaGenovera {
+    _hidden_value = true
+  }
+  number ProfoundPinkMerla2 {
+    _hidden_value = true
+  }
+  number AlertTomatoTabatha {
+    _hidden_value = true
+  }
+  hidden_boolean TroubledBeigeBrittaney {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ContinuousIvoryJoye = true
+  DisabledHarlequinJanie2 = "What creature is smarter than a talking parrot? A spelling bee."
+  NewBlueChandra = 410
+  IdenticalLimeKorrie = 75
+  SatisfactoryLimeKrissy3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

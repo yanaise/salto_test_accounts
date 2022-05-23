@@ -1,0 +1,19 @@
+type d1.JitteryVioletValeria {
+  annotations {
+    serviceid DullVioletTrish2 {
+    }
+    hidden_boolean DyingScarletRobyn2 {
+    }
+    string DisgustedAzureBev3 {
+    }
+    json CreepyAquamarineBeryle {
+    }
+  }
+  boolean MedicalCoffeeDevora {
+    _hidden_value = true
+  }
+  DullVioletTrish2 = "A steak pun is a rare medium well done."
+  DisgustedAzureBev3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CreepyAquamarineBeryle = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

@@ -1,0 +1,94 @@
+type d1.StaleAquaArline2 {
+  annotations {
+    number BareLavenderKelli5 {
+    }
+    number DefeatedAzureBetsy5 {
+    }
+    number WildCyanEvy2 {
+    }
+    string PetiteAmaranthAdrianne {
+    }
+    serviceid ResponsibleCoffeeDevi2 {
+    }
+  }
+  boolean ManualRosePaolina2 {
+    _hidden_value = true
+  }
+  serviceid CharmingBeigeCallida3 {
+    _hidden_value = true
+  }
+  json AfraidAquamarineBelvia2 {
+    _hidden_value = true
+  }
+  "List<json>" LonelyOliveLyn2 {
+    _hidden_value = true
+  }
+  json HugeCoffeeDoralynne3 {
+    _hidden_value = true
+  }
+  number PatientPurpleNannette {
+    _hidden_value = true
+  }
+  d1.DEFAULT SingleBronzeCoral5 {
+    _hidden_value = true
+  }
+  serviceid DryCyanEvaleen3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT AnxiousHarlequinJannel {
+    _hidden_value = true
+  }
+  serviceid_number EncouragingLimeLacy {
+    _hidden_value = true
+  }
+  json ManyWhiteVera2 {
+    _hidden_value = true
+  }
+  json FollowingBrownCynthea2 {
+    _hidden_value = true
+  }
+  string AbsentPinkMelosa3 {
+    _hidden_value = true
+  }
+  serviceid DefeatedAzureBette {
+    _hidden_value = true
+  }
+  boolean PreferredTanSayre2 {
+    _hidden_value = true
+  }
+  string ParticularBlushClaudelle3 {
+    _hidden_value = true
+  }
+  "List<json>" MathematicalRoseOrsola2 {
+    _hidden_value = true
+  }
+  json MinimumIndigoJerrie2 {
+    _hidden_value = true
+  }
+  d1.FederalGrayHalli SquealingApricotArabel2 {
+    DullVioletTrina = 616
+    PunyAmaranthAeriel = 766
+    YoungBlueCheri = "Why is Peter Pan always flying? Because he Neverlands."
+    InquisitiveTealStacie = "Why do birds fly south for the winter? Because it's too far to walk."
+    ExtraCoffeeDiandra2 = false
+    SensibleIvoryJordan = true
+    DeadTealSile = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    LexicalSilverSadella = true
+    SuddenGoldGusty = 276
+    DeadTealSigrid = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  hidden_boolean HuskyApricotAnnabella2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  BareLavenderKelli5 = 382
+  DefeatedAzureBetsy5 = 790
+  WildCyanEvy2 = 145
+  PetiteAmaranthAdrianne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ResponsibleCoffeeDevi2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

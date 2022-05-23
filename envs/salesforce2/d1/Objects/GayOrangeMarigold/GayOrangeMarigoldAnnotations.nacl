@@ -1,0 +1,57 @@
+type d1.GayOrangeMarigold {
+  annotations {
+    json FashionableSapphireRenae3 {
+    }
+    d1.YellowGoldGiuditta GeneralBlushChristel {
+    }
+    json PriorRosePauline2 {
+    }
+    json ContinuousIvoryJuanita2 {
+    }
+    hidden_boolean LatinLimeKoo2 {
+    }
+    boolean YoungAmethystAnastassia3 {
+    }
+    serviceid OddFuchsiaGenia {
+    }
+    boolean NovelScarletRoshelle5 {
+    }
+    number GoodBlackCarmita5 {
+    }
+    hidden_boolean ColossalAmaranthAbby3 {
+    }
+    number BraveMoccasinLucinda3 {
+    }
+    serviceid WarmCopperDulcy4 {
+    }
+    serviceid_number AccessibleOrangeMarilee {
+    }
+    d1.FarBlushChristin UnusualTurquoiseTobey2 {
+    }
+    json StaleAquaArlinda2 {
+    }
+    string FastAmethystAmandie4 {
+    }
+    number ReducedPinkMeryl2 {
+    }
+    json EstablishedMagentaLeigha {
+    }
+    hidden_boolean JitteryVioletValery2 {
+    }
+  }
+  FashionableSapphireRenae3 = "What creature is smarter than a talking parrot? A spelling bee."
+  PriorRosePauline2 = "A steak pun is a rare medium well done."
+  ContinuousIvoryJuanita2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  YoungAmethystAnastassia3 = false
+  OddFuchsiaGenia = "Dad Im hungry  Hi hungry Im dad"
+  NovelScarletRoshelle5 = false
+  GoodBlackCarmita5 = 914
+  BraveMoccasinLucinda3 = 726
+  WarmCopperDulcy4 = "Why would the tomato blush? Because it saw the salad dressing."
+  AccessibleOrangeMarilee = 911
+  UnusualTurquoiseTobey2 = true
+  StaleAquaArlinda2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  FastAmethystAmandie4 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ReducedPinkMeryl2 = 225
+  EstablishedMagentaLeigha = "What do you do on a remote island? Try and find the TV island it belongs to."
+}

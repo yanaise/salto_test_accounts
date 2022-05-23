@@ -1,0 +1,119 @@
+type d1.RealBlushClarinda2 {
+  annotations {
+    number SunnyTanSharity {
+    }
+    hidden_boolean FormidableSilverSabine3 {
+    }
+    hidden_boolean CurlyAmberAlbertine3 {
+    }
+    string CoolGreenIolanthe {
+    }
+  }
+  serviceid_number ValuableGoldGwyn2 {
+    _hidden_value = true
+  }
+  boolean MildOliveMadalyn4 {
+    _hidden_value = true
+  }
+  number PersonalBronzeCordelia2 {
+    _hidden_value = true
+  }
+  boolean NewBlueChanda {
+    _hidden_value = true
+  }
+  serviceid_number KeyCopperDorothea {
+    _hidden_value = true
+  }
+  d1.DEFAULT FamiliarCrimsonEstrellita2 {
+    _hidden_value = true
+  }
+  hidden_boolean CheerfulBeigeCally2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SheerMagentaLaurette2 {
+    _hidden_value = true
+  }
+  serviceid DynamicPeachMarlyn2 {
+    _hidden_value = true
+  }
+  serviceid_number BumpyAmaranthAiley {
+    _hidden_value = true
+  }
+  json ContinuedLimeLane {
+    _hidden_value = true
+  }
+  serviceid_number OlympicRedNessa2 {
+    _hidden_value = true
+  }
+  hidden_boolean PaleGrayHarriett4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ScornfulBeigeBrianna2 {
+    _hidden_value = true
+  }
+  hidden_boolean DustyAmberAlexina2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean NuclearCoffeeDonna2 {
+    _hidden_value = true
+  }
+  boolean StuckRoseOra {
+    _hidden_value = true
+  }
+  d1.DEFAULT WetGrayHedwig {
+    _hidden_value = true
+  }
+  serviceid ObedientBlackCassie2 {
+    _hidden_value = true
+  }
+  number ControversialLimeKrystyna {
+    _hidden_value = true
+  }
+  serviceid_number ExcellentCoralEilis {
+    _hidden_value = true
+  }
+  serviceid_number DetailedCrimsonEmlynne3 {
+    _hidden_value = true
+  }
+  serviceid_number SquareJadeKai3 {
+    _hidden_value = true
+  }
+  string CulturalCoralElianore {
+    _hidden_value = true
+  }
+  serviceid_number LowAmberAllyn {
+    _hidden_value = true
+  }
+  json DetailedCrimsonEmily {
+    _hidden_value = true
+  }
+  d1.ManyAmethystAngel EthnicLavenderKaycee {
+    MinorEmeraldGabie = false
+    SplendidOrangeMandy = 538
+    StaticSapphireRebeka = 963
+    CircularRoseOrly = "Why would the tomato blush? Because it saw the salad dressing."
+    OrangeWhiteVinny = false
+    PureGrayHermia = "My first time using an elevator was an uplifting experience. The second time let me down."
+    BreezyAmaranthAigneis = "Did you know that protons have mass? I didn't even know they were catholic."
+    MiserableSalmonRachael = false
+    DomesticCopperEaster = true
+    KoreanSapphireRasia = 340
+    PrivateBronzeCoreen = 455
+    ShockedPinkMelisandra = "To be Frank, I'd have to change my name."
+    ObedientBlackCassondra = 512
+    RapidAmethystAmy2 = 901
+    _hidden_value = true
+  }
+  serviceid_number GleamingTurquoiseTerra2 {
+    _hidden_value = true
+  }
+  SunnyTanSharity = 981
+  CoolGreenIolanthe = "What do you do on a remote island? Try and find the TV island it belongs to."
+  _hidden_value = true
+}

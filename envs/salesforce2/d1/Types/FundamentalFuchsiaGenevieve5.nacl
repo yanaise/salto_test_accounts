@@ -1,0 +1,63 @@
+type d1.FundamentalFuchsiaGenevieve5 {
+  annotations {
+    serviceid ImpressiveIndigoJessa4 {
+    }
+    serviceid_number DistinctTurquoiseTatum2 {
+    }
+    d1.DEFAULT GleamingTurquoiseTeriann {
+    }
+    serviceid ElegantMoccasinLucille {
+    }
+    json TenderYellowYoko {
+    }
+    string DryAmberAlex {
+    }
+  }
+  hidden_boolean WeakFuchsiaGayle2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ExperimentalLavenderKatine2 {
+    _hidden_value = true
+  }
+  number AdverseSapphireRaphaela3 {
+    _hidden_value = true
+  }
+  json TechnologicalOrangeMarianna3 {
+    _hidden_value = true
+  }
+  number MarriedCyanFanni3 {
+    _hidden_value = true
+  }
+  json ModernBrownDacy2 {
+    _hidden_value = true
+  }
+  serviceid_number IsolatedPeachMarjy {
+    _hidden_value = true
+  }
+  d1.DEFAULT SeriousBrownDanella4 {
+    _hidden_value = true
+  }
+  "List<serviceid>" RenewedSilverSandye {
+    _hidden_value = true
+  }
+  serviceid IndividualBrownCrystie3 {
+    _hidden_value = true
+  }
+  string JustMaroonLissa {
+    _hidden_value = true
+  }
+  json ElectronicGreenInessa {
+    _hidden_value = true
+  }
+  ImpressiveIndigoJessa4 = "Did you know that protons have mass? I didn't even know they were catholic."
+  DistinctTurquoiseTatum2 = 20
+  GleamingTurquoiseTeriann = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  ElegantMoccasinLucille = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  TenderYellowYoko = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DryAmberAlex = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

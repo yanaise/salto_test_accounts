@@ -1,0 +1,9 @@
+type d1.Partial {
+  annotations {
+    number numAnno {
+    }
+  }
+  number numField {
+  }
+  numAnno = 12
+}

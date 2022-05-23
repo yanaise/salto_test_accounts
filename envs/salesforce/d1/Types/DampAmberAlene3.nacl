@@ -1,0 +1,36 @@
+type d1.DampAmberAlene3 {
+  annotations {
+    serviceid_number LevelJadeKameko4 {
+    }
+    json WorthwhilePinkMelli {
+    }
+    serviceid_number ConcernedTealSibilla3 {
+    }
+    serviceid_number BigVioletTonia2 {
+    }
+  }
+  hidden_boolean FrightenedMagentaLaverna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number WhiteBronzeCodee {
+    _hidden_value = true
+  }
+  serviceid OrdinaryCopperEdin2 {
+    _hidden_value = true
+  }
+  string EnthusiasticBlackCarin {
+    _hidden_value = true
+  }
+  hidden_boolean PinkIndigoJennette2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  LevelJadeKameko4 = 417
+  WorthwhilePinkMelli = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ConcernedTealSibilla3 = 451
+  BigVioletTonia2 = 877
+  _hidden_value = true
+}

@@ -1,0 +1,134 @@
+type d1.InherentRedNoami {
+  annotations {
+    number ElegantTurquoiseTeddie3 {
+    }
+    serviceid_number DelicateOliveMada {
+    }
+    string AmbitiousPeachMaurene {
+    }
+    d1.DEFAULT IndependentChocolateDelinda2 {
+    }
+    number TeenageScarletRobinetta2 {
+    }
+  }
+  boolean LovelyCoralEllissa2 {
+    _hidden_value = true
+  }
+  serviceid_number RottenApricotAriella3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT DelightfulSilverRowe2 {
+    _hidden_value = true
+  }
+  serviceid_number UnsightlyTurquoiseTiphanie {
+    _hidden_value = true
+  }
+  boolean FlatGrayHannie2 {
+    _hidden_value = true
+  }
+  hidden_boolean FreshApricotArdyce {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean QuaintTurquoiseThomasine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.OccasionalIvoryJuliette VastYellowZelda {
+    UglyTurquoiseTiphani = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    FairBlackCarlen = "What did one nut say as he chased another nut?  I'm a cashew!"
+    FuriousRedNicolle = 831
+    AbstractMaroonLilyan = 923
+    RipeApricotAriel = 122
+    OlympicRedNessa = 770
+    SignificantBrownDanna = "What did one nut say as he chased another nut?  I'm a cashew!"
+    TenderAquamarineBecca = false
+    MysteriousAzureBonita = 546
+    VastEmeraldFreddi = 591
+    ConstantEmeraldFrayda = "Slept like a log last night  woke up in the fireplace."
+    BigAmaranthAbbi = 128
+    WorriedGrayHarri = "Why would the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  serviceid_number ShortYellowWilona2 {
+    _hidden_value = true
+  }
+  json RelaxedPlumMinni4 {
+    _hidden_value = true
+  }
+  number ProgressiveOliveMadeline {
+    _hidden_value = true
+  }
+  string SmilingBlueCathryn {
+    _hidden_value = true
+  }
+  hidden_boolean GentleIndigoJocelin {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean OutstandingTealStefanie {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean InappropriateRoseOthilia {
+    _hidden_value = true
+  }
+  serviceid VitalEmeraldFifi {
+    _hidden_value = true
+  }
+  hidden_boolean SplendidBlueCatlaina2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean EmptyCyanFanchon2 {
+    _hidden_value = true
+  }
+  serviceid UnchangedSilverRozelle2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT OnlyBlushClarette {
+    _hidden_value = true
+  }
+  json DependentGrayHeda {
+    _hidden_value = true
+  }
+  serviceid ImplicitSapphireRheba {
+    _hidden_value = true
+  }
+  serviceid_number BeautifulTomatoTabby {
+    _hidden_value = true
+  }
+  serviceid HugeCoffeeDoralyn {
+    _hidden_value = true
+  }
+  json MusicalIndigoJoanne3 {
+    _hidden_value = true
+  }
+  d1.DiplomaticMagentaLenore HeavyChocolateDavita {
+    SouthernCyanEvie = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    TartYellowWynnie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    WonderfulYellowZoe2 = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    UnlikelyCrimsonEthelin = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    JapaneseCyanFianna = 758
+    UpsetOliveMabel = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  serviceid_number LovelyCoralEllie2 {
+    _hidden_value = true
+  }
+  ElegantTurquoiseTeddie3 = 204
+  DelicateOliveMada = 579
+  AmbitiousPeachMaurene = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  IndependentChocolateDelinda2 = {
+    legit = "What creature is smarter than a talking parrot? A spelling bee."
+  }
+  TeenageScarletRobinetta2 = 177
+  _hidden_value = true
+}

@@ -1,0 +1,63 @@
+type d1.ShockedPinkMelisa {
+  annotations {
+    json UnknownFuchsiaGigi {
+    }
+    json DisgustedAzureBeulah {
+    }
+    string RareWhiteWandie {
+    }
+    d1.OrdinaryCopperEdi BadAquamarineBerni2 {
+    }
+  }
+  boolean LengthySapphireRania2 {
+    _hidden_value = true
+  }
+  boolean NormalBrownDamaris2 {
+    _hidden_value = true
+  }
+  serviceid DrabTurquoiseTasia {
+    _hidden_value = true
+  }
+  boolean GreatAmaranthAddie2 {
+    _hidden_value = true
+  }
+  hidden_boolean BoilingAmaranthAgretha {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string WillingGoldGusta {
+    _hidden_value = true
+  }
+  number LiveIndigoJodi {
+    _hidden_value = true
+  }
+  hidden_boolean RacialPlumMichelle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.FederalGrayHalli AdorableTomatoSybille {
+    DullVioletTrina = 317
+    PunyAmaranthAeriel = 892
+    YoungBlueCheri = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    InquisitiveTealStacie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ExtraCoffeeDiandra2 = false
+    SensibleIvoryJordan = false
+    DeadTealSile = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    LexicalSilverSadella = true
+    SuddenGoldGusty = 638
+    DeadTealSigrid = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  boolean OrangePurpleMuire2 {
+    _hidden_value = true
+  }
+  UnknownFuchsiaGigi = "How come the stadium got hot after the game? Because all of the fans left."
+  DisgustedAzureBeulah = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  RareWhiteWandie = "To be Frank, I'd have to change my name."
+  BadAquamarineBerni2 = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

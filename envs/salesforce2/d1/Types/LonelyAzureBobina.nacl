@@ -1,0 +1,63 @@
+type d1.LonelyAzureBobina {
+  annotations {
+    serviceid OptimisticSalmonPeg2 {
+    }
+    d1.PrivateBronzeCordy PermanentFuchsiaGayel {
+    }
+    hidden_boolean VocationalTanShaine {
+    }
+    json ElectricalLavenderKerri {
+    }
+    string WrittenGreenIvonne {
+    }
+  }
+  serviceid WorthyRedOdette {
+    _hidden_value = true
+  }
+  boolean MelodicApricotAnnalise2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT HostileOrangeMariel {
+    _hidden_value = true
+  }
+  string ResidentSalmonRaf2 {
+    _hidden_value = true
+  }
+  number ExcitedBlackCaritta {
+    _hidden_value = true
+  }
+  json SatisfactoryLimeKrissie2 {
+    _hidden_value = true
+  }
+  hidden_boolean WellFuchsiaGiralda {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string QuickestWhiteWallie {
+    _hidden_value = true
+  }
+  d1.DEFAULT AdequateGrayHildegaard {
+    _hidden_value = true
+  }
+  number ScatteredAquaAveryl {
+    _hidden_value = true
+  }
+  "List<serviceid>" GrubbyAquaAubrey2 {
+    _hidden_value = true
+  }
+  string IraqiOliveMadelle {
+    _hidden_value = true
+  }
+  string WeeklyLavenderKeslie {
+    _hidden_value = true
+  }
+  number CriminalFuchsiaGeorgette {
+    _hidden_value = true
+  }
+  OptimisticSalmonPeg2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  PermanentFuchsiaGayel = true
+  ElectricalLavenderKerri = "To be Frank, I'd have to change my name."
+  WrittenGreenIvonne = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

@@ -1,0 +1,37 @@
+type d1.StatutoryGrayHarriette is boolean {
+  annotations {
+    json BeneficialPlumMonika {
+    }
+    json PossibleBlushCheryl {
+    }
+    serviceid SpotlessTurquoiseTilly {
+    }
+    d1.DEFAULT SadYellowWilletta {
+    }
+    string RottenApricotArielle {
+    }
+    hidden_boolean WonderfulEmeraldFlossi {
+    }
+    boolean WetGrayHedi {
+    }
+    boolean PrettyWhiteVirgie {
+    }
+    hidden_boolean IndependentChocolateDella {
+    }
+    serviceid_number NetGoldGlen {
+    }
+    number FreeBronzeCody {
+    }
+  }
+  BeneficialPlumMonika = "What creature is smarter than a talking parrot? A spelling bee."
+  PossibleBlushCheryl = "Dad Im hungry  Hi hungry Im dad"
+  SpotlessTurquoiseTilly = "Im only familiar with 25 letters in the English language. I dont know why."
+  SadYellowWilletta = {
+    legit = "Why would the kid cross the playground? To get to the other slide."
+  }
+  RottenApricotArielle = "To be Frank, I'd have to change my name."
+  WetGrayHedi = true
+  PrettyWhiteVirgie = false
+  NetGoldGlen = 826
+  FreeBronzeCody = 67
+}

@@ -1,0 +1,19 @@
+type d1.SlimyAquaBarb {
+  annotations {
+    boolean BareLavenderKelli {
+    }
+    number ExplicitMaroonLise {
+    }
+    hidden_boolean ProgressiveOliveMadelina {
+    }
+    string TheoreticalIndigoJeniffer {
+    }
+  }
+  boolean CommercialCopperDorena {
+    _hidden_value = true
+  }
+  BareLavenderKelli = false
+  ExplicitMaroonLise = 836
+  TheoreticalIndigoJeniffer = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

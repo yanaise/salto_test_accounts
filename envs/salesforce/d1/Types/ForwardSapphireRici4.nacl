@@ -1,0 +1,47 @@
+type d1.ForwardSapphireRici4 {
+  annotations {
+    json StatisticalMagentaLanna {
+    }
+    boolean ScaryBeigeBriana3 {
+    }
+    string MightyTanShandra2 {
+    }
+    serviceid_number MarkedMagentaLatrina2 {
+    }
+    json EntitledIvoryJulia2 {
+    }
+  }
+  string ControlledTanSheilakathryn3 {
+    _hidden_value = true
+  }
+  number GayOrangeMarijo3 {
+    _hidden_value = true
+  }
+  serviceid_number StaticSapphireRebekkah2 {
+    _hidden_value = true
+  }
+  string ThoroughScarletRonda3 {
+    _hidden_value = true
+  }
+  string SurroundingOrangeMargette4 {
+    _hidden_value = true
+  }
+  d1.DEFAULT PreferredTanScarlet {
+    _hidden_value = true
+  }
+  number AlliedPlumMisti4 {
+    _hidden_value = true
+  }
+  serviceid_number QuietCoralEirena2 {
+    _hidden_value = true
+  }
+  number StuckRoseOralee6 {
+    _hidden_value = true
+  }
+  StatisticalMagentaLanna = "A steak pun is a rare medium well done."
+  ScaryBeigeBriana3 = true
+  MightyTanShandra2 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  MarkedMagentaLatrina2 = 256
+  EntitledIvoryJulia2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

@@ -1,0 +1,42 @@
+type d1.ExcitedOrangeMarinna {
+  annotations {
+    json BritishBlushCherilyn2 {
+    }
+    d1.DEFAULT ImaginativeTanSeline6 {
+    }
+    json SillyBlueCathlene2 {
+    }
+    serviceid ElectricalLavenderKerrie2 {
+    }
+    string WorryingSilverRozalie {
+    }
+    json AmazingMoccasinLizbeth2 {
+    }
+    serviceid CooingAmethystAngelle2 {
+    }
+    d1.DEFAULT ShockedPinkMelisande2 {
+    }
+  }
+  json StatisticalMagentaLanita2 {
+    _hidden_value = true
+  }
+  boolean RespectableRosePearle {
+    _hidden_value = true
+  }
+  number HardAquaAudi {
+    _hidden_value = true
+  }
+  BritishBlushCherilyn2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ImaginativeTanSeline6 = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  SillyBlueCathlene2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ElectricalLavenderKerrie2 = "To be Frank, I'd have to change my name."
+  WorryingSilverRozalie = "Why would the kid cross the playground? To get to the other slide."
+  AmazingMoccasinLizbeth2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  CooingAmethystAngelle2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ShockedPinkMelisande2 = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  _hidden_value = true
+}

@@ -1,0 +1,25 @@
+type d1.BrightTomatoTamera {
+  annotations {
+    boolean ExcitedBlackCariotta {
+    }
+    serviceid_number DirtyIvoryJosefina {
+    }
+    hidden_boolean ReducedPinkMia {
+    }
+    number EarlyAmethystAmalle {
+    }
+    serviceid AngryFuchsiaGillan {
+    }
+    boolean FemaleCrimsonEmmeline {
+    }
+  }
+  number LovelyCoralElly {
+    _hidden_value = true
+  }
+  ExcitedBlackCariotta = true
+  DirtyIvoryJosefina = 52
+  EarlyAmethystAmalle = 832
+  AngryFuchsiaGillan = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  FemaleCrimsonEmmeline = true
+  _hidden_value = true
+}

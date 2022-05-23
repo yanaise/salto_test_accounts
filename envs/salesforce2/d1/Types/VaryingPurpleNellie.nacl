@@ -1,0 +1,48 @@
+type d1.VaryingPurpleNellie {
+  annotations {
+    number GrubbyAquaAubry4 {
+    }
+    hidden_boolean NastyMaroonLisha3 {
+    }
+    boolean ThinCyanEvangeline2 {
+    }
+    number FancyTurquoiseTedi {
+    }
+    string BetterVioletTomasine2 {
+    }
+  }
+  serviceid SplendidOrangeManda {
+    _hidden_value = true
+  }
+  "List<string>" UnevenAquamarineBeitris2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT CrookedAmberAlanah {
+    _hidden_value = true
+  }
+  serviceid UnemployedIvoryJoline3 {
+    _hidden_value = true
+  }
+  number FaithfulTanShayna3 {
+    _hidden_value = true
+  }
+  "List<json>" BewilderedAquamarineBernita4 {
+    _hidden_value = true
+  }
+  d1.EntitledIvoryJuliann BlondeTomatoTalia2 {
+    _hidden_value = true
+  }
+  hidden_boolean OpenBronzeCleopatra2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid MysteriousPurpleNelle {
+    _hidden_value = true
+  }
+  GrubbyAquaAubry4 = 515
+  ThinCyanEvangeline2 = true
+  FancyTurquoiseTedi = 949
+  BetterVioletTomasine2 = "A steak pun is a rare medium well done."
+  _hidden_value = true
+}

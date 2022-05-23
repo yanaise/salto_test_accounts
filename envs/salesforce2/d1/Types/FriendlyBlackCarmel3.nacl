@@ -1,0 +1,58 @@
+type d1.FriendlyBlackCarmel3 {
+  annotations {
+    boolean PunyAmaranthAeriell3 {
+    }
+    string MightyWhiteVerene2 {
+    }
+    boolean HonChocolateDasya3 {
+    }
+    string VictorianJadeKalindi {
+    }
+    json MightyTanShandeigh2 {
+    }
+    serviceid_number ThinCyanEvania3 {
+    }
+  }
+  d1.DEFAULT ProfessionalChocolateDayna7 {
+    _hidden_value = true
+  }
+  string NaturalBrownCrysta3 {
+    _hidden_value = true
+  }
+  boolean PartialOliveLyndsay {
+    _hidden_value = true
+  }
+  d1.DEFAULT EasyTealSisely3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT LivingGrayHenrietta2 {
+    _hidden_value = true
+  }
+  number LiveIndigoJodie2 {
+    _hidden_value = true
+  }
+  number FatAmaranthAbigael4 {
+    _hidden_value = true
+  }
+  json UglyTurquoiseTiphani4 {
+    _hidden_value = true
+  }
+  serviceid_number BumpyAmaranthAiley3 {
+    _hidden_value = true
+  }
+  hidden_boolean ConcernedTealSibelle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AutomaticLavenderKiah2 {
+    _hidden_value = true
+  }
+  PunyAmaranthAeriell3 = false
+  MightyWhiteVerene2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  HonChocolateDasya3 = true
+  VictorianJadeKalindi = "Dad Im hungry  Hi hungry Im dad"
+  MightyTanShandeigh2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ThinCyanEvania3 = 648
+  _hidden_value = true
+}

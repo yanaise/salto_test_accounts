@@ -1,0 +1,25 @@
+type d1.AncientAmethystAmabelle {
+  annotations {
+    number LexicalSilverSadie {
+    }
+    number TartYellowXena {
+    }
+    number EarlyAmethystAmandi {
+    }
+    hidden_boolean DyingScarletRobyn5 {
+    }
+    json ToryGreenIndira {
+    }
+    json ObedientBlackCassie {
+    }
+  }
+  string WanderingTomatoSuzanna {
+    _hidden_value = true
+  }
+  LexicalSilverSadie = 202
+  TartYellowXena = 433
+  EarlyAmethystAmandi = 840
+  ToryGreenIndira = "Did you know that protons have mass? I didn't even know they were catholic."
+  ObedientBlackCassie = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

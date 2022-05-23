@@ -1,0 +1,26 @@
+type d1.ImmensePlumMirilla {
+  annotations {
+    boolean AvailableBlushChryste {
+    }
+    json ThenSalmonPhoebe3 {
+    }
+    string IntactRosePatsy3 {
+    }
+    number DangerousCrimsonEssie3 {
+    }
+  }
+  serviceid_number BoringPeachMarni {
+    _hidden_value = true
+  }
+  json GoodBlueCelle {
+    _hidden_value = true
+  }
+  boolean HelpfulBlackCaroline2 {
+    _hidden_value = true
+  }
+  AvailableBlushChryste = true
+  ThenSalmonPhoebe3 = "I'll tell you what often gets over looked... garden fences."
+  IntactRosePatsy3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  DangerousCrimsonEssie3 = 486
+  _hidden_value = true
+}

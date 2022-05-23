@@ -1,0 +1,48 @@
+type d1.RedBrownDallas4 {
+  annotations {
+    boolean UnhappyMaroonLicha7 {
+    }
+    string WorriedGrayHarri2 {
+    }
+    d1.AcuteLavenderKeri OutsideGrayHelene4 {
+    }
+    hidden_boolean DeterminedOrangeMarilyn3 {
+    }
+    string PreparedCyanFelice2 {
+    }
+    d1.ExoticScarletRikki FrontCopperEadie6 {
+    }
+    serviceid KeyCopperDorothea4 {
+    }
+    serviceid FoolishAzureBinni5 {
+    }
+    json SmallAmaranthAggi {
+    }
+    d1.ImmenseAmaranthAdelice CondemnedAquamarineBerthe5 {
+    }
+    serviceid_number CompactPurpleNannie2 {
+    }
+    serviceid FavouriteHarlequinJaclyn {
+    }
+    hidden_boolean PreviousBrownDanica2 {
+    }
+    json BrainyTealSheryl2 {
+    }
+    serviceid IntermediateRoseOfelia5 {
+    }
+    d1.OkSapphireRhodia2 DeterminedOrangeMarina {
+    }
+  }
+  UnhappyMaroonLicha7 = true
+  WorriedGrayHarri2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  OutsideGrayHelene4 = 691
+  PreparedCyanFelice2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  KeyCopperDorothea4 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  FoolishAzureBinni5 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SmallAmaranthAggi = "Slept like a log last night  woke up in the fireplace."
+  CondemnedAquamarineBerthe5 = 849
+  CompactPurpleNannie2 = 184
+  FavouriteHarlequinJaclyn = "Why was it called the dark ages? Because of all the knights. "
+  BrainyTealSheryl2 = "To be Frank, I'd have to change my name."
+  IntermediateRoseOfelia5 = "My first time using an elevator was an uplifting experience. The second time let me down."
+}

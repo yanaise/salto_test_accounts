@@ -1,0 +1,68 @@
+type d1.ShyTomatoStormie4 {
+  annotations {
+    number BroadAmberAlika2 {
+    }
+    number HomelessAzureBliss2 {
+    }
+    json SevereEmeraldGabriellia2 {
+    }
+    hidden_boolean BrightVioletTory4 {
+    }
+    hidden_boolean WorkingCrimsonEmmalee2 {
+    }
+    json JudicialJadeKarisa3 {
+    }
+  }
+  json AnxiousAquamarineBerenice3 {
+    _hidden_value = true
+  }
+  serviceid ColourfulScarletRosabella2 {
+    _hidden_value = true
+  }
+  json EffectiveChocolateDeedee {
+    _hidden_value = true
+  }
+  number SatisfiedHarlequinJazmin3 {
+    _hidden_value = true
+  }
+  hidden_boolean FrightenedMagentaLaverna2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string InnerFuchsiaGenovera4 {
+    _hidden_value = true
+  }
+  string BrightVioletTracee {
+    _hidden_value = true
+  }
+  hidden_boolean ShortAmaranthAgace4 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean UnexpectedMagentaLaurel {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid EmptyCyanFancie3 {
+    _hidden_value = true
+  }
+  hidden_boolean GothicSapphireRana3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ReducedPinkMeryl {
+    _hidden_value = true
+  }
+  string HardAquaAudi2 {
+    _hidden_value = true
+  }
+  BroadAmberAlika2 = 374
+  HomelessAzureBliss2 = 507
+  SevereEmeraldGabriellia2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  JudicialJadeKarisa3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

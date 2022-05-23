@@ -1,0 +1,95 @@
+type d1.FlutteringAquaAthena {
+  annotations {
+    hidden_boolean NeighbouringPurpleNananne2 {
+    }
+    json GoldenGrayHalette {
+    }
+    hidden_boolean TastyAquaAshly {
+    }
+    boolean FarBlushChristie2 {
+    }
+  }
+  serviceid_number IdeologicalOrangeMargaretha {
+    _hidden_value = true
+  }
+  json MaturePeachMatty {
+    _hidden_value = true
+  }
+  json CompatibleSapphireRenell2 {
+    _hidden_value = true
+  }
+  hidden_boolean ExperiencedMagentaLaure {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string FatIvoryJoelle {
+    _hidden_value = true
+  }
+  serviceid_number ElegantMoccasinLucila {
+    _hidden_value = true
+  }
+  json ColdChocolateDebee {
+    _hidden_value = true
+  }
+  number UnevenAquamarineBee {
+    _hidden_value = true
+  }
+  serviceid_number RearPurpleMuriel {
+    _hidden_value = true
+  }
+  string EnthusiasticPinkMerridie {
+    _hidden_value = true
+  }
+  serviceid_number HistoricLavenderKellsie {
+    _hidden_value = true
+  }
+  json LimitedCoralElla {
+    _hidden_value = true
+  }
+  json DistinctiveLimeKristel {
+    _hidden_value = true
+  }
+  string SeparateCopperDorotea {
+    _hidden_value = true
+  }
+  d1.DEFAULT BrightCoralElyn {
+    _hidden_value = true
+  }
+  serviceid_number MagnificentMagentaLeeanne {
+    _hidden_value = true
+  }
+  d1.DEFAULT AloneCyanFaina {
+    _hidden_value = true
+  }
+  hidden_boolean EntireEmeraldFrancoise {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number MaturePeachMattie {
+    _hidden_value = true
+  }
+  number CreativeJadeKania {
+    _hidden_value = true
+  }
+  d1.ExtremeHarlequinJackelyn UsualCoralElmira2 {
+    IncCrimsonErmentrude = 262
+    AlliedPlumMisti = false
+    InternalCoralEdy = "What do you do on a remote island? Try and find the TV island it belongs to."
+    DevelopedPinkMerilyn = 951
+    CrookedAmberAlisha = "To be Frank, I'd have to change my name."
+    AmericanBronzeCorrianne = 645
+    TragicRosePaulita = 868
+    ConceptualTanShelagh = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    StrangeTurquoiseTimmie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    NastyWhiteVeronica = "Why was it called the dark ages? Because of all the knights. "
+    OldAmethystAmie = 837
+    _hidden_value = true
+  }
+  GoldenGrayHalette = "To be Frank, I'd have to change my name."
+  FarBlushChristie2 = true
+  _hidden_value = true
+}

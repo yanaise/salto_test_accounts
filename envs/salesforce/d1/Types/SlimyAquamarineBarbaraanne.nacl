@@ -1,0 +1,28 @@
+type d1.SlimyAquamarineBarbaraanne {
+  annotations {
+    d1.DEFAULT SoundAmethystAngelika5 {
+    }
+    serviceid HeavyAmethystAndriana {
+    }
+    number CapableEmeraldFlorina2 {
+    }
+    string TerritorialSalmonPriscilla4 {
+    }
+    number SatisfactoryLimeKrista {
+    }
+    serviceid_number NiceWhiteVickie3 {
+    }
+  }
+  serviceid_number BiologicalMaroonLetta2 {
+    _hidden_value = true
+  }
+  SoundAmethystAngelika5 = {
+    legit = "Why would the tomato blush? Because it saw the salad dressing."
+  }
+  HeavyAmethystAndriana = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CapableEmeraldFlorina2 = 221
+  TerritorialSalmonPriscilla4 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  SatisfactoryLimeKrista = 750
+  NiceWhiteVickie3 = 428
+  _hidden_value = true
+}

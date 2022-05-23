@@ -1,0 +1,91 @@
+type d1.IncCrimsonErma3 {
+  annotations {
+    hidden_boolean BusyCyanFayre5 {
+    }
+    json CarefulTealShirline3 {
+    }
+    boolean TemporaryGrayHalimeda2 {
+    }
+    serviceid_number AdditionalCopperDottie5 {
+    }
+  }
+  serviceid CrudePlumMildred5 {
+    _hidden_value = true
+  }
+  serviceid ClassicJadeKaitlyn3 {
+    _hidden_value = true
+  }
+  number NovelScarletRosette2 {
+    _hidden_value = true
+  }
+  boolean PreparedCyanFelicdad3 {
+    _hidden_value = true
+  }
+  hidden_boolean ExtraordinaryIndigoJessika3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json BritishBlushCherilyn3 {
+    _hidden_value = true
+  }
+  number SuccessiveMoccasinLoise {
+    _hidden_value = true
+  }
+  json ArrogantAquamarineBerget2 {
+    _hidden_value = true
+  }
+  hidden_boolean DrabTurquoiseTaryn2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.ImmenseAmaranthAdelice LoudApricotAnnabelle2 {
+    PoliteSalmonRafa = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    FrightenedAzureBlaire = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    AlertTomatoSydney = 419
+    AwakeRedNolana = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    SteepAmberAlvira = true
+    InnocentTealStacey = false
+    GladGoldGlynnis = 246
+    ComingSilverSammy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    UltimateJadeKandace = "Slept like a log last night  woke up in the fireplace."
+    ScatteredAquaAvie = 689
+    ConceptualTanShelbi = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    KindOrangeMaribelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  hidden_boolean ItchyVioletValentina2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number EvilPeachMaurise {
+    _hidden_value = true
+  }
+  hidden_boolean IndianGrayHarmonia2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<serviceid>" LateAmethystAmata4 {
+    _hidden_value = true
+  }
+  serviceid_number RottenApricotArielle4 {
+    _hidden_value = true
+  }
+  json TameTomatoSusannah4 {
+    _hidden_value = true
+  }
+  hidden_boolean GlamorousTurquoiseTeresita {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  CarefulTealShirline3 = "How come the stadium got hot after the game? Because all of the fans left."
+  TemporaryGrayHalimeda2 = true
+  AdditionalCopperDottie5 = 208
+  _hidden_value = true
+}

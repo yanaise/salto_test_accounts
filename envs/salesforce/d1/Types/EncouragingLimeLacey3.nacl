@@ -1,0 +1,90 @@
+type d1.EncouragingLimeLacey3 {
+  annotations {
+    d1.DEFAULT VitalEmeraldFilia {
+    }
+    string RoughAquaAustina2 {
+    }
+    d1.NumerousHarlequinJandy FascinatingOrangeMargaretha {
+    }
+    number TechnicalCopperEdee3 {
+    }
+    string ModernTealStarla2 {
+    }
+  }
+  number FrequentLavenderKatina {
+    _hidden_value = true
+  }
+  string DyingScarletRobyn4 {
+    _hidden_value = true
+  }
+  d1.UnemployedIvoryJoly GiantMoccasinLotte {
+    TroubledBeigeBritta2 = "Why would the kid cross the playground? To get to the other slide."
+    SoreBeigeBrigida = 168
+    DullVioletTrish = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    FiscalRedNicolle = "Why would the kid cross the playground? To get to the other slide."
+    FairCoffeeDinny = 981
+    OkSapphireRhianon = "Im only familiar with 25 letters in the English language. I dont know why."
+    EducationalCrimsonEryn2 = 641
+    _hidden_value = true
+  }
+  boolean StrictLavenderKatharyn {
+    _hidden_value = true
+  }
+  "List<json>" CarefulCyanFern {
+    _hidden_value = true
+  }
+  hidden_boolean NegativeFuchsiaGates {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid DryAmberAlexa {
+    _hidden_value = true
+  }
+  serviceid HappyBrownDaisy2 {
+    _hidden_value = true
+  }
+  serviceid_number UnusualTurquoiseTobi {
+    _hidden_value = true
+  }
+  d1.LowBlushChristy HorizontalSalmonPrudence {
+    ExplicitMaroonLisetta2 = "Why would the kid cross the playground? To get to the other slide."
+    UnevenAquamarineBeitris = "What do you do on a remote island? Try and find the TV island it belongs to."
+    TameTomatoSusette = "Whoever invented the knock-knock joke should get a no bell prize."
+    KindOrangeMaribeth = "Why is Peter Pan always flying? Because he Neverlands."
+    BrokenAmaranthAilee = 235
+    RelievedSalmonPetronia = true
+    ComplexCopperDrucie = "What creature is smarter than a talking parrot? A spelling bee."
+    PublicBlushChrysler = true
+    AverageCoralElysha = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    EntireEmeraldFranciska = 173
+    CurrentBrownDacey = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  json AdverseSapphireRaphaela2 {
+    _hidden_value = true
+  }
+  serviceid_number WeirdSilverRozella {
+    _hidden_value = true
+  }
+  json ThenSalmonPhoebe {
+    _hidden_value = true
+  }
+  boolean AutomaticLavenderKevyn3 {
+    _hidden_value = true
+  }
+  json ConvincingSalmonPeggie {
+    _hidden_value = true
+  }
+  json DullVioletTrista {
+    _hidden_value = true
+  }
+  VitalEmeraldFilia = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  RoughAquaAustina2 = "Why is Peter Pan always flying? Because he Neverlands."
+  FascinatingOrangeMargaretha = 9
+  TechnicalCopperEdee3 = 861
+  ModernTealStarla2 = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

@@ -1,0 +1,98 @@
+type d1.InterestingChocolateDelphine3 {
+  annotations {
+    d1.ProvincialPeachMarita HandsomeVioletVal {
+    }
+    d1.LowBlushChristy UnitedCopperEddie {
+    }
+    d1.DEFAULT ImpressiveIndigoJessa3 {
+    }
+    string SunnyTanShari {
+    }
+    string ProposedGoldGweneth2 {
+    }
+    hidden_boolean OverwhelmingPurpleMyrna3 {
+    }
+  }
+  serviceid_number DomesticCopperEartha {
+    _hidden_value = true
+  }
+  serviceid ProfitablePurpleNara {
+    _hidden_value = true
+  }
+  string RuralCoralElsbeth2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT FilthyTurquoiseTeodora2 {
+    _hidden_value = true
+  }
+  serviceid_number UniqueFuchsiaGerta {
+    _hidden_value = true
+  }
+  json GenerousLavenderKaylil {
+    _hidden_value = true
+  }
+  serviceid_number IllegalJadeKarole {
+    _hidden_value = true
+  }
+  string CarefulTealShoshana2 {
+    _hidden_value = true
+  }
+  serviceid_number VulnerableJadeKarola3 {
+    _hidden_value = true
+  }
+  string AggregateScarletRobbi {
+    _hidden_value = true
+  }
+  json GrandEmeraldFrances2 {
+    _hidden_value = true
+  }
+  json SlipperyAquamarineBarbe3 {
+    _hidden_value = true
+  }
+  string GentleIndigoJobyna4 {
+    _hidden_value = true
+  }
+  "List<number>" SpottyYellowWynn3 {
+    _hidden_value = true
+  }
+  serviceid RichTomatoStoddard3 {
+    _hidden_value = true
+  }
+  boolean ReadyChocolateDebera3 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" FollowingBrownCyndie3 {
+    _hidden_value = true
+  }
+  serviceid ElectoralLimeKristina3 {
+    _hidden_value = true
+  }
+  number PsychologicalIvoryJojo2 {
+    _hidden_value = true
+  }
+  serviceid MarvellousMoccasinLorraine {
+    _hidden_value = true
+  }
+  hidden_boolean EntireEmeraldFranciska2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json NumerousHarlequinJanaye4 {
+    _hidden_value = true
+  }
+  boolean GoverningTanSephira {
+    _hidden_value = true
+  }
+  boolean AggressiveMaroonLilith {
+    _hidden_value = true
+  }
+  HandsomeVioletVal = 329
+  UnitedCopperEddie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ImpressiveIndigoJessa3 = {
+    legit = "I'll tell you what often gets over looked... garden fences."
+  }
+  SunnyTanShari = "Did you know that protons have mass? I didn't even know they were catholic."
+  ProposedGoldGweneth2 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

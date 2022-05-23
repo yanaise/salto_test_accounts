@@ -1,0 +1,164 @@
+type d1.CentralBronzeConnie {
+  annotations {
+    serviceid_number PartialOliveLyndel {
+    }
+    number ChronicOliveMallissa {
+    }
+    boolean LiteraryGreenIris {
+    }
+    serviceid_number SpecificBrownDarb2 {
+    }
+  }
+  number CautiousTealSibbie {
+    _hidden_value = true
+  }
+  string PleasedEmeraldGabriell2 {
+    _hidden_value = true
+  }
+  boolean MammothAmaranthAdore {
+    _hidden_value = true
+  }
+  boolean IntellectualJadeKalie {
+    _hidden_value = true
+  }
+  d1.DEFAULT BareLavenderKelli2 {
+    _hidden_value = true
+  }
+  hidden_boolean BewilderedAquamarineBernita {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid StiffPeachMaryann {
+    _hidden_value = true
+  }
+  number ProvincialPeachMarissa {
+    _hidden_value = true
+  }
+  json IslamicRoseOndrea {
+    _hidden_value = true
+  }
+  serviceid SmoothAquamarineBarbette {
+    _hidden_value = true
+  }
+  number MinimumIndigoJeri2 {
+    _hidden_value = true
+  }
+  boolean SatisfactoryLimeKrissie {
+    _hidden_value = true
+  }
+  serviceid DigitalMaroonLib {
+    _hidden_value = true
+  }
+  json PracticalCopperDoris {
+    _hidden_value = true
+  }
+  hidden_boolean TerribleBeigeBrinn {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number TinyCyanEunice {
+    _hidden_value = true
+  }
+  string CheapCopperEdita2 {
+    _hidden_value = true
+  }
+  d1.KeenGrayHannah CuddlyAmberAlanna {
+    ExoticScarletRina = false
+    LiquidRoseOttilie = 734
+    WidespreadHarlequinJacquie = "A steak pun is a rare medium well done."
+    HolyIndigoJemie = 651
+    SlowAmethystAnalise = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    MarginalLimeKriste = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    AcuteLavenderKerianne = 218
+    HugeCoffeeDoralynne = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ShrillApricotAntonella = 217
+    PublicBlushChrysa = "Did you know that protons have mass? I didn't even know they were catholic."
+    PleasantIvoryJosee = 727
+    ExcessiveOliveMadelena = "What creature is smarter than a talking parrot? A spelling bee."
+    ScaredSalmonRafaelita2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    IndustrialBrownDanny = 497
+    DoubtfulRosePansie = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    InteriorPurpleNathalie = 659
+    BlackVioletTonya = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    CurvedAmberAlix = 481
+    _hidden_value = true
+  }
+  hidden_boolean MedievalJadeKarel {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number BraveMoccasinLucinda2 {
+    _hidden_value = true
+  }
+  boolean MaleCoffeeDidi {
+    _hidden_value = true
+  }
+  boolean FederalGrayHally {
+    _hidden_value = true
+  }
+  hidden_boolean InvisibleRoseOrel {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid OralLimeKylila {
+    _hidden_value = true
+  }
+  d1.FancyTurquoiseTeirtza MagicOrangeManon {
+    TallYellowXylia = "Why would the tomato blush? Because it saw the salad dressing."
+    CheapCopperEdita = "A steak pun is a rare medium well done."
+    SharedPinkMelicent = 587
+    StuckRoseOralee = 931
+    SorryBrownDanyelle = 761
+    GoverningTanSelle = 407
+    JointCoralEliza = "Why do birds fly south for the winter? Because it's too far to walk."
+    SorryBrownDanyelle2 = 353
+    PainfulMaroonLilly = "Why do birds fly south for the winter? Because it's too far to walk."
+    RichTomatoStorm = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ImplicitSapphireRhea = 996
+    FlyingMoccasinLoralyn = true
+    _hidden_value = true
+  }
+  serviceid_number KindBlackCary {
+    _hidden_value = true
+  }
+  json IntellectualJadeKalina {
+    _hidden_value = true
+  }
+  boolean OverwhelmingPurpleMyrta {
+    _hidden_value = true
+  }
+  number MarvellousMoccasinLorrayne {
+    _hidden_value = true
+  }
+  json TightAquamarineBecki {
+    _hidden_value = true
+  }
+  d1.UnemployedIvoryJoly DirectChocolateDeane {
+    TroubledBeigeBritta2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SoreBeigeBrigida = 94
+    DullVioletTrish = "What do you do on a remote island? Try and find the TV island it belongs to."
+    FiscalRedNicolle = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    FairCoffeeDinny = 891
+    OkSapphireRhianon = "Im only familiar with 25 letters in the English language. I dont know why."
+    EducationalCrimsonEryn2 = 980
+    _hidden_value = true
+  }
+  hidden_boolean VisualGreenIngeberg {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  PartialOliveLyndel = 207
+  ChronicOliveMallissa = 969
+  LiteraryGreenIris = true
+  SpecificBrownDarb2 = 41
+  _hidden_value = true
+}

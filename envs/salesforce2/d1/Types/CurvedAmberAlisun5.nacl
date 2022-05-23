@@ -1,0 +1,49 @@
+type d1.CurvedAmberAlisun5 {
+  annotations {
+    hidden_boolean EvilAzureBill2 {
+    }
+    serviceid_number JoyousBlackCarry4 {
+    }
+    boolean SupremeGreenIsabel3 {
+    }
+    serviceid_number FluffyAmberAlice6 {
+    }
+    serviceid AmericanBronzeCorrie {
+    }
+  }
+  number ContinentalOliveMagdalen {
+    _hidden_value = true
+  }
+  json VitalEmeraldFilia2 {
+    _hidden_value = true
+  }
+  hidden_boolean PermanentFuchsiaGavrielle {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number LiquidRosePaige3 {
+    _hidden_value = true
+  }
+  json StuckRoseOphelia {
+    _hidden_value = true
+  }
+  hidden_boolean AggressiveMaroonLilias2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string AngryFuchsiaGilli2 {
+    _hidden_value = true
+  }
+  hidden_boolean DependentGrayHeda2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  JoyousBlackCarry4 = 962
+  SupremeGreenIsabel3 = false
+  FluffyAmberAlice6 = 245
+  AmericanBronzeCorrie = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

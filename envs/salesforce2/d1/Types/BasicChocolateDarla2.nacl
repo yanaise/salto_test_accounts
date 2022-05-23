@@ -1,0 +1,66 @@
+type d1.BasicChocolateDarla2 {
+  annotations {
+    hidden_boolean HardBronzeCordie2 {
+    }
+    d1.ExtremeHarlequinJackelyn PassivePurpleMyranda {
+    }
+    serviceid_number CleverJadeKari2 {
+    }
+    number QuietCoralEirena {
+    }
+    string OverallCrimsonEmmalynne4 {
+    }
+    number GreatBlueChantalle2 {
+    }
+    boolean MiserableSalmonRachael3 {
+    }
+    serviceid_number WateryYellowZena {
+    }
+  }
+  number MightyTanShandra {
+    _hidden_value = true
+  }
+  serviceid_number MutualLimeKimberly3 {
+    _hidden_value = true
+  }
+  serviceid EfficientGoldGrethel {
+    _hidden_value = true
+  }
+  serviceid ConvenientMagentaLegra {
+    _hidden_value = true
+  }
+  boolean DepressedAzureBetti {
+    _hidden_value = true
+  }
+  number VeryCoralEleonore {
+    _hidden_value = true
+  }
+  boolean EnviousAzureBiddy3 {
+    _hidden_value = true
+  }
+  string AfricanFuchsiaGiacinta {
+    _hidden_value = true
+  }
+  hidden_boolean ActiveCopperDreddy3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number UnfairMaroonLilas {
+    _hidden_value = true
+  }
+  boolean RapidGrayHilda2 {
+    _hidden_value = true
+  }
+  serviceid_number DecentMoccasinLonni {
+    _hidden_value = true
+  }
+  PassivePurpleMyranda = true
+  CleverJadeKari2 = 795
+  QuietCoralEirena = 355
+  OverallCrimsonEmmalynne4 = "I'll tell you what often gets over looked... garden fences."
+  GreatBlueChantalle2 = 171
+  MiserableSalmonRachael3 = false
+  WateryYellowZena = 443
+  _hidden_value = true
+}

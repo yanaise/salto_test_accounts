@@ -1,0 +1,51 @@
+type d1.RussianCyanFelicity is string {
+  annotations {
+    d1.DEFAULT RapidAmethystAmy {
+    }
+    hidden_boolean ComparableMoccasinLizzie {
+    }
+    json GlobalGrayHermine {
+    }
+    boolean BrainyTealSherry {
+    }
+    number SoundRoseOlga {
+    }
+    boolean LevelJadeKally {
+    }
+    hidden_boolean DreadfulPinkMerrile {
+    }
+    number WideAmethystAmabel {
+    }
+    boolean CautiousScarletRivy {
+    }
+    serviceid_number RandomMoccasinLoren {
+    }
+    boolean AssociatedMaroonLindsey {
+    }
+    string FamiliarCrimsonEthel {
+    }
+    d1.DEFAULT MinorEmeraldGabriel {
+    }
+    json SurroundingOrangeMarget {
+    }
+    string FatalPurpleMyrtice {
+    }
+  }
+  RapidAmethystAmy = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  GlobalGrayHermine = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  BrainyTealSherry = false
+  SoundRoseOlga = 964
+  LevelJadeKally = true
+  WideAmethystAmabel = 237
+  CautiousScarletRivy = true
+  RandomMoccasinLoren = 123
+  AssociatedMaroonLindsey = false
+  FamiliarCrimsonEthel = "Did you know that protons have mass? I didn't even know they were catholic."
+  MinorEmeraldGabriel = {
+    legit = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  SurroundingOrangeMarget = "Why do birds fly south for the winter? Because it's too far to walk."
+  FatalPurpleMyrtice = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+}

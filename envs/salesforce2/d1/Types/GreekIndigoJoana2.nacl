@@ -1,0 +1,51 @@
+type d1.GreekIndigoJoana2 {
+  annotations {
+    d1.DEFAULT HotAquaAudry4 {
+    }
+    boolean SillyIvoryJoelie2 {
+    }
+    number SlimyAquamarineBarbara3 {
+    }
+    serviceid_number FancyTurquoiseTedi3 {
+    }
+    serviceid DueCopperDot {
+    }
+    json PlainIndigoJewel2 {
+    }
+    boolean PreciseIndigoJobi {
+    }
+  }
+  string YellowGoldGiulietta2 {
+    _hidden_value = true
+  }
+  number HollowAmberAllx2 {
+    _hidden_value = true
+  }
+  json ExpectedLimeLaney2 {
+    _hidden_value = true
+  }
+  json CoolAmaranthAinsley4 {
+    _hidden_value = true
+  }
+  string PleasantBlueCathe {
+    _hidden_value = true
+  }
+  boolean GlamorousTurquoiseTeressa {
+    _hidden_value = true
+  }
+  hidden_boolean DrabTurquoiseTasia3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  HotAquaAudry4 = {
+    legit = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  }
+  SillyIvoryJoelie2 = false
+  SlimyAquamarineBarbara3 = 959
+  FancyTurquoiseTedi3 = 585
+  DueCopperDot = "What creature is smarter than a talking parrot? A spelling bee."
+  PlainIndigoJewel2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  PreciseIndigoJobi = true
+  _hidden_value = true
+}

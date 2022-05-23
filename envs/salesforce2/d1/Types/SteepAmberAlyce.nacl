@@ -1,0 +1,50 @@
+type d1.SteepAmberAlyce is boolean {
+  annotations {
+    json ChangingJadeKassia {
+    }
+    string RightBlushCherish {
+    }
+    boolean PreviousBrownDania {
+    }
+    d1.DEFAULT ClosedMagentaLeilah {
+    }
+    hidden_boolean MusicalIndigoJobey {
+    }
+    hidden_boolean NewWhiteVeronika2 {
+    }
+    d1.DEFAULT SuperTomatoSusanna {
+    }
+    boolean ZanyYellowZulema {
+    }
+    boolean ChubbyAmberAline {
+    }
+    number CheerfulBeigeCalypso {
+    }
+    hidden_boolean StrangeYellowWinnifred {
+    }
+    string SympatheticPinkMead2 {
+    }
+    serviceid FuzzyAquaAuberta {
+    }
+    serviceid GoverningTanSelma {
+    }
+    serviceid MinorEmeraldGabriel2 {
+    }
+  }
+  ChangingJadeKassia = "To be Frank, I'd have to change my name."
+  RightBlushCherish = "How come the stadium got hot after the game? Because all of the fans left."
+  PreviousBrownDania = false
+  ClosedMagentaLeilah = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  SuperTomatoSusanna = {
+    legit = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  }
+  ZanyYellowZulema = true
+  ChubbyAmberAline = true
+  CheerfulBeigeCalypso = 384
+  SympatheticPinkMead2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  FuzzyAquaAuberta = "Why would the kid cross the playground? To get to the other slide."
+  GoverningTanSelma = "Why is Peter Pan always flying? Because he Neverlands."
+  MinorEmeraldGabriel2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+}

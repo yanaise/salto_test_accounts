@@ -1,0 +1,5 @@
+d1.Full FullInst2 {
+  strField = "STR2"
+  numField = 222
+  _parent = d1.Full
+}

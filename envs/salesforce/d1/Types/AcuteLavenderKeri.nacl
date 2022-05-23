@@ -1,0 +1,34 @@
+type d1.AcuteLavenderKeri is number {
+  annotations {
+    serviceid_number TerribleBeigeBrinna {
+    }
+    serviceid_number ShrillApricotAntonetta {
+    }
+    json FineBrownCourtenay {
+    }
+    boolean HelpfulBlackCarolin {
+    }
+    json ConsiderableChocolateDemetra {
+    }
+    json ThoughtfulBlueCaye {
+    }
+    json LiveIndigoJody {
+    }
+    json PoorBronzeCorene {
+    }
+    serviceid_number ShallowAmberAlmire {
+    }
+    string ClosedMagentaLela {
+    }
+  }
+  TerribleBeigeBrinna = 461
+  ShrillApricotAntonetta = 317
+  FineBrownCourtenay = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  HelpfulBlackCarolin = false
+  ConsiderableChocolateDemetra = "Slept like a log last night  woke up in the fireplace."
+  ThoughtfulBlueCaye = "I'll tell you what often gets over looked... garden fences."
+  LiveIndigoJody = "I'll tell you what often gets over looked... garden fences."
+  PoorBronzeCorene = "I'll tell you what often gets over looked... garden fences."
+  ShallowAmberAlmire = 322
+  ClosedMagentaLela = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+}

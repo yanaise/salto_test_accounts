@@ -1,0 +1,47 @@
+type d1.GladGoldGlynnis3 {
+  annotations {
+    boolean DoubleCrimsonEtta {
+    }
+    string ConfidentialScarletRois {
+    }
+    hidden_boolean SmoothAquamarineBarbi2 {
+    }
+    string MinimumIndigoJerrie3 {
+    }
+    json RemoteIndigoJeniece {
+    }
+    json ZanyBlueCelie2 {
+    }
+    string NuclearCoffeeDonielle2 {
+    }
+  }
+  string ExcessSilverSapphira2 {
+    _hidden_value = true
+  }
+  hidden_boolean TiredBeigeBritt {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SteepAmethystAlys4 {
+    _hidden_value = true
+  }
+  hidden_boolean LogicalLavenderKellen2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json RespectiveSalmonPersis4 {
+    _hidden_value = true
+  }
+  serviceid_number GrowingCrimsonEnrichetta4 {
+    _hidden_value = true
+  }
+  DoubleCrimsonEtta = false
+  ConfidentialScarletRois = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MinimumIndigoJerrie3 = "What do you call two barracuda fish?  A Pairacuda!"
+  RemoteIndigoJeniece = "Im only familiar with 25 letters in the English language. I dont know why."
+  ZanyBlueCelie2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  NuclearCoffeeDonielle2 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

@@ -1,0 +1,87 @@
+type d1.FantasticBlackCarlita {
+  annotations {
+    string PrivateBronzeCordula2 {
+    }
+    number TenderRedOdele {
+    }
+    serviceid_number DeafIvoryJoy {
+    }
+    serviceid SpottyYellowWylma {
+    }
+  }
+  "List<boolean>" InfluentialMoccasinLorene2 {
+    _hidden_value = true
+  }
+  d1.LatinLimeKonstanze ProgressiveOliveMadella2 {
+    ResidentSalmonRae = "Why would the tomato blush? Because it saw the salad dressing."
+    CrazyMoccasinLorrayne = "What do you call two barracuda fish?  A Pairacuda!"
+    LevelJadeKally2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    WellFuchsiaGipsy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    ProperCoralElisabet = 700
+    OutstandingIndigoJenna = 162
+    PositiveCoffeeDona = 837
+    ThoughtlessBeigeBrit = "To be Frank, I'd have to change my name."
+    CrowdedTomatoTania2 = 614
+    FairCoffeeDinnie = 464
+    PeacefulOrangeMargret = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ToxicSalmonPhedra = 186
+    GleamingTurquoiseTeri = false
+    JoyousBlackCarry = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    RoughGreenIdelle = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    ParliamentaryFuchsiaGiacinta = true
+    AggressiveMaroonLiliane = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    IntegralSalmonPhilly = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    MidPinkMelissa = "Slept like a log last night  woke up in the fireplace."
+    SurprisingGreenIanthe = 844
+    SteadyJadeKaile = false
+    ObnoxiousAzureBrandie = {
+      legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    }
+    KindVioletValma = "Whoever invented the knock-knock joke should get a no bell prize."
+    RainyAquaAurora = true
+    RudeTanShayla = false
+    _hidden_value = true
+  }
+  serviceid_number HarshOliveMahalia2 {
+    _hidden_value = true
+  }
+  hidden_boolean DevelopedPinkMerissa {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.DEFAULT SubjectiveSapphireRhonda {
+    _hidden_value = true
+  }
+  boolean MistyTurquoiseTheadora2 {
+    _hidden_value = true
+  }
+  json SatisfiedHarlequinJeana2 {
+    _hidden_value = true
+  }
+  json SteadyJadeKailey {
+    _hidden_value = true
+  }
+  string SpottyYellowWylma2 {
+    _hidden_value = true
+  }
+  serviceid HiddenRedOdessa {
+    _hidden_value = true
+  }
+  string FatAmaranthAbigale2 {
+    _hidden_value = true
+  }
+  number OkayOliveMaggee {
+    _hidden_value = true
+  }
+  serviceid EnglishBrownCourtney2 {
+    _hidden_value = true
+  }
+  PrivateBronzeCordula2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TenderRedOdele = 26
+  DeafIvoryJoy = 54
+  SpottyYellowWylma = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

@@ -1,0 +1,33 @@
+type d1.StrictLavenderKatha3 {
+  annotations {
+    serviceid EntitledIvoryJuliane2 {
+    }
+    json DampMoccasinLotta2 {
+    }
+    d1.DEFAULT BadTurquoiseToby {
+    }
+    d1.ExtremeHarlequinJackelyn MeaningfulTealSheree {
+    }
+    serviceid OccupationalOliveMaddie {
+    }
+  }
+  "List<serviceid>" ThoroughScarletRona {
+    _hidden_value = true
+  }
+  hidden_boolean DifferentTealSilvia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FarBlushChristiane {
+    _hidden_value = true
+  }
+  EntitledIvoryJuliane2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DampMoccasinLotta2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  BadTurquoiseToby = {
+    legit = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  }
+  MeaningfulTealSheree = true
+  OccupationalOliveMaddie = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

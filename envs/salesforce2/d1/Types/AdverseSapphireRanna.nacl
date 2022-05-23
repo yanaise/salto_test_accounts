@@ -1,0 +1,16 @@
+type d1.AdverseSapphireRanna is number {
+  annotations {
+    serviceid_number CleanTomatoTami {
+    }
+    serviceid_number DreadfulPinkMerrile2 {
+    }
+    boolean CompulsoryOrangeMalorie {
+    }
+    json VividTanShawna {
+    }
+  }
+  CleanTomatoTami = 914
+  DreadfulPinkMerrile2 = 240
+  CompulsoryOrangeMalorie = true
+  VividTanShawna = "Did you hear the joke about the wandering nun? She was a roman catholic."
+}

@@ -1,0 +1,27 @@
+type d1.TanYellowYelena2 {
+  annotations {
+    string PrintedRedNichol {
+    }
+    string CleverTealSibeal4 {
+    }
+    number AppropriateChocolateDarcie2 {
+    }
+    hidden_boolean RoyalBrownCristin {
+    }
+    hidden_boolean AnnoyedAquamarineBenni2 {
+    }
+    serviceid ParliamentaryFuchsiaGerty5 {
+    }
+    serviceid_number SophisticatedJadeKarlene2 {
+    }
+  }
+  serviceid_number LatinLimeKoo {
+    _hidden_value = true
+  }
+  PrintedRedNichol = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CleverTealSibeal4 = "Why do birds fly south for the winter? Because it's too far to walk."
+  AppropriateChocolateDarcie2 = 384
+  ParliamentaryFuchsiaGerty5 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SophisticatedJadeKarlene2 = 610
+  _hidden_value = true
+}

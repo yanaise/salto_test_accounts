@@ -1,0 +1,51 @@
+type d1.TroubledBeigeBrittan3 {
+  annotations {
+    json ElectricalLavenderKerrie4 {
+    }
+    serviceid_number SlightGoldGwenora2 {
+    }
+    boolean StickyAquaArlyn2 {
+    }
+    hidden_boolean WateryYellowZelma2 {
+    }
+    boolean LesserMoccasinLucy {
+    }
+  }
+  "Map<serviceid_number>" BlindIvoryJudi6 {
+    _hidden_value = true
+  }
+  boolean WillingGoldGussy3 {
+    _hidden_value = true
+  }
+  string ThoughtlessBeigeBrit3 {
+    _hidden_value = true
+  }
+  boolean SpiritualLavenderKatrina {
+    _hidden_value = true
+  }
+  hidden_boolean PrintedRedNeysa {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json CharacteristicOliveMalia2 {
+    _hidden_value = true
+  }
+  number DeepChocolateDelores2 {
+    _hidden_value = true
+  }
+  serviceid GreenChocolateDeborah {
+    _hidden_value = true
+  }
+  serviceid AdditionalCopperDotti4 {
+    _hidden_value = true
+  }
+  boolean ExplicitMaroonLisetta5 {
+    _hidden_value = true
+  }
+  ElectricalLavenderKerrie4 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  SlightGoldGwenora2 = 272
+  StickyAquaArlyn2 = false
+  LesserMoccasinLucy = true
+  _hidden_value = true
+}

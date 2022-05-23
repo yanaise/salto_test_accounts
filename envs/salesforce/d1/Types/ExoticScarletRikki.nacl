@@ -1,0 +1,108 @@
+type d1.ExoticScarletRikki {
+  annotations {
+    boolean SquealingApricotArabel {
+    }
+    hidden_boolean AnnualCoffeeDonnie {
+    }
+    boolean CoolGreenInna {
+    }
+    d1.DEFAULT AmazingMoccasinLizbeth {
+    }
+    number GladGoldGlynnis2 {
+    }
+  }
+  number BoredAquamarineBerry {
+    _hidden_value = true
+  }
+  serviceid_number FatIvoryJoella {
+    _hidden_value = true
+  }
+  d1.PrivateBronzeCordy BlueVioletTorie {
+    CoolAmaranthAindrea = "What did one nut say as he chased another nut?  I'm a cashew!"
+    CoherentScarletRoselin = "To be Frank, I'd have to change my name."
+    OverallCrimsonEmmalynn = "Whoever invented the knock-knock joke should get a no bell prize."
+    IncreasedCrimsonEsther = "Slept like a log last night  woke up in the fireplace."
+    MightyWhiteVerena = "Im only familiar with 25 letters in the English language. I dont know why."
+    IrishCrimsonErminia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    AutomaticLavenderKevyn = true
+    _hidden_value = true
+  }
+  number FoolishSapphireReiko {
+    _hidden_value = true
+  }
+  serviceid PleasantIvoryJorry {
+    _hidden_value = true
+  }
+  hidden_boolean YellowYellowZora {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean TremendousMagentaLeoine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string ImpossibleCopperDulcea {
+    _hidden_value = true
+  }
+  boolean SorryBrownDanyette {
+    _hidden_value = true
+  }
+  json SurroundingOrangeMargette {
+    _hidden_value = true
+  }
+  serviceid_number UpsetOliveMab {
+    _hidden_value = true
+  }
+  string TightAquamarineBee {
+    _hidden_value = true
+  }
+  json ObedientBlackCassy {
+    _hidden_value = true
+  }
+  boolean ConcernedBronzeCorrena {
+    _hidden_value = true
+  }
+  d1.SpectacularMaroonLibbie TragicRosePavia {
+    FriendlyBlackCarma = 645
+    FrightenedMagentaLavena = 990
+    RepulsiveBeigeBrena = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    UptightBeigeBrittni = {
+      legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    }
+    ExactLimeKordula2 = 427
+    LocalBlueCharmian = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    SensibleIvoryJordana = "Im only familiar with 25 letters in the English language. I dont know why."
+    MonetaryIvoryJoey = "Dad Im hungry  Hi hungry Im dad"
+    WickedBeigeBryna = "Why would the kid cross the playground? To get to the other slide."
+    AshamedScarletRosamund = 925
+    ChillyAmaranthAilsun = 396
+    CooingAmethystAngelique = 797
+    FatalPurpleMyrtle = 447
+    ThoughtlessBeigeBrinna = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    EvilAzureBili = 940
+    RelievedBlueCathie = true
+    CleverTealSibeal = "Why would the kid cross the playground? To get to the other slide."
+    GrowingCrimsonEnrichetta = 592
+    _hidden_value = true
+  }
+  string ExpectedLimeLane {
+    _hidden_value = true
+  }
+  boolean SmoothIndigoJemimah {
+    _hidden_value = true
+  }
+  string PhysicalCoffeeDenise {
+    _hidden_value = true
+  }
+  SquealingApricotArabel = false
+  CoolGreenInna = true
+  AmazingMoccasinLizbeth = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  GladGoldGlynnis2 = 184
+  _hidden_value = true
+}

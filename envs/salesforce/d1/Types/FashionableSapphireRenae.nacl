@@ -1,0 +1,47 @@
+type d1.FashionableSapphireRenae is boolean {
+  annotations {
+    number RealBlushClarie {
+    }
+    serviceid WholeBronzeClotilda {
+    }
+    serviceid UnitedCopperEddi {
+    }
+    hidden_boolean DelightedIvoryJuliann {
+    }
+    serviceid RearPurpleMuire {
+    }
+    number GeographicalPeachMarlena {
+    }
+    boolean EventualTanSharona {
+    }
+    json PureGrayHenryetta {
+    }
+    string SymbolicPurpleNadia {
+    }
+    serviceid RespectiveSalmonPerry {
+    }
+    json DeepChocolateDelora {
+    }
+    hidden_boolean SpicyAquaArlie {
+    }
+    number RattyWhiteWenda {
+    }
+    json RareWhiteWaly {
+    }
+    boolean UrgentLimeKristy {
+    }
+  }
+  RealBlushClarie = 266
+  WholeBronzeClotilda = "Why was it called the dark ages? Because of all the knights. "
+  UnitedCopperEddi = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  RearPurpleMuire = "Dad Im hungry  Hi hungry Im dad"
+  GeographicalPeachMarlena = 617
+  EventualTanSharona = true
+  PureGrayHenryetta = "Dad Im hungry  Hi hungry Im dad"
+  SymbolicPurpleNadia = "What creature is smarter than a talking parrot? A spelling bee."
+  RespectiveSalmonPerry = "Did you know that protons have mass? I didn't even know they were catholic."
+  DeepChocolateDelora = "Why is Peter Pan always flying? Because he Neverlands."
+  RattyWhiteWenda = 537
+  RareWhiteWaly = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  UrgentLimeKristy = false
+}

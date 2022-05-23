@@ -1,0 +1,76 @@
+type d1.LikePeachMarlyn {
+  annotations {
+    string TiredGoldGrete4 {
+    }
+    serviceid_number SeriousBrownDanette {
+    }
+    string HiddenRedOdelle2 {
+    }
+    string SquareJadeKaia3 {
+    }
+    d1.DEFAULT AddedPinkMelinda2 {
+    }
+    number QuietWhiteVivien2 {
+    }
+  }
+  hidden_boolean ColossalAmaranthAbbye3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json MammothAmaranthAdora3 {
+    _hidden_value = true
+  }
+  number DetailedCrimsonEmlyn {
+    _hidden_value = true
+  }
+  hidden_boolean SeriousBrownDani {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json HistoricLavenderKellie {
+    _hidden_value = true
+  }
+  number GreatAmaranthAddia2 {
+    _hidden_value = true
+  }
+  serviceid_number LinearRedNesta2 {
+    _hidden_value = true
+  }
+  json InnerFuchsiaGenvieve {
+    _hidden_value = true
+  }
+  serviceid_number GeneralBlushChristean3 {
+    _hidden_value = true
+  }
+  boolean ShortAmaranthAg2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT WealthyPeachMarybeth2 {
+    _hidden_value = true
+  }
+  hidden_boolean CanadianPlumMinetta2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FoolishAzureBinny {
+    _hidden_value = true
+  }
+  boolean UndergroundScarletRomonda {
+    _hidden_value = true
+  }
+  serviceid MolecularRedNertie {
+    _hidden_value = true
+  }
+  TiredGoldGrete4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SeriousBrownDanette = 994
+  HiddenRedOdelle2 = "How come the stadium got hot after the game? Because all of the fans left."
+  SquareJadeKaia3 = "What do you call two barracuda fish?  A Pairacuda!"
+  AddedPinkMelinda2 = {
+    legit = "Slept like a log last night  woke up in the fireplace."
+  }
+  QuietWhiteVivien2 = 502
+  _hidden_value = true
+}

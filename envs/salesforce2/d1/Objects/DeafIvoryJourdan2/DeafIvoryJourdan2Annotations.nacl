@@ -1,0 +1,67 @@
+type d1.DeafIvoryJourdan2 {
+  annotations {
+    serviceid_number PleasantIvoryJorry2 {
+    }
+    boolean FrightenedMagentaLavena3 {
+    }
+    string GloriousScarletRose4 {
+    }
+    hidden_boolean InquisitiveTealStacie4 {
+    }
+    hidden_boolean ColdChocolateDebee2 {
+    }
+    serviceid ViolentIvoryJoleen2 {
+    }
+    boolean MelodicApricotAnnalee2 {
+    }
+    serviceid GrimScarletRonni4 {
+    }
+    d1.SwissPlumMikaela AbsentPinkMelva2 {
+    }
+    number RecentBronzeCornie3 {
+    }
+    boolean PhilosophicalRedNoel3 {
+    }
+    d1.ExtremeHarlequinJackelyn MetropolitanOrangeMargarita4 {
+    }
+    number SimpleBronzeCorly {
+    }
+    d1.WideBronzeCorine2 BigAmaranthAbbi4 {
+    }
+    string RedWhiteWendeline6 {
+    }
+    boolean GoldenGrayHaley4 {
+    }
+    string ConcreteOliveLynelle {
+    }
+    json SelectedPlumMilli3 {
+    }
+    serviceid_number CatholicHarlequinJamie4 {
+    }
+    serviceid ExtraordinaryIndigoJessy2 {
+    }
+    serviceid EmbarrassedRedNissa {
+    }
+    serviceid HungryMaroonLira3 {
+    }
+  }
+  PleasantIvoryJorry2 = 17
+  FrightenedMagentaLavena3 = false
+  GloriousScarletRose4 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  ViolentIvoryJoleen2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  MelodicApricotAnnalee2 = false
+  GrimScarletRonni4 = "Why was it called the dark ages? Because of all the knights. "
+  AbsentPinkMelva2 = file("DeliberateRedNoelle8.txt")
+  RecentBronzeCornie3 = 753
+  PhilosophicalRedNoel3 = true
+  MetropolitanOrangeMargarita4 = false
+  SimpleBronzeCorly = 718
+  RedWhiteWendeline6 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  GoldenGrayHaley4 = true
+  ConcreteOliveLynelle = "What do you do on a remote island? Try and find the TV island it belongs to."
+  SelectedPlumMilli3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  CatholicHarlequinJamie4 = 343
+  ExtraordinaryIndigoJessy2 = "How come the stadium got hot after the game? Because all of the fans left."
+  EmbarrassedRedNissa = "Dad Im hungry  Hi hungry Im dad"
+  HungryMaroonLira3 = "Why do birds fly south for the winter? Because it's too far to walk."
+}

@@ -1,0 +1,36 @@
+type d1.LivelyPeachMarylynne {
+  annotations {
+    d1.DEFAULT AwfulAquamarineBernelle3 {
+    }
+    serviceid JollyBlackCaron {
+    }
+    d1.DEFAULT AwkwardPeachMarylee3 {
+    }
+    number BloodyCyanFedora2 {
+    }
+  }
+  d1.FancyTurquoiseTeirtza RandomMoccasinLorena4 {
+    TallYellowXylia = "Whoever invented the knock-knock joke should get a no bell prize."
+    CheapCopperEdita = "Why would the tomato blush? Because it saw the salad dressing."
+    SharedPinkMelicent = 71
+    StuckRoseOralee = 201
+    SorryBrownDanyelle = 328
+    GoverningTanSelle = 616
+    JointCoralEliza = "How come the stadium got hot after the game? Because all of the fans left."
+    SorryBrownDanyelle2 = 813
+    PainfulMaroonLilly = "Im only familiar with 25 letters in the English language. I dont know why."
+    RichTomatoStorm = "Whoever invented the knock-knock joke should get a no bell prize."
+    ImplicitSapphireRhea = 999
+    FlyingMoccasinLoralyn = false
+    _hidden_value = true
+  }
+  AwfulAquamarineBernelle3 = {
+    legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  }
+  JollyBlackCaron = "Im only familiar with 25 letters in the English language. I dont know why."
+  AwkwardPeachMarylee3 = {
+    legit = "Why would the tomato blush? Because it saw the salad dressing."
+  }
+  BloodyCyanFedora2 = 955
+  _hidden_value = true
+}

@@ -1,0 +1,14 @@
+type d1.AnxiousHarlequinJanna is string {
+  annotations {
+    serviceid ColonialPeachMaure {
+    }
+    serviceid GloriousBlackCarmine {
+    }
+    hidden_boolean FriendlyVioletTrudi {
+    }
+    hidden_boolean CoastalPlumMichal {
+    }
+  }
+  ColonialPeachMaure = "Why do birds fly south for the winter? Because it's too far to walk."
+  GloriousBlackCarmine = "How come the stadium got hot after the game? Because all of the fans left."
+}

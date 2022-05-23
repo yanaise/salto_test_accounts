@@ -1,0 +1,21 @@
+type d1.MagentaWhiteVelma2 {
+  annotations {
+    number YummyYellowZorine {
+    }
+    hidden_boolean DearGoldGlennie {
+    }
+    string BrightVioletTory2 {
+    }
+    hidden_boolean TerritorialSalmonPris {
+    }
+    string OkayOliveMahala {
+    }
+  }
+  serviceid_number RealTomatoStesha {
+    _hidden_value = true
+  }
+  YummyYellowZorine = 880
+  BrightVioletTory2 = "What creature is smarter than a talking parrot? A spelling bee."
+  OkayOliveMahala = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

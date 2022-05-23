@@ -1,0 +1,54 @@
+type d1.SpontaneousTanShaun {
+  annotations {
+    boolean WelshGrayHattie2 {
+    }
+    serviceid_number SilentGrayHappy {
+    }
+    serviceid AvailableBlushChrystal {
+    }
+    d1.DEFAULT VariedRedNorean {
+    }
+    boolean EnthusiasticPinkMerrielle2 {
+    }
+  }
+  boolean RegionalCopperDorice {
+    _hidden_value = true
+  }
+  serviceid_number SlowAmethystAnabelle2 {
+    _hidden_value = true
+  }
+  number TameYellowYasmeen {
+    _hidden_value = true
+  }
+  hidden_boolean HurtAzureBlythe {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json YoungAmethystAndee {
+    _hidden_value = true
+  }
+  serviceid ClumsyVioletTracey {
+    _hidden_value = true
+  }
+  serviceid_number FluffyAmberAlice3 {
+    _hidden_value = true
+  }
+  serviceid CorrespondingPlumMinny {
+    _hidden_value = true
+  }
+  json StraightHarlequinJaimie {
+    _hidden_value = true
+  }
+  json AddedPinkMelina {
+    _hidden_value = true
+  }
+  WelshGrayHattie2 = false
+  SilentGrayHappy = 271
+  AvailableBlushChrystal = "Why would the kid cross the playground? To get to the other slide."
+  VariedRedNorean = {
+    legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+  }
+  EnthusiasticPinkMerrielle2 = false
+  _hidden_value = true
+}

@@ -1,0 +1,24 @@
+type d1.YellowGoldGiuditta {
+  annotations {
+    hidden_boolean MightyWhiteVerile {
+    }
+    number StripedYellowWrennie {
+    }
+    boolean RichTomatoStoddard2 {
+    }
+    hidden_boolean FamousCoralElfrieda2 {
+    }
+    boolean OrdinaryWhiteViole {
+    }
+    serviceid StripedYellowWren {
+    }
+  }
+  serviceid_number NuttyWhiteViki {
+    _hidden_value = true
+  }
+  StripedYellowWrennie = 148
+  RichTomatoStoddard2 = false
+  OrdinaryWhiteViole = false
+  StripedYellowWren = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

@@ -1,0 +1,38 @@
+type d1.TiredGoldGrete3 {
+  annotations {
+    boolean PerfectBlackCate4 {
+    }
+    serviceid WildCyanEzmeralda {
+    }
+    hidden_boolean PoisedTurquoiseThomasa3 {
+    }
+    hidden_boolean MiniatureAmaranthAdriana {
+    }
+    number BrainyTealSherye3 {
+    }
+  }
+  json PastCoffeeDianna2 {
+    _hidden_value = true
+  }
+  serviceid_number DrabTurquoiseTasia2 {
+    _hidden_value = true
+  }
+  serviceid AcceptedTanSerene2 {
+    _hidden_value = true
+  }
+  boolean CompetitiveGrayHeida2 {
+    _hidden_value = true
+  }
+  hidden_boolean ConfidentialScarletRomola2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SwiftAmethystAnallise {
+    _hidden_value = true
+  }
+  PerfectBlackCate4 = false
+  WildCyanEzmeralda = "Did you know that protons have mass? I didn't even know they were catholic."
+  BrainyTealSherye3 = 985
+  _hidden_value = true
+}

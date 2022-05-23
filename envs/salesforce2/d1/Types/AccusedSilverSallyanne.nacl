@@ -1,0 +1,69 @@
+type d1.AccusedSilverSallyanne {
+  annotations {
+    number PsychologicalIvoryJolee3 {
+    }
+    string ExpectedLimeLane2 {
+    }
+    string FashionableSapphireRenata9 {
+    }
+    d1.DEFAULT RapidAmethystAmmamaria3 {
+    }
+    json PurpleScarletRivalee4 {
+    }
+  }
+  hidden_boolean HostileOrangeMariel3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.FashionableSapphireRenae CrowdedTomatoTani2 {
+    RealBlushClarie = 945
+    WholeBronzeClotilda = "Why would the kid cross the playground? To get to the other slide."
+    UnitedCopperEddi = "Im only familiar with 25 letters in the English language. I dont know why."
+    RearPurpleMuire = "A steak pun is a rare medium well done."
+    GeographicalPeachMarlena = 174
+    EventualTanSharona = true
+    PureGrayHenryetta = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    SymbolicPurpleNadia = "Dad Im hungry  Hi hungry Im dad"
+    RespectiveSalmonPerry = "Why would the kid cross the playground? To get to the other slide."
+    DeepChocolateDelora = "How come the stadium got hot after the game? Because all of the fans left."
+    RattyWhiteWenda = 500
+    RareWhiteWaly = "Why would the tomato blush? Because it saw the salad dressing."
+    UrgentLimeKristy = false
+    _hidden_value = true
+  }
+  boolean CanadianPlumMindy2 {
+    _hidden_value = true
+  }
+  number AllegedOliveLynn4 {
+    _hidden_value = true
+  }
+  json TechnologicalOrangeMaribel3 {
+    _hidden_value = true
+  }
+  serviceid AmateurSalmonPia3 {
+    _hidden_value = true
+  }
+  serviceid_number VoluntaryGoldGwenette2 {
+    _hidden_value = true
+  }
+  serviceid LevelJadeKamila {
+    _hidden_value = true
+  }
+  string NormalBrownDamaris3 {
+    _hidden_value = true
+  }
+  hidden_boolean ChangingJadeKassi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  PsychologicalIvoryJolee3 = 873
+  ExpectedLimeLane2 = "What do you call two barracuda fish?  A Pairacuda!"
+  FashionableSapphireRenata9 = "Why was it called the dark ages? Because of all the knights. "
+  RapidAmethystAmmamaria3 = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  PurpleScarletRivalee4 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

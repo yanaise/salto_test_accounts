@@ -1,0 +1,28 @@
+type d1.DominantIndigoJenelle {
+  annotations {
+    string OrdinaryWhiteViolet3 {
+    }
+    serviceid_number TremendousMagentaLeola3 {
+    }
+    boolean BewilderedAquamarineBernie3 {
+    }
+    hidden_boolean GiganticVioletUlrike3 {
+    }
+    serviceid_number ImmensePlumMiriam {
+    }
+    string SparklingTurquoiseTiffy3 {
+    }
+  }
+  boolean CompatibleSapphireRenie3 {
+    _hidden_value = true
+  }
+  string ComfortableGoldGrier2 {
+    _hidden_value = true
+  }
+  OrdinaryWhiteViolet3 = "A steak pun is a rare medium well done."
+  TremendousMagentaLeola3 = 831
+  BewilderedAquamarineBernie3 = false
+  ImmensePlumMiriam = 586
+  SparklingTurquoiseTiffy3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

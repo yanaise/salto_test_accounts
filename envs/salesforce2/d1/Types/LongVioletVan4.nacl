@@ -1,0 +1,41 @@
+type d1.LongVioletVan4 {
+  annotations {
+    json PeacefulOrangeMargot3 {
+    }
+    boolean BasicChocolateDarice5 {
+    }
+    boolean LightTurquoiseTessie3 {
+    }
+    boolean MusicalIndigoJobey3 {
+    }
+    serviceid_number NuclearCoffeeDonica4 {
+    }
+    serviceid HappyVioletValeda {
+    }
+    number FrozenScarletRosabella2 {
+    }
+  }
+  json IllAzureBobbee3 {
+    _hidden_value = true
+  }
+  string VaryingPurpleNellie3 {
+    _hidden_value = true
+  }
+  serviceid StrongAquaAshia {
+    _hidden_value = true
+  }
+  serviceid_number SelfishBeigeBridget {
+    _hidden_value = true
+  }
+  string ProspectiveRedNettie3 {
+    _hidden_value = true
+  }
+  PeacefulOrangeMargot3 = "How come the stadium got hot after the game? Because all of the fans left."
+  BasicChocolateDarice5 = false
+  LightTurquoiseTessie3 = true
+  MusicalIndigoJobey3 = false
+  NuclearCoffeeDonica4 = 305
+  HappyVioletValeda = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  FrozenScarletRosabella2 = 372
+  _hidden_value = true
+}

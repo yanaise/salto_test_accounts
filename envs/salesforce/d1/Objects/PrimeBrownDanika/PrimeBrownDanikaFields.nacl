@@ -1,0 +1,21 @@
+type d1.PrimeBrownDanika {
+  serviceid_number TenseBeigeBrigit {
+  }
+  boolean RegularCopperDorthy2 {
+  }
+  serviceid_number UpsetOliveMab4 {
+  }
+  hidden_boolean CrazyVioletTrescha4 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  string PublicBlushChrysa5 {
+  }
+  serviceid_number WastefulYellowZia6 {
+  }
+  number PossibleBlushCheslie3 {
+  }
+  "List<serviceid_number>" GreatVioletTybi4 {
+  }
+}

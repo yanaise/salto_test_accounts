@@ -1,0 +1,40 @@
+type d1.FancyTurquoiseTeirtza is number {
+  annotations {
+    json TallYellowXylia {
+    }
+    json CheapCopperEdita {
+    }
+    number SharedPinkMelicent {
+    }
+    serviceid_number StuckRoseOralee {
+    }
+    serviceid_number SorryBrownDanyelle {
+    }
+    number GoverningTanSelle {
+    }
+    serviceid JointCoralEliza {
+    }
+    serviceid_number SorryBrownDanyelle2 {
+    }
+    string PainfulMaroonLilly {
+    }
+    json RichTomatoStorm {
+    }
+    number ImplicitSapphireRhea {
+    }
+    boolean FlyingMoccasinLoralyn {
+    }
+  }
+  TallYellowXylia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CheapCopperEdita = "Im only familiar with 25 letters in the English language. I dont know why."
+  SharedPinkMelicent = 170
+  StuckRoseOralee = 961
+  SorryBrownDanyelle = 89
+  GoverningTanSelle = 217
+  JointCoralEliza = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SorryBrownDanyelle2 = 642
+  PainfulMaroonLilly = "A steak pun is a rare medium well done."
+  RichTomatoStorm = "How come the stadium got hot after the game? Because all of the fans left."
+  ImplicitSapphireRhea = 827
+  FlyingMoccasinLoralyn = true
+}

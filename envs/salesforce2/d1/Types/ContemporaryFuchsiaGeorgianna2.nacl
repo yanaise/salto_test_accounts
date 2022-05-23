@@ -1,0 +1,22 @@
+type d1.ContemporaryFuchsiaGeorgianna2 {
+  annotations {
+    hidden_boolean EmbarrassingSilverSashenka {
+    }
+    serviceid ProgressiveOliveMadelina2 {
+    }
+    number ElectronicGreenIngaberg {
+    }
+    string PopularChocolateDaveen {
+    }
+    boolean AtomicScarletRora {
+    }
+  }
+  serviceid IndianGrayHarmonia {
+    _hidden_value = true
+  }
+  ProgressiveOliveMadelina2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ElectronicGreenIngaberg = 410
+  PopularChocolateDaveen = "I'll tell you what often gets over looked... garden fences."
+  AtomicScarletRora = true
+  _hidden_value = true
+}

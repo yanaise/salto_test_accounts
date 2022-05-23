@@ -1,0 +1,44 @@
+type d1.ChubbyAmberAlis2 {
+  annotations {
+    number EnglishBrownCrissie {
+    }
+    hidden_boolean SpottyYellowWylma3 {
+    }
+    number TartYellowXaviera {
+    }
+    boolean ExcessiveOliveMadelene3 {
+    }
+    number SpotlessTurquoiseTildie2 {
+    }
+    serviceid PoorBronzeCorene5 {
+    }
+    serviceid_number IntensiveOliveLurette {
+    }
+  }
+  hidden_boolean EfficientGoldGretna {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number OccupationalOliveMadel2 {
+    _hidden_value = true
+  }
+  serviceid_number EagerBeigeCandra2 {
+    _hidden_value = true
+  }
+  hidden_boolean SafeCopperDorey2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.ExtraCoffeeDianemarie OutsideGrayHelenka4 {
+    _hidden_value = true
+  }
+  EnglishBrownCrissie = 257
+  TartYellowXaviera = 942
+  ExcessiveOliveMadelene3 = true
+  SpotlessTurquoiseTildie2 = 826
+  PoorBronzeCorene5 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  IntensiveOliveLurette = 978
+  _hidden_value = true
+}

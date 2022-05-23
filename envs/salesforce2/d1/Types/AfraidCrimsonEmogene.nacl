@@ -1,0 +1,125 @@
+type d1.AfraidCrimsonEmogene {
+  annotations {
+    d1.SwissPlumMikaela GayOrangeMariette3 {
+    }
+    serviceid_number InteriorPurpleNatka {
+    }
+    serviceid StormyTurquoiseTilly {
+    }
+    boolean PrimaryCoffeeDody {
+    }
+    serviceid TeenageScarletRobinetta3 {
+    }
+    json JollyVioletValina3 {
+    }
+  }
+  hidden_boolean SpiritualLavenderKatrine4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ModernAmethystAmelina2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.DEFAULT WrongTomatoSybil {
+    _hidden_value = true
+  }
+  json BadBlushCilka {
+    _hidden_value = true
+  }
+  boolean WorthyRoseOdille2 {
+    _hidden_value = true
+  }
+  json DistinctiveLimeKristen3 {
+    _hidden_value = true
+  }
+  json FavourablePinkMerci2 {
+    _hidden_value = true
+  }
+  string AliveFuchsiaGilly {
+    _hidden_value = true
+  }
+  string HiddenRedOdelle3 {
+    _hidden_value = true
+  }
+  number QuietWhiteVivienne {
+    _hidden_value = true
+  }
+  json LongVioletVanda3 {
+    _hidden_value = true
+  }
+  boolean HorizontalSalmonPrudence3 {
+    _hidden_value = true
+  }
+  serviceid_number SkinnyAmberAlta3 {
+    _hidden_value = true
+  }
+  boolean ExperimentalLavenderKatlin {
+    _hidden_value = true
+  }
+  boolean AnonymousSapphireRaye3 {
+    _hidden_value = true
+  }
+  boolean ExplicitMaroonLisbeth3 {
+    _hidden_value = true
+  }
+  json VastEmeraldFreddi2 {
+    _hidden_value = true
+  }
+  json InterimOrangeMalvina {
+    _hidden_value = true
+  }
+  serviceid ObligedOrangeMarcellina2 {
+    _hidden_value = true
+  }
+  serviceid ComparativePlumModestia2 {
+    _hidden_value = true
+  }
+  number SoftCoralElana3 {
+    _hidden_value = true
+  }
+  string WanderingTomatoSuzette {
+    _hidden_value = true
+  }
+  json WorthyRedOdilia3 {
+    _hidden_value = true
+  }
+  number GenuineGreenIsobel2 {
+    _hidden_value = true
+  }
+  string WelshGrayHazel {
+    _hidden_value = true
+  }
+  serviceid FrailVioletTrude2 {
+    _hidden_value = true
+  }
+  boolean AddedPinkMelicent3 {
+    _hidden_value = true
+  }
+  boolean ExcessSilverSapphire3 {
+    _hidden_value = true
+  }
+  serviceid_number LiableLimeKimberlyn4 {
+    _hidden_value = true
+  }
+  d1.AcceptedTanSerena GentleBlackCarmen {
+    HarshOliveMaia = "A steak pun is a rare medium well done."
+    EvolutionarySilverRuby = "To be Frank, I'd have to change my name."
+    SoundAmethystAngelika = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ExtraCoffeeDiandra = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    QuaintWhiteVivianna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  string PromisingRedNonie2 {
+    _hidden_value = true
+  }
+  GayOrangeMariette3 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  InteriorPurpleNatka = 804
+  StormyTurquoiseTilly = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  PrimaryCoffeeDody = false
+  TeenageScarletRobinetta3 = "Why would the tomato blush? Because it saw the salad dressing."
+  JollyVioletValina3 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

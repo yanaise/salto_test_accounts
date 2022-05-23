@@ -1,0 +1,20 @@
+type d1.BeautifulVioletTommy {
+  annotations {
+    boolean PremierOrangeMargy2 {
+    }
+    d1.LowBlushChristy OtherBlueCeline2 {
+    }
+    string ArmedGrayHelaina {
+    }
+    number RepresentativePinkMerola2 {
+    }
+  }
+  json QuickWhiteVivyanne {
+    _hidden_value = true
+  }
+  PremierOrangeMargy2 = false
+  OtherBlueCeline2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ArmedGrayHelaina = "Slept like a log last night  woke up in the fireplace."
+  RepresentativePinkMerola2 = 0
+  _hidden_value = true
+}

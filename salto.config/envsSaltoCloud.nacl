@@ -8,5 +8,13 @@ envs {
       uuid = "7098998c-f966-4840-83a9-0512c9e97e52"
       folderName = "new_env2"
     },
+    {
+      uuid = "fddbc927-1959-43e5-900c-b51e00050edb"
+      folderName = "salesforce2"
+    },
+    {
+      uuid = "862c54c4-1ed0-4af2-a3c7-bf0216d66908"
+      folderName = "salesforce"
+    },
   ]
 }

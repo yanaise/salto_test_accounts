@@ -1,0 +1,48 @@
+type d1.DeliciousApricotArdis {
+  annotations {
+    serviceid BeneficialPlumMonah {
+    }
+    serviceid_number NiceWhiteVicki {
+    }
+    serviceid WickedScarletRoselia {
+    }
+    hidden_boolean GentleIndigoJobyna {
+    }
+    number HelplessAzureBlanch {
+    }
+  }
+  json AlliedPlumMisha {
+    _hidden_value = true
+  }
+  serviceid_number FunnyEmeraldGabbi {
+    _hidden_value = true
+  }
+  string AdministrativeGreenHonoria {
+    _hidden_value = true
+  }
+  serviceid SpottyYellowWrennie {
+    _hidden_value = true
+  }
+  boolean StupidTomatoSusan {
+    _hidden_value = true
+  }
+  serviceid SteadyAquamarineBea {
+    _hidden_value = true
+  }
+  hidden_boolean EqualCrimsonEmilia2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean UrbanCyanFallon {
+    _hidden_value = true
+  }
+  d1.DEFAULT IndividualBrownCrystie {
+    _hidden_value = true
+  }
+  BeneficialPlumMonah = "What creature is smarter than a talking parrot? A spelling bee."
+  NiceWhiteVicki = 557
+  WickedScarletRoselia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  HelplessAzureBlanch = 544
+  _hidden_value = true
+}

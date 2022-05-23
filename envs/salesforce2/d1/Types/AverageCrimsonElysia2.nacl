@@ -1,0 +1,70 @@
+type d1.AverageCrimsonElysia2 {
+  annotations {
+    serviceid_number RecentBronzeCornelle {
+    }
+    serviceid_number TechnicalCopperEdee4 {
+    }
+    json HelpfulBlackCarolina2 {
+    }
+    number ControversialLimeKylen2 {
+    }
+  }
+  number ClumsyVioletTraci {
+    _hidden_value = true
+  }
+  string NorthernCoralElectra2 {
+    _hidden_value = true
+  }
+  hidden_boolean CorrectCrimsonErinn2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.TameTomatoSusannah RidiculousMoccasinLivvyy {
+    TragicRosePauline = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    ScornfulBeigeBrianna = false
+    _hidden_value = true
+  }
+  serviceid_number LargeAmaranthAdeline3 {
+    _hidden_value = true
+  }
+  number EmptyCyanFancie {
+    _hidden_value = true
+  }
+  "List<boolean>" MainBlushCinda3 {
+    _hidden_value = true
+  }
+  string MinorEmeraldGabi {
+    _hidden_value = true
+  }
+  "List<boolean>" SweetAquaAshlan2 {
+    _hidden_value = true
+  }
+  boolean RedundantSalmonPhilippe2 {
+    _hidden_value = true
+  }
+  json StrategicIndigoJeannine {
+    _hidden_value = true
+  }
+  string ClumsyVioletTracie {
+    _hidden_value = true
+  }
+  hidden_boolean EntireEmeraldFrank2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean OldBlueChanna {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json EligiblePurpleNelia {
+    _hidden_value = true
+  }
+  RecentBronzeCornelle = 5
+  TechnicalCopperEdee4 = 849
+  HelpfulBlackCarolina2 = "What do you call two barracuda fish?  A Pairacuda!"
+  ControversialLimeKylen2 = 509
+  _hidden_value = true
+}

@@ -1,0 +1,81 @@
+type d1.FutureCoffeeDolorita {
+  annotations {
+    serviceid_number UnconsciousSapphireRaven3 {
+    }
+    number MassGreenIlla {
+    }
+    string SelectedPlumMillie {
+    }
+    serviceid SuccessfulChocolateDarsie {
+    }
+    serviceid EncouragingBlackCari2 {
+    }
+    string ExplicitMaroonLisetta3 {
+    }
+  }
+  hidden_boolean MuteApricotAnnecorinne2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number FatalPurpleMyrtle2 {
+    _hidden_value = true
+  }
+  json InstantSapphireRandy4 {
+    _hidden_value = true
+  }
+  string BroadAmberAlidia {
+    _hidden_value = true
+  }
+  number ComplexCopperDrucie3 {
+    _hidden_value = true
+  }
+  "List<number>" LimitedCoralElladine {
+    _hidden_value = true
+  }
+  boolean DisturbedAzureBeverley2 {
+    _hidden_value = true
+  }
+  json GiganticAmaranthAddi {
+    _hidden_value = true
+  }
+  d1.DEFAULT ArabLimeKiri {
+    _hidden_value = true
+  }
+  "List<boolean>" WoodenGreenHortense2 {
+    _hidden_value = true
+  }
+  boolean SolidAquamarineBasia2 {
+    _hidden_value = true
+  }
+  serviceid_number AppropriateChocolateDarcey2 {
+    _hidden_value = true
+  }
+  number AdorableTomatoSydel4 {
+    _hidden_value = true
+  }
+  serviceid_number MagicOrangeManya2 {
+    _hidden_value = true
+  }
+  serviceid JuniorIvoryJonis2 {
+    _hidden_value = true
+  }
+  hidden_boolean UnableCoralEloisa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number CompetitiveGrayHedy2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT PurpleScarletRisa {
+    _hidden_value = true
+  }
+  UnconsciousSapphireRaven3 = 259
+  MassGreenIlla = 471
+  SelectedPlumMillie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SuccessfulChocolateDarsie = "Why would the tomato blush? Because it saw the salad dressing."
+  EncouragingBlackCari2 = "Why would the kid cross the playground? To get to the other slide."
+  ExplicitMaroonLisetta3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

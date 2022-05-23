@@ -1,0 +1,40 @@
+type d1.CompatibleSapphireRenell3 {
+  annotations {
+    serviceid ClosedMagentaLeisha {
+    }
+    serviceid QuietApricotAnnis {
+    }
+    boolean DevotedRosePauletta2 {
+    }
+    number CuteTomatoTansy2 {
+    }
+    string IrishCrimsonErmina2 {
+    }
+    serviceid_number LegalBrownDaile2 {
+    }
+  }
+  serviceid LowBlushChristina2 {
+    _hidden_value = true
+  }
+  hidden_boolean EquivalentJadeKala {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid JudicialJadeKarisa2 {
+    _hidden_value = true
+  }
+  serviceid_number RuralCoralElsbeth3 {
+    _hidden_value = true
+  }
+  number EquivalentJadeKaleena2 {
+    _hidden_value = true
+  }
+  ClosedMagentaLeisha = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  QuietApricotAnnis = "To be Frank, I'd have to change my name."
+  DevotedRosePauletta2 = false
+  CuteTomatoTansy2 = 230
+  IrishCrimsonErmina2 = "To be Frank, I'd have to change my name."
+  LegalBrownDaile2 = 330
+  _hidden_value = true
+}

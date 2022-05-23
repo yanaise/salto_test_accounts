@@ -1,0 +1,29 @@
+type d1.ImperialLavenderKaterine {
+  annotations {
+    hidden_boolean ItalianGoldGray2 {
+    }
+    boolean EnchantingBlackCaresa {
+    }
+    serviceid_number TerritorialSalmonPriscilla {
+    }
+    boolean IllAzureBobbee2 {
+    }
+    d1.DEFAULT JapaneseEmeraldFidelity {
+    }
+    hidden_boolean ConsistentHarlequinJanith {
+    }
+    json WonderfulYellowZoe5 {
+    }
+  }
+  string CoherentScarletRoseline {
+    _hidden_value = true
+  }
+  EnchantingBlackCaresa = true
+  TerritorialSalmonPriscilla = 363
+  IllAzureBobbee2 = false
+  JapaneseEmeraldFidelity = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  WonderfulYellowZoe5 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

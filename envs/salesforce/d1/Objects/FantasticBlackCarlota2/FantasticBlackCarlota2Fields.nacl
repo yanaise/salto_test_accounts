@@ -1,0 +1,7 @@
+type d1.FantasticBlackCarlota2 {
+  hidden_boolean LateBlushChristalle4 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+}

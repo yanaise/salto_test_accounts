@@ -1,0 +1,54 @@
+type d1.ShyTomatoStormy {
+  annotations {
+    json SoftCoralElayne {
+    }
+    serviceid_number ConfusedAquamarineBertina {
+    }
+    number AggressiveMaroonLiliane2 {
+    }
+    serviceid AgriculturalGoldGoldia {
+    }
+    hidden_boolean ConceptualTanShelagh2 {
+    }
+    serviceid_number FlexibleLavenderKathleen {
+    }
+  }
+  serviceid AgriculturalGoldGoldi2 {
+    _hidden_value = true
+  }
+  serviceid MathematicalRoseOtha {
+    _hidden_value = true
+  }
+  "Map<hidden_boolean>" ThoroughScarletRonalda {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json NiceWhiteVickie {
+    _hidden_value = true
+  }
+  serviceid CoastalPlumMichel {
+    _hidden_value = true
+  }
+  string ComfortableBeigeCamella {
+    _hidden_value = true
+  }
+  boolean HungryAzureBlithe {
+    _hidden_value = true
+  }
+  serviceid CheapCopperEdith {
+    _hidden_value = true
+  }
+  serviceid_number ViolentIvoryJoleen {
+    _hidden_value = true
+  }
+  serviceid SillyYellowWinna2 {
+    _hidden_value = true
+  }
+  SoftCoralElayne = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ConfusedAquamarineBertina = 731
+  AggressiveMaroonLiliane2 = 274
+  AgriculturalGoldGoldia = "What do you do on a remote island? Try and find the TV island it belongs to."
+  FlexibleLavenderKathleen = 476
+  _hidden_value = true
+}

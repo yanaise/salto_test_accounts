@@ -1,0 +1,26 @@
+type d1.UpperCyanFaustina3 {
+  annotations {
+    json ShallowPinkMeghan2 {
+    }
+    json ExoticScarletRina2 {
+    }
+    string WorryingSilverRozanna2 {
+    }
+    boolean ColossalAmaranthAbbi {
+    }
+    serviceid_number ExternalEmeraldFloria {
+    }
+    string InterestingChocolateDeloria {
+    }
+  }
+  json GiganticAmaranthAdda4 {
+    _hidden_value = true
+  }
+  ShallowPinkMeghan2 = "Why would the tomato blush? Because it saw the salad dressing."
+  ExoticScarletRina2 = "A steak pun is a rare medium well done."
+  WorryingSilverRozanna2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ColossalAmaranthAbbi = true
+  ExternalEmeraldFloria = 356
+  InterestingChocolateDeloria = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

@@ -1,0 +1,27 @@
+type d1.UnacceptableSalmonPenelope {
+  annotations {
+    hidden_boolean DefinitePeachMartelle2 {
+    }
+    serviceid_number OverseasIvoryJuditha2 {
+    }
+    serviceid DepressedPinkMelany2 {
+    }
+    boolean AshamedAquamarineBernadina {
+    }
+    serviceid_number SocialBlueCharo2 {
+    }
+    serviceid_number TragicRosePavia2 {
+    }
+  }
+  hidden_boolean ExplicitMaroonLisette {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  OverseasIvoryJuditha2 = 640
+  DepressedPinkMelany2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  AshamedAquamarineBernadina = false
+  SocialBlueCharo2 = 184
+  TragicRosePavia2 = 893
+  _hidden_value = true
+}

@@ -1,0 +1,82 @@
+type d1.VariableRedNona2 {
+  annotations {
+    hidden_boolean BoldPlumMinette {
+    }
+    serviceid_number MagentaWhiteVelvet2 {
+    }
+    json SadYellowWillamina {
+    }
+    boolean ShallowAmberAloise {
+    }
+    hidden_boolean HugeAmaranthAdel3 {
+    }
+    json AdvancedHarlequinJacenta {
+    }
+  }
+  json BreezyAmaranthAidan4 {
+    _hidden_value = true
+  }
+  hidden_boolean OriginalChocolateDarsey2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AwareChocolateDasha2 {
+    _hidden_value = true
+  }
+  serviceid ModeratePurpleNatalie2 {
+    _hidden_value = true
+  }
+  serviceid_number VictoriousBlueCecil {
+    _hidden_value = true
+  }
+  hidden_boolean GoldenGrayHaleigh2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number MaleCoffeeDianne {
+    _hidden_value = true
+  }
+  string PowerfulCopperDruci2 {
+    _hidden_value = true
+  }
+  json InstitutionalMaroonLeshia3 {
+    _hidden_value = true
+  }
+  serviceid_number ArbitrarySilverRowena {
+    _hidden_value = true
+  }
+  "List<boolean>" GoodBlackCarmon {
+    _hidden_value = true
+  }
+  number AmericanBronzeCorrina {
+    _hidden_value = true
+  }
+  string EstablishedMagentaLeigh3 {
+    _hidden_value = true
+  }
+  serviceid DelightfulBeigeCammie {
+    _hidden_value = true
+  }
+  number IndividualBrownCthrine2 {
+    _hidden_value = true
+  }
+  boolean ConvincingSalmonPeggi {
+    _hidden_value = true
+  }
+  string MusicalIndigoJoanne5 {
+    _hidden_value = true
+  }
+  boolean ParentalRedNicholle2 {
+    _hidden_value = true
+  }
+  number OkayOliveMaggie3 {
+    _hidden_value = true
+  }
+  MagentaWhiteVelvet2 = 831
+  SadYellowWillamina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ShallowAmberAloise = true
+  AdvancedHarlequinJacenta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

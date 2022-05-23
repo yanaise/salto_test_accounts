@@ -1,0 +1,98 @@
+type d1.DiplomaticMagentaLenore3 {
+  annotations {
+    hidden_boolean ExcitingGreenIvett3 {
+    }
+    serviceid_number OralLimeKylie3 {
+    }
+    json TallAmaranthAggy2 {
+    }
+    json EssentialCoffeeDion2 {
+    }
+    hidden_boolean IntellectualJadeKalina2 {
+    }
+  }
+  boolean QuietCoralElaina4 {
+    _hidden_value = true
+  }
+  serviceid_number LabourBrownDaffie2 {
+    _hidden_value = true
+  }
+  number StickyAquaArly {
+    _hidden_value = true
+  }
+  string InvolvedCoffeeDena {
+    _hidden_value = true
+  }
+  d1.AnxiousHarlequinJanna ConfidentHarlequinJacynth {
+    ColonialPeachMaure = "A steak pun is a rare medium well done."
+    GloriousBlackCarmine = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  hidden_boolean CooperativeBeigeCamile3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "Map<number>" RelevantCoffeeDoralin2 {
+    _hidden_value = true
+  }
+  hidden_boolean KindOrangeMaribeth3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number DifferentTealSilva {
+    _hidden_value = true
+  }
+  d1.IllAzureBobbee NiceWhiteVicki2 {
+    CriticalCrimsonEstell = "What do you do on a remote island? Try and find the TV island it belongs to."
+    GorgeousVioletUna = 476
+    TraditionalChocolateDeidre = "Why would the kid cross the playground? To get to the other slide."
+    ScaredSalmonRafaelita = "How come the stadium got hot after the game? Because all of the fans left."
+    MotionlessTurquoiseTheodora = 916
+    BreezyAmaranthAidan = "Dad Im hungry  Hi hungry Im dad"
+    ScaredSapphireRahal = false
+    BeautifulTomatoTabina = "Why would the kid cross the playground? To get to the other slide."
+    ExceptionalOliveMadlin = 934
+    HeadPinkMeg = 91
+    UrgentLimeKristyn = false
+    DeliberateRedNoelyn = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    BeneficialPlumMonica = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    WillingGoldGussy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    MobilePurpleMoria = true
+    _hidden_value = true
+  }
+  json HandsomeOliveMala {
+    _hidden_value = true
+  }
+  serviceid_number ImpossibleTealSosanna2 {
+    _hidden_value = true
+  }
+  string RepresentativePinkMerralee {
+    _hidden_value = true
+  }
+  d1.DEFAULT HarshOliveMahala {
+    _hidden_value = true
+  }
+  string GreenChocolateDebra3 {
+    _hidden_value = true
+  }
+  hidden_boolean ColourfulScarletRosabella {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string AfraidAquamarineBenedetta {
+    _hidden_value = true
+  }
+  boolean AshamedScarletRosamond2 {
+    _hidden_value = true
+  }
+  serviceid_number DirtyIvoryJosefa2 {
+    _hidden_value = true
+  }
+  OralLimeKylie3 = 13
+  TallAmaranthAggy2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  EssentialCoffeeDion2 = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

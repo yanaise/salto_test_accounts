@@ -1,0 +1,20 @@
+type d1.ProvincialPeachMarita is number {
+  annotations {
+    d1.DEFAULT FineBlackCarlyn {
+    }
+    d1.DEFAULT OldAmethystAmi {
+    }
+    boolean VariedRedNorah {
+    }
+    json ShakyAquaAyn {
+    }
+  }
+  FineBlackCarlyn = {
+    legit = "What do you call two barracuda fish?  A Pairacuda!"
+  }
+  OldAmethystAmi = {
+    legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  }
+  VariedRedNorah = false
+  ShakyAquaAyn = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+}

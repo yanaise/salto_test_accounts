@@ -1,0 +1,39 @@
+type d1.HonestIndigoJerry {
+  annotations {
+    serviceid_number AmbitiousPeachMaureen {
+    }
+    serviceid_number SportingSilverRuthi2 {
+    }
+    serviceid_number IntenseLavenderKatuscha2 {
+    }
+    hidden_boolean SelectedPlumMilli {
+    }
+    serviceid RipeApricotAridatha2 {
+    }
+  }
+  boolean GorgeousVioletUrsola {
+    _hidden_value = true
+  }
+  hidden_boolean IdeologicalOrangeMargarette2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ReasonableCrimsonEmalia2 {
+    _hidden_value = true
+  }
+  boolean GayOrangeMarietta2 {
+    _hidden_value = true
+  }
+  serviceid_number AssociatedMaroonLindsey2 {
+    _hidden_value = true
+  }
+  string ConsiderableChocolateDemeter2 {
+    _hidden_value = true
+  }
+  AmbitiousPeachMaureen = 44
+  SportingSilverRuthi2 = 271
+  IntenseLavenderKatuscha2 = 75
+  RipeApricotAridatha2 = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

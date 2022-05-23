@@ -1,0 +1,62 @@
+type d1.SharedPinkMelessa3 {
+  annotations {
+    serviceid DigitalMaroonLianne {
+    }
+    serviceid_number SmoothIndigoJemmy2 {
+    }
+    serviceid_number LowBlushChristine {
+    }
+    string SuccessfulChocolateDarya3 {
+    }
+    hidden_boolean BraveBeigeCaitlin3 {
+    }
+    boolean IntactRosePatsy4 {
+    }
+    json WrongBrownCrissy2 {
+    }
+    d1.FavouriteHarlequinJacquelin ConservationPlumMolli2 {
+    }
+    d1.FierceAzureBillie CheapCopperEdita4 {
+    }
+    serviceid_number SingleBronzeCoral6 {
+    }
+    number NeatMoccasinLorine2 {
+    }
+    serviceid_number ResonantApricotAnstice3 {
+    }
+    boolean CheapCopperEdith2 {
+    }
+    hidden_boolean CrowdedTomatoTania8 {
+    }
+    serviceid RomanFuchsiaGermain4 {
+    }
+    number BigAmaranthAbagail3 {
+    }
+    d1.CharmingBeigeCallida ElatedBlackCaren {
+    }
+    serviceid MinimumIndigoJerrie5 {
+    }
+    d1.OrdinaryCopperEdi EntireEmeraldFrancoise2 {
+    }
+    hidden_boolean SuitableCrimsonEmera3 {
+    }
+    string BreezyAmaranthAila {
+    }
+  }
+  DigitalMaroonLianne = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SmoothIndigoJemmy2 = 977
+  LowBlushChristine = 906
+  SuccessfulChocolateDarya3 = "To be Frank, I'd have to change my name."
+  IntactRosePatsy4 = false
+  WrongBrownCrissy2 = "I'll tell you what often gets over looked... garden fences."
+  SingleBronzeCoral6 = 438
+  NeatMoccasinLorine2 = 824
+  ResonantApricotAnstice3 = 321
+  CheapCopperEdith2 = true
+  RomanFuchsiaGermain4 = "To be Frank, I'd have to change my name."
+  BigAmaranthAbagail3 = 481
+  ElatedBlackCaren = file("FinalBrownDalia4.txt")
+  MinimumIndigoJerrie5 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  EntireEmeraldFrancoise2 = file("LightTurquoiseThea4.txt")
+  BreezyAmaranthAila = "Slept like a log last night  woke up in the fireplace."
+}

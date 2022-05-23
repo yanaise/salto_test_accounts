@@ -1,0 +1,80 @@
+type d1.BasicChocolateDarla {
+  annotations {
+    d1.FarBlushChristin ShortYellowWilone {
+    }
+    serviceid ElegantTurquoiseTeddi {
+    }
+    hidden_boolean RelaxedPlumMinni2 {
+    }
+    json ImpressedOrangeMaris {
+    }
+  }
+  string RottenApricotAriella2 {
+    _hidden_value = true
+  }
+  hidden_boolean EasternCrimsonEricka {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SorryBrownDaphene {
+    _hidden_value = true
+  }
+  hidden_boolean IllEmeraldGale {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ViolentIvoryJolee {
+    _hidden_value = true
+  }
+  d1.DiplomaticMagentaLenore MildOliveMadalyn2 {
+    SouthernCyanEvie = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    TartYellowWynnie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    WonderfulYellowZoe2 = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    UnlikelyCrimsonEthelin = "Why was it called the dark ages? Because of all the knights. "
+    JapaneseCyanFianna = 391
+    UpsetOliveMabel = "Why would the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  hidden_boolean ProfoundPinkMerlina2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean AdorableTomatoSydel {
+    _hidden_value = true
+  }
+  serviceid_number PayableOrangeMarcie {
+    _hidden_value = true
+  }
+  number BreezyAmaranthAidan2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT CanadianPlumMinerva2 {
+    _hidden_value = true
+  }
+  hidden_boolean SecureMoccasinLou {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number AshamedScarletRosamond {
+    _hidden_value = true
+  }
+  json BrainyTealSherye {
+    _hidden_value = true
+  }
+  boolean IndividualBrownCthrine {
+    _hidden_value = true
+  }
+  string OptimisticSalmonPeg {
+    _hidden_value = true
+  }
+  ShortYellowWilone = false
+  ElegantTurquoiseTeddi = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ImpressedOrangeMaris = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

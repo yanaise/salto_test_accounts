@@ -1,0 +1,120 @@
+type d1.InternalCoralEdyth {
+  annotations {
+    json NastyWhiteVerna2 {
+    }
+    string LightTurquoiseTessie {
+    }
+    string RoughAquaAva2 {
+    }
+    hidden_boolean StructuralIvoryJosi {
+    }
+    boolean IsolatedPeachMarla {
+    }
+  }
+  serviceid_number LuckyBlackCassandry3 {
+    _hidden_value = true
+  }
+  serviceid DullTurquoiseTawsha2 {
+    _hidden_value = true
+  }
+  number FineBlackCarlyn2 {
+    _hidden_value = true
+  }
+  serviceid_number LightTurquoiseTessie2 {
+    _hidden_value = true
+  }
+  serviceid PastCoffeeDiann4 {
+    _hidden_value = true
+  }
+  hidden_boolean ControversialLimeKyla3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ImmenseAmaranthAdelice4 {
+    _hidden_value = true
+  }
+  number YoungAmethystAndee3 {
+    _hidden_value = true
+  }
+  boolean SoundRoseOlia2 {
+    _hidden_value = true
+  }
+  serviceid VerbalPeachMax {
+    _hidden_value = true
+  }
+  serviceid MagicOrangeManya4 {
+    _hidden_value = true
+  }
+  number LuckyBlackCassi2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT SupremeGreenIsabelita2 {
+    _hidden_value = true
+  }
+  number OldAmethystAmie4 {
+    _hidden_value = true
+  }
+  string UnnecessaryMoccasinLoraine2 {
+    _hidden_value = true
+  }
+  serviceid_number LazyWhiteVanni2 {
+    _hidden_value = true
+  }
+  number TenseBeigeBrina {
+    _hidden_value = true
+  }
+  boolean GoodBlackCaro {
+    _hidden_value = true
+  }
+  number CompleteCoffeeDevon {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" AutomaticLavenderKiah {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SophisticatedJadeKarlotta2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid LiveIndigoJodie {
+    _hidden_value = true
+  }
+  number BoredAquamarineBerry4 {
+    _hidden_value = true
+  }
+  serviceid CognitiveSalmonQuentin3 {
+    _hidden_value = true
+  }
+  boolean QuickestWhiteVonny {
+    _hidden_value = true
+  }
+  string FuzzyAquaAtlanta2 {
+    _hidden_value = true
+  }
+  boolean DampMoccasinLorry3 {
+    _hidden_value = true
+  }
+  serviceid_number TinyCyanEulalie {
+    _hidden_value = true
+  }
+  d1.AnxiousHarlequinJanna ChangingJadeKassey4 {
+    ColonialPeachMaure = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GloriousBlackCarmine = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  serviceid_number IntimateSilverRuthe3 {
+    _hidden_value = true
+  }
+  boolean DisciplinarySilverSabina {
+    _hidden_value = true
+  }
+  NastyWhiteVerna2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  LightTurquoiseTessie = "A steak pun is a rare medium well done."
+  RoughAquaAva2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  IsolatedPeachMarla = false
+  _hidden_value = true
+}

@@ -1,0 +1,25 @@
+type d1.OperationalOrangeMariana3 {
+  annotations {
+    boolean HollowAmberAllsun {
+    }
+    serviceid CuriousLimeKira2 {
+    }
+    json HumanBronzeConstanta4 {
+    }
+    hidden_boolean DoubleCrimsonEthelyn2 {
+    }
+    json DullVioletTrina2 {
+    }
+  }
+  string ShyTomatoStormi3 {
+    _hidden_value = true
+  }
+  json IllegalJadeKarolina2 {
+    _hidden_value = true
+  }
+  HollowAmberAllsun = false
+  CuriousLimeKira2 = "Dad Im hungry  Hi hungry Im dad"
+  HumanBronzeConstanta4 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DullVioletTrina2 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

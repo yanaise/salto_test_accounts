@@ -1,0 +1,106 @@
+type d1.AcuteLavenderKenna2 {
+  annotations {
+    boolean UsedFuchsiaGeorgeanna2 {
+    }
+    d1.DEFAULT LoudApricotAnnabelle3 {
+    }
+    json ExperimentalLavenderKatine4 {
+    }
+    json ShaggyAquaAvril2 {
+    }
+  }
+  boolean AgriculturalGoldGoldarina {
+    _hidden_value = true
+  }
+  string WetGrayHedwig2 {
+    _hidden_value = true
+  }
+  serviceid_number DisabledHarlequinJanie3 {
+    _hidden_value = true
+  }
+  serviceid_number WiseLavenderKatharyn3 {
+    _hidden_value = true
+  }
+  d1.NumerousHarlequinJandy TremendousMagentaLenore {
+    PuzzledTomatoStephie = false
+    SpecificBrownDarb = 90
+    PersistentRosePamela = 558
+    WorryingSilverRozamond = "Why do birds fly south for the winter? Because it's too far to walk."
+    GreenVioletUla = "A steak pun is a rare medium well done."
+    TinyAmaranthAgnes = true
+    SuccessfulBlueCatlee = "Slept like a log last night  woke up in the fireplace."
+    FamousTealSissie = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    KindOrangeMarice = "How come the stadium got hot after the game? Because all of the fans left."
+    CriticalCrimsonEstele = "Did you know that protons have mass? I didn't even know they were catholic."
+    LuckyBlackCassandry = "My first time using an elevator was an uplifting experience. The second time let me down."
+    FundamentalFuchsiaGenevieve = "Whoever invented the knock-knock joke should get a no bell prize."
+    NutritiousWhiteVina = "Dad Im hungry  Hi hungry Im dad"
+    CanadianPlumMinerva = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ExactLimeKore = "Slept like a log last night  woke up in the fireplace."
+    RenewedSilverSandy = {
+      legit = "Why would the tomato blush? Because it saw the salad dressing."
+    }
+    PeculiarPlumMicheline = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    SmoothAquamarineBarbey = false
+    NarrowAmberAllys = 291
+    EnvironmentalCoffeeDomini = 85
+    CombinedOliveMaighdiln = true
+    NuttyWhiteVikki = 753
+    TroubledBeigeBritta = "To be Frank, I'd have to change my name."
+    KindBlackCaryl2 = "Why would the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  string TroubledBeigeBrittan4 {
+    _hidden_value = true
+  }
+  boolean ProductivePlumMolly2 {
+    _hidden_value = true
+  }
+  number MinimumIndigoJerrie4 {
+    _hidden_value = true
+  }
+  d1.DEFAULT DreadfulPinkMerrilee {
+    _hidden_value = true
+  }
+  d1.DEFAULT PreciousWhiteVitoria {
+    _hidden_value = true
+  }
+  boolean HeadPinkMeg5 {
+    _hidden_value = true
+  }
+  string SteepAmethystAlys5 {
+    _hidden_value = true
+  }
+  number StrangeYellowWinnifred4 {
+    _hidden_value = true
+  }
+  serviceid_number DelightfulSilverRowena2 {
+    _hidden_value = true
+  }
+  number PregnantLimeKizzie {
+    _hidden_value = true
+  }
+  hidden_boolean ProperCoralElisabet3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid AcceptedTanSerena2 {
+    _hidden_value = true
+  }
+  serviceid_number HelpfulBlackCarolina4 {
+    _hidden_value = true
+  }
+  boolean AdorableTomatoSybyl {
+    _hidden_value = true
+  }
+  UsedFuchsiaGeorgeanna2 = false
+  LoudApricotAnnabelle3 = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  ExperimentalLavenderKatine4 = "Dad Im hungry  Hi hungry Im dad"
+  ShaggyAquaAvril2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

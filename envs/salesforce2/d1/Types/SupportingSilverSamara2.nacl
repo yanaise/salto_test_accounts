@@ -1,0 +1,66 @@
+type d1.SupportingSilverSamara2 {
+  annotations {
+    serviceid BeautifulVioletToni {
+    }
+    string ItalianGoldGrayce {
+    }
+    boolean OddWhiteVinita5 {
+    }
+    serviceid FellowJadeJustinn4 {
+    }
+    d1.DEFAULT SingleBronzeCorabella3 {
+    }
+  }
+  serviceid PremierOrangeMaria2 {
+    _hidden_value = true
+  }
+  json PublicBlushChristyna2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT SubtleMoccasinLuciana2 {
+    _hidden_value = true
+  }
+  hidden_boolean ScaryBeigeBria4 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid CoherentScarletRoseline2 {
+    _hidden_value = true
+  }
+  serviceid_number ArchitecturalRosePatience3 {
+    _hidden_value = true
+  }
+  json KindOrangeMarice4 {
+    _hidden_value = true
+  }
+  string WeeklyLavenderKessiah3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT OddFuchsiaGenevra2 {
+    _hidden_value = true
+  }
+  boolean AngryAquamarineBenedicta3 {
+    _hidden_value = true
+  }
+  number PreciousWhiteVitia {
+    _hidden_value = true
+  }
+  serviceid_number RemoteIndigoJenelle2 {
+    _hidden_value = true
+  }
+  number FinalBrownDalenna2 {
+    _hidden_value = true
+  }
+  serviceid_number FiscalRedNiki4 {
+    _hidden_value = true
+  }
+  BeautifulVioletToni = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ItalianGoldGrayce = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  OddWhiteVinita5 = false
+  FellowJadeJustinn4 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SingleBronzeCorabella3 = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  _hidden_value = true
+}

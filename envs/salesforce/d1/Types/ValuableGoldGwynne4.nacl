@@ -1,0 +1,67 @@
+type d1.ValuableGoldGwynne4 {
+  annotations {
+    hidden_boolean FriendlyBlackCarlynn2 {
+    }
+    boolean PeculiarPlumMichele {
+    }
+    string BeautifulVioletToni2 {
+    }
+    boolean ProudHarlequinJana3 {
+    }
+    string GiganticVioletUlrike4 {
+    }
+  }
+  boolean DryAmberAlex2 {
+    _hidden_value = true
+  }
+  number DirectChocolateDdene {
+    _hidden_value = true
+  }
+  string RepresentativePinkMerola5 {
+    _hidden_value = true
+  }
+  hidden_boolean DangerousCrimsonEssa {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number AsianMaroonLindie4 {
+    _hidden_value = true
+  }
+  hidden_boolean OrangePurpleMuffin2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.AcceptedTanSerena DangerousAzureBethina3 {
+    HarshOliveMaia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    EvolutionarySilverRuby = "My first time using an elevator was an uplifting experience. The second time let me down."
+    SoundAmethystAngelika = "A steak pun is a rare medium well done."
+    ExtraCoffeeDiandra = "What creature is smarter than a talking parrot? A spelling bee."
+    QuaintWhiteVivianna = "What do you call two barracuda fish?  A Pairacuda!"
+    _hidden_value = true
+  }
+  number MassiveAmaranthAdrea {
+    _hidden_value = true
+  }
+  serviceid_number SharedPinkMelba2 {
+    _hidden_value = true
+  }
+  serviceid_number SquareJadeKai6 {
+    _hidden_value = true
+  }
+  string MaleCoffeeDidi5 {
+    _hidden_value = true
+  }
+  string OutstandingTealStefania2 {
+    _hidden_value = true
+  }
+  string SlipperyAquamarineBarbe4 {
+    _hidden_value = true
+  }
+  PeculiarPlumMichele = true
+  BeautifulVioletToni2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ProudHarlequinJana3 = false
+  GiganticVioletUlrike4 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

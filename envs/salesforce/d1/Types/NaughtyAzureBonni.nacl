@@ -1,0 +1,86 @@
+type d1.NaughtyAzureBonni {
+  annotations {
+    serviceid_number SwiftAmethystAnastasie4 {
+    }
+    serviceid_number BizarreTanSean3 {
+    }
+    string SubsequentFuchsiaGilemette {
+    }
+    serviceid PoliteSalmonRafaelia2 {
+    }
+    number LonelyAzureBobette3 {
+    }
+    number RenewedSilverSandra2 {
+    }
+    string CuddlyAmberAlayne2 {
+    }
+  }
+  serviceid_number MiserableSalmonRachel {
+    _hidden_value = true
+  }
+  serviceid WorriedBeigeBrynna {
+    _hidden_value = true
+  }
+  d1.SpectacularMaroonLibbie BeautifulCoffeeDixie {
+    FriendlyBlackCarma = 31
+    FrightenedMagentaLavena = 287
+    RepulsiveBeigeBrena = "To be Frank, I'd have to change my name."
+    UptightBeigeBrittni = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    ExactLimeKordula2 = 498
+    LocalBlueCharmian = {
+      legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    }
+    SensibleIvoryJordana = "Did you know that protons have mass? I didn't even know they were catholic."
+    MonetaryIvoryJoey = "Why is Peter Pan always flying? Because he Neverlands."
+    WickedBeigeBryna = "Im only familiar with 25 letters in the English language. I dont know why."
+    AshamedScarletRosamund = 815
+    ChillyAmaranthAilsun = 317
+    CooingAmethystAngelique = 276
+    FatalPurpleMyrtle = 312
+    ThoughtlessBeigeBrinna = "What do you call two barracuda fish?  A Pairacuda!"
+    EvilAzureBili = 447
+    RelievedBlueCathie = true
+    CleverTealSibeal = "What did one nut say as he chased another nut?  I'm a cashew!"
+    GrowingCrimsonEnrichetta = 898
+    _hidden_value = true
+  }
+  number DisappointedMagentaLaurianne {
+    _hidden_value = true
+  }
+  string FuriousRedNicoline {
+    _hidden_value = true
+  }
+  hidden_boolean DisgustedAzureBettye3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string BalancedSilverRosita2 {
+    _hidden_value = true
+  }
+  serviceid BadAquamarineBernette {
+    _hidden_value = true
+  }
+  serviceid_number ViolentIvoryJolene2 {
+    _hidden_value = true
+  }
+  string PlainTurquoiseTherine {
+    _hidden_value = true
+  }
+  boolean RoughGreenIdelle3 {
+    _hidden_value = true
+  }
+  "Map<serviceid_number>" PatientPurpleNanine {
+    _hidden_value = true
+  }
+  SwiftAmethystAnastasie4 = 22
+  BizarreTanSean3 = 866
+  SubsequentFuchsiaGilemette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PoliteSalmonRafaelia2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  LonelyAzureBobette3 = 669
+  RenewedSilverSandra2 = 203
+  CuddlyAmberAlayne2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

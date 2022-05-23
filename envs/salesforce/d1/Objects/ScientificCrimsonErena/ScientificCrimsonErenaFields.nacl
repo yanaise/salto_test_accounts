@@ -1,0 +1,36 @@
+type d1.ScientificCrimsonErena {
+  serviceid NervousHarlequinJaquelyn2 {
+  }
+  hidden_boolean AssociatedMaroonLindsy3 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  "List<hidden_boolean>" EventualTanSharon2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.AgreeableBeigeBunnie3 ContentPeachMatti4 {
+    ProperCoralElinore2 = 356
+    OriginalChocolateDarsey3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    GloriousBlackCarmencita3 = "Im only familiar with 25 letters in the English language. I dont know why."
+  }
+  "List<d1.WiseLavenderKatherine>" FaintAmethystAnica5 {
+    OutrageousAzureBreanne = 545
+    AustralianJadeKat = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    FunOrangeMarcille3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ArtificialMagentaLena2 = "A steak pun is a rare medium well done."
+    RedWhiteWendie = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  string DeterminedBeigeCandide2 {
+  }
+  json RemoteIndigoJenica2 {
+  }
+  serviceid_number ColourfulScarletRosaleen3 {
+  }
+  json BoilingAmaranthAgnola3 {
+  }
+  serviceid IntermediateRoseOfilia4 {
+  }
+}

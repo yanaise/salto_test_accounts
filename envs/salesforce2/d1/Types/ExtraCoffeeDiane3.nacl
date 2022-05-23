@@ -1,0 +1,78 @@
+type d1.ExtraCoffeeDiane3 {
+  annotations {
+    number IntensiveMoccasinLura {
+    }
+    string CruelPlumMicaela {
+    }
+    d1.DEFAULT StrictLavenderKatharine {
+    }
+    serviceid_number BroadCoralElisabetta4 {
+    }
+    hidden_boolean FollowingBrownCyndie2 {
+    }
+  }
+  "List<number>" SupremeGreenIsabel {
+    _hidden_value = true
+  }
+  d1.DEFAULT NumerousHarlequinJanaye3 {
+    _hidden_value = true
+  }
+  string DeepAmberAllegra {
+    _hidden_value = true
+  }
+  number IraqiOliveMadelle3 {
+    _hidden_value = true
+  }
+  boolean EducationalCrimsonEryn3 {
+    _hidden_value = true
+  }
+  serviceid_number LittleBlushChiquita {
+    _hidden_value = true
+  }
+  serviceid ImpressiveIndigoJess {
+    _hidden_value = true
+  }
+  hidden_boolean CurvedAmberAliza2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number AggregateScarletRobbie2 {
+    _hidden_value = true
+  }
+  json ScaredSapphireRahel {
+    _hidden_value = true
+  }
+  boolean RetiredSilverSaraann2 {
+    _hidden_value = true
+  }
+  boolean WorriedBeigeBrynne {
+    _hidden_value = true
+  }
+  serviceid_number DutchLavenderKendre2 {
+    _hidden_value = true
+  }
+  d1.AdverseSapphireRanna UnusualGoldGladi3 {
+    CleanTomatoTami = 642
+    DreadfulPinkMerrile2 = 240
+    CompulsoryOrangeMalorie = true
+    VividTanShawna = "Why would the tomato blush? Because it saw the salad dressing."
+    _hidden_value = true
+  }
+  string TallYellowXenia2 {
+    _hidden_value = true
+  }
+  number BrilliantGreenIlse3 {
+    _hidden_value = true
+  }
+  json CalmPurpleNancey3 {
+    _hidden_value = true
+  }
+  IntensiveMoccasinLura = 567
+  CruelPlumMicaela = "Did you know that protons have mass? I didn't even know they were catholic."
+  StrictLavenderKatharine = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  BroadCoralElisabetta4 = 537
+  _hidden_value = true
+}

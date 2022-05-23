@@ -1,0 +1,25 @@
+type d1.MedievalJadeKarel3 {
+  annotations {
+    serviceid_number TartYellowWynnie3 {
+    }
+    string RetiredSilverSarajane2 {
+    }
+    number SaltyApricotArleen4 {
+    }
+    serviceid GrossLavenderKetty {
+    }
+    number FrozenScarletRosabel2 {
+    }
+  }
+  "List<hidden_boolean>" HelpfulHarlequinJaneva {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  TartYellowWynnie3 = 230
+  RetiredSilverSarajane2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SaltyApricotArleen4 = 995
+  GrossLavenderKetty = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FrozenScarletRosabel2 = 484
+  _hidden_value = true
+}

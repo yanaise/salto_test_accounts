@@ -1,0 +1,19 @@
+type d1.LoudApricotAnnadiane {
+  annotations {
+    boolean TropicalOliveLuz2 {
+    }
+    json PriorRosePauline {
+    }
+    hidden_boolean CivicTanShelli4 {
+    }
+    serviceid_number StupidTomatoSunny {
+    }
+  }
+  json CognitiveSalmonQuerida5 {
+    _hidden_value = true
+  }
+  TropicalOliveLuz2 = false
+  PriorRosePauline = "A steak pun is a rare medium well done."
+  StupidTomatoSunny = 136
+  _hidden_value = true
+}

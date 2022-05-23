@@ -1,0 +1,33 @@
+type d1.RoughGreenIdaline2 {
+  annotations {
+    number AnxiousHarlequinJanka {
+    }
+    serviceid AsianMaroonLinda2 {
+    }
+    hidden_boolean AfraidCrimsonEmmy {
+    }
+    serviceid_number AmazingMoccasinLizette4 {
+    }
+    boolean FrightenedAzureBlaire4 {
+    }
+    serviceid_number BreakableTealShir4 {
+    }
+    hidden_boolean HarshOliveMaia2 {
+    }
+  }
+  d1.DEFAULT TinyAmaranthAgnesse2 {
+    _hidden_value = true
+  }
+  string WeakAquamarineBel {
+    _hidden_value = true
+  }
+  json IntermediateRoseOfelia4 {
+    _hidden_value = true
+  }
+  AnxiousHarlequinJanka = 238
+  AsianMaroonLinda2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  AmazingMoccasinLizette4 = 266
+  FrightenedAzureBlaire4 = true
+  BreakableTealShir4 = 446
+  _hidden_value = true
+}

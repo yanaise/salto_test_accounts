@@ -1,0 +1,55 @@
+type d1.EldestTanSharlene {
+  annotations {
+    hidden_boolean ArmedGrayHeidie {
+    }
+    number ApplicablePlumMirelle {
+    }
+    serviceid_number LinearRedNessy {
+    }
+    d1.BindingSalmonPeta DampMoccasinLorry {
+    }
+    string LeadingCrimsonEm {
+    }
+    hidden_boolean TiredGoldGretchen {
+    }
+  }
+  d1.DEFAULT FinalBrownDalenna {
+    _hidden_value = true
+  }
+  json TerribleEmeraldFreida {
+    _hidden_value = true
+  }
+  number CuriousLimeKirbie {
+    _hidden_value = true
+  }
+  serviceid_number DirtyIvoryJosepha {
+    _hidden_value = true
+  }
+  number WonderfulYellowZoe3 {
+    _hidden_value = true
+  }
+  string MetropolitanOrangeMargarita {
+    _hidden_value = true
+  }
+  json DeadTealSile2 {
+    _hidden_value = true
+  }
+  d1.AdverseSapphireRanna RedundantSalmonPhilippine {
+    CleanTomatoTami = 806
+    DreadfulPinkMerrile2 = 979
+    CompulsoryOrangeMalorie = false
+    VividTanShawna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    _hidden_value = true
+  }
+  boolean PassingSalmonPolly {
+    _hidden_value = true
+  }
+  string EldestTanSharla {
+    _hidden_value = true
+  }
+  ApplicablePlumMirelle = 775
+  LinearRedNessy = 898
+  DampMoccasinLorry = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  LeadingCrimsonEm = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

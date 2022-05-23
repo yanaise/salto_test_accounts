@@ -1,0 +1,91 @@
+type d1.LatinLimeKonstanze is number {
+  annotations {
+    json ResidentSalmonRae {
+    }
+    hidden_boolean CreepyAmberAlaine {
+    }
+    serviceid CrazyMoccasinLorrayne {
+    }
+    string LevelJadeKally2 {
+    }
+    string WellFuchsiaGipsy {
+    }
+    number ProperCoralElisabet {
+    }
+    serviceid_number OutstandingIndigoJenna {
+    }
+    hidden_boolean BraveMoccasinLucine {
+    }
+    serviceid_number PositiveCoffeeDona {
+    }
+    serviceid ThoughtlessBeigeBrit {
+    }
+    number CrowdedTomatoTania2 {
+    }
+    serviceid_number FairCoffeeDinnie {
+    }
+    hidden_boolean DullTurquoiseTawsha {
+    }
+    hidden_boolean FashionableSapphireRenata {
+    }
+    serviceid PeacefulOrangeMargret {
+    }
+    number ToxicSalmonPhedra {
+    }
+    boolean GleamingTurquoiseTeri {
+    }
+    json JoyousBlackCarry {
+    }
+    json RoughGreenIdelle {
+    }
+    boolean ParliamentaryFuchsiaGiacinta {
+    }
+    d1.DEFAULT AggressiveMaroonLiliane {
+    }
+    json IntegralSalmonPhilly {
+    }
+    serviceid MidPinkMelissa {
+    }
+    number SurprisingGreenIanthe {
+    }
+    boolean SteadyJadeKaile {
+    }
+    d1.DEFAULT ObnoxiousAzureBrandie {
+    }
+    serviceid KindVioletValma {
+    }
+    boolean RainyAquaAurora {
+    }
+    boolean RudeTanShayla {
+    }
+  }
+  ResidentSalmonRae = "Why would the kid cross the playground? To get to the other slide."
+  CrazyMoccasinLorrayne = "My first time using an elevator was an uplifting experience. The second time let me down."
+  LevelJadeKally2 = "I'll tell you what often gets over looked... garden fences."
+  WellFuchsiaGipsy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ProperCoralElisabet = 241
+  OutstandingIndigoJenna = 966
+  PositiveCoffeeDona = 753
+  ThoughtlessBeigeBrit = "Why was it called the dark ages? Because of all the knights. "
+  CrowdedTomatoTania2 = 940
+  FairCoffeeDinnie = 576
+  PeacefulOrangeMargret = "Why was it called the dark ages? Because of all the knights. "
+  ToxicSalmonPhedra = 514
+  GleamingTurquoiseTeri = true
+  JoyousBlackCarry = "Why would the kid cross the playground? To get to the other slide."
+  RoughGreenIdelle = "How come the stadium got hot after the game? Because all of the fans left."
+  ParliamentaryFuchsiaGiacinta = false
+  AggressiveMaroonLiliane = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  IntegralSalmonPhilly = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  MidPinkMelissa = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  SurprisingGreenIanthe = 256
+  SteadyJadeKaile = true
+  ObnoxiousAzureBrandie = {
+    legit = "Why was it called the dark ages? Because of all the knights. "
+  }
+  KindVioletValma = "Why is Peter Pan always flying? Because he Neverlands."
+  RainyAquaAurora = true
+  RudeTanShayla = false
+}

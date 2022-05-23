@@ -1,0 +1,33 @@
+type d1.MisleadingRoseOriana {
+  annotations {
+    json ShakyAquaAvrit {
+    }
+    hidden_boolean EnthusiasticPinkMerrie2 {
+    }
+    d1.ManyAmethystAngel SlowAmethystAnabelle {
+    }
+    json WeakAquamarineBelia {
+    }
+    hidden_boolean GrubbyAquaAubrie {
+    }
+    boolean PowerfulTomatoStephana2 {
+    }
+  }
+  d1.AlrightGoldGoldina CompatibleSapphireRenell {
+    RivalPurpleNara = 290
+    SingleBronzeCoral = 534
+    ProfoundPinkMerlina = 392
+    RelativeGoldGui = "Slept like a log last night  woke up in the fireplace."
+    AngryFuchsiaGilli = "How come the stadium got hot after the game? Because all of the fans left."
+    QuickestWhiteVyky = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AgreedTanSelia = "My first time using an elevator was an uplifting experience. The second time let me down."
+    IntenseLavenderKattie = false
+    ExcitingGreenIvett = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    _hidden_value = true
+  }
+  ShakyAquaAvrit = "To be Frank, I'd have to change my name."
+  SlowAmethystAnabelle = 490
+  WeakAquamarineBelia = "Im only familiar with 25 letters in the English language. I dont know why."
+  PowerfulTomatoStephana2 = false
+  _hidden_value = true
+}

@@ -1,0 +1,34 @@
+type d1.CharmingBeigeCallida is string {
+  annotations {
+    serviceid LonelyAzureBobette {
+    }
+    json IndustrialBrownDanya {
+    }
+    serviceid_number DelightfulBeigeCandi {
+    }
+    boolean PrettyIndigoJennilee {
+    }
+    json RollingSilverRubie {
+    }
+    serviceid_number MinimalPlumMorgen {
+    }
+    boolean IntegratedOliveMadonna {
+    }
+    boolean FatAmaranthAbigael {
+    }
+    number TallAmaranthAggy {
+    }
+    number BusyCyanFayina {
+    }
+  }
+  LonelyAzureBobette = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  IndustrialBrownDanya = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  DelightfulBeigeCandi = 520
+  PrettyIndigoJennilee = true
+  RollingSilverRubie = "What do you call two barracuda fish?  A Pairacuda!"
+  MinimalPlumMorgen = 894
+  IntegratedOliveMadonna = false
+  FatAmaranthAbigael = false
+  TallAmaranthAggy = 231
+  BusyCyanFayina = 472
+}

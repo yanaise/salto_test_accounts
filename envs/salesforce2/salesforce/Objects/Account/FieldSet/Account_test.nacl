@@ -1,0 +1,8 @@
+salesforce.FieldSet Account_test {
+  fullName = "Account.test"
+  description = "Testing salto integration"
+  label = "test"
+  _parent = [
+    salesforce.Account,
+  ]
+}

@@ -1,0 +1,125 @@
+type d1.LiberalCyanFarra2 {
+  annotations {
+    d1.ExtraCoffeeDianemarie DeliberateRedNoelle {
+    }
+    string MassiveAmaranthAdria {
+    }
+    json LovelyBlackCass {
+    }
+    serviceid_number HostileOrangeMarieann3 {
+    }
+    serviceid DisciplinarySilverRycca2 {
+    }
+    number LevelJadeKamila2 {
+    }
+  }
+  boolean StaticSapphireRebecka {
+    _hidden_value = true
+  }
+  serviceid_number LightTurquoiseTessy2 {
+    _hidden_value = true
+  }
+  serviceid RetiredSilverSarah3 {
+    _hidden_value = true
+  }
+  d1.ExactLimeKordula UnpleasantRedNonna {
+    _hidden_value = true
+  }
+  string TenderYellowYnes2 {
+    _hidden_value = true
+  }
+  number BareLavenderKelley3 {
+    _hidden_value = true
+  }
+  d1.TameTomatoSusannah HurtAzureBlythe5 {
+    TragicRosePauline = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ScornfulBeigeBrianna = false
+    _hidden_value = true
+  }
+  json OddWhiteVinita4 {
+    _hidden_value = true
+  }
+  hidden_boolean MiniatureAmaranthAdriane {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DivineRoseOpal2 {
+    _hidden_value = true
+  }
+  json CreativeJadeKania3 {
+    _hidden_value = true
+  }
+  string ColossalAmaranthAbbye5 {
+    _hidden_value = true
+  }
+  d1.DEFAULT UnacceptableSalmonPenelope3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT OlympicRedNessi2 {
+    _hidden_value = true
+  }
+  serviceid_number OrdinaryWhiteVirgie {
+    _hidden_value = true
+  }
+  number ShiveringAquaBabette2 {
+    _hidden_value = true
+  }
+  string TinyCyanEula3 {
+    _hidden_value = true
+  }
+  json EmotionalGrayHertha2 {
+    _hidden_value = true
+  }
+  string DeterminedOrangeMarilyn2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" ConstitutionalHarlequinJayne {
+    _hidden_value = true
+  }
+  json HomelyTurquoiseTerza {
+    _hidden_value = true
+  }
+  number SignificantBrownDanna3 {
+    _hidden_value = true
+  }
+  boolean HarshOliveMahala2 {
+    _hidden_value = true
+  }
+  string FriendlyVioletTrudie3 {
+    _hidden_value = true
+  }
+  boolean DeterminedOrangeMarillin5 {
+    _hidden_value = true
+  }
+  string ShiveringAquaBabette3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT ConvincingSalmonPeggie2 {
+    _hidden_value = true
+  }
+  serviceid_number FrontCopperEalasaid {
+    _hidden_value = true
+  }
+  hidden_boolean StatutoryGrayHarriott {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.OccupationalOliveMadel MelodicApricotAnnamaria2 {
+    DifferentBlueCharleen = 578
+    AverageCoralElysha2 = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    WearyBeigeBrooke = "Slept like a log last night  woke up in the fireplace."
+    PoisedTurquoiseThomasin = 689
+    _hidden_value = true
+  }
+  DeliberateRedNoelle = true
+  MassiveAmaranthAdria = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  LovelyBlackCass = "Im only familiar with 25 letters in the English language. I dont know why."
+  HostileOrangeMarieann3 = 830
+  DisciplinarySilverRycca2 = "Why would the tomato blush? Because it saw the salad dressing."
+  LevelJadeKamila2 = 623
+  _hidden_value = true
+}

@@ -1,0 +1,24 @@
+type d1.HomelessAzureBliss {
+  annotations {
+    number AmericanBronzeCorrianne2 {
+    }
+    d1.DEFAULT SureBlushCindi {
+    }
+    hidden_boolean ContemporaryFuchsiaGeorgianna3 {
+    }
+    number AdorableTomatoSydel3 {
+    }
+    boolean CheerfulSapphireRhodie4 {
+    }
+  }
+  string TanYellowYettie {
+    _hidden_value = true
+  }
+  AmericanBronzeCorrianne2 = 20
+  SureBlushCindi = {
+    legit = "How come the stadium got hot after the game? Because all of the fans left."
+  }
+  AdorableTomatoSydel3 = 920
+  CheerfulSapphireRhodie4 = false
+  _hidden_value = true
+}

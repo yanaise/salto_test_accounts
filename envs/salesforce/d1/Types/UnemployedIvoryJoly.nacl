@@ -1,0 +1,29 @@
+type d1.UnemployedIvoryJoly is boolean {
+  annotations {
+    serviceid TroubledBeigeBritta2 {
+    }
+    serviceid_number SoreBeigeBrigida {
+    }
+    string DullVioletTrish {
+    }
+    serviceid FiscalRedNicolle {
+    }
+    serviceid_number FairCoffeeDinny {
+    }
+    string OkSapphireRhianon {
+    }
+    hidden_boolean RadicalGrayHelenelizabeth {
+    }
+    number EducationalCrimsonEryn2 {
+    }
+    hidden_boolean ImportantTealSophia {
+    }
+  }
+  TroubledBeigeBritta2 = "To be Frank, I'd have to change my name."
+  SoreBeigeBrigida = 797
+  DullVioletTrish = "Im only familiar with 25 letters in the English language. I dont know why."
+  FiscalRedNicolle = "Slept like a log last night  woke up in the fireplace."
+  FairCoffeeDinny = 710
+  OkSapphireRhianon = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  EducationalCrimsonEryn2 = 698
+}

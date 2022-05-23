@@ -1,0 +1,80 @@
+type d1.MeaningfulTanShelly {
+  annotations {
+    serviceid SevereEmeraldGabriellia {
+    }
+    hidden_boolean BeautifulCoffeeDita {
+    }
+    number ThenSalmonPhilomena {
+    }
+    hidden_boolean VerticalOliveLynnette {
+    }
+    string DeepAmberAlla {
+    }
+    serviceid_number SkinnyAmberAlta {
+    }
+    boolean EnormousFuchsiaGinny {
+    }
+  }
+  boolean JollyVioletValida {
+    _hidden_value = true
+  }
+  hidden_boolean OccupationalOliveMaddie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number GlobalGrayHerminia {
+    _hidden_value = true
+  }
+  json FollowingBrownCynthia {
+    _hidden_value = true
+  }
+  serviceid PregnantLimeKizzee {
+    _hidden_value = true
+  }
+  d1.DEFAULT AmazingMoccasinLizette3 {
+    _hidden_value = true
+  }
+  boolean IsraeliPinkMeridith {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" ReligiousCoralElena2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number DeafIvoryJoya2 {
+    _hidden_value = true
+  }
+  json MadHarlequinJanessa {
+    _hidden_value = true
+  }
+  d1.ImportantTealSophi AliveTealSherline2 {
+    PrimeBrownDanielle = 510
+    FilthyTurquoiseTera = 400
+    ExuberantBlackCarleen = "Dad Im hungry  Hi hungry Im dad"
+    DutchLavenderKelsy = 907
+    SpareMaroonLilli = 589
+    OldAmethystAmie2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DominantIndigoJenda = 351
+    AncientEmeraldFlora = 96
+    _hidden_value = true
+  }
+  serviceid WonderfulYellowZitella2 {
+    _hidden_value = true
+  }
+  d1.AnxiousHarlequinJanna StickyAquaArlyne2 {
+    ColonialPeachMaure = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    GloriousBlackCarmine = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  string LtdCoralElna2 {
+    _hidden_value = true
+  }
+  SevereEmeraldGabriellia = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ThenSalmonPhilomena = 247
+  DeepAmberAlla = "Did you know that protons have mass? I didn't even know they were catholic."
+  SkinnyAmberAlta = 4
+  EnormousFuchsiaGinny = true
+  _hidden_value = true
+}

@@ -1,0 +1,70 @@
+type d1.ObjectiveOrangeManda3 {
+  annotations {
+    serviceid FollowingBrownCynthea4 {
+    }
+    serviceid AllegedOliveLynn5 {
+    }
+    string ConsciousHarlequinJeanelle {
+    }
+    json ElderlyEmeraldFlore {
+    }
+    d1.DEFAULT CuriousLimeKirbie2 {
+    }
+    d1.ImmenseAmaranthAdelice FatalPurpleMyrtle3 {
+    }
+    json SportingSilverRuthy {
+    }
+  }
+  json TinyCyanEulalie2 {
+    _hidden_value = true
+  }
+  serviceid DailyCyanEveleen {
+    _hidden_value = true
+  }
+  json ScrawnyYellowWilmette {
+    _hidden_value = true
+  }
+  number FantasticSapphireRegine3 {
+    _hidden_value = true
+  }
+  string StableHarlequinJasmin3 {
+    _hidden_value = true
+  }
+  number IllAzureBobbette5 {
+    _hidden_value = true
+  }
+  "Map<string>" DutchLavenderKelsy5 {
+    _hidden_value = true
+  }
+  string FrontCopperEadie4 {
+    _hidden_value = true
+  }
+  boolean PainfulMaroonLillis2 {
+    _hidden_value = true
+  }
+  number CalmPurpleNancey4 {
+    _hidden_value = true
+  }
+  serviceid PhilosophicalRedNoelani2 {
+    _hidden_value = true
+  }
+  boolean AustralianJadeKassie {
+    _hidden_value = true
+  }
+  number ProfoundPinkMerla5 {
+    _hidden_value = true
+  }
+  string ConcernedBronzeCorri {
+    _hidden_value = true
+  }
+  FollowingBrownCynthea4 = "A steak pun is a rare medium well done."
+  AllegedOliveLynn5 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  ConsciousHarlequinJeanelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ElderlyEmeraldFlore = "What do you do on a remote island? Try and find the TV island it belongs to."
+  CuriousLimeKirbie2 = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  FatalPurpleMyrtle3 = 133
+  SportingSilverRuthy = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

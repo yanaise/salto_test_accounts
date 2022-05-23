@@ -1,0 +1,61 @@
+type d1.AccurateIndigoJillene {
+  annotations {
+    hidden_boolean WickedScarletRoseanna {
+    }
+    json DecentMoccasinLonnie {
+    }
+    hidden_boolean FineBrownCosette {
+    }
+    string HomelessAzureBlinnie3 {
+    }
+  }
+  serviceid_number DigitalMaroonLib2 {
+    _hidden_value = true
+  }
+  serviceid InteriorPurpleNathalie2 {
+    _hidden_value = true
+  }
+  "List<string>" SuperTomatoSusana {
+    _hidden_value = true
+  }
+  number GrotesqueTurquoiseTersina {
+    _hidden_value = true
+  }
+  json MoralCyanFelita {
+    _hidden_value = true
+  }
+  json PleasantBlackCatharine2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT ImmenseAmaranthAdele2 {
+    _hidden_value = true
+  }
+  boolean NastyMaroonLisha2 {
+    _hidden_value = true
+  }
+  number AllegedOliveLynn3 {
+    _hidden_value = true
+  }
+  hidden_boolean RottenApricotArielle3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json ExcitedOrangeMarion3 {
+    _hidden_value = true
+  }
+  serviceid_number ForthcomingPeachMarris {
+    _hidden_value = true
+  }
+  number FamousCoralElianora4 {
+    _hidden_value = true
+  }
+  hidden_boolean GleamingTurquoiseTerra {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  DecentMoccasinLonnie = "Did you know that protons have mass? I didn't even know they were catholic."
+  HomelessAzureBlinnie3 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

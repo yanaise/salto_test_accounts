@@ -1,0 +1,20 @@
+type d1.RudeTanShayla3 {
+  annotations {
+    number CuddlyAmberAlbertina {
+    }
+    boolean MysteriousAzureBonni {
+    }
+    number ClearBlushCinnamon {
+    }
+    json UnlikelyCrimsonEthelin3 {
+    }
+  }
+  boolean OccupationalOliveMaddy {
+    _hidden_value = true
+  }
+  CuddlyAmberAlbertina = 693
+  MysteriousAzureBonni = true
+  ClearBlushCinnamon = 558
+  UnlikelyCrimsonEthelin3 = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

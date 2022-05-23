@@ -1,0 +1,33 @@
+type d1.PreciseIndigoJoby {
+  annotations {
+    d1.MagnificentWhiteVanya AsianMaroonLindie {
+    }
+    hidden_boolean UnfairMaroonLilia {
+    }
+    hidden_boolean AwfulHarlequinJaquelyn {
+    }
+    json AccessibleOrangeMarilin {
+    }
+  }
+  serviceid NovelScarletRoshelle {
+    _hidden_value = true
+  }
+  string RussianCyanFelipa {
+    _hidden_value = true
+  }
+  serviceid ComplexCopperDrucy {
+    _hidden_value = true
+  }
+  "List<serviceid>" PlasticAquaAuria {
+    _hidden_value = true
+  }
+  json RichCoffeeDorella {
+    _hidden_value = true
+  }
+  boolean PresentBrownCristabel {
+    _hidden_value = true
+  }
+  AsianMaroonLindie = false
+  AccessibleOrangeMarilin = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

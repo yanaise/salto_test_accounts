@@ -1,0 +1,25 @@
+type d1.DampAmberAlena2 {
+  annotations {
+    d1.FarBlushChristin JoyousBlackCarry3 {
+    }
+    d1.DEFAULT SweetGreenHollie {
+    }
+    string CivicTanShelley2 {
+    }
+    string IllEmeraldGael2 {
+    }
+  }
+  d1.DEFAULT ConsistentHarlequinJanis {
+    _hidden_value = true
+  }
+  "List<number>" RoughAquaAustina {
+    _hidden_value = true
+  }
+  JoyousBlackCarry3 = false
+  SweetGreenHollie = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  CivicTanShelley2 = "Why was it called the dark ages? Because of all the knights. "
+  IllEmeraldGael2 = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

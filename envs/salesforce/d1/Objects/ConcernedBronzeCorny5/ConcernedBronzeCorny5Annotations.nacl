@@ -1,0 +1,64 @@
+type d1.ConcernedBronzeCorny5 {
+  annotations {
+    boolean DefensiveRoseOnida2 {
+    }
+    serviceid_number UltimateJadeKamillah3 {
+    }
+    serviceid_number ColonialPeachMaura {
+    }
+    number EldestTanSharlene6 {
+    }
+    number FlatGrayHanni2 {
+    }
+    number SmoothAquamarineBarbee {
+    }
+    serviceid_number CuddlyAmberAlanna2 {
+    }
+    serviceid_number SparklingTurquoiseTildie {
+    }
+    string SorryBrownDanyette4 {
+    }
+    serviceid_number NervousAzureBrandea5 {
+    }
+    string AverageAmaranthAbagael2 {
+    }
+    hidden_boolean EarlyBlushChery {
+    }
+    hidden_boolean StraightAmethystAlyse2 {
+    }
+    string ThunderingApricotArabela {
+    }
+    serviceid_number ExtraCoffeeDianemarie3 {
+    }
+    number BrilliantGreenIlsa4 {
+    }
+    number ElectricGreenInger {
+    }
+    boolean DetailedCrimsonEmily2 {
+    }
+    boolean FlyingMoccasinLorelei3 {
+    }
+    hidden_boolean IraqiOliveMadelon3 {
+    }
+    serviceid_number ToxicSalmonPhedra4 {
+    }
+  }
+  DefensiveRoseOnida2 = true
+  UltimateJadeKamillah3 = 55
+  ColonialPeachMaura = 205
+  EldestTanSharlene6 = 67
+  FlatGrayHanni2 = 285
+  SmoothAquamarineBarbee = 434
+  CuddlyAmberAlanna2 = 517
+  SparklingTurquoiseTildie = 527
+  SorryBrownDanyette4 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  NervousAzureBrandea5 = 658
+  AverageAmaranthAbagael2 = "What do you call two barracuda fish?  A Pairacuda!"
+  ThunderingApricotArabela = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  ExtraCoffeeDianemarie3 = 932
+  BrilliantGreenIlsa4 = 309
+  ElectricGreenInger = 841
+  DetailedCrimsonEmily2 = false
+  FlyingMoccasinLorelei3 = false
+  ToxicSalmonPhedra4 = 584
+}

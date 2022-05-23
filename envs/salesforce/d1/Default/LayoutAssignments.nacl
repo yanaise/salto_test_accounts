@@ -1,0 +1,6 @@
+type d1.LayoutAssignments {
+  string layout {
+  }
+  string recordType {
+  }
+}

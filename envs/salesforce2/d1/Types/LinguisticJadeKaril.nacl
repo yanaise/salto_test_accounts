@@ -1,0 +1,75 @@
+type d1.LinguisticJadeKaril {
+  annotations {
+    number MedievalJadeKaren3 {
+    }
+    number LikelyBlushClaribel2 {
+    }
+    json HorizontalSalmonPrudi {
+    }
+    boolean WearyBeigeBrooke2 {
+    }
+    serviceid_number TotalBrownDanice {
+    }
+  }
+  number RawJadeKarlen2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT UnchangedSilverRubetta {
+    _hidden_value = true
+  }
+  serviceid_number CrazyTealSibylla3 {
+    _hidden_value = true
+  }
+  string PlasticAquaAuria2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT JealousAzureBobbie {
+    _hidden_value = true
+  }
+  number WetAquamarineBell3 {
+    _hidden_value = true
+  }
+  hidden_boolean LiableLimeKimmi {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean BrightCoralElyse {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number FortunateRoseOliy2 {
+    _hidden_value = true
+  }
+  string PoliticalBlushChloette4 {
+    _hidden_value = true
+  }
+  serviceid_number FriendlyVioletTrudy2 {
+    _hidden_value = true
+  }
+  json DisciplinarySilverRycca {
+    _hidden_value = true
+  }
+  string OrganisationalTanSharai4 {
+    _hidden_value = true
+  }
+  string FiscalRedNiki3 {
+    _hidden_value = true
+  }
+  serviceid_number StandardCopperDrusy {
+    _hidden_value = true
+  }
+  serviceid_number IcyAquaAudrye {
+    _hidden_value = true
+  }
+  serviceid_number CleanTomatoTami4 {
+    _hidden_value = true
+  }
+  MedievalJadeKaren3 = 295
+  LikelyBlushClaribel2 = 569
+  HorizontalSalmonPrudi = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  WearyBeigeBrooke2 = true
+  TotalBrownDanice = 866
+  _hidden_value = true
+}

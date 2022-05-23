@@ -1,0 +1,19 @@
+type d1.AgreeableBeigeBunnie3 {
+  annotations {
+    number ProperCoralElinore2 {
+    }
+    string OriginalChocolateDarsey3 {
+    }
+    string GloriousBlackCarmencita3 {
+    }
+    hidden_boolean FlakyAmberAlfy {
+    }
+  }
+  json DiverseRedNicol {
+    _hidden_value = true
+  }
+  ProperCoralElinore2 = 733
+  OriginalChocolateDarsey3 = "Why is Peter Pan always flying? Because he Neverlands."
+  GloriousBlackCarmencita3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

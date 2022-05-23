@@ -1,0 +1,88 @@
+type d1.EagerPlumMillie {
+  annotations {
+    string MusicalIndigoJobi {
+    }
+    json TinyCyanEunice2 {
+    }
+    serviceid TestyYellowYolanda2 {
+    }
+    boolean ReadyChocolateDebera2 {
+    }
+    serviceid InquisitiveTealStacie2 {
+    }
+    boolean VoicelessApricotArdath {
+    }
+  }
+  number MutualLimeKimberly2 {
+    _hidden_value = true
+  }
+  hidden_boolean UnacceptableSalmonPen {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.DEFAULT WiseLavenderKatharyn {
+    _hidden_value = true
+  }
+  number OppositeHarlequinJaneczka {
+    _hidden_value = true
+  }
+  serviceid_number RepresentativePinkMerline2 {
+    _hidden_value = true
+  }
+  d1.StatutoryGrayHarriette CivilianSapphireRanda2 {
+    BeneficialPlumMonika = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    PossibleBlushCheryl = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SpotlessTurquoiseTilly = "What creature is smarter than a talking parrot? A spelling bee."
+    SadYellowWilletta = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    RottenApricotArielle = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    WetGrayHedi = false
+    PrettyWhiteVirgie = false
+    NetGoldGlen = 913
+    FreeBronzeCody = 427
+    _hidden_value = true
+  }
+  hidden_boolean GreatVioletTybi {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number InterestedCoffeeDina {
+    _hidden_value = true
+  }
+  number LongBlueChelsey {
+    _hidden_value = true
+  }
+  serviceid_number StormyTurquoiseTim {
+    _hidden_value = true
+  }
+  json AestheticSapphireRebbecca {
+    _hidden_value = true
+  }
+  serviceid_number RareEmeraldFlori {
+    _hidden_value = true
+  }
+  string DeliciousScarletRochette {
+    _hidden_value = true
+  }
+  hidden_boolean SmallAmaranthAgatha {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number PreciousOrangeMarielle {
+    _hidden_value = true
+  }
+  boolean HandicappedTanShannon {
+    _hidden_value = true
+  }
+  MusicalIndigoJobi = "How come the stadium got hot after the game? Because all of the fans left."
+  TinyCyanEunice2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  TestyYellowYolanda2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ReadyChocolateDebera2 = false
+  InquisitiveTealStacie2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  VoicelessApricotArdath = false
+  _hidden_value = true
+}

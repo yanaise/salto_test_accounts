@@ -1,0 +1,19 @@
+type d1.IncCrimsonErmentrude4 {
+  annotations {
+    d1.DEFAULT EqualCrimsonEmiline3 {
+    }
+    number MentalCrimsonEsme3 {
+    }
+    string PrettyIndigoJennine3 {
+    }
+  }
+  boolean KnownMaroonLetti {
+    _hidden_value = true
+  }
+  EqualCrimsonEmiline3 = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  MentalCrimsonEsme3 = 640
+  PrettyIndigoJennine3 = "Why would the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

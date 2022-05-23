@@ -1,0 +1,35 @@
+type d1.BigAmaranthAbbi2 {
+  annotations {
+    serviceid_number PuzzledTomatoStephi {
+    }
+    boolean PowerfulTomatoStephanie {
+    }
+    json EconomicBlushClaresta {
+    }
+    serviceid NuclearCoffeeDonna {
+    }
+    json RainyAquaAustin {
+    }
+  }
+  number DomesticCopperEaster2 {
+    _hidden_value = true
+  }
+  serviceid_number HelpfulBlackCaroljean2 {
+    _hidden_value = true
+  }
+  number HuskyApricotAnnabela {
+    _hidden_value = true
+  }
+  "List<d1.ExactLimeKordula>" ConcernedBronzeCorrena2 {
+    _hidden_value = true
+  }
+  string ClassicalHarlequinJacklin {
+    _hidden_value = true
+  }
+  PuzzledTomatoStephi = 797
+  PowerfulTomatoStephanie = true
+  EconomicBlushClaresta = "My first time using an elevator was an uplifting experience. The second time let me down."
+  NuclearCoffeeDonna = "Why do birds fly south for the winter? Because it's too far to walk."
+  RainyAquaAustin = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  _hidden_value = true
+}

@@ -1,0 +1,45 @@
+type d1.ToughYellowYsabel {
+  annotations {
+    hidden_boolean HissingApricotAnn {
+    }
+    boolean ComfortableGoldGrissel {
+    }
+    string SourApricotArlena {
+    }
+    json PolishPinkMeredithe {
+    }
+    hidden_boolean MinimalPlumMorgen2 {
+    }
+  }
+  number FragileTealSondra3 {
+    _hidden_value = true
+  }
+  "List<boolean>" RubberSilverSarena {
+    _hidden_value = true
+  }
+  json WorthyRedOdilia {
+    _hidden_value = true
+  }
+  serviceid CapableEmeraldFlorina {
+    _hidden_value = true
+  }
+  json MoaningApricotAnne2 {
+    _hidden_value = true
+  }
+  string TopChocolateDarcy2 {
+    _hidden_value = true
+  }
+  serviceid_number OrthodoxSapphireRebe2 {
+    _hidden_value = true
+  }
+  serviceid_number InformalLavenderKathie {
+    _hidden_value = true
+  }
+  number ImaginativeTanSelinda2 {
+    _hidden_value = true
+  }
+  ComfortableGoldGrissel = true
+  SourApricotArlena = "My first time using an elevator was an uplifting experience. The second time let me down."
+  PolishPinkMeredithe = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

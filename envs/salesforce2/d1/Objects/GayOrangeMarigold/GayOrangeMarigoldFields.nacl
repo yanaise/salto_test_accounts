@@ -1,0 +1,53 @@
+type d1.GayOrangeMarigold {
+  json DullTurquoiseTedda {
+  }
+  d1.LiberalCyanFarra2 ProfoundPinkMerla7 {
+    DeliberateRedNoelle = false
+    MassiveAmaranthAdria = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    LovelyBlackCass = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    HostileOrangeMarieann3 = 41
+    DisciplinarySilverRycca2 = "Why do birds fly south for the winter? Because it's too far to walk."
+    LevelJadeKamila2 = 22
+  }
+  d1.SoundRoseOlenka PlasticAquaAurelie4 {
+    SadGrayHester = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DisgustedAzureBev = true
+    BrightVioletTova = "Why was it called the dark ages? Because of all the knights. "
+    CharacteristicOliveMalinda = "Why would the kid cross the playground? To get to the other slide."
+    InfluentialMoccasinLorenza = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  }
+  json ArrogantAquamarineBeret {
+  }
+  hidden_boolean TragicRosePavia5 {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  number AnonymousSapphireRaye4 {
+  }
+  boolean OutsideGrayHelga {
+  }
+  hidden_boolean DistinctHarlequinJanene2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid SmoggyTurquoiseTiffanie {
+  }
+  string KoreanSapphireRaquela5 {
+  }
+  json MilitaryChocolateDarlleen2 {
+  }
+  json ActualCopperEbonee3 {
+  }
+  number ExclusiveMagentaLatashia6 {
+  }
+  string ConservativeCoralEllen2 {
+  }
+  boolean DelicateOliveMadalena4 {
+  }
+  serviceid_number BoilingAmaranthAgnola2 {
+  }
+  number ScientificCrimsonEran3 {
+  }
+}

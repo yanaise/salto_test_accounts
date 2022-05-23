@@ -1,0 +1,56 @@
+type d1.ImpossibleCopperDulcea4 {
+  annotations {
+    string SweetGreenHolly {
+    }
+    serviceid_number BlackVioletTonye3 {
+    }
+    serviceid FancyTurquoiseTedi6 {
+    }
+    serviceid GentleBlackCarmelita4 {
+    }
+    number LegitimatePinkMaye {
+    }
+  }
+  number FutureCoffeeDoloritas {
+    _hidden_value = true
+  }
+  hidden_boolean SuperTomatoSusana2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json PrettyIndigoJennine2 {
+    _hidden_value = true
+  }
+  serviceid_number IndependentChocolateDella4 {
+    _hidden_value = true
+  }
+  string ReliableLavenderKim2 {
+    _hidden_value = true
+  }
+  serviceid MeaningfulTanShena2 {
+    _hidden_value = true
+  }
+  serviceid RussianCyanFelipa4 {
+    _hidden_value = true
+  }
+  hidden_boolean ProposedGoldGwendolin3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DisturbedAzureBeverie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean SupportingSilverSamantha2 {
+    _hidden_value = true
+  }
+  SweetGreenHolly = "What do you call two barracuda fish?  A Pairacuda!"
+  BlackVioletTonye3 = 492
+  FancyTurquoiseTedi6 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GentleBlackCarmelita4 = "Why would the kid cross the playground? To get to the other slide."
+  LegitimatePinkMaye = 421
+  _hidden_value = true
+}

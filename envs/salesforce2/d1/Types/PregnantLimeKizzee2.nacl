@@ -1,0 +1,45 @@
+type d1.PregnantLimeKizzee2 {
+  annotations {
+    boolean PainfulMaroonLily {
+    }
+    json ConfusedMaroonLila2 {
+    }
+    json AdditionalCopperDottie4 {
+    }
+    hidden_boolean HungryMaroonLira2 {
+    }
+    serviceid FatVioletTrixie2 {
+    }
+    string CrookedAmberAlison2 {
+    }
+  }
+  d1.RussianCyanFelicity GastricMagentaLavina {
+    RapidAmethystAmy = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    GlobalGrayHermine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    BrainyTealSherry = false
+    SoundRoseOlga = 391
+    LevelJadeKally = false
+    WideAmethystAmabel = 955
+    CautiousScarletRivy = true
+    RandomMoccasinLoren = 453
+    AssociatedMaroonLindsey = false
+    FamiliarCrimsonEthel = "Whoever invented the knock-knock joke should get a no bell prize."
+    MinorEmeraldGabriel = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    SurroundingOrangeMarget = "Why would the kid cross the playground? To get to the other slide."
+    FatalPurpleMyrtice = "What creature is smarter than a talking parrot? A spelling bee."
+    _hidden_value = true
+  }
+  PainfulMaroonLily = true
+  ConfusedMaroonLila2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AdditionalCopperDottie4 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  FatVioletTrixie2 = "Slept like a log last night  woke up in the fireplace."
+  CrookedAmberAlison2 = '''
+Did you hear about the guy whose whole left side was cut off? He's all right now.
+Dad Im hungry  Hi hungry Im dad
+'''
+  _hidden_value = true
+}

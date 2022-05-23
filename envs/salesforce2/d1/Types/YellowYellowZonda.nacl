@@ -1,0 +1,38 @@
+type d1.YellowYellowZonda {
+  annotations {
+    number ProposedGoldGwendolin2 {
+    }
+    boolean LiquidRoseOttilie4 {
+    }
+    serviceid SplendidBlueCatina3 {
+    }
+    boolean OutstandingTealStefanie2 {
+    }
+    hidden_boolean HuskyApricotAnnabel {
+    }
+  }
+  serviceid OkayOliveMaggy {
+    _hidden_value = true
+  }
+  number FierceOliveMaisey {
+    _hidden_value = true
+  }
+  hidden_boolean WoodenAquamarineBelle {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number AlrightGoldGoldina2 {
+    _hidden_value = true
+  }
+  hidden_boolean SecondaryFuchsiaGertrud3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ProposedGoldGwendolin2 = 855
+  LiquidRoseOttilie4 = true
+  SplendidBlueCatina3 = "What creature is smarter than a talking parrot? A spelling bee."
+  OutstandingTealStefanie2 = false
+  _hidden_value = true
+}

@@ -1,0 +1,81 @@
+type d1.NoblePurpleNatty {
+  annotations {
+    boolean ValuableGoldGwyn {
+    }
+    serviceid_number NationalBlushCherida {
+    }
+    boolean MarriedCyanFania2 {
+    }
+    json DistinctTurquoiseTatiana2 {
+    }
+    boolean EthnicLavenderKaye3 {
+    }
+  }
+  serviceid_number DominantIndigoJen {
+    _hidden_value = true
+  }
+  hidden_boolean NeighbouringPurpleNance2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ComparativePlumMitzi2 {
+    _hidden_value = true
+  }
+  d1.LowBlushChristy BriefEmeraldFlorrie {
+    ExplicitMaroonLisetta2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    UnevenAquamarineBeitris = "Why would the kid cross the playground? To get to the other slide."
+    TameTomatoSusette = "Im only familiar with 25 letters in the English language. I dont know why."
+    KindOrangeMaribeth = "Slept like a log last night  woke up in the fireplace."
+    BrokenAmaranthAilee = 622
+    RelievedSalmonPetronia = true
+    ComplexCopperDrucie = "Whoever invented the knock-knock joke should get a no bell prize."
+    PublicBlushChrysler = false
+    AverageCoralElysha = "Im only familiar with 25 letters in the English language. I dont know why."
+    EntireEmeraldFranciska = 429
+    CurrentBrownDacey = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  number ChiefCopperDorri2 {
+    _hidden_value = true
+  }
+  hidden_boolean CanadianPlumMinerva5 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean HeadPinkMegan3 {
+    _hidden_value = true
+  }
+  serviceid_number CooperativeBeigeCamile {
+    _hidden_value = true
+  }
+  boolean AverageCoralElyse {
+    _hidden_value = true
+  }
+  hidden_boolean MightyWhiteVeriee3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean PerfectBlackCate3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json MarineMagentaLeone {
+    _hidden_value = true
+  }
+  serviceid_number PhysicalCoffeeDenni {
+    _hidden_value = true
+  }
+  json IndividualBrownCyb {
+    _hidden_value = true
+  }
+  ValuableGoldGwyn = false
+  NationalBlushCherida = 506
+  MarriedCyanFania2 = false
+  DistinctTurquoiseTatiana2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  EthnicLavenderKaye3 = true
+  _hidden_value = true
+}

@@ -1,0 +1,64 @@
+type d1.FierceOliveMaire {
+  annotations {
+    number DelightfulBeigeCandi2 {
+    }
+    serviceid_number LinguisticJadeKarilynn {
+    }
+    serviceid_number DrabTurquoiseTasha {
+    }
+    hidden_boolean EasyTealSisile {
+    }
+    boolean AgreedTanSelia3 {
+    }
+    hidden_boolean SpectacularMaroonLibbey {
+    }
+    d1.IllAzureBobbee HighBlueCharisse2 {
+    }
+    string NutritiousWhiteVilhelmina2 {
+    }
+  }
+  string FreeBronzeCody3 {
+    _hidden_value = true
+  }
+  string DelicateOliveMabelle {
+    _hidden_value = true
+  }
+  boolean CautiousScarletRoana {
+    _hidden_value = true
+  }
+  "List<string>" RigidPinkMerrily {
+    _hidden_value = true
+  }
+  d1.LongAmaranthAdina BadVioletToma3 {
+    GrubbyAquaAubry = {
+      legit = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    }
+    GloriousScarletRose2 = false
+    _hidden_value = true
+  }
+  number SheerMagentaLauretta {
+    _hidden_value = true
+  }
+  string DrivingRoseOralie {
+    _hidden_value = true
+  }
+  number AssistantOliveLynnet {
+    _hidden_value = true
+  }
+  string AggressiveMaroonLilian {
+    _hidden_value = true
+  }
+  d1.DEFAULT CleanTomatoTami3 {
+    _hidden_value = true
+  }
+  serviceid BareLavenderKelli4 {
+    _hidden_value = true
+  }
+  DelightfulBeigeCandi2 = 983
+  LinguisticJadeKarilynn = 241
+  DrabTurquoiseTasha = 756
+  AgreedTanSelia3 = true
+  HighBlueCharisse2 = false
+  NutritiousWhiteVilhelmina2 = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

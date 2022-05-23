@@ -1,0 +1,25 @@
+type d1.EthicalScarletRobbyn2 {
+  annotations {
+    json MusicalIndigoJoannes2 {
+    }
+    hidden_boolean DesperateIvoryJunie3 {
+    }
+    string GoodBlueCelka3 {
+    }
+    string OptimisticSalmonPeg4 {
+    }
+    json RobustYellowWhitney {
+    }
+    number InsufficientPurpleNeila {
+    }
+  }
+  serviceid OutdoorSilverSarita2 {
+    _hidden_value = true
+  }
+  MusicalIndigoJoannes2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  GoodBlueCelka3 = "What creature is smarter than a talking parrot? A spelling bee."
+  OptimisticSalmonPeg4 = "Dad Im hungry  Hi hungry Im dad"
+  RobustYellowWhitney = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  InsufficientPurpleNeila = 75
+  _hidden_value = true
+}

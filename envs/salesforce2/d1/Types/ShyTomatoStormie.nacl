@@ -1,0 +1,43 @@
+type d1.ShyTomatoStormie {
+  annotations {
+    serviceid IslamicRoseOlympia {
+    }
+    json UglyTurquoiseTiphani2 {
+    }
+    json ElectricalLavenderKerrill {
+    }
+    boolean CondemnedAquamarineBerti {
+    }
+    serviceid AbleBlushChrissie {
+    }
+  }
+  json BareLavenderKelli3 {
+    _hidden_value = true
+  }
+  serviceid_number UnableCoralElora {
+    _hidden_value = true
+  }
+  hidden_boolean AncientAmethystAmabel {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean NastyWhiteVerna {
+    _hidden_value = true
+  }
+  string BlindIvoryJudi {
+    _hidden_value = true
+  }
+  serviceid BeneficialPlumMonica2 {
+    _hidden_value = true
+  }
+  json CombinedOliveMaible {
+    _hidden_value = true
+  }
+  IslamicRoseOlympia = "Why would the kid cross the playground? To get to the other slide."
+  UglyTurquoiseTiphani2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ElectricalLavenderKerrill = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  CondemnedAquamarineBerti = false
+  AbleBlushChrissie = "Why would the kid cross the playground? To get to the other slide."
+  _hidden_value = true
+}

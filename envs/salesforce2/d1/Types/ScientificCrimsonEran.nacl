@@ -1,0 +1,118 @@
+type d1.ScientificCrimsonEran {
+  annotations {
+    boolean ShortYellowWilona3 {
+    }
+    number WeakFuchsiaGayle3 {
+    }
+    serviceid_number EconomicBlushClare2 {
+    }
+    serviceid_number InvisibleRoseOrelee2 {
+    }
+  }
+  "List<d1.DEFAULT>" FoolishAzureBinnie3 {
+    _hidden_value = true
+  }
+  boolean ManualRosePaola {
+    _hidden_value = true
+  }
+  number ColouredMaroonLivia3 {
+    _hidden_value = true
+  }
+  "List<d1.DEFAULT>" TestyYellowYoko {
+    _hidden_value = true
+  }
+  serviceid_number BlankPinkMelonie {
+    _hidden_value = true
+  }
+  serviceid_number RainyWhiteWallis {
+    _hidden_value = true
+  }
+  json EssentialCoffeeDione2 {
+    _hidden_value = true
+  }
+  number CoastalPlumMichal3 {
+    _hidden_value = true
+  }
+  serviceid_number ProfessionalChocolateDayle2 {
+    _hidden_value = true
+  }
+  hidden_boolean BoredAquamarineBerri2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.DEFAULT SouthernCyanEvie3 {
+    _hidden_value = true
+  }
+  boolean EnthusiasticBlackCarine3 {
+    _hidden_value = true
+  }
+  serviceid_number IntenseLavenderKatuscha5 {
+    _hidden_value = true
+  }
+  serviceid ObligedOrangeMarchelle {
+    _hidden_value = true
+  }
+  hidden_boolean TenderAquamarineBebe {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json MammothAmaranthAdorne {
+    _hidden_value = true
+  }
+  serviceid_number CompetentSalmonPepita2 {
+    _hidden_value = true
+  }
+  hidden_boolean BoilingAmaranthAgretha2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number RespectiveSalmonPerry3 {
+    _hidden_value = true
+  }
+  json ShortAmethystAnabal {
+    _hidden_value = true
+  }
+  number ElegantTurquoiseTeddi4 {
+    _hidden_value = true
+  }
+  d1.LatinLimeKonstanze WeeklyLavenderKessiah2 {
+    ResidentSalmonRae = "Why do birds fly south for the winter? Because it's too far to walk."
+    CrazyMoccasinLorrayne = "What do you do on a remote island? Try and find the TV island it belongs to."
+    LevelJadeKally2 = "Why is Peter Pan always flying? Because he Neverlands."
+    WellFuchsiaGipsy = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ProperCoralElisabet = 4
+    OutstandingIndigoJenna = 518
+    PositiveCoffeeDona = 786
+    ThoughtlessBeigeBrit = "Why was it called the dark ages? Because of all the knights. "
+    CrowdedTomatoTania2 = 711
+    FairCoffeeDinnie = 49
+    PeacefulOrangeMargret = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    ToxicSalmonPhedra = 447
+    GleamingTurquoiseTeri = true
+    JoyousBlackCarry = "What did one nut say as he chased another nut?  I'm a cashew!"
+    RoughGreenIdelle = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ParliamentaryFuchsiaGiacinta = true
+    AggressiveMaroonLiliane = {
+      legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    }
+    IntegralSalmonPhilly = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    MidPinkMelissa = "Slept like a log last night  woke up in the fireplace."
+    SurprisingGreenIanthe = 404
+    SteadyJadeKaile = false
+    ObnoxiousAzureBrandie = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    KindVioletValma = "To be Frank, I'd have to change my name."
+    RainyAquaAurora = true
+    RudeTanShayla = false
+    _hidden_value = true
+  }
+  ShortYellowWilona3 = true
+  WeakFuchsiaGayle3 = 843
+  EconomicBlushClare2 = 38
+  InvisibleRoseOrelee2 = 690
+  _hidden_value = true
+}

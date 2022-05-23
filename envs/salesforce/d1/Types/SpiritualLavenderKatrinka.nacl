@@ -1,0 +1,20 @@
+type d1.SpiritualLavenderKatrinka {
+  annotations {
+    serviceid_number DelightfulSilverRowe {
+    }
+    boolean CanadianPlumMindy {
+    }
+    string GeographicalPeachMarley {
+    }
+    serviceid SpotlessTurquoiseTildie {
+    }
+  }
+  string ArtisticPeachMathilda {
+    _hidden_value = true
+  }
+  DelightfulSilverRowe = 15
+  CanadianPlumMindy = false
+  GeographicalPeachMarley = "I'll tell you what often gets over looked... garden fences."
+  SpotlessTurquoiseTildie = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

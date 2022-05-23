@@ -1,0 +1,36 @@
+type d1.LazyVioletVania {
+  annotations {
+    serviceid_number MiserableSalmonRachel2 {
+    }
+    boolean MinorEmeraldGabi2 {
+    }
+    serviceid_number RisingScarletRoselle2 {
+    }
+    string HelpfulBlackCaroljean4 {
+    }
+    hidden_boolean SuddenGoldGusty4 {
+    }
+    string GentleBlackCarmelle3 {
+    }
+  }
+  hidden_boolean FundamentalFuchsiaGenevieve7 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string StormyTurquoiseTimmi2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT AliveFuchsiaGilly2 {
+    _hidden_value = true
+  }
+  serviceid_number TallAmaranthAggi3 {
+    _hidden_value = true
+  }
+  MiserableSalmonRachel2 = 500
+  MinorEmeraldGabi2 = true
+  RisingScarletRoselle2 = 45
+  HelpfulBlackCaroljean4 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  GentleBlackCarmelle3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

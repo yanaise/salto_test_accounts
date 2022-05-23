@@ -1,0 +1,59 @@
+type d1.ConcreteOliveLynea {
+  serviceid_number CalmBeigeCalley2 {
+  }
+  serviceid_number ConservativeCoralEllette3 {
+  }
+  serviceid SpanishGreenIormina4 {
+  }
+  hidden_boolean FullBlushChristiana4 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  serviceid_number SoundAmethystAngeline4 {
+  }
+  serviceid AnnualCoffeeDonnie2 {
+  }
+  d1.NarrowCyanFannie RoyalBrownCristin2 {
+    DistinguishedPurpleNatasha = 38
+    EmotionalGrayHermione = "To be Frank, I'd have to change my name."
+    IncreasingCyanEvita = 37
+    MildOliveMadalyn = 670
+  }
+  json CurvedAmberAliza3 {
+  }
+  serviceid_number CalmPurpleNanci4 {
+  }
+  string LowBlushChristine2 {
+  }
+  serviceid AmateurSalmonPia6 {
+  }
+  hidden_boolean CuddlyAmberAlberta7 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  d1.SovietChocolateDari PleasedEmeraldGabriella2 {
+    ReadyChocolateDebor = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    FaithfulTanShayne = 917
+    PureGrayHenryetta2 = 41
+    StableHarlequinJasmin2 = 593
+  }
+  "List<hidden_boolean>" IrrelevantPurpleNani {
+    _required = true
+    _hidden = false
+    _hidden_value = false
+  }
+  string YellowGoldGiulietta4 {
+  }
+  json HollowAmberAllix2 {
+  }
+  number ImportantTealSophie {
+  }
+  serviceid RichCoffeeDorelia5 {
+  }
+  serviceid HarshAmethystAnitra2 {
+  }
+  json SillyBlueCathlene5 {
+  }
+}

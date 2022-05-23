@@ -1,0 +1,94 @@
+type d1.GrowingCrimsonEnrica {
+  annotations {
+    json EncouragingBlackCaresse {
+    }
+    number UnlikelyCrimsonEthelin4 {
+    }
+    json RedWhiteWendeline3 {
+    }
+    number ExoticSapphireRiki {
+    }
+    string OrganisationalTanSharai {
+    }
+  }
+  serviceid InclinedRedNovelia {
+    _hidden_value = true
+  }
+  d1.PrivateBronzeCordy DecisiveSalmonPenny2 {
+    CoolAmaranthAindrea = "Slept like a log last night  woke up in the fireplace."
+    CoherentScarletRoselin = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    OverallCrimsonEmmalynn = "Whoever invented the knock-knock joke should get a no bell prize."
+    IncreasedCrimsonEsther = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    MightyWhiteVerena = "My first time using an elevator was an uplifting experience. The second time let me down."
+    IrishCrimsonErminia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    AutomaticLavenderKevyn = true
+    _hidden_value = true
+  }
+  boolean SingleBronzeCoral3 {
+    _hidden_value = true
+  }
+  boolean SacredRedNorma {
+    _hidden_value = true
+  }
+  serviceid_number ImaginativeTanSelinda {
+    _hidden_value = true
+  }
+  serviceid_number PainfulMaroonLilly2 {
+    _hidden_value = true
+  }
+  boolean ProgressiveOliveMadelina3 {
+    _hidden_value = true
+  }
+  boolean IntellectualJadeKalila2 {
+    _hidden_value = true
+  }
+  serviceid_number DifferentTealSilvia3 {
+    _hidden_value = true
+  }
+  string AtomicScarletRorie {
+    _hidden_value = true
+  }
+  string PuzzledTanShandy2 {
+    _hidden_value = true
+  }
+  number ModernTealStafani {
+    _hidden_value = true
+  }
+  boolean DistantIndigoJillie2 {
+    _hidden_value = true
+  }
+  serviceid EstimatedOrangeMargette {
+    _hidden_value = true
+  }
+  string EasyBronzeCollen2 {
+    _hidden_value = true
+  }
+  boolean NarrowAmberAlma {
+    _hidden_value = true
+  }
+  string OddWhiteVinita2 {
+    _hidden_value = true
+  }
+  hidden_boolean SeniorCoffeeDonelle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number WiseLavenderKatherina2 {
+    _hidden_value = true
+  }
+  json ExtraordinaryIndigoJessica2 {
+    _hidden_value = true
+  }
+  hidden_boolean AnxiousAquamarineBenoite {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  EncouragingBlackCaresse = "A steak pun is a rare medium well done."
+  UnlikelyCrimsonEthelin4 = 910
+  RedWhiteWendeline3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ExoticSapphireRiki = 830
+  OrganisationalTanSharai = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

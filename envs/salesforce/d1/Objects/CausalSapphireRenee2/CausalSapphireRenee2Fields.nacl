@@ -1,0 +1,78 @@
+type d1.CausalSapphireRenee2 {
+  "List<json>" TestyYellowYolande2 {
+  }
+  d1.DiplomaticMagentaLenore ConfidentialScarletRois2 {
+    SouthernCyanEvie = "My first time using an elevator was an uplifting experience. The second time let me down."
+    TartYellowWynnie = "I'll tell you what often gets over looked... garden fences."
+    WonderfulYellowZoe2 = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    UnlikelyCrimsonEthelin = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    JapaneseCyanFianna = 393
+    UpsetOliveMabel = "Why was it called the dark ages? Because of all the knights. "
+  }
+  hidden_boolean UnfairMaroonLilia4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number ProspectiveRedNetti2 {
+  }
+  boolean ColourfulScarletRosabelle2 {
+  }
+  d1.PrivateBronzeCordy ProudHarlequinJan2 {
+    CoolAmaranthAindrea = "Whoever invented the knock-knock joke should get a no bell prize."
+    CoherentScarletRoselin = "Did you know that protons have mass? I didn't even know they were catholic."
+    OverallCrimsonEmmalynn = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    IncreasedCrimsonEsther = "Im only familiar with 25 letters in the English language. I dont know why."
+    MightyWhiteVerena = "My first time using an elevator was an uplifting experience. The second time let me down."
+    IrishCrimsonErminia = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    AutomaticLavenderKevyn = false
+  }
+  hidden_boolean FirmGrayHeddie {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  boolean MushyWhiteVerla4 {
+  }
+  string SteadyAquamarineBathsheba3 {
+  }
+  number GenuineGreenIsobel4 {
+  }
+  json NumerousHarlequinJanean2 {
+  }
+  hidden_boolean VisitingScarletRoana {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean OralLimeKylie6 {
+  }
+  hidden_boolean ClumsyVioletTraci2 {
+    _required = false
+    _hidden = false
+    _hidden_value = false
+  }
+  hidden_boolean MinisterialTanSheela2 {
+    _required = true
+    _hidden = true
+    _hidden_value = false
+  }
+  json LonelyAzureBobina3 {
+  }
+  d1.OperationalOrangeMariana3 SatisfiedHarlequinJazmin4 {
+    HollowAmberAllsun = true
+    CuriousLimeKira2 = "Slept like a log last night  woke up in the fireplace."
+    HumanBronzeConstanta4 = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DullVioletTrina2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  d1.BrownFuchsiaGena2 CalmPurpleNancee6 {
+    StrictLavenderKatharine2 = 742
+    OkSapphireRhianon3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    ModernAmethystAmelita2 = "To be Frank, I'd have to change my name."
+    HarshAmethystAnitra = true
+    FrontCopperEadie3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    InquisitiveTealStacy2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+}

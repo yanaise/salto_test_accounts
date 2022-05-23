@@ -1,0 +1,65 @@
+type d1.MoaningApricotAnnecorinne {
+  annotations {
+    serviceid_number UnusualGoldGladys {
+    }
+    hidden_boolean LikelyBlushClarice {
+    }
+    string HugeCoffeeDoralynn {
+    }
+  }
+  json ConstantEmeraldFranny {
+    _hidden_value = true
+  }
+  number DisappointedMagentaLauryn {
+    _hidden_value = true
+  }
+  d1.ExistingCoffeeDeva FragileTealSofie {
+    PetiteAmaranthAdrianna = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ExtraordinaryIndigoJessy = "A steak pun is a rare medium well done."
+    HonChocolateDaveen = true
+    ProfoundPinkMerla = "What do you call two barracuda fish?  A Pairacuda!"
+    UpperCyanFaunie = "I'll tell you what often gets over looked... garden fences."
+    LegalBrownDahlia = 448
+    FeministPlumMina = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    RelaxedPlumMinni = 378
+    FilthyTurquoiseTera2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RareEmeraldFlorentia = 109
+    EducationalCrimsonEryn = 415
+    _hidden_value = true
+  }
+  serviceid_number SuperbMagentaLaurena {
+    _hidden_value = true
+  }
+  serviceid_number GastricMagentaLavinia {
+    _hidden_value = true
+  }
+  d1.DEFAULT BiologicalMaroonLetizia {
+    _hidden_value = true
+  }
+  serviceid_number ChangingJadeKassey2 {
+    _hidden_value = true
+  }
+  hidden_boolean SurroundingOrangeMargette3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json MonthlyMaroonLinnea {
+    _hidden_value = true
+  }
+  json IsraeliPinkMerilee {
+    _hidden_value = true
+  }
+  json EnergeticBlackCarie {
+    _hidden_value = true
+  }
+  serviceid BigVioletTonia {
+    _hidden_value = true
+  }
+  d1.DEFAULT IsraeliPinkMerilee2 {
+    _hidden_value = true
+  }
+  UnusualGoldGladys = 433
+  HugeCoffeeDoralynn = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

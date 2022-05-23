@@ -1,0 +1,135 @@
+type d1.NorthernCoralEleanor2 {
+  annotations {
+    json CharacteristicOliveMalinda3 {
+    }
+    json ConservativeCoralElle {
+    }
+    boolean LateAmethystAmber {
+    }
+    hidden_boolean CuriousLimeKirbee {
+    }
+    number ExcessSilverSapphira {
+    }
+    boolean BitterJadeKarylin {
+    }
+    serviceid_number JoyousBlackCarrissa2 {
+    }
+  }
+  boolean UsedFuchsiaGeorgeanna {
+    _hidden_value = true
+  }
+  serviceid FamousTealSiusan2 {
+    _hidden_value = true
+  }
+  number LegislativeMaroonLinell3 {
+    _hidden_value = true
+  }
+  "Map<json>" GreekIndigoJoanne {
+    _hidden_value = true
+  }
+  d1.NumerousHarlequinJandy ConfidentHarlequinJade2 {
+    PuzzledTomatoStephie = false
+    SpecificBrownDarb = 484
+    PersistentRosePamela = 830
+    WorryingSilverRozamond = "Dad Im hungry  Hi hungry Im dad"
+    GreenVioletUla = "What do you call two barracuda fish?  A Pairacuda!"
+    TinyAmaranthAgnes = true
+    SuccessfulBlueCatlee = "Dad Im hungry  Hi hungry Im dad"
+    FamousTealSissie = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    KindOrangeMarice = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    CriticalCrimsonEstele = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    LuckyBlackCassandry = "To be Frank, I'd have to change my name."
+    FundamentalFuchsiaGenevieve = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    NutritiousWhiteVina = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    CanadianPlumMinerva = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ExactLimeKore = "Why would the kid cross the playground? To get to the other slide."
+    RenewedSilverSandy = {
+      legit = "Why would the tomato blush? Because it saw the salad dressing."
+    }
+    PeculiarPlumMicheline = "What creature is smarter than a talking parrot? A spelling bee."
+    SmoothAquamarineBarbey = false
+    NarrowAmberAllys = 679
+    EnvironmentalCoffeeDomini = 299
+    CombinedOliveMaighdiln = true
+    NuttyWhiteVikki = 80
+    TroubledBeigeBritta = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    KindBlackCaryl2 = "How come the stadium got hot after the game? Because all of the fans left."
+    _hidden_value = true
+  }
+  serviceid_number HollowAmberAllx {
+    _hidden_value = true
+  }
+  hidden_boolean ForthcomingPeachMarrilee {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" NuclearCoffeeDonica3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json SmilingBlueCathryn2 {
+    _hidden_value = true
+  }
+  d1.ProvincialPeachMarita GiantAmaranthAda {
+    FineBlackCarlyn = {
+      legit = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    }
+    OldAmethystAmi = {
+      legit = "I'll tell you what often gets over looked... garden fences."
+    }
+    VariedRedNorah = false
+    ShakyAquaAyn = "What did one nut say as he chased another nut?  I'm a cashew!"
+    _hidden_value = true
+  }
+  number HonChocolateDasya2 {
+    _hidden_value = true
+  }
+  "Map<boolean>" ThoughtlessBeigeBrinna3 {
+    _hidden_value = true
+  }
+  json BasicChocolateDarleen2 {
+    _hidden_value = true
+  }
+  number NeighbouringPurpleNancee {
+    _hidden_value = true
+  }
+  json FunctionalMaroonLexine3 {
+    _hidden_value = true
+  }
+  serviceid_number FlatGrayHannie4 {
+    _hidden_value = true
+  }
+  hidden_boolean LimitedCoralElke3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number SquareJadeKaia4 {
+    _hidden_value = true
+  }
+  serviceid_number EconomicBlushClarabelle2 {
+    _hidden_value = true
+  }
+  number LowAmberAlly2 {
+    _hidden_value = true
+  }
+  hidden_boolean StraightHarlequinJami {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ManagingLimeKitti3 {
+    _hidden_value = true
+  }
+  CharacteristicOliveMalinda3 = "A steak pun is a rare medium well done."
+  ConservativeCoralElle = "Why would the tomato blush? Because it saw the salad dressing."
+  LateAmethystAmber = true
+  ExcessSilverSapphira = 285
+  BitterJadeKarylin = false
+  JoyousBlackCarrissa2 = 720
+  _hidden_value = true
+}

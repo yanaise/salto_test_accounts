@@ -1,0 +1,72 @@
+type d1.WorkingCrimsonEmma {
+  annotations {
+    serviceid_number GreatBlueCharil3 {
+    }
+    number WorryingSilverRozalin2 {
+    }
+    serviceid BigVioletTonie2 {
+    }
+    hidden_boolean LtdCoralElnora5 {
+    }
+    d1.DEFAULT LoyalPurpleNata2 {
+    }
+    string RetailMagentaLeontine {
+    }
+    number RainyWhiteWalliw {
+    }
+  }
+  string UnknownFuchsiaGigi2 {
+    _hidden_value = true
+  }
+  serviceid_number QuickWhiteVonni5 {
+    _hidden_value = true
+  }
+  serviceid DullTurquoiseTed {
+    _hidden_value = true
+  }
+  serviceid RelievedSalmonPetronella2 {
+    _hidden_value = true
+  }
+  string FatAmaranthAbigail {
+    _hidden_value = true
+  }
+  boolean SystematicOrangeMarcella {
+    _hidden_value = true
+  }
+  number ClumsyVioletTracie2 {
+    _hidden_value = true
+  }
+  hidden_boolean GiantAmaranthAdaline {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean SpecificChocolateDarbie {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean CrazyTealSibylla4 {
+    _hidden_value = true
+  }
+  boolean ScottishChocolateDela {
+    _hidden_value = true
+  }
+  serviceid_number RulingLimeKira {
+    _hidden_value = true
+  }
+  hidden_boolean VastYellowZea3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  GreatBlueCharil3 = 916
+  WorryingSilverRozalin2 = 557
+  BigVioletTonie2 = "What creature is smarter than a talking parrot? A spelling bee."
+  LoyalPurpleNata2 = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  RetailMagentaLeontine = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RainyWhiteWalliw = 340
+  _hidden_value = true
+}

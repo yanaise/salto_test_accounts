@@ -1,0 +1,111 @@
+type d1.OddFuchsiaGenna {
+  annotations {
+    number HissingApricotAnnadiana2 {
+    }
+    number RoughAquaAva {
+    }
+    number AngryAquamarineBenedetta {
+    }
+    json ExcitedOrangeMariquilla2 {
+    }
+  }
+  json DifferentBlueCharlot {
+    _hidden_value = true
+  }
+  boolean RainyWhiteWallie {
+    _hidden_value = true
+  }
+  serviceid_number InjuredScarletRosalind {
+    _hidden_value = true
+  }
+  hidden_boolean MedievalJadeKaren2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ThoughtfulBlueCatriona2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean DistinctTurquoiseTatiania {
+    _hidden_value = true
+  }
+  string PastCoffeeDianemarie {
+    _hidden_value = true
+  }
+  d1.IllAzureBobbee DeepAmberAlla2 {
+    CriticalCrimsonEstell = "Dad Im hungry  Hi hungry Im dad"
+    GorgeousVioletUna = 776
+    TraditionalChocolateDeidre = "To be Frank, I'd have to change my name."
+    ScaredSalmonRafaelita = "Dad Im hungry  Hi hungry Im dad"
+    MotionlessTurquoiseTheodora = 168
+    BreezyAmaranthAidan = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ScaredSapphireRahal = true
+    BeautifulTomatoTabina = "To be Frank, I'd have to change my name."
+    ExceptionalOliveMadlin = 819
+    HeadPinkMeg = 243
+    UrgentLimeKristyn = true
+    DeliberateRedNoelyn = "What did one nut say as he chased another nut?  I'm a cashew!"
+    BeneficialPlumMonica = "What creature is smarter than a talking parrot? A spelling bee."
+    WillingGoldGussy = "Im only familiar with 25 letters in the English language. I dont know why."
+    MobilePurpleMoria = true
+    _hidden_value = true
+  }
+  string AsianMaroonLindie3 {
+    _hidden_value = true
+  }
+  number FormalCoralElizabeth {
+    _hidden_value = true
+  }
+  hidden_boolean ConservativeCoralEllette {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number TopChocolateDarell {
+    _hidden_value = true
+  }
+  json AsleepJadeKarmen3 {
+    _hidden_value = true
+  }
+  hidden_boolean SystematicOrangeMarcelia2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string StrangeCoralEdna2 {
+    _hidden_value = true
+  }
+  boolean NaughtyAzureBonnibelle {
+    _hidden_value = true
+  }
+  string DeadBrownDara {
+    _hidden_value = true
+  }
+  string DirtyAmberAlene {
+    _hidden_value = true
+  }
+  string BrilliantGreenIlse2 {
+    _hidden_value = true
+  }
+  d1.TameTomatoSusannah DirectChocolateDeane3 {
+    TragicRosePauline = "Why would the kid cross the playground? To get to the other slide."
+    ScornfulBeigeBrianna = false
+    _hidden_value = true
+  }
+  "List<boolean>" CriminalFuchsiaGeorgetta3 {
+    _hidden_value = true
+  }
+  serviceid BurningRedNikki {
+    _hidden_value = true
+  }
+  string WeeSapphireReta {
+    _hidden_value = true
+  }
+  HissingApricotAnnadiana2 = 480
+  RoughAquaAva = 21
+  AngryAquamarineBenedetta = 160
+  ExcitedOrangeMariquilla2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

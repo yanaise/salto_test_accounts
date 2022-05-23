@@ -1,0 +1,16 @@
+type d1.VictoriousBlueCecelia2 {
+  annotations {
+    boolean SufficientCrimsonEolanda2 {
+    }
+    hidden_boolean ElectronicGreenInez {
+    }
+    string FluffyAmberAlice5 {
+    }
+  }
+  json PrintedRedNevsa2 {
+    _hidden_value = true
+  }
+  SufficientCrimsonEolanda2 = true
+  FluffyAmberAlice5 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

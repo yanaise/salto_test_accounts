@@ -1,0 +1,66 @@
+type d1.AdvancedHarlequinJacenta2 {
+  annotations {
+    serviceid_number DeliberateRedNoelle3 {
+    }
+    number MaleCoffeeDianne2 {
+    }
+    hidden_boolean RepulsiveBeigeBrenda2 {
+    }
+    string ModernTealStar4 {
+    }
+    number DeliciousApricotArdine3 {
+    }
+    string ConventionalGoldGussie4 {
+    }
+    d1.ExtraCoffeeDianemarie OriginalChocolateDarrelle3 {
+    }
+    serviceid InstantSapphireRanee3 {
+    }
+    number UniversalJadeKacy {
+    }
+    boolean VitalEmeraldFifine3 {
+    }
+    boolean BeneficialPlumMona2 {
+    }
+    boolean DeliberateRedNoelle4 {
+    }
+    number PerfectCrimsonEtti4 {
+    }
+    boolean FewAmethystAndrei3 {
+    }
+    json UrgentLimeKrysta5 {
+    }
+    string SuccessfulBlueCatlee4 {
+    }
+    serviceid_number ZealousBlueCelestine2 {
+    }
+    json SuperbMagentaLaurene3 {
+    }
+    json MightyWhiteVerena2 {
+    }
+    string CloseBrownCosetta {
+    }
+    serviceid_number DeadBrownDaphna {
+    }
+  }
+  DeliberateRedNoelle3 = 171
+  MaleCoffeeDianne2 = 955
+  ModernTealStar4 = "To be Frank, I'd have to change my name."
+  DeliciousApricotArdine3 = 23
+  ConventionalGoldGussie4 = "I'll tell you what often gets over looked... garden fences."
+  OriginalChocolateDarrelle3 = true
+  InstantSapphireRanee3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  UniversalJadeKacy = 677
+  VitalEmeraldFifine3 = true
+  BeneficialPlumMona2 = true
+  DeliberateRedNoelle4 = true
+  PerfectCrimsonEtti4 = 171
+  FewAmethystAndrei3 = false
+  UrgentLimeKrysta5 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SuccessfulBlueCatlee4 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ZealousBlueCelestine2 = 490
+  SuperbMagentaLaurene3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  MightyWhiteVerena2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CloseBrownCosetta = "Why is Peter Pan always flying? Because he Neverlands."
+  DeadBrownDaphna = 985
+}

@@ -1,0 +1,128 @@
+type d1.MeltedAquaAurelea {
+  annotations {
+    string BizarreTanSeka2 {
+    }
+    json IllegalJadeKarolina {
+    }
+    json BoldPlumMinetta {
+    }
+    d1.DEFAULT SolarRosePammie {
+    }
+    json GayOrangeMarijo {
+    }
+    d1.AnxiousHarlequinJanna HappyBlackCaroljean {
+    }
+  }
+  serviceid_number EverydayLimeKyrstin {
+    _hidden_value = true
+  }
+  json NegativeFuchsiaGavra {
+    _hidden_value = true
+  }
+  number DarkChocolateDeanne2 {
+    _hidden_value = true
+  }
+  serviceid_number RegulatorySalmonQuintana2 {
+    _hidden_value = true
+  }
+  number PerfectBlackCate {
+    _hidden_value = true
+  }
+  string BrainyTealSherye2 {
+    _hidden_value = true
+  }
+  json AsianMaroonLinda {
+    _hidden_value = true
+  }
+  serviceid_number TallCyanFaye {
+    _hidden_value = true
+  }
+  hidden_boolean SoftApricotAnya {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SteepMoccasinLuise {
+    _hidden_value = true
+  }
+  hidden_boolean WealthyPeachMaryellen {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.MarriedCyanFannie EmptyAmethystAndra2 {
+    WonderfulYellowZoe = "A steak pun is a rare medium well done."
+    UsualCoralElmira = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ProtestantScarletRobina = true
+    InquisitiveTealStacia = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RoundIvoryJohnette = false
+    QuickestWhiteVonnie = 831
+    _hidden_value = true
+  }
+  hidden_boolean MadHarlequinJanenna {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number WoodenAquamarineBellanca2 {
+    _hidden_value = true
+  }
+  string LinearRedNetta {
+    _hidden_value = true
+  }
+  hidden_boolean DisturbedAzureBeverlee {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number PossibleBlushCheryl2 {
+    _hidden_value = true
+  }
+  json MuddyTurquoiseTheresina2 {
+    _hidden_value = true
+  }
+  boolean SensitiveGrayHendrika {
+    _hidden_value = true
+  }
+  hidden_boolean OverallCrimsonEmmalynne2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.SwissPlumMikaela DeafIvoryJoya {
+    UndergroundScarletRona = 562
+    SatisfiedHarlequinJeana = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    DynamicPeachMarlyn = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    UselessRedNina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RegulatorySalmonQuintilla = "Why was it called the dark ages? Because of all the knights. "
+    DrivingRoseOralle = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    _hidden_value = true
+  }
+  d1.OccasionalIvoryJuliette SupremeGreenIsabella {
+    UglyTurquoiseTiphani = "To be Frank, I'd have to change my name."
+    FairBlackCarlen = "Why would the tomato blush? Because it saw the salad dressing."
+    FuriousRedNicolle = 489
+    AbstractMaroonLilyan = 908
+    RipeApricotAriel = 526
+    OlympicRedNessa = 928
+    SignificantBrownDanna = "Why is Peter Pan always flying? Because he Neverlands."
+    TenderAquamarineBecca = false
+    MysteriousAzureBonita = 18
+    VastEmeraldFreddi = 878
+    ConstantEmeraldFrayda = "A steak pun is a rare medium well done."
+    BigAmaranthAbbi = 45
+    WorriedGrayHarri = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  BizarreTanSeka2 = "Why was it called the dark ages? Because of all the knights. "
+  IllegalJadeKarolina = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  BoldPlumMinetta = "I'll tell you what often gets over looked... garden fences."
+  SolarRosePammie = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  GayOrangeMarijo = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  HappyBlackCaroljean = "Im only familiar with 25 letters in the English language. I dont know why."
+  _hidden_value = true
+}

@@ -1,0 +1,70 @@
+type d1.ConfusedMaroonLil {
+  annotations {
+    boolean ShyTomatoStormie2 {
+    }
+    number ProbableSalmonPhyllys3 {
+    }
+    serviceid TotalBrownDaniella2 {
+    }
+    hidden_boolean SatisfiedHarlequinJeana4 {
+    }
+    hidden_boolean FunnyBlackCarmel {
+    }
+    d1.DEFAULT ExtraCoffeeDiane2 {
+    }
+  }
+  json FlexibleLavenderKathlin {
+    _hidden_value = true
+  }
+  serviceid FriendlyBlackCarmel {
+    _hidden_value = true
+  }
+  boolean MonthlyMaroonLinnea2 {
+    _hidden_value = true
+  }
+  serviceid ArchitecturalRosePatrice {
+    _hidden_value = true
+  }
+  string AestheticSapphireRea2 {
+    _hidden_value = true
+  }
+  number OralLimeKylila2 {
+    _hidden_value = true
+  }
+  number MotionlessTurquoiseTheo {
+    _hidden_value = true
+  }
+  serviceid WarmCopperDulcy {
+    _hidden_value = true
+  }
+  d1.LowBlushChristy RetiredSilverSarah2 {
+    ExplicitMaroonLisetta2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    UnevenAquamarineBeitris = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    TameTomatoSusette = "What do you call two barracuda fish?  A Pairacuda!"
+    KindOrangeMaribeth = "Dad Im hungry  Hi hungry Im dad"
+    BrokenAmaranthAilee = 320
+    RelievedSalmonPetronia = false
+    ComplexCopperDrucie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    PublicBlushChrysler = false
+    AverageCoralElysha = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    EntireEmeraldFranciska = 809
+    CurrentBrownDacey = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  string FuriousRedNicolina2 {
+    _hidden_value = true
+  }
+  serviceid_number BizarreTanSeana2 {
+    _hidden_value = true
+  }
+  string VaguePinkMel {
+    _hidden_value = true
+  }
+  ShyTomatoStormie2 = true
+  ProbableSalmonPhyllys3 = 988
+  TotalBrownDaniella2 = "What creature is smarter than a talking parrot? A spelling bee."
+  ExtraCoffeeDiane2 = {
+    legit = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  }
+  _hidden_value = true
+}

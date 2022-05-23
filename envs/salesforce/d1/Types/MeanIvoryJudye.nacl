@@ -1,0 +1,25 @@
+type d1.MeanIvoryJudye {
+  annotations {
+    boolean FutureCoffeeDolly {
+    }
+    serviceid CruelPlumMicaela2 {
+    }
+    d1.AnxiousHarlequinJanna EncouragingBlackCaressa2 {
+    }
+    d1.ExtraCoffeeDianemarie BloodyTomatoTallulah {
+    }
+    serviceid OutstandingIndigoJenine2 {
+    }
+    hidden_boolean GleamingTurquoiseTeri4 {
+    }
+  }
+  string EnviousAzureBibi2 {
+    _hidden_value = true
+  }
+  FutureCoffeeDolly = false
+  CruelPlumMicaela2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  EncouragingBlackCaressa2 = "How come the stadium got hot after the game? Because all of the fans left."
+  BloodyTomatoTallulah = false
+  OutstandingIndigoJenine2 = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

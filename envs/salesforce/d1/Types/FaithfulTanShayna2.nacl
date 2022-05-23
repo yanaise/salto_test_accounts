@@ -1,0 +1,45 @@
+type d1.FaithfulTanShayna2 {
+  annotations {
+    hidden_boolean AddedPinkMelicent2 {
+    }
+    boolean JoyousBlackCarroll {
+    }
+    serviceid_number CalmPurpleNancee3 {
+    }
+    d1.NumerousHarlequinJandy UglyTurquoiseTiphanie2 {
+    }
+    hidden_boolean EmbarrassingSilverSaundra {
+    }
+    serviceid_number AcceptableGrayHeloise {
+    }
+  }
+  boolean EconomicBlushClaresta4 {
+    _hidden_value = true
+  }
+  json OpenBronzeCleo2 {
+    _hidden_value = true
+  }
+  "List<json>" SurroundingOrangeMarget3 {
+    _hidden_value = true
+  }
+  string StandardCopperDulce2 {
+    _hidden_value = true
+  }
+  number BriefAmethystAmalie {
+    _hidden_value = true
+  }
+  boolean MagnificentWhiteVanny2 {
+    _hidden_value = true
+  }
+  json NearFuchsiaGeri {
+    _hidden_value = true
+  }
+  serviceid_number ConfidentHarlequinJada {
+    _hidden_value = true
+  }
+  JoyousBlackCarroll = true
+  CalmPurpleNancee3 = 306
+  UglyTurquoiseTiphanie2 = 921
+  AcceptableGrayHeloise = 535
+  _hidden_value = true
+}

@@ -1,0 +1,26 @@
+type d1.FilthyAmberAlexis {
+  annotations {
+    number ApparentCyanFawne {
+    }
+    hidden_boolean GrowingCrimsonEnrichetta2 {
+    }
+    serviceid_number UnemployedIvoryJolie3 {
+    }
+    serviceid CrudePlumMildred {
+    }
+    hidden_boolean BusyTealShirlene {
+    }
+    boolean LiberalCyanFarica {
+    }
+  }
+  hidden_boolean TerritorialSalmonPrisca2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  ApparentCyanFawne = 112
+  UnemployedIvoryJolie3 = 286
+  CrudePlumMildred = "Whoever invented the knock-knock joke should get a no bell prize."
+  LiberalCyanFarica = false
+  _hidden_value = true
+}

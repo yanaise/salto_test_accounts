@@ -1,0 +1,79 @@
+type d1.KoreanSapphireRasla {
+  annotations {
+    serviceid RoundAmberAlmeta2 {
+    }
+    boolean TameYellowYasmin {
+    }
+    serviceid_number GrubbyAquaAudi3 {
+    }
+    number SoftApricotAnya2 {
+    }
+    string FewAmethystAndria2 {
+    }
+  }
+  json StrangeCoralEdna {
+    _hidden_value = true
+  }
+  d1.DEFAULT EasternCrimsonEricka2 {
+    _hidden_value = true
+  }
+  string NearbyLimeKoo {
+    _hidden_value = true
+  }
+  string NervousAzureBrande {
+    _hidden_value = true
+  }
+  serviceid HandicappedTanShanon {
+    _hidden_value = true
+  }
+  serviceid_number PerfectCyanEtty2 {
+    _hidden_value = true
+  }
+  boolean BriefAmethystAmalita2 {
+    _hidden_value = true
+  }
+  json HappyBlackCarolan {
+    _hidden_value = true
+  }
+  serviceid_number CreepyAmberAlaine6 {
+    _hidden_value = true
+  }
+  serviceid ValidLavenderKerry {
+    _hidden_value = true
+  }
+  number NervousAzureBrandea2 {
+    _hidden_value = true
+  }
+  number BreezyAmaranthAidan3 {
+    _hidden_value = true
+  }
+  serviceid RecentBronzeCornela {
+    _hidden_value = true
+  }
+  boolean DangerousAquamarineBethany {
+    _hidden_value = true
+  }
+  string ImmenseAmaranthAdelice2 {
+    _hidden_value = true
+  }
+  json VariedRedNorah2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT BottomMoccasinLouise {
+    _hidden_value = true
+  }
+  hidden_boolean OkayOliveMaggie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number BrokenIndigoJocelyne {
+    _hidden_value = true
+  }
+  RoundAmberAlmeta2 = "I'll tell you what often gets over looked... garden fences."
+  TameYellowYasmin = false
+  GrubbyAquaAudi3 = 226
+  SoftApricotAnya2 = 572
+  FewAmethystAndria2 = "Dad Im hungry  Hi hungry Im dad"
+  _hidden_value = true
+}

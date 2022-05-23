@@ -1,0 +1,28 @@
+type d1.SpiritualLavenderKatrinka3 {
+  annotations {
+    json SoundAmethystAngelica {
+    }
+    serviceid NearFuchsiaGerianne2 {
+    }
+    json EvilPeachMaurene2 {
+    }
+    json ControlledTanSheilakathryn2 {
+    }
+    boolean SurvivingSapphireRicki {
+    }
+  }
+  string UnevenAquamarineBekki2 {
+    _hidden_value = true
+  }
+  hidden_boolean ExcitedOrangeMariquilla4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  SoundAmethystAngelica = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  NearFuchsiaGerianne2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  EvilPeachMaurene2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  ControlledTanSheilakathryn2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SurvivingSapphireRicki = false
+  _hidden_value = true
+}

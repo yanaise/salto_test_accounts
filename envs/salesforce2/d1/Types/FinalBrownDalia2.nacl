@@ -1,0 +1,27 @@
+type d1.FinalBrownDalia2 {
+  annotations {
+    string OccasionalIvoryJulina2 {
+    }
+    number ThoroughScarletRonda2 {
+    }
+    serviceid BeautifulTomatoTabitha {
+    }
+    string CheerfulSapphireRhodia2 {
+    }
+    number OutstandingTealSteffane3 {
+    }
+    hidden_boolean OppositeHarlequinJanel {
+    }
+    hidden_boolean RacialPlumMichell {
+    }
+  }
+  boolean ImpossibleTealSosanna {
+    _hidden_value = true
+  }
+  OccasionalIvoryJulina2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  ThoroughScarletRonda2 = 679
+  BeautifulTomatoTabitha = "How come the stadium got hot after the game? Because all of the fans left."
+  CheerfulSapphireRhodia2 = "Why was it called the dark ages? Because of all the knights. "
+  OutstandingTealSteffane3 = 519
+  _hidden_value = true
+}

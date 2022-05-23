@@ -1,0 +1,27 @@
+type d1.SharpFuchsiaGeorgina2 {
+  annotations {
+    d1.DEFAULT FunnyEmeraldGabbie {
+    }
+    d1.DEFAULT AccusedSilverSallyann {
+    }
+    boolean UnconsciousSapphireRaychel3 {
+    }
+    d1.SpectacularMaroonLibbie FriendlyBlackCarma2 {
+    }
+    number FuzzyAquaAtlante {
+    }
+  }
+  serviceid YoungBlueCherey2 {
+    _hidden_value = true
+  }
+  FunnyEmeraldGabbie = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  AccusedSilverSallyann = {
+    legit = "Why would the kid cross the playground? To get to the other slide."
+  }
+  UnconsciousSapphireRaychel3 = false
+  FriendlyBlackCarma2 = 352
+  FuzzyAquaAtlante = 136
+  _hidden_value = true
+}

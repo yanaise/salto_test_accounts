@@ -1,0 +1,21 @@
+type d1.SilentGrayHarlene2 {
+  annotations {
+    boolean CorrespondingPlumMiquela2 {
+    }
+    hidden_boolean TraditionalChocolateDeirdre2 {
+    }
+    string BloodyTomatoTallou3 {
+    }
+    hidden_boolean GenuineGreenIsidora {
+    }
+    serviceid RelaxedPlumMinnie2 {
+    }
+  }
+  json FrightenedAzureBlair {
+    _hidden_value = true
+  }
+  CorrespondingPlumMiquela2 = false
+  BloodyTomatoTallou3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  RelaxedPlumMinnie2 = "Slept like a log last night  woke up in the fireplace."
+  _hidden_value = true
+}

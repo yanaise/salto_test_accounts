@@ -1,0 +1,147 @@
+type d1.OutsideGrayHelenka3 {
+  annotations {
+    number CorporateEmeraldGarnet6 {
+    }
+    hidden_boolean NativeJadeKatalin3 {
+    }
+    serviceid OldAmethystAmi3 {
+    }
+    json LoudLavenderKiele {
+    }
+    json FamousCoralElfrieda6 {
+    }
+    string NeighbouringPurpleNana3 {
+    }
+  }
+  string ShakyAquaAvrit2 {
+    _hidden_value = true
+  }
+  json WideAmethystAlyson {
+    _hidden_value = true
+  }
+  json SubstantialCoralElsinore {
+    _hidden_value = true
+  }
+  number RoundAmberAlmeria {
+    _hidden_value = true
+  }
+  number SurprisedEmeraldFreddie {
+    _hidden_value = true
+  }
+  number GracefulTurquoiseTerrie3 {
+    _hidden_value = true
+  }
+  string OverallCrimsonEmmalynne5 {
+    _hidden_value = true
+  }
+  hidden_boolean ConsistentHarlequinJanine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number LonelyOliveLynda2 {
+    _hidden_value = true
+  }
+  serviceid NecessaryBronzeCookie {
+    _hidden_value = true
+  }
+  d1.AlrightGoldGoldina BigBlushChiarra2 {
+    RivalPurpleNara = 140
+    SingleBronzeCoral = 67
+    ProfoundPinkMerlina = 606
+    RelativeGoldGui = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    AngryFuchsiaGilli = "Did you know that protons have mass? I didn't even know they were catholic."
+    QuickestWhiteVyky = "What do you call two barracuda fish?  A Pairacuda!"
+    AgreedTanSelia = "I'll tell you what often gets over looked... garden fences."
+    IntenseLavenderKattie = false
+    ExcitingGreenIvett = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  json SpiritualLavenderKatrine3 {
+    _hidden_value = true
+  }
+  serviceid_number DisgustedAzureBettye4 {
+    _hidden_value = true
+  }
+  serviceid_number CharmingBeigeCallida4 {
+    _hidden_value = true
+  }
+  d1.DEFAULT AtomicScarletRory2 {
+    _hidden_value = true
+  }
+  serviceid_number InterimOrangeMalva2 {
+    _hidden_value = true
+  }
+  serviceid GentleIndigoJocelin2 {
+    _hidden_value = true
+  }
+  string EducationalCrimsonEsma {
+    _hidden_value = true
+  }
+  boolean PositiveCoffeeDominica4 {
+    _hidden_value = true
+  }
+  number ToughGoldGlenna4 {
+    _hidden_value = true
+  }
+  boolean BumpyAmaranthAiley2 {
+    _hidden_value = true
+  }
+  string OlympicRedNessi {
+    _hidden_value = true
+  }
+  serviceid_number MiniatureAmaranthAdriana3 {
+    _hidden_value = true
+  }
+  boolean StrongBronzeCollie {
+    _hidden_value = true
+  }
+  hidden_boolean RelaxedPlumMinnie4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean DeafIvoryJoy3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number BusyTealShirlene3 {
+    _hidden_value = true
+  }
+  boolean InterestingChocolateDelphinia {
+    _hidden_value = true
+  }
+  serviceid SuperbMagentaLaurene2 {
+    _hidden_value = true
+  }
+  d1.FashionableSapphireRenae ShortAmaranthAgace3 {
+    RealBlushClarie = 241
+    WholeBronzeClotilda = "Whoever invented the knock-knock joke should get a no bell prize."
+    UnitedCopperEddi = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    RearPurpleMuire = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    GeographicalPeachMarlena = 610
+    EventualTanSharona = false
+    PureGrayHenryetta = "Why would the tomato blush? Because it saw the salad dressing."
+    SymbolicPurpleNadia = "Whoever invented the knock-knock joke should get a no bell prize."
+    RespectiveSalmonPerry = "Slept like a log last night  woke up in the fireplace."
+    DeepChocolateDelora = "Dad Im hungry  Hi hungry Im dad"
+    RattyWhiteWenda = 70
+    RareWhiteWaly = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    UrgentLimeKristy = true
+    _hidden_value = true
+  }
+  d1.LongAmaranthAdina DevelopingHarlequinJeanie {
+    GrubbyAquaAubry = {
+      legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    }
+    GloriousScarletRose2 = true
+    _hidden_value = true
+  }
+  CorporateEmeraldGarnet6 = 849
+  OldAmethystAmi3 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  LoudLavenderKiele = "Why would the kid cross the playground? To get to the other slide."
+  FamousCoralElfrieda6 = "Why do birds fly south for the winter? Because it's too far to walk."
+  NeighbouringPurpleNana3 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

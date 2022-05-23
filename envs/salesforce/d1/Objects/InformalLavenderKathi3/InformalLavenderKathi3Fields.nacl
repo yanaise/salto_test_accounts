@@ -1,0 +1,48 @@
+type d1.InformalLavenderKathi3 {
+  hidden_boolean IntimateSilverRuth2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string HardBronzeCordi2 {
+  }
+  serviceid MentalCrimsonEsme4 {
+  }
+  hidden_boolean QuickestWhiteVonnie3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DramaticGoldHadria6 {
+  }
+  number BoredPlumMonique {
+  }
+  serviceid_number ResidentSalmonRae5 {
+  }
+  json DeliberateRedNoelle7 {
+  }
+  number HolyIndigoJemie4 {
+  }
+  serviceid_number IncredibleRosePattie7 {
+  }
+  string PremierOrangeMargy3 {
+  }
+  serviceid_number DifferentTealSilvia7 {
+  }
+  hidden_boolean FastAmethystAmandie6 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  boolean BigBlushChiarra3 {
+  }
+  serviceid NationalBlushCherida4 {
+  }
+  json ColouredMaroonLivia6 {
+  }
+  hidden_boolean StrictLavenderKatharine5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+}

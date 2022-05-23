@@ -1,0 +1,46 @@
+type d1.AmericanBronzeCorrianne3 {
+  annotations {
+    json MysteriousPurpleNelie {
+    }
+    serviceid_number VisibleIndigoJillane {
+    }
+    json FrequentLavenderKati2 {
+    }
+    serviceid SympatheticPinkMeade2 {
+    }
+  }
+  number GratefulIvoryJorey5 {
+    _hidden_value = true
+  }
+  boolean RomanticMagentaLea {
+    _hidden_value = true
+  }
+  boolean TurkishPurpleMoyna3 {
+    _hidden_value = true
+  }
+  serviceid CleanTomatoTamiko {
+    _hidden_value = true
+  }
+  serviceid SecondaryFuchsiaGertrud2 {
+    _hidden_value = true
+  }
+  number ShortAmethystAnabel3 {
+    _hidden_value = true
+  }
+  hidden_boolean RipeApricotAridatha3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string AlrightGoldGoldie2 {
+    _hidden_value = true
+  }
+  "List<number>" OutstandingIndigoJenn2 {
+    _hidden_value = true
+  }
+  MysteriousPurpleNelie = "My first time using an elevator was an uplifting experience. The second time let me down."
+  VisibleIndigoJillane = 626
+  FrequentLavenderKati2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  SympatheticPinkMeade2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

@@ -1,0 +1,31 @@
+type d1.SurvivingSapphireRickie {
+  annotations {
+    number CarefulTealShoshana {
+    }
+    serviceid RegularCopperDorthea {
+    }
+    serviceid_number FrozenScarletRosabella {
+    }
+    serviceid MagneticPeachMavis {
+    }
+  }
+  serviceid_number ForeignBronzeCorissa {
+    _hidden_value = true
+  }
+  serviceid_number SweetAquaAshla {
+    _hidden_value = true
+  }
+  number DepressedPinkMelany {
+    _hidden_value = true
+  }
+  CarefulTealShoshana = 896
+  RegularCopperDorthea = "To be Frank, I'd have to change my name."
+  FrozenScarletRosabella = 558
+  MagneticPeachMavis = '''
+I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later.
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+To be Frank, I'd have to change my name.
+'''
+  _hidden_value = true
+}

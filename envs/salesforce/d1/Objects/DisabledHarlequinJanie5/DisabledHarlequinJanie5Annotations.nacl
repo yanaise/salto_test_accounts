@@ -1,0 +1,62 @@
+type d1.DisabledHarlequinJanie5 {
+  annotations {
+    serviceid_number CheerfulSapphireRhody5 {
+    }
+    d1.KeenGrayHannah GiganticAmaranthAdda7 {
+    }
+    boolean WateryYellowZenia {
+    }
+    d1.ExcitedOrangeMarinna DoubtfulTealSioux3 {
+    }
+    json RequiredMaroonLeta4 {
+    }
+    json ElegantTurquoiseTeddie6 {
+    }
+    json ConvincingSalmonPeggie5 {
+    }
+    number WrittenGreenIvie2 {
+    }
+    boolean RainyWhiteWalliw3 {
+    }
+    d1.ManyAmethystAngel PermanentFuchsiaGay2 {
+    }
+    string RapidAmethystAmmamaria4 {
+    }
+    hidden_boolean TechnicalCopperEdeline2 {
+    }
+    serviceid CollectiveLavenderKathryne2 {
+    }
+    number DryAmberAlexandrina {
+    }
+    string HotCoffeeDenyse {
+    }
+    json RepulsiveBeigeBrenn6 {
+    }
+    string ConvincingSalmonPegeen {
+    }
+    serviceid CuriousLimeKirbee3 {
+    }
+    boolean CasualOliveLusa4 {
+    }
+    serviceid_number InterimOrangeMalva3 {
+    }
+  }
+  CheerfulSapphireRhody5 = 198
+  GiganticAmaranthAdda7 = false
+  WateryYellowZenia = true
+  RequiredMaroonLeta4 = "Dad Im hungry  Hi hungry Im dad"
+  ElegantTurquoiseTeddie6 = "Why is Peter Pan always flying? Because he Neverlands."
+  ConvincingSalmonPeggie5 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  WrittenGreenIvie2 = 98
+  RainyWhiteWalliw3 = false
+  PermanentFuchsiaGay2 = 882
+  RapidAmethystAmmamaria4 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CollectiveLavenderKathryne2 = "Why is Peter Pan always flying? Because he Neverlands."
+  DryAmberAlexandrina = 316
+  HotCoffeeDenyse = "Im only familiar with 25 letters in the English language. I dont know why."
+  RepulsiveBeigeBrenn6 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ConvincingSalmonPegeen = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CuriousLimeKirbee3 = "A steak pun is a rare medium well done."
+  CasualOliveLusa4 = true
+  InterimOrangeMalva3 = 933
+}

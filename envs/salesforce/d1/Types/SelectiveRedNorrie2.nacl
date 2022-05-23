@@ -1,0 +1,37 @@
+type d1.SelectiveRedNorrie2 {
+  annotations {
+    string LogicalLavenderKelcie {
+    }
+    serviceid_number TemporaryGrayHalley {
+    }
+    d1.AcceptedTanSerena AppropriateChocolateDarcee2 {
+    }
+    hidden_boolean WetAmberAlidia {
+    }
+    boolean CruelAquamarineBethanne2 {
+    }
+  }
+  json ModeratePurpleNatalya {
+    _hidden_value = true
+  }
+  serviceid InclinedRedNyssa2 {
+    _hidden_value = true
+  }
+  number DrunkPeachMarlee2 {
+    _hidden_value = true
+  }
+  string AbsentPinkMelony4 {
+    _hidden_value = true
+  }
+  boolean PhysicalCoffeeDenni4 {
+    _hidden_value = true
+  }
+  d1.DEFAULT SoleLimeKissee2 {
+    _hidden_value = true
+  }
+  LogicalLavenderKelcie = "Did you know that protons have mass? I didn't even know they were catholic."
+  TemporaryGrayHalley = 713
+  AppropriateChocolateDarcee2 = false
+  CruelAquamarineBethanne2 = true
+  _hidden_value = true
+}

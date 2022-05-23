@@ -1,0 +1,39 @@
+type d1.MedievalJadeKaree {
+  annotations {
+    serviceid GladGoldGlyn3 {
+    }
+    serviceid_number UltimateJadeKandy {
+    }
+    number TheoreticalIndigoJenifer5 {
+    }
+    hidden_boolean IllegalJadeKarole4 {
+    }
+    boolean FreshCopperDyanne {
+    }
+    boolean RedBrownDallas3 {
+    }
+  }
+  serviceid_number MagnificentMagentaLeela2 {
+    _hidden_value = true
+  }
+  boolean BurningRedNikolia2 {
+    _hidden_value = true
+  }
+  serviceid_number HistoricLavenderKelly {
+    _hidden_value = true
+  }
+  d1.TameTomatoSusannah MetropolitanOrangeMargarita3 {
+    TragicRosePauline = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    ScornfulBeigeBrianna = true
+    _hidden_value = true
+  }
+  serviceid_number FlatAmberAlli {
+    _hidden_value = true
+  }
+  GladGoldGlyn3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UltimateJadeKandy = 751
+  TheoreticalIndigoJenifer5 = 536
+  FreshCopperDyanne = false
+  RedBrownDallas3 = true
+  _hidden_value = true
+}

@@ -1,0 +1,23 @@
+type d1.LongAmaranthAdina3 {
+  annotations {
+    json SilentGrayHarley3 {
+    }
+    serviceid_number ClassicalHarlequinJacklin3 {
+    }
+    string AliveFuchsiaGillian {
+    }
+    string ConstantEmeraldFrayda2 {
+    }
+    string KindVioletVally2 {
+    }
+  }
+  boolean NuclearCoffeeDonielle3 {
+    _hidden_value = true
+  }
+  SilentGrayHarley3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ClassicalHarlequinJacklin3 = 833
+  AliveFuchsiaGillian = "How come the stadium got hot after the game? Because all of the fans left."
+  ConstantEmeraldFrayda2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  KindVioletVally2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

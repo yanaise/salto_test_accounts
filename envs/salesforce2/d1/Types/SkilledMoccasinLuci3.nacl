@@ -1,0 +1,25 @@
+type d1.SkilledMoccasinLuci3 {
+  annotations {
+    boolean MadHarlequinJanet2 {
+    }
+    hidden_boolean BetterVioletTomi2 {
+    }
+    serviceid_number FunOrangeMarcile {
+    }
+    serviceid_number DamagedAmberAleda {
+    }
+    boolean CurrentBrownDacey2 {
+    }
+    boolean ColonialPeachMaude {
+    }
+  }
+  json ItalianGoldGratiana {
+    _hidden_value = true
+  }
+  MadHarlequinJanet2 = true
+  FunOrangeMarcile = 488
+  DamagedAmberAleda = 675
+  CurrentBrownDacey2 = false
+  ColonialPeachMaude = true
+  _hidden_value = true
+}

@@ -1,0 +1,54 @@
+type d1.NativeJadeKate2 {
+  annotations {
+    serviceid_number SoundAmethystAngeline3 {
+    }
+    number SexualCopperEachelle3 {
+    }
+    json BeautifulCoffeeDita2 {
+    }
+    d1.DEFAULT NuclearCoffeeDonielle4 {
+    }
+    json FineBrownCourtenay4 {
+    }
+  }
+  serviceid_number PureGrayHephzibah2 {
+    _hidden_value = true
+  }
+  number FilthyTurquoiseTeodora3 {
+    _hidden_value = true
+  }
+  serviceid_number JollyBlackCarri3 {
+    _hidden_value = true
+  }
+  number SufficientCrimsonEolanda4 {
+    _hidden_value = true
+  }
+  boolean SoreBeigeBrigid {
+    _hidden_value = true
+  }
+  number UnawareSapphireReeba2 {
+    _hidden_value = true
+  }
+  json SeniorCoffeeDonetta2 {
+    _hidden_value = true
+  }
+  serviceid_number ExtensiveGoldGloriane3 {
+    _hidden_value = true
+  }
+  hidden_boolean ToughGoldGlenn3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json CrowdedTomatoTani4 {
+    _hidden_value = true
+  }
+  SoundAmethystAngeline3 = 108
+  SexualCopperEachelle3 = 543
+  BeautifulCoffeeDita2 = "How come the stadium got hot after the game? Because all of the fans left."
+  NuclearCoffeeDonielle4 = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  FineBrownCourtenay4 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

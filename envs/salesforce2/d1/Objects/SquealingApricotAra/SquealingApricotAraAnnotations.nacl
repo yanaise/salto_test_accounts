@@ -1,0 +1,62 @@
+type d1.SquealingApricotAra {
+  annotations {
+    string AccurateIndigoJillayne {
+    }
+    serviceid ReducedPinkMeta2 {
+    }
+    hidden_boolean GloriousBlackCarmine6 {
+    }
+    hidden_boolean ShinyTurquoiseTiertza5 {
+    }
+    boolean RomanFuchsiaGermain6 {
+    }
+    boolean LittleBlushChloe {
+    }
+    hidden_boolean ArrogantAquamarineBerget4 {
+    }
+    string ItalianGoldGray3 {
+    }
+    json BritishBlushCherilyn4 {
+    }
+    string CooingAmethystAngie {
+    }
+    serviceid_number PleasedEmeraldGabriella {
+    }
+    json CalmPurpleNancey6 {
+    }
+    json EmbarrassingSilverSaundra3 {
+    }
+    serviceid_number AncientAmethystAmabelle5 {
+    }
+    boolean PrettyIndigoJennine4 {
+    }
+    number FarBlushChristie6 {
+    }
+    boolean LuckyFuchsiaGinger2 {
+    }
+    serviceid_number WeakFuchsiaGayel2 {
+    }
+    d1.RainyAquaAurore BewilderedAquamarineBernita7 {
+    }
+  }
+  AccurateIndigoJillayne = '''
+Why would the kid cross the playground? To get to the other slide.
+I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts.
+Why would the kid cross the playground? To get to the other slide.
+What do you do on a remote island? Try and find the TV island it belongs to.
+'''
+  ReducedPinkMeta2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  RomanFuchsiaGermain6 = false
+  LittleBlushChloe = true
+  ItalianGoldGray3 = "Why would the tomato blush? Because it saw the salad dressing."
+  BritishBlushCherilyn4 = "Im only familiar with 25 letters in the English language. I dont know why."
+  CooingAmethystAngie = "What creature is smarter than a talking parrot? A spelling bee."
+  PleasedEmeraldGabriella = 954
+  CalmPurpleNancey6 = "How come the stadium got hot after the game? Because all of the fans left."
+  EmbarrassingSilverSaundra3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  AncientAmethystAmabelle5 = 577
+  PrettyIndigoJennine4 = false
+  FarBlushChristie6 = 126
+  LuckyFuchsiaGinger2 = true
+  WeakFuchsiaGayel2 = 395
+}

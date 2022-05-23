@@ -1,0 +1,89 @@
+type d1.EncouragingBlackCarey2 {
+  annotations {
+    serviceid StrongAquaAryn2 {
+    }
+    boolean SharpFuchsiaGeorgine2 {
+    }
+    serviceid CausalSapphireRene3 {
+    }
+    serviceid ColdAmaranthAilyn {
+    }
+  }
+  hidden_boolean BadBlushCicily2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.DEFAULT EasyTealSioux {
+    _hidden_value = true
+  }
+  hidden_boolean InteriorPurpleNathalie3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.DEFAULT SelectedPlumMillicent {
+    _hidden_value = true
+  }
+  json GreatAmaranthAddia4 {
+    _hidden_value = true
+  }
+  json ReadyChocolateDebor2 {
+    _hidden_value = true
+  }
+  json RichTomatoStoddard4 {
+    _hidden_value = true
+  }
+  json CivilianSapphireRanda6 {
+    _hidden_value = true
+  }
+  hidden_boolean TraditionalChocolateDeidre2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid IndirectPeachMarty {
+    _hidden_value = true
+  }
+  serviceid CombinedOliveMaighdiln6 {
+    _hidden_value = true
+  }
+  string CrucialFuchsiaGennie4 {
+    _hidden_value = true
+  }
+  serviceid_number GrievingAzureBlakeley {
+    _hidden_value = true
+  }
+  string GloriousScarletRosanne4 {
+    _hidden_value = true
+  }
+  boolean AverageTomatoTabbatha4 {
+    _hidden_value = true
+  }
+  json ViolentIvoryJoletta {
+    _hidden_value = true
+  }
+  serviceid_number CriminalFuchsiaGeorgia3 {
+    _hidden_value = true
+  }
+  serviceid_number ExperiencedMagentaLauralee2 {
+    _hidden_value = true
+  }
+  string ShortBronzeColette {
+    _hidden_value = true
+  }
+  string CivicTanShelley3 {
+    _hidden_value = true
+  }
+  serviceid QuietCoralElaina5 {
+    _hidden_value = true
+  }
+  serviceid_number HappyBlackCarola3 {
+    _hidden_value = true
+  }
+  StrongAquaAryn2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  SharpFuchsiaGeorgine2 = false
+  CausalSapphireRene3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  ColdAmaranthAilyn = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

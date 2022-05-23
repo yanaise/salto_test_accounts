@@ -1,0 +1,115 @@
+type d1.MonetaryIvoryJoete2 {
+  annotations {
+    string TerribleEmeraldFreida2 {
+    }
+    serviceid RemarkableGreenHortensia {
+    }
+    json SophisticatedJadeKarlene {
+    }
+    serviceid TerribleEmeraldFredra2 {
+    }
+    serviceid_number MagnificentMagentaLeeanne3 {
+    }
+    number HumanBronzeConstanta2 {
+    }
+    string UncertainMagentaLeland2 {
+    }
+  }
+  boolean NorthernCoralEleanor {
+    _hidden_value = true
+  }
+  string DifferentTealSilvana2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT BeneficialPlumMonica3 {
+    _hidden_value = true
+  }
+  hidden_boolean FederalGrayHallie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string HurtAzureBlythe4 {
+    _hidden_value = true
+  }
+  hidden_boolean VariableRedNolie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json VisualGreenIngeberg2 {
+    _hidden_value = true
+  }
+  string TallYellowXylina3 {
+    _hidden_value = true
+  }
+  string PeculiarPlumMichelina2 {
+    _hidden_value = true
+  }
+  string SkilledMoccasinLuce2 {
+    _hidden_value = true
+  }
+  string CuddlyAmberAlberta4 {
+    _hidden_value = true
+  }
+  boolean MagneticPeachMavis2 {
+    _hidden_value = true
+  }
+  number HilariousBlackCarolynn3 {
+    _hidden_value = true
+  }
+  string WonderfulEmeraldFlossi3 {
+    _hidden_value = true
+  }
+  serviceid SlimyAquamarineBarbara2 {
+    _hidden_value = true
+  }
+  number ShallowPinkMeggi {
+    _hidden_value = true
+  }
+  d1.CharmingBeigeCallida SuperiorMaroonLia {
+    LonelyAzureBobette = "What creature is smarter than a talking parrot? A spelling bee."
+    IndustrialBrownDanya = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    DelightfulBeigeCandi = 71
+    PrettyIndigoJennilee = true
+    RollingSilverRubie = "Im only familiar with 25 letters in the English language. I dont know why."
+    MinimalPlumMorgen = 649
+    IntegratedOliveMadonna = false
+    FatAmaranthAbigael = true
+    TallAmaranthAggy = 127
+    BusyCyanFayina = 882
+    _hidden_value = true
+  }
+  serviceid_number BasicChocolateDarice {
+    _hidden_value = true
+  }
+  string GenerousLavenderKayley2 {
+    _hidden_value = true
+  }
+  string QuickWhiteVivyan {
+    _hidden_value = true
+  }
+  boolean RoundYellowWilla {
+    _hidden_value = true
+  }
+  serviceid_number WearyBeigeBrook2 {
+    _hidden_value = true
+  }
+  json RespectiveSalmonPerry2 {
+    _hidden_value = true
+  }
+  boolean TheoreticalIndigoJenifer4 {
+    _hidden_value = true
+  }
+  string UnevenAquamarineBekki {
+    _hidden_value = true
+  }
+  TerribleEmeraldFreida2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  RemarkableGreenHortensia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SophisticatedJadeKarlene = "Why do birds fly south for the winter? Because it's too far to walk."
+  TerribleEmeraldFredra2 = "I'll tell you what often gets over looked... garden fences."
+  MagnificentMagentaLeeanne3 = 832
+  HumanBronzeConstanta2 = 895
+  UncertainMagentaLeland2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

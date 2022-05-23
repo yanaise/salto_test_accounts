@@ -1,0 +1,52 @@
+type d1.PresentBrownCristal {
+  annotations {
+    serviceid_number FluffyAmberAlica3 {
+    }
+    boolean InevitableIvoryJonell2 {
+    }
+    boolean ResidentSalmonRae3 {
+    }
+    serviceid_number CuddlyAmberAlberta6 {
+    }
+    hidden_boolean ModernTealStarlene3 {
+    }
+    serviceid ChosenSilverSarina {
+    }
+    string UniqueFuchsiaGert4 {
+    }
+    d1.StrongBronzeColly UnusualGoldGizela {
+    }
+    string HumanBronzeConstanta5 {
+    }
+    d1.SurvivingSapphireRickie LittleBlushChiquita3 {
+    }
+    string ThoroughScarletRonalda2 {
+    }
+    json JoyousBlackCarry6 {
+    }
+    serviceid PleasantBlackCatha4 {
+    }
+    string UptightBeigeBrittni6 {
+    }
+    hidden_boolean BackMoccasinLoni2 {
+    }
+    serviceid_number SystematicOrangeMarcella2 {
+    }
+    serviceid_number BeneficialPlumMonah3 {
+    }
+  }
+  FluffyAmberAlica3 = 982
+  InevitableIvoryJonell2 = true
+  ResidentSalmonRae3 = true
+  CuddlyAmberAlberta6 = 650
+  ChosenSilverSarina = "Dad Im hungry  Hi hungry Im dad"
+  UniqueFuchsiaGert4 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  UnusualGoldGizela = 585
+  HumanBronzeConstanta5 = "Dad Im hungry  Hi hungry Im dad"
+  ThoroughScarletRonalda2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  JoyousBlackCarry6 = "What do you call two barracuda fish?  A Pairacuda!"
+  PleasantBlackCatha4 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  UptightBeigeBrittni6 = "Slept like a log last night  woke up in the fireplace."
+  SystematicOrangeMarcella2 = 244
+  BeneficialPlumMonah3 = 721
+}

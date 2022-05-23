@@ -1,0 +1,85 @@
+type d1.ComfortableGoldGuendolen {
+  annotations {
+    serviceid_number VaguePinkMeghann4 {
+    }
+    hidden_boolean UniformScarletRosaline {
+    }
+    serviceid_number CrudePlumMil4 {
+    }
+    hidden_boolean AcceptedTanSerene3 {
+    }
+    number CanadianPlumMinerva6 {
+    }
+    hidden_boolean SoftAquamarineBarbie {
+    }
+    hidden_boolean VulnerableJadeKarna2 {
+    }
+  }
+  d1.DEFAULT EarlyBlushCherry {
+    _hidden_value = true
+  }
+  boolean TechnologicalOrangeMariann {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" CriticalCrimsonEstell3 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" IntelligentMaroonLinnet3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ChangingJadeKassey3 {
+    _hidden_value = true
+  }
+  serviceid ProfoundPinkMerl2 {
+    _hidden_value = true
+  }
+  hidden_boolean LovelyCoralElli2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.OrdinaryCopperEdi LateBlushChristalle {
+    SillyYellowWini = 218
+    CruelAquamarineBessy = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    TameYellowYalonda = 859
+    RareWhiteWanda = 334
+    SpareMaroonLillis = "What do you call two barracuda fish?  A Pairacuda!"
+    StupidGreenIzabel = 915
+    MaximumGreenIlyssa = "Why would the kid cross the playground? To get to the other slide."
+    TerritorialSalmonPriscella = "What did one nut say as he chased another nut?  I'm a cashew!"
+    VariedRedNoreen = 359
+    DangerousCrimsonEssie = true
+    UselessRedNinetta = 796
+    IntenseLavenderKatuscha = 112
+    SubtleMoccasinLucie = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    _hidden_value = true
+  }
+  number IllegalJadeKaroline {
+    _hidden_value = true
+  }
+  d1.DEFAULT GreatBlueCharil2 {
+    _hidden_value = true
+  }
+  number AngryAquamarineBenetta2 {
+    _hidden_value = true
+  }
+  number DecisiveSalmonPepi {
+    _hidden_value = true
+  }
+  json ConstitutionalHarlequinJayme2 {
+    _hidden_value = true
+  }
+  hidden_boolean MoaningApricotAnnamarie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  VaguePinkMeghann4 = 337
+  CrudePlumMil4 = 658
+  CanadianPlumMinerva6 = 225
+  _hidden_value = true
+}

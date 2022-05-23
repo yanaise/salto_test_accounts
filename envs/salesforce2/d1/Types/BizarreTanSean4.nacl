@@ -1,0 +1,63 @@
+type d1.BizarreTanSean4 {
+  annotations {
+    boolean ReducedPinkMersey2 {
+    }
+    json PoisedTurquoiseThomasina {
+    }
+    number ShrillApricotAntoinette2 {
+    }
+    json TenderAquamarineBecka {
+    }
+    serviceid_number FairCoffeeDinny4 {
+    }
+    d1.DEFAULT UnacceptableSalmonPen3 {
+    }
+    d1.MarriedCyanFannie MassiveAmaranthAdria2 {
+    }
+  }
+  number ChillyAmaranthAilsun3 {
+    _hidden_value = true
+  }
+  boolean LongAmaranthAdiana2 {
+    _hidden_value = true
+  }
+  hidden_boolean PublicBlushChrysa3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ExperimentalLavenderKatinka3 {
+    _hidden_value = true
+  }
+  boolean SharedPinkMelba {
+    _hidden_value = true
+  }
+  number RelievedSalmonPetronilla2 {
+    _hidden_value = true
+  }
+  number CombinedOliveMair2 {
+    _hidden_value = true
+  }
+  number GradualSilverSalli {
+    _hidden_value = true
+  }
+  boolean SplendidBlueCatie2 {
+    _hidden_value = true
+  }
+  json MelodicApricotAnnalee {
+    _hidden_value = true
+  }
+  json SouthernCyanEvey2 {
+    _hidden_value = true
+  }
+  ReducedPinkMersey2 = false
+  PoisedTurquoiseThomasina = "Why is Peter Pan always flying? Because he Neverlands."
+  ShrillApricotAntoinette2 = 527
+  TenderAquamarineBecka = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  FairCoffeeDinny4 = 797
+  UnacceptableSalmonPen3 = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  MassiveAmaranthAdria2 = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

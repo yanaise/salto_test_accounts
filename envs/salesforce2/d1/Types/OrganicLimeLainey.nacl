@@ -1,0 +1,54 @@
+type d1.OrganicLimeLainey {
+  annotations {
+    number NecessaryBronzeCorabel2 {
+    }
+    serviceid_number ColouredMaroonLivia5 {
+    }
+    serviceid ColossalAmaranthAbbye6 {
+    }
+    d1.DEFAULT ClearTomatoTammi3 {
+    }
+    hidden_boolean OverallCrimsonEmmalynne6 {
+    }
+    serviceid NewBlueChanda2 {
+    }
+  }
+  boolean PotentialCoralElberta3 {
+    _hidden_value = true
+  }
+  d1.OccasionalIvoryJuliette MechanicalMagentaLeone {
+    UglyTurquoiseTiphani = "Im only familiar with 25 letters in the English language. I dont know why."
+    FairBlackCarlen = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    FuriousRedNicolle = 231
+    AbstractMaroonLilyan = 687
+    RipeApricotAriel = 259
+    OlympicRedNessa = 357
+    SignificantBrownDanna = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    TenderAquamarineBecca = true
+    MysteriousAzureBonita = 8
+    VastEmeraldFreddi = 69
+    ConstantEmeraldFrayda = "Did you know that protons have mass? I didn't even know they were catholic."
+    BigAmaranthAbbi = 515
+    WorriedGrayHarri = "Slept like a log last night  woke up in the fireplace."
+    _hidden_value = true
+  }
+  hidden_boolean HarshAmethystAnjanette2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number SpecifiedSalmonPooh {
+    _hidden_value = true
+  }
+  number AtomicScarletRorie5 {
+    _hidden_value = true
+  }
+  NecessaryBronzeCorabel2 = 151
+  ColouredMaroonLivia5 = 210
+  ColossalAmaranthAbbye6 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ClearTomatoTammi3 = {
+    legit = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  }
+  NewBlueChanda2 = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

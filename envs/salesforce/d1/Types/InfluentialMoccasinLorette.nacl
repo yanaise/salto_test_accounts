@@ -1,0 +1,29 @@
+type d1.InfluentialMoccasinLorette {
+  annotations {
+    d1.DEFAULT ProudBlueCatherin {
+    }
+    hidden_boolean ChemicalGreenIsadora {
+    }
+    string AmusedBeigeCacilie3 {
+    }
+  }
+  serviceid HomelessSilverSalome {
+    _hidden_value = true
+  }
+  serviceid_number AshamedScarletRosalynd {
+    _hidden_value = true
+  }
+  hidden_boolean HistoricalCyanEvangelina {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number NecessaryBronzeCorabella {
+    _hidden_value = true
+  }
+  ProudBlueCatherin = {
+    legit = "To be Frank, I'd have to change my name."
+  }
+  AmusedBeigeCacilie3 = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

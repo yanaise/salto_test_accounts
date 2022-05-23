@@ -1,0 +1,12 @@
+type d1.TameTomatoSusannah is boolean {
+  annotations {
+    json TragicRosePauline {
+    }
+    boolean ScornfulBeigeBrianna {
+    }
+    hidden_boolean FuzzyAquaAtlanta {
+    }
+  }
+  TragicRosePauline = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ScornfulBeigeBrianna = false
+}

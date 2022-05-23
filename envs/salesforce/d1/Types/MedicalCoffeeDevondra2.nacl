@@ -1,0 +1,28 @@
+type d1.MedicalCoffeeDevondra2 {
+  annotations {
+    serviceid_number StrictLavenderKath {
+    }
+    json FreeBronzeCodie {
+    }
+    string SlightGoldGwenora {
+    }
+    hidden_boolean ScatteredAquaAvie2 {
+    }
+    string CrazyVioletTrescha {
+    }
+  }
+  serviceid_number BlondeTomatoTallia {
+    _hidden_value = true
+  }
+  number PoorTealStella2 {
+    _hidden_value = true
+  }
+  string DistinguishedPurpleNatassia {
+    _hidden_value = true
+  }
+  StrictLavenderKath = 210
+  FreeBronzeCodie = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SlightGoldGwenora = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  CrazyVioletTrescha = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  _hidden_value = true
+}

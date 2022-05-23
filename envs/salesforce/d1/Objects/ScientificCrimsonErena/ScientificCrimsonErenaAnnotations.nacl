@@ -1,0 +1,72 @@
+type d1.ScientificCrimsonErena {
+  annotations {
+    serviceid_number TastyAquaAshli4 {
+    }
+    serviceid TinyAmaranthAgnese3 {
+    }
+    serviceid_number FellowJadeJustine4 {
+    }
+    string GenerousLavenderKayle4 {
+    }
+    number SufficientCrimsonEolanda7 {
+    }
+    boolean FluffyAmberAlicea {
+    }
+    d1.YellowGoldGiustina SlowCyanEudora3 {
+    }
+    d1.RussianCyanFelicity OtherBlueCelisse {
+    }
+    serviceid_number GoodBlueCelka5 {
+    }
+    serviceid SurroundingOrangeMargery3 {
+    }
+    serviceid PoisedTurquoiseThia2 {
+    }
+    serviceid_number GrubbyAquaAudi5 {
+    }
+    serviceid RawJadeKarleen {
+    }
+    serviceid OuterJadeKarrie3 {
+    }
+    boolean DarkTurquoiseTaryn5 {
+    }
+    boolean UpsetBeigeBritte2 {
+    }
+    string ChillyAmaranthAilis {
+    }
+    serviceid_number FellowJadeJustine5 {
+    }
+    hidden_boolean CleverTealSibeal5 {
+    }
+    serviceid LegalBrownDagmar3 {
+    }
+    d1.ProvincialPeachMarita SystematicOrangeMarcelia4 {
+    }
+    d1.InfluentialMoccasinLorette HeavyAmethystAndriette3 {
+    }
+    hidden_boolean SmilingBlueCathy {
+    }
+    serviceid CleverJadeKari3 {
+    }
+  }
+  TastyAquaAshli4 = 84
+  TinyAmaranthAgnese3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  FellowJadeJustine4 = 347
+  GenerousLavenderKayle4 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SufficientCrimsonEolanda7 = 397
+  FluffyAmberAlicea = true
+  OtherBlueCelisse = file("ConvincedJadeKarine3.txt")
+  GoodBlueCelka5 = 167
+  SurroundingOrangeMargery3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  PoisedTurquoiseThia2 = "Why is Peter Pan always flying? Because he Neverlands."
+  GrubbyAquaAudi5 = 206
+  RawJadeKarleen = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  OuterJadeKarrie3 = "Slept like a log last night  woke up in the fireplace."
+  DarkTurquoiseTaryn5 = false
+  UpsetBeigeBritte2 = true
+  ChillyAmaranthAilis = "What creature is smarter than a talking parrot? A spelling bee."
+  FellowJadeJustine5 = 355
+  LegalBrownDagmar3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SystematicOrangeMarcelia4 = 447
+  CleverJadeKari3 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+}

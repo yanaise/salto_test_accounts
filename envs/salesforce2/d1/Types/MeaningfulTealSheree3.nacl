@@ -1,0 +1,36 @@
+type d1.MeaningfulTealSheree3 {
+  annotations {
+    d1.SpectacularMaroonLibbie InfluentialMoccasinLorette3 {
+    }
+    json DistinctTurquoiseTatiania3 {
+    }
+    number FranticAzureBirgit2 {
+    }
+    string DisturbingTealSherill4 {
+    }
+    hidden_boolean VitalEmeraldFifi2 {
+    }
+    json ChineseGoldGuenevere {
+    }
+  }
+  json StrangeCoralEdiva {
+    _hidden_value = true
+  }
+  string DrivingRoseOralia {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" OriginalChocolateDarsey {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json MissingPinkMelly {
+    _hidden_value = true
+  }
+  InfluentialMoccasinLorette3 = 469
+  DistinctTurquoiseTatiania3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FranticAzureBirgit2 = 625
+  DisturbingTealSherill4 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ChineseGoldGuenevere = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

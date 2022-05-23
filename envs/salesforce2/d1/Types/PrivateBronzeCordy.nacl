@@ -1,0 +1,27 @@
+type d1.PrivateBronzeCordy is boolean {
+  annotations {
+    string CoolAmaranthAindrea {
+    }
+    json CoherentScarletRoselin {
+    }
+    serviceid OverallCrimsonEmmalynn {
+    }
+    hidden_boolean DreadfulPinkMerrili {
+    }
+    serviceid IncreasedCrimsonEsther {
+    }
+    string MightyWhiteVerena {
+    }
+    serviceid IrishCrimsonErminia {
+    }
+    boolean AutomaticLavenderKevyn {
+    }
+  }
+  CoolAmaranthAindrea = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CoherentScarletRoselin = "I'll tell you what often gets over looked... garden fences."
+  OverallCrimsonEmmalynn = "Whoever invented the knock-knock joke should get a no bell prize."
+  IncreasedCrimsonEsther = "Slept like a log last night  woke up in the fireplace."
+  MightyWhiteVerena = "Whoever invented the knock-knock joke should get a no bell prize."
+  IrishCrimsonErminia = "Why was it called the dark ages? Because of all the knights. "
+  AutomaticLavenderKevyn = false
+}

@@ -1,0 +1,33 @@
+type d1.ArabLimeKirby {
+  string ScaredSapphireRahal2 {
+  }
+  string SensibleIvoryJordain2 {
+  }
+  serviceid EasyTealSiouxie {
+  }
+  number PreciousOrangeMariellen {
+  }
+  serviceid LittleAmaranthAdelle4 {
+  }
+  serviceid_number SuitableCrimsonEmili2 {
+  }
+  serviceid IsolatedPeachMarla2 {
+  }
+  string NearbyLimeKora {
+  }
+  number SocialistHarlequinJacquelynn2 {
+  }
+  json RollingSilverRubia3 {
+  }
+  hidden_boolean UnchangedSilverRozella2 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  json HelpfulTealSonja {
+  }
+  serviceid_number UselessRedNina3 {
+  }
+  serviceid_number WorryingSilverRozamond4 {
+  }
+}

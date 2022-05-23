@@ -1,0 +1,36 @@
+type d1.CuteTomatoTansy3 {
+  annotations {
+    hidden_boolean HistoricLavenderKellie2 {
+    }
+    serviceid DevelopingHarlequinJeanie2 {
+    }
+    d1.SwissPlumMikaela SkinnyAmberAlta2 {
+    }
+    json SufficientCrimsonEnriqueta {
+    }
+    boolean CurvedAmberAlisun4 {
+    }
+  }
+  serviceid DarkChocolateDeanne4 {
+    _hidden_value = true
+  }
+  string RulingLimeKipp {
+    _hidden_value = true
+  }
+  hidden_boolean EerieAzureBianca2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid BrokenIndigoJocelyne2 {
+    _hidden_value = true
+  }
+  serviceid_number InformalLavenderKatheryn {
+    _hidden_value = true
+  }
+  DevelopingHarlequinJeanie2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  SkinnyAmberAlta2 = "To be Frank, I'd have to change my name."
+  SufficientCrimsonEnriqueta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  CurvedAmberAlisun4 = false
+  _hidden_value = true
+}

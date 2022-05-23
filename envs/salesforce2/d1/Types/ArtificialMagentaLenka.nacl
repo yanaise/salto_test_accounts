@@ -1,0 +1,19 @@
+type d1.ArtificialMagentaLenka {
+  annotations {
+    boolean GladGoldGlyn2 {
+    }
+    serviceid WoodenGreenHoratia2 {
+    }
+    string DependentGrayHeather {
+    }
+  }
+  hidden_boolean IntermediateRoseOfella {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  GladGoldGlyn2 = true
+  WoodenGreenHoratia2 = "Why would the kid cross the playground? To get to the other slide."
+  DependentGrayHeather = "What creature is smarter than a talking parrot? A spelling bee."
+  _hidden_value = true
+}

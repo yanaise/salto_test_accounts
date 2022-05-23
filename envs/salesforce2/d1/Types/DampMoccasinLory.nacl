@@ -1,0 +1,26 @@
+type d1.DampMoccasinLory {
+  annotations {
+    json InstantSapphireRanee {
+    }
+    serviceid SystematicOrangeMarcela {
+    }
+    number IllEmeraldGae {
+    }
+    serviceid_number BalancedSilverRosita {
+    }
+    boolean DisturbingTealSherie2 {
+    }
+    string LuckyBlackCassandry2 {
+    }
+  }
+  string BadVioletToma {
+    _hidden_value = true
+  }
+  InstantSapphireRanee = "Did you know that protons have mass? I didn't even know they were catholic."
+  SystematicOrangeMarcela = "Why is Peter Pan always flying? Because he Neverlands."
+  IllEmeraldGae = 670
+  BalancedSilverRosita = 741
+  DisturbingTealSherie2 = true
+  LuckyBlackCassandry2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

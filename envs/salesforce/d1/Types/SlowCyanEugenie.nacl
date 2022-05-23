@@ -1,0 +1,116 @@
+type d1.SlowCyanEugenie {
+  annotations {
+    string WealthyPeachMaryjane {
+    }
+    string ExclusiveMagentaLatisha2 {
+    }
+    string SelectSalmonPhilipa {
+    }
+    serviceid LivingGrayHenriette {
+    }
+    string ProfessionalChocolateDayna {
+    }
+    serviceid_number FlatGrayHannie {
+    }
+  }
+  hidden_boolean NativeJadeKate {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number SpectacularMaroonLibbie2 {
+    _hidden_value = true
+  }
+  number WealthyPeachMaryjane2 {
+    _hidden_value = true
+  }
+  serviceid_number DepressedPinkMelanie {
+    _hidden_value = true
+  }
+  number MobilePurpleMoria2 {
+    _hidden_value = true
+  }
+  json EverydayLimeKynthia {
+    _hidden_value = true
+  }
+  boolean UnwillingTanShelby {
+    _hidden_value = true
+  }
+  string CommunistGoldGiuditta {
+    _hidden_value = true
+  }
+  serviceid_number SilentGrayHarley {
+    _hidden_value = true
+  }
+  d1.DEFAULT FrailVioletTrude {
+    _hidden_value = true
+  }
+  boolean PrimaryCoffeeDoe {
+    _hidden_value = true
+  }
+  boolean BoredPlumMoreen {
+    _hidden_value = true
+  }
+  serviceid_number ConsiderableChocolateDemeter {
+    _hidden_value = true
+  }
+  json WhiteBronzeClovis2 {
+    _hidden_value = true
+  }
+  hidden_boolean HappyVioletValencia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number HeadPinkMegan {
+    _hidden_value = true
+  }
+  json UnhappyMaroonLicha {
+    _hidden_value = true
+  }
+  serviceid_number FewAmethystAndrei2 {
+    _hidden_value = true
+  }
+  string GradualSilverSallie2 {
+    _hidden_value = true
+  }
+  serviceid RelievedBlueCatherine2 {
+    _hidden_value = true
+  }
+  serviceid DistantIndigoJillie {
+    _hidden_value = true
+  }
+  string EnviousAzureBiddy2 {
+    _hidden_value = true
+  }
+  serviceid DeafIvoryJourdan {
+    _hidden_value = true
+  }
+  "List<string>" GoodBlackCarmita {
+    _hidden_value = true
+  }
+  json AdverseSapphireRaphaela {
+    _hidden_value = true
+  }
+  hidden_boolean ScaryBeigeBrett {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json CalmPurpleNancey {
+    _hidden_value = true
+  }
+  boolean OverseasIvoryJudy {
+    _hidden_value = true
+  }
+  "List<serviceid>" WesternChocolateDeerdre3 {
+    _hidden_value = true
+  }
+  WealthyPeachMaryjane = "What do you call two barracuda fish?  A Pairacuda!"
+  ExclusiveMagentaLatisha2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SelectSalmonPhilipa = "Slept like a log last night  woke up in the fireplace."
+  LivingGrayHenriette = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ProfessionalChocolateDayna = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  FlatGrayHannie = 403
+  _hidden_value = true
+}

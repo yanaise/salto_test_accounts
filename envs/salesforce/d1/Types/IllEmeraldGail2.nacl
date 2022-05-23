@@ -1,0 +1,77 @@
+type d1.IllEmeraldGail2 {
+  annotations {
+    hidden_boolean CompulsoryOliveMallissa {
+    }
+    d1.LowBlushChristy SexualCopperEachelle2 {
+    }
+    string NoisySilverSal2 {
+    }
+    boolean OutrageousAzureBreanne2 {
+    }
+    hidden_boolean NumerousHarlequinJane {
+    }
+  }
+  json GracefulTurquoiseTerrijo2 {
+    _hidden_value = true
+  }
+  hidden_boolean AwfulHarlequinJaquenetta2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<serviceid>" SleepyTomatoSuellen {
+    _hidden_value = true
+  }
+  number WetAmberAlicia4 {
+    _hidden_value = true
+  }
+  serviceid_number SolidGreenIda3 {
+    _hidden_value = true
+  }
+  json ShortYellowWilone3 {
+    _hidden_value = true
+  }
+  json NoisyApricotAnnemarie2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT MaturePeachMattie2 {
+    _hidden_value = true
+  }
+  d1.ImmenseAmaranthAdelice ScrawnyYellowWilma2 {
+    PoliteSalmonRafa = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    FrightenedAzureBlaire = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    AlertTomatoSydney = 346
+    AwakeRedNolana = "What creature is smarter than a talking parrot? A spelling bee."
+    SteepAmberAlvira = false
+    InnocentTealStacey = true
+    GladGoldGlynnis = 450
+    ComingSilverSammy = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    UltimateJadeKandace = "What do you call two barracuda fish?  A Pairacuda!"
+    ScatteredAquaAvie = 922
+    ConceptualTanShelbi = "Slept like a log last night  woke up in the fireplace."
+    KindOrangeMaribelle = "Why was it called the dark ages? Because of all the knights. "
+    _hidden_value = true
+  }
+  hidden_boolean WrongBrownCrista3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.AnxiousHarlequinJanna StraightHarlequinJaine2 {
+    ColonialPeachMaure = "What creature is smarter than a talking parrot? A spelling bee."
+    GloriousBlackCarmine = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  number CuddlyAmberAlberta5 {
+    _hidden_value = true
+  }
+  serviceid_number ProbableSalmonPhyllis {
+    _hidden_value = true
+  }
+  SexualCopperEachelle2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  NoisySilverSal2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  OutrageousAzureBreanne2 = false
+  _hidden_value = true
+}

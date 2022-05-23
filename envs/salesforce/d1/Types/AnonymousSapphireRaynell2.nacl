@@ -1,0 +1,37 @@
+type d1.AnonymousSapphireRaynell2 {
+  annotations {
+    serviceid PunyAmaranthAeriel3 {
+    }
+    serviceid WorthwhilePinkMelitta2 {
+    }
+    boolean PositiveCoffeeDonella {
+    }
+    d1.IllAzureBobbee InternationalBlushClaudette2 {
+    }
+    serviceid_number AgreeableBeigeBunnie {
+    }
+    hidden_boolean TanYellowYettie2 {
+    }
+  }
+  serviceid RudeTanShaylah {
+    _hidden_value = true
+  }
+  boolean GlobalGrayHermina {
+    _hidden_value = true
+  }
+  serviceid_number CreepyAmberAjay2 {
+    _hidden_value = true
+  }
+  serviceid_number FreshCopperDyann {
+    _hidden_value = true
+  }
+  json NoisySilverSadye2 {
+    _hidden_value = true
+  }
+  PunyAmaranthAeriel3 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  WorthwhilePinkMelitta2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PositiveCoffeeDonella = false
+  InternationalBlushClaudette2 = true
+  AgreeableBeigeBunnie = 589
+  _hidden_value = true
+}

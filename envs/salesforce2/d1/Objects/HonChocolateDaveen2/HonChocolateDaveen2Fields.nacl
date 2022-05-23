@@ -1,0 +1,48 @@
+type d1.HonChocolateDaveen2 {
+  serviceid ImperialLavenderKaterine6 {
+  }
+  string FriendlyVioletTrudi3 {
+  }
+  hidden_boolean EverydayLimeKyrstin6 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number BroadCoralElise3 {
+  }
+  number CondemnedAquamarineBerti2 {
+  }
+  number ReliableLavenderKiley2 {
+  }
+  boolean OuterJadeKarrie2 {
+  }
+  number CompetentSalmonPepita3 {
+  }
+  d1.ChubbyAmberAlis2 GenerousLavenderKaylee3 {
+    EnglishBrownCrissie = 564
+    TartYellowXaviera = 461
+    ExcessiveOliveMadelene3 = true
+    SpotlessTurquoiseTildie2 = 249
+    PoorBronzeCorene5 = "Why is Peter Pan always flying? Because he Neverlands."
+    IntensiveOliveLurette = 140
+  }
+  string LowBlushChristye {
+  }
+  serviceid_number SymbolicPurpleNadiya4 {
+  }
+  json GeneralBlushChristean6 {
+  }
+  serviceid_number WhisperingApricotArdelia2 {
+  }
+  number MinimalPlumMorganne2 {
+  }
+  hidden_boolean RoundIvoryJohnette5 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number PresentBrownCristi5 {
+  }
+  string MoralCyanFenelia3 {
+  }
+}

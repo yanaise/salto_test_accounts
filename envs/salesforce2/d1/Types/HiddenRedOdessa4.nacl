@@ -1,0 +1,91 @@
+type d1.HiddenRedOdessa4 {
+  annotations {
+    hidden_boolean EerieAzureBeverly {
+    }
+    json ProfoundPinkMerla4 {
+    }
+    number SatisfiedHarlequinJazmin2 {
+    }
+    d1.AdverseSapphireRanna ImmediateCrimsonEmeline2 {
+    }
+  }
+  d1.ExtremeHarlequinJackelyn UncertainMagentaLelah2 {
+    IncCrimsonErmentrude = 474
+    AlliedPlumMisti = true
+    InternalCoralEdy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    DevelopedPinkMerilyn = 538
+    CrookedAmberAlisha = "What did one nut say as he chased another nut?  I'm a cashew!"
+    AmericanBronzeCorrianne = 42
+    TragicRosePaulita = 201
+    ConceptualTanShelagh = {
+      legit = "My first time using an elevator was an uplifting experience. The second time let me down."
+    }
+    StrangeTurquoiseTimmie = "Slept like a log last night  woke up in the fireplace."
+    NastyWhiteVeronica = "Slept like a log last night  woke up in the fireplace."
+    OldAmethystAmie = 581
+    _hidden_value = true
+  }
+  hidden_boolean GivenHarlequinJaney3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean UnlikelyCrimsonEthelda {
+    _hidden_value = true
+  }
+  serviceid CrazyVioletTrenna {
+    _hidden_value = true
+  }
+  serviceid MetropolitanOrangeMargarita2 {
+    _hidden_value = true
+  }
+  string VoluntaryGoldGwenni2 {
+    _hidden_value = true
+  }
+  hidden_boolean LittleAmaranthAdelle2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean LateAmethystAmata {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ScaryBeigeBrenna {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string DampAmberAlene2 {
+    _hidden_value = true
+  }
+  number GoodBlueCelisse {
+    _hidden_value = true
+  }
+  serviceid_number DeliciousApricotArdisj2 {
+    _hidden_value = true
+  }
+  serviceid DifferentBlueCharline3 {
+    _hidden_value = true
+  }
+  json SolarRosePammie2 {
+    _hidden_value = true
+  }
+  d1.AlrightGoldGoldina FairCoffeeDinnie3 {
+    RivalPurpleNara = 81
+    SingleBronzeCoral = 532
+    ProfoundPinkMerlina = 258
+    RelativeGoldGui = "Why was it called the dark ages? Because of all the knights. "
+    AngryFuchsiaGilli = "What do you do on a remote island? Try and find the TV island it belongs to."
+    QuickestWhiteVyky = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AgreedTanSelia = "To be Frank, I'd have to change my name."
+    IntenseLavenderKattie = false
+    ExcitingGreenIvett = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  ProfoundPinkMerla4 = "I'll tell you what often gets over looked... garden fences."
+  SatisfiedHarlequinJazmin2 = 636
+  ImmediateCrimsonEmeline2 = 423
+  _hidden_value = true
+}

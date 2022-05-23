@@ -1,0 +1,30 @@
+type d1.ExtraordinaryIndigoJessika2 {
+  annotations {
+    d1.KeenGrayHannah ProminentLavenderKeely {
+    }
+    d1.DEFAULT UpsetOliveMabel7 {
+    }
+    string LiberalCyanFarra3 {
+    }
+    number ContinuousIvoryJoye2 {
+    }
+    number CuddlyAmberAlbertina2 {
+    }
+    serviceid_number UniversalJadeJyoti3 {
+    }
+    hidden_boolean FavouriteHarlequinJacqueline2 {
+    }
+  }
+  serviceid_number UptightBeigeBrook3 {
+    _hidden_value = true
+  }
+  ProminentLavenderKeely = false
+  UpsetOliveMabel7 = {
+    legit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  }
+  LiberalCyanFarra3 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  ContinuousIvoryJoye2 = 879
+  CuddlyAmberAlbertina2 = 109
+  UniversalJadeJyoti3 = 893
+  _hidden_value = true
+}

@@ -1,0 +1,98 @@
+type d1.MarxistSapphireRaine3 {
+  annotations {
+    serviceid_number CasualOliveLurline {
+    }
+    d1.DEFAULT GiganticVioletUlrikaumeko {
+    }
+    serviceid_number IntelligentMaroonLinnie {
+    }
+    serviceid TightAquamarineBecky2 {
+    }
+    json CooperativeBeigeCamila {
+    }
+  }
+  hidden_boolean EnvironmentalCoffeeDominica {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number GrumpyVioletUrsula {
+    _hidden_value = true
+  }
+  d1.ManyAmethystAngel FragileTealSofie2 {
+    MinorEmeraldGabie = true
+    SplendidOrangeMandy = 94
+    StaticSapphireRebeka = 49
+    CircularRoseOrly = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    OrangeWhiteVinny = false
+    PureGrayHermia = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    BreezyAmaranthAigneis = "Why would the tomato blush? Because it saw the salad dressing."
+    MiserableSalmonRachael = true
+    DomesticCopperEaster = true
+    KoreanSapphireRasia = 840
+    PrivateBronzeCoreen = 981
+    ShockedPinkMelisandra = "What did one nut say as he chased another nut?  I'm a cashew!"
+    ObedientBlackCassondra = 621
+    RapidAmethystAmy2 = 862
+    _hidden_value = true
+  }
+  string UnacceptableSalmonPenelopa {
+    _hidden_value = true
+  }
+  hidden_boolean MeltedAquaAurelea2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number CooingAmethystAngelique3 {
+    _hidden_value = true
+  }
+  serviceid_number DistinctiveLimeKristen2 {
+    _hidden_value = true
+  }
+  serviceid_number ComfortableGoldGrier {
+    _hidden_value = true
+  }
+  string BreakableTealShir5 {
+    _hidden_value = true
+  }
+  d1.DEFAULT MultipleLimeKimmie {
+    _hidden_value = true
+  }
+  "List<number>" AverageCoralElysee3 {
+    _hidden_value = true
+  }
+  serviceid FrontCopperEadith2 {
+    _hidden_value = true
+  }
+  number OrangePurpleMuire4 {
+    _hidden_value = true
+  }
+  hidden_boolean HollowAmberAllix {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  "List<json>" ComparativePlumModestia {
+    _hidden_value = true
+  }
+  number NuttyWhiteVikki4 {
+    _hidden_value = true
+  }
+  boolean IntegratedOliveMadonna2 {
+    _hidden_value = true
+  }
+  hidden_boolean EntitledIvoryJuliann3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  CasualOliveLurline = 772
+  GiganticVioletUlrikaumeko = {
+    legit = "Did you know that protons have mass? I didn't even know they were catholic."
+  }
+  IntelligentMaroonLinnie = 111
+  TightAquamarineBecky2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CooperativeBeigeCamila = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

@@ -1,0 +1,93 @@
+type d1.MonetaryIvoryJoete {
+  annotations {
+    number EnglishBrownCourtney3 {
+    }
+    serviceid_number ObnoxiousAzureBrandie3 {
+    }
+    serviceid SelectiveRedNorri {
+    }
+    json EnchantingBlackCarena2 {
+    }
+    boolean GloriousBlackCarmine3 {
+    }
+    number GermanChocolateDelila2 {
+    }
+    boolean CorrectCrimsonErinn {
+    }
+  }
+  boolean InstitutionalMaroonLeshia {
+    _hidden_value = true
+  }
+  string DistinctHarlequinJanela2 {
+    _hidden_value = true
+  }
+  boolean CleanTomatoTamma {
+    _hidden_value = true
+  }
+  string PeacefulOrangeMargret2 {
+    _hidden_value = true
+  }
+  hidden_boolean BoldPlumMinnaminnie {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json CasualOliveLurlene {
+    _hidden_value = true
+  }
+  d1.RussianCyanFelicity HorribleVioletValene {
+    RapidAmethystAmy = {
+      legit = "Why would the kid cross the playground? To get to the other slide."
+    }
+    GlobalGrayHermine = "What do you call two barracuda fish?  A Pairacuda!"
+    BrainyTealSherry = true
+    SoundRoseOlga = 679
+    LevelJadeKally = false
+    WideAmethystAmabel = 927
+    CautiousScarletRivy = false
+    RandomMoccasinLoren = 862
+    AssociatedMaroonLindsey = false
+    FamiliarCrimsonEthel = "Im only familiar with 25 letters in the English language. I dont know why."
+    MinorEmeraldGabriel = {
+      legit = "Why is Peter Pan always flying? Because he Neverlands."
+    }
+    SurroundingOrangeMarget = "What did one nut say as he chased another nut?  I'm a cashew!"
+    FatalPurpleMyrtice = "My first time using an elevator was an uplifting experience. The second time let me down."
+    _hidden_value = true
+  }
+  number UpsetBeigeBrittani2 {
+    _hidden_value = true
+  }
+  string ShortYellowWilona {
+    _hidden_value = true
+  }
+  string WetAquamarineBelinda2 {
+    _hidden_value = true
+  }
+  number ShyScarletRosemonde {
+    _hidden_value = true
+  }
+  "List<d1.FarBlushChristin>" TroubledBeigeBrittani3 {
+    _hidden_value = true
+  }
+  json SevereEmeraldGaby {
+    _hidden_value = true
+  }
+  serviceid MagnificentMagentaLeelah {
+    _hidden_value = true
+  }
+  json BreezyAmaranthAigneis4 {
+    _hidden_value = true
+  }
+  boolean RomanticMagentaLeandra2 {
+    _hidden_value = true
+  }
+  EnglishBrownCourtney3 = 379
+  ObnoxiousAzureBrandie3 = 112
+  SelectiveRedNorri = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  EnchantingBlackCarena2 = "To be Frank, I'd have to change my name."
+  GloriousBlackCarmine3 = true
+  GermanChocolateDelila2 = 41
+  CorrectCrimsonErinn = true
+  _hidden_value = true
+}

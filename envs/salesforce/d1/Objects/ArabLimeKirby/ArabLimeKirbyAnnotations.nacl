@@ -1,0 +1,48 @@
+type d1.ArabLimeKirby {
+  annotations {
+    hidden_boolean SteadyJadeKaile2 {
+    }
+    number IsolatedPeachMarketa {
+    }
+    json KoreanSapphireRaquela4 {
+    }
+    serviceid SoftAquamarineBarbie3 {
+    }
+    serviceid ProvincialPeachMariya {
+    }
+    number MassiveFuchsiaGerri3 {
+    }
+    string EqualCrimsonEmilie2 {
+    }
+    number WetGrayHedvige2 {
+    }
+    serviceid SplendidOrangeManon4 {
+    }
+    boolean ChubbyAmberAline2 {
+    }
+    serviceid_number FullBlushChristi2 {
+    }
+    json WesternChocolateDeerdre7 {
+    }
+    boolean UninterestedTomatoSusie2 {
+    }
+    string HelpfulTealSonnie5 {
+    }
+    serviceid CautiousTealSibbie4 {
+    }
+  }
+  IsolatedPeachMarketa = 670
+  KoreanSapphireRaquela4 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  SoftAquamarineBarbie3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ProvincialPeachMariya = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  MassiveFuchsiaGerri3 = 501
+  EqualCrimsonEmilie2 = "A steak pun is a rare medium well done."
+  WetGrayHedvige2 = 595
+  SplendidOrangeManon4 = "Why would the kid cross the playground? To get to the other slide."
+  ChubbyAmberAline2 = false
+  FullBlushChristi2 = 807
+  WesternChocolateDeerdre7 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  UninterestedTomatoSusie2 = true
+  HelpfulTealSonnie5 = "What creature is smarter than a talking parrot? A spelling bee."
+  CautiousTealSibbie4 = "My first time using an elevator was an uplifting experience. The second time let me down."
+}

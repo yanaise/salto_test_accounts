@@ -1,0 +1,37 @@
+type d1.DarkTurquoiseTaryn3 {
+  annotations {
+    boolean InnocentMagentaLarina2 {
+    }
+    json ValuableGoldGwynne3 {
+    }
+    serviceid DisappointedMagentaLaurianne2 {
+    }
+    serviceid MoaningApricotAnnamarie2 {
+    }
+    boolean OrdinaryCopperEdie2 {
+    }
+  }
+  serviceid MagneticPeachMavra {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" PsychologicalIvoryJojo3 {
+    _hidden_value = true
+  }
+  hidden_boolean DisastrousScarletRochette {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number PowerfulTomatoStephanie4 {
+    _hidden_value = true
+  }
+  d1.DEFAULT PoliteSalmonRaf {
+    _hidden_value = true
+  }
+  InnocentMagentaLarina2 = false
+  ValuableGoldGwynne3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DisappointedMagentaLaurianne2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  MoaningApricotAnnamarie2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  OrdinaryCopperEdie2 = false
+  _hidden_value = true
+}

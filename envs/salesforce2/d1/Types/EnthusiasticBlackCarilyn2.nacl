@@ -1,0 +1,60 @@
+type d1.EnthusiasticBlackCarilyn2 {
+  annotations {
+    serviceid_number SpareMaroonLilli3 {
+    }
+    hidden_boolean DeafIvoryJoya4 {
+    }
+    d1.OccasionalIvoryJuliette SlimRoseOlva2 {
+    }
+    number EvilAzureBill {
+    }
+  }
+  string DisturbingTealSheree {
+    _hidden_value = true
+  }
+  boolean CarefulCyanFeodora2 {
+    _hidden_value = true
+  }
+  d1.FarBlushChristin FemaleCrimsonEmmey2 {
+    _hidden_value = true
+  }
+  serviceid_number DistinguishedPurpleNatalya {
+    _hidden_value = true
+  }
+  json UglyPlumMicky2 {
+    _hidden_value = true
+  }
+  json CentralBronzeConny {
+    _hidden_value = true
+  }
+  number UnusualGoldGladi2 {
+    _hidden_value = true
+  }
+  serviceid CarefulTealShirline2 {
+    _hidden_value = true
+  }
+  hidden_boolean CloseBrownCosette {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid PurpleScarletRivalee2 {
+    _hidden_value = true
+  }
+  json WeeklyLavenderKesley2 {
+    _hidden_value = true
+  }
+  boolean RelievedBlueCathie3 {
+    _hidden_value = true
+  }
+  json RelievedSalmonPetronella {
+    _hidden_value = true
+  }
+  string PurpleWhiteVivia {
+    _hidden_value = true
+  }
+  SpareMaroonLilli3 = 760
+  SlimRoseOlva2 = 374
+  EvilAzureBill = 796
+  _hidden_value = true
+}

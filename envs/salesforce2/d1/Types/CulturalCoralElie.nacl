@@ -1,0 +1,74 @@
+type d1.CulturalCoralElie {
+  annotations {
+    number OperationalOrangeMariam {
+    }
+    boolean StripedYellowWinonah {
+    }
+    d1.DEFAULT GratefulIvoryJorey {
+    }
+    serviceid MuddyTurquoiseTheresina {
+    }
+  }
+  boolean FamousCoralElfrida {
+    _hidden_value = true
+  }
+  number VariableRedNollie {
+    _hidden_value = true
+  }
+  number ArbitrarySilverRoxane {
+    _hidden_value = true
+  }
+  string RepresentativePinkMerola {
+    _hidden_value = true
+  }
+  hidden_boolean SensitiveGrayHelyn {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string CoolGreenIolande {
+    _hidden_value = true
+  }
+  string NecessaryBronzeCorabel {
+    _hidden_value = true
+  }
+  serviceid InstantSapphireRandie {
+    _hidden_value = true
+  }
+  number CrazyTealSibylla {
+    _hidden_value = true
+  }
+  serviceid_number IdeologicalOrangeMargarette {
+    _hidden_value = true
+  }
+  number SuitableCrimsonEmera {
+    _hidden_value = true
+  }
+  number SlimRoseOlva {
+    _hidden_value = true
+  }
+  d1.DEFAULT CurvedAmberAlisun {
+    _hidden_value = true
+  }
+  hidden_boolean GleamingTurquoiseTeri2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json SpectacularMaroonLibbi2 {
+    _hidden_value = true
+  }
+  boolean CrudePlumMikaela {
+    _hidden_value = true
+  }
+  string ConcernedBronzeCorrey {
+    _hidden_value = true
+  }
+  OperationalOrangeMariam = 582
+  StripedYellowWinonah = false
+  GratefulIvoryJorey = {
+    legit = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  }
+  MuddyTurquoiseTheresina = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

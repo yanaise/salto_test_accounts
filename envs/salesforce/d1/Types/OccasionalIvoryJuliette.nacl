@@ -1,0 +1,47 @@
+type d1.OccasionalIvoryJuliette is number {
+  annotations {
+    serviceid UglyTurquoiseTiphani {
+    }
+    serviceid FairBlackCarlen {
+    }
+    serviceid_number FuriousRedNicolle {
+    }
+    serviceid_number AbstractMaroonLilyan {
+    }
+    number RipeApricotAriel {
+    }
+    serviceid_number OlympicRedNessa {
+    }
+    hidden_boolean RomanFuchsiaGermain {
+    }
+    json SignificantBrownDanna {
+    }
+    boolean TenderAquamarineBecca {
+    }
+    hidden_boolean CommonBronzeCookie {
+    }
+    serviceid_number MysteriousAzureBonita {
+    }
+    number VastEmeraldFreddi {
+    }
+    serviceid ConstantEmeraldFrayda {
+    }
+    serviceid_number BigAmaranthAbbi {
+    }
+    string WorriedGrayHarri {
+    }
+  }
+  UglyTurquoiseTiphani = "Why would the tomato blush? Because it saw the salad dressing."
+  FairBlackCarlen = "To be Frank, I'd have to change my name."
+  FuriousRedNicolle = 573
+  AbstractMaroonLilyan = 136
+  RipeApricotAriel = 165
+  OlympicRedNessa = 633
+  SignificantBrownDanna = "Why was it called the dark ages? Because of all the knights. "
+  TenderAquamarineBecca = true
+  MysteriousAzureBonita = 584
+  VastEmeraldFreddi = 669
+  ConstantEmeraldFrayda = "What did one nut say as he chased another nut?  I'm a cashew!"
+  BigAmaranthAbbi = 688
+  WorriedGrayHarri = "Slept like a log last night  woke up in the fireplace."
+}

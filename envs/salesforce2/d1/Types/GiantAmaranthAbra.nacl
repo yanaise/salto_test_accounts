@@ -1,0 +1,73 @@
+type d1.GiantAmaranthAbra {
+  annotations {
+    hidden_boolean PerfectCrimsonEtti2 {
+    }
+    serviceid_number UnexpectedMagentaLaureen5 {
+    }
+    string MarxistSapphireRaine4 {
+    }
+    json IntermediateRoseOfilia3 {
+    }
+    number ContinuingGreenIsa3 {
+    }
+  }
+  hidden_boolean LeftCoffeeDennie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number SparklingTurquoiseTiffie {
+    _hidden_value = true
+  }
+  serviceid HostileOrangeMariejeanne5 {
+    _hidden_value = true
+  }
+  json HissingApricotAnn3 {
+    _hidden_value = true
+  }
+  number ConsistentHarlequinJanis3 {
+    _hidden_value = true
+  }
+  json ScaryBeigeBria3 {
+    _hidden_value = true
+  }
+  hidden_boolean FlatGrayHanni {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number ObjectiveOrangeManda2 {
+    _hidden_value = true
+  }
+  serviceid_number ParliamentaryFuchsiaGertrudis2 {
+    _hidden_value = true
+  }
+  serviceid AshamedAquamarineBernardina2 {
+    _hidden_value = true
+  }
+  json ExcitedOrangeMarina {
+    _hidden_value = true
+  }
+  number SquareJadeKai5 {
+    _hidden_value = true
+  }
+  json OccasionalIvoryJulina4 {
+    _hidden_value = true
+  }
+  hidden_boolean HushedApricotAnnadiane {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.ExactLimeKordula MightyTanShandeigh {
+    _hidden_value = true
+  }
+  serviceid_number WidespreadHarlequinJacquette2 {
+    _hidden_value = true
+  }
+  UnexpectedMagentaLaureen5 = 344
+  MarxistSapphireRaine4 = "How come the stadium got hot after the game? Because all of the fans left."
+  IntermediateRoseOfilia3 = "Dad Im hungry  Hi hungry Im dad"
+  ContinuingGreenIsa3 = 454
+  _hidden_value = true
+}

@@ -1,0 +1,70 @@
+type d1.ChristianCoralElvira {
+  annotations {
+    boolean AppallingTanSelestina {
+    }
+    d1.ExtremeHarlequinJackelyn DyingScarletRoch {
+    }
+    d1.FoolishSapphireReine SpiritualLavenderKatlin2 {
+    }
+    hidden_boolean EagerBeigeCandra3 {
+    }
+    serviceid TinyAmaranthAgnese2 {
+    }
+    string DistinctTurquoiseTatum3 {
+    }
+    hidden_boolean ExactLimeKore3 {
+    }
+    hidden_boolean StraightAmethystAlysia2 {
+    }
+    serviceid ShockedPinkMelisande3 {
+    }
+    hidden_boolean QuietCoralEkaterina2 {
+    }
+    serviceid_number WastefulYellowZia5 {
+    }
+    string GoldenGrayHalette3 {
+    }
+    json LargeBlueCharlot2 {
+    }
+    serviceid LegislativeMaroonLinet2 {
+    }
+    serviceid_number ConvincingSalmonPeggie3 {
+    }
+    hidden_boolean VariousBrownCorry3 {
+    }
+    json RisingScarletRoselle3 {
+    }
+    number AssociatedMaroonLindsey4 {
+    }
+    hidden_boolean ExtensiveGoldGloriana2 {
+    }
+    json LoudApricotAnnadiane6 {
+    }
+    d1.LongAmaranthAdina AssistantOliveLynnell2 {
+    }
+    number QuickCoralEleonora {
+    }
+    serviceid FlatAmberAllianora2 {
+    }
+    d1.AcceptedTanShae2 OverallCrimsonEmmalynne7 {
+    }
+    hidden_boolean ExpensiveCrimsonErnaline3 {
+    }
+  }
+  AppallingTanSelestina = false
+  DyingScarletRoch = false
+  TinyAmaranthAgnese2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  DistinctTurquoiseTatum3 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  ShockedPinkMelisande3 = "Why was it called the dark ages? Because of all the knights. "
+  WastefulYellowZia5 = 608
+  GoldenGrayHalette3 = "What do you call two barracuda fish?  A Pairacuda!"
+  LargeBlueCharlot2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  LegislativeMaroonLinet2 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  ConvincingSalmonPeggie3 = 840
+  RisingScarletRoselle3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AssociatedMaroonLindsey4 = 727
+  LoudApricotAnnadiane6 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AssistantOliveLynnell2 = file("TeenageScarletRobinetta4.txt")
+  QuickCoralEleonora = 198
+  FlatAmberAllianora2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+}

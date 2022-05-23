@@ -1,0 +1,64 @@
+type d1.StrongBronzeColly is number {
+  annotations {
+    json MilitaryChocolateDarlleen {
+    }
+    serviceid SophisticatedJadeKarlie {
+    }
+    boolean ElectricGreenIngrid {
+    }
+    serviceid FatVioletTrixie {
+    }
+    json AdditionalCopperDotti {
+    }
+    boolean UnderlyingLimeKoressa {
+    }
+    boolean MoralCyanFenelia {
+    }
+    hidden_boolean LowAmberAllyce {
+    }
+    serviceid BraveMoccasinLucinda {
+    }
+    hidden_boolean InterestingChocolateDelphine {
+    }
+    hidden_boolean CapitalistMagentaLayney {
+    }
+    boolean SpectacularMaroonLibbi {
+    }
+    boolean ExpectedLimeLaney {
+    }
+    serviceid_number IsraeliPinkMeriel {
+    }
+    boolean ExceptionalOliveMadonna {
+    }
+    number DefensiveRoseOpal {
+    }
+    number AnxiousHarlequinJanna2 {
+    }
+    hidden_boolean LiquidRosePaige {
+    }
+    boolean SweetAquaAshien {
+    }
+    hidden_boolean FriendlyVioletTrudie {
+    }
+    hidden_boolean PerfectCyanEudora {
+    }
+    serviceid LongAmaranthAdi {
+    }
+  }
+  MilitaryChocolateDarlleen = "To be Frank, I'd have to change my name."
+  SophisticatedJadeKarlie = "Im only familiar with 25 letters in the English language. I dont know why."
+  ElectricGreenIngrid = true
+  FatVioletTrixie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  AdditionalCopperDotti = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  UnderlyingLimeKoressa = true
+  MoralCyanFenelia = true
+  BraveMoccasinLucinda = "What do you call two barracuda fish?  A Pairacuda!"
+  SpectacularMaroonLibbi = false
+  ExpectedLimeLaney = true
+  IsraeliPinkMeriel = 339
+  ExceptionalOliveMadonna = true
+  DefensiveRoseOpal = 592
+  AnxiousHarlequinJanna2 = 579
+  SweetAquaAshien = false
+  LongAmaranthAdi = "Why wouldnt the skeleton cross the road? Because he had no guts."
+}

@@ -1,0 +1,98 @@
+type d1.FaithfulTanShayna {
+  annotations {
+    json ShortBronzeColene {
+    }
+    hidden_boolean VivaciousBlueCecilla2 {
+    }
+    string VisitingScarletRoanne2 {
+    }
+    hidden_boolean PunyAmaranthAeriell {
+    }
+    serviceid_number UglyTurquoiseTina {
+    }
+    serviceid_number FragileTealSonia2 {
+    }
+    number AmusedBeigeBunny2 {
+    }
+  }
+  number MagnificentMagentaLeeanne2 {
+    _hidden_value = true
+  }
+  d1.ManyAmethystAngel LowBlushChristina {
+    MinorEmeraldGabie = true
+    SplendidOrangeMandy = 475
+    StaticSapphireRebeka = 117
+    CircularRoseOrly = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    OrangeWhiteVinny = true
+    PureGrayHermia = "Why would the kid cross the playground? To get to the other slide."
+    BreezyAmaranthAigneis = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    MiserableSalmonRachael = true
+    DomesticCopperEaster = true
+    KoreanSapphireRasia = 813
+    PrivateBronzeCoreen = 199
+    ShockedPinkMelisandra = "Whoever invented the knock-knock joke should get a no bell prize."
+    ObedientBlackCassondra = 426
+    RapidAmethystAmy2 = 590
+    _hidden_value = true
+  }
+  number PoorTealStella {
+    _hidden_value = true
+  }
+  boolean ProposedGoldGwendolin {
+    _hidden_value = true
+  }
+  serviceid ComprehensiveGreenHyacinthia {
+    _hidden_value = true
+  }
+  hidden_boolean OfficialCopperDorita {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<json>" DramaticGoldHadria3 {
+    _hidden_value = true
+  }
+  serviceid RegisteredPurpleNan {
+    _hidden_value = true
+  }
+  string ToxicSalmonPhedra2 {
+    _hidden_value = true
+  }
+  string BrokenAmaranthAileen2 {
+    _hidden_value = true
+  }
+  boolean OperationalOrangeMariam2 {
+    _hidden_value = true
+  }
+  number EvidentIvoryJunette {
+    _hidden_value = true
+  }
+  boolean VisibleIndigoJill2 {
+    _hidden_value = true
+  }
+  hidden_boolean MathematicalRoseOrtensia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.DEFAULT PowerfulCopperDrona {
+    _hidden_value = true
+  }
+  number AbundantAmethystAnderea2 {
+    _hidden_value = true
+  }
+  hidden_boolean SplendidOrangeManon {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.DEFAULT BlackVioletTorey {
+    _hidden_value = true
+  }
+  ShortBronzeColene = "What did one nut say as he chased another nut?  I'm a cashew!"
+  VisitingScarletRoanne2 = "Why was it called the dark ages? Because of all the knights. "
+  UglyTurquoiseTina = 969
+  FragileTealSonia2 = 433
+  AmusedBeigeBunny2 = 500
+  _hidden_value = true
+}

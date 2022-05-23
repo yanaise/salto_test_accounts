@@ -1,0 +1,48 @@
+type d1.AmateurSalmonPier {
+  annotations {
+    boolean OutstandingIndigoJenna2 {
+    }
+    hidden_boolean CompatibleSapphireRennie {
+    }
+    serviceid StupidHarlequinJacenta {
+    }
+    serviceid_number GreenChocolateDebra {
+    }
+    string ReliableLavenderKimberlee {
+    }
+    string EducationalCrimsonErtha {
+    }
+  }
+  number WorkingCrimsonEmmaline {
+    _hidden_value = true
+  }
+  string StandardCopperDrusie {
+    _hidden_value = true
+  }
+  boolean AmbitiousPeachMaureene {
+    _hidden_value = true
+  }
+  serviceid_number JudicialJadeKarisa {
+    _hidden_value = true
+  }
+  serviceid ProspectiveRedNetty {
+    _hidden_value = true
+  }
+  d1.DEFAULT ExclusiveMagentaLatia {
+    _hidden_value = true
+  }
+  hidden_boolean FoolishSapphireReina2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid WonderfulBlueCeleste {
+    _hidden_value = true
+  }
+  OutstandingIndigoJenna2 = false
+  StupidHarlequinJacenta = "Whoever invented the knock-knock joke should get a no bell prize."
+  GreenChocolateDebra = 896
+  ReliableLavenderKimberlee = "How come the stadium got hot after the game? Because all of the fans left."
+  EducationalCrimsonErtha = "My first time using an elevator was an uplifting experience. The second time let me down."
+  _hidden_value = true
+}

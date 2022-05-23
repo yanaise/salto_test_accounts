@@ -1,0 +1,28 @@
+type d1.AcceptedTanShae2 {
+  annotations {
+    serviceid GreyEmeraldFranni {
+    }
+    d1.DEFAULT MisleadingRoseOrelle2 {
+    }
+    json AccurateIndigoJillene2 {
+    }
+    boolean AverageCoralElysee2 {
+    }
+    number BloodyTomatoTally2 {
+    }
+    boolean SweetAquaAshil2 {
+    }
+  }
+  serviceid SadGrayHester2 {
+    _hidden_value = true
+  }
+  GreyEmeraldFranni = "To be Frank, I'd have to change my name."
+  MisleadingRoseOrelle2 = {
+    legit = "Why would the tomato blush? Because it saw the salad dressing."
+  }
+  AccurateIndigoJillene2 = "Why was it called the dark ages? Because of all the knights. "
+  AverageCoralElysee2 = true
+  BloodyTomatoTally2 = 383
+  SweetAquaAshil2 = true
+  _hidden_value = true
+}

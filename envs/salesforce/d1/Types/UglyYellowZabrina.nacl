@@ -1,0 +1,49 @@
+type d1.UglyYellowZabrina {
+  annotations {
+    serviceid_number SpatialSalmonPerri {
+    }
+    hidden_boolean BloodyTomatoTally {
+    }
+    string SoreBeigeBrietta {
+    }
+    d1.DEFAULT AnnoyedAquamarineBenita2 {
+    }
+    boolean OverseasIvoryJudy2 {
+    }
+  }
+  boolean SlowAmethystAnallese {
+    _hidden_value = true
+  }
+  hidden_boolean TopChocolateDareen3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number StickyAquaArlyne {
+    _hidden_value = true
+  }
+  hidden_boolean SocialBlueCharo {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string PersonalBronzeCoralyn2 {
+    _hidden_value = true
+  }
+  boolean MaleCoffeeDido {
+    _hidden_value = true
+  }
+  "List<serviceid>" FantasticSapphireReiko {
+    _hidden_value = true
+  }
+  string VulnerableJadeKarna {
+    _hidden_value = true
+  }
+  SpatialSalmonPerri = 651
+  SoreBeigeBrietta = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AnnoyedAquamarineBenita2 = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  OverseasIvoryJudy2 = true
+  _hidden_value = true
+}

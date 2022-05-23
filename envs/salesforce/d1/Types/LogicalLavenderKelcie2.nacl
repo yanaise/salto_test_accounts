@@ -1,0 +1,77 @@
+type d1.LogicalLavenderKelcie2 {
+  annotations {
+    boolean AshamedScarletRosanna3 {
+    }
+    serviceid_number UltimateJadeKamilah2 {
+    }
+    boolean AwfulAquamarineBernelle4 {
+    }
+    string DeafeningAmethystAngil2 {
+    }
+    d1.DEFAULT RobustYellowWileen3 {
+    }
+    hidden_boolean RivalPurpleNari2 {
+    }
+  }
+  boolean FixedGreenHinda2 {
+    _hidden_value = true
+  }
+  string ImportantBlueCharyl {
+    _hidden_value = true
+  }
+  number ExperiencedMagentaLauraine {
+    _hidden_value = true
+  }
+  number JitteryVioletValerie {
+    _hidden_value = true
+  }
+  boolean ConstitutionalHarlequinJaymee {
+    _hidden_value = true
+  }
+  serviceid_number RelatedIndigoJessamyn3 {
+    _hidden_value = true
+  }
+  json RacialPlumMichell2 {
+    _hidden_value = true
+  }
+  number RemoteIndigoJenelle3 {
+    _hidden_value = true
+  }
+  serviceid EagerBeigeCandy2 {
+    _hidden_value = true
+  }
+  number RipeApricotAriel3 {
+    _hidden_value = true
+  }
+  string FinancialBronzeCorette3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT MissingPinkMelodee {
+    _hidden_value = true
+  }
+  hidden_boolean FortunateRoseOlivia2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid FilthyAmberAlexis3 {
+    _hidden_value = true
+  }
+  number CurlyAmberAlbina3 {
+    _hidden_value = true
+  }
+  number SteepAmethystAlys6 {
+    _hidden_value = true
+  }
+  boolean BitterApricotArdelle2 {
+    _hidden_value = true
+  }
+  AshamedScarletRosanna3 = false
+  UltimateJadeKamilah2 = 943
+  AwfulAquamarineBernelle4 = false
+  DeafeningAmethystAngil2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  RobustYellowWileen3 = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  _hidden_value = true
+}

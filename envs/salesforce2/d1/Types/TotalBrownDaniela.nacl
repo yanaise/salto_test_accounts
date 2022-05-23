@@ -1,0 +1,29 @@
+type d1.TotalBrownDaniela {
+  annotations {
+    json CircularRoseOrly2 {
+    }
+    serviceid DeterminedOrangeMarillin {
+    }
+    serviceid CharmingBeigeCallie {
+    }
+    string HappyBrownDaisie {
+    }
+  }
+  d1.DEFAULT BlushingTomatoTalyah {
+    _hidden_value = true
+  }
+  boolean SoleLimeKirstyn2 {
+    _hidden_value = true
+  }
+  json MinimalPlumMorganica {
+    _hidden_value = true
+  }
+  json CharmingBeigeCallie2 {
+    _hidden_value = true
+  }
+  CircularRoseOrly2 = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  DeterminedOrangeMarillin = "Why is Peter Pan always flying? Because he Neverlands."
+  CharmingBeigeCallie = "Why was it called the dark ages? Because of all the knights. "
+  HappyBrownDaisie = "Why is Peter Pan always flying? Because he Neverlands."
+  _hidden_value = true
+}

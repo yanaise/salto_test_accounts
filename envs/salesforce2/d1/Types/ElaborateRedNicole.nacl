@@ -1,0 +1,68 @@
+type d1.ElaborateRedNicole {
+  annotations {
+    number UgliestYellowZandra {
+    }
+    serviceid ConsistentHarlequinJanka2 {
+    }
+    serviceid_number ColouredMaroonLivia2 {
+    }
+    serviceid_number AnxiousHarlequinJannelle {
+    }
+    serviceid_number ToryGreenInesita {
+    }
+    boolean StillIndigoJo {
+    }
+    serviceid_number JapaneseEmeraldFidelia {
+    }
+  }
+  string SurprisedEmeraldFreddy {
+    _hidden_value = true
+  }
+  hidden_boolean FoolishSapphireReina3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ExpensiveCrimsonErnestine {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number ArtificialMagentaLena3 {
+    _hidden_value = true
+  }
+  boolean ToughGoldGlennie {
+    _hidden_value = true
+  }
+  number EncouragingLimeLacey {
+    _hidden_value = true
+  }
+  serviceid_number SupposedCyanFaun2 {
+    _hidden_value = true
+  }
+  serviceid_number PetiteAmaranthAdrianna2 {
+    _hidden_value = true
+  }
+  json FunnyBlackCarmelia {
+    _hidden_value = true
+  }
+  boolean MinimalPlumMorganica2 {
+    _hidden_value = true
+  }
+  hidden_boolean SevereEmeraldGabrielle {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string DamagedAmberAlejandra {
+    _hidden_value = true
+  }
+  UgliestYellowZandra = 997
+  ConsistentHarlequinJanka2 = "Dad Im hungry  Hi hungry Im dad"
+  ColouredMaroonLivia2 = 653
+  AnxiousHarlequinJannelle = 210
+  ToryGreenInesita = 631
+  StillIndigoJo = true
+  JapaneseEmeraldFidelia = 563
+  _hidden_value = true
+}

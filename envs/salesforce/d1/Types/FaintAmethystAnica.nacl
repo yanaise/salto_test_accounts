@@ -1,0 +1,121 @@
+type d1.FaintAmethystAnica {
+  annotations {
+    number OccasionalIvoryJulina {
+    }
+    serviceid_number ShallowPinkMeggy {
+    }
+    serviceid WetAquamarineBelita {
+    }
+    boolean SaltyApricotArleen {
+    }
+    serviceid_number SelfishBeigeBridgette2 {
+    }
+  }
+  boolean BetterVioletTomasine {
+    _hidden_value = true
+  }
+  serviceid_number IntimateSilverRuthe2 {
+    _hidden_value = true
+  }
+  boolean TeenageScarletRobinette {
+    _hidden_value = true
+  }
+  string UrbanCyanFallon3 {
+    _hidden_value = true
+  }
+  boolean ContinuousIvoryJsandye2 {
+    _hidden_value = true
+  }
+  json ThirstyAquaAstra {
+    _hidden_value = true
+  }
+  hidden_boolean HardAquaAudie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string TropicalOliveLydia {
+    _hidden_value = true
+  }
+  serviceid_number VoluntaryGoldGwenni {
+    _hidden_value = true
+  }
+  serviceid_number ComfortableBeigeCamella2 {
+    _hidden_value = true
+  }
+  serviceid_number SteepMoccasinLula {
+    _hidden_value = true
+  }
+  json BroadAmberAlikee2 {
+    _hidden_value = true
+  }
+  string AppropriateChocolateDarci {
+    _hidden_value = true
+  }
+  hidden_boolean ExperimentalLavenderKatine {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json IllAzureBobbe2 {
+    _hidden_value = true
+  }
+  hidden_boolean SemanticRedNinnette {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid BlindIvoryJudi2 {
+    _hidden_value = true
+  }
+  serviceid_number CivicTanShelli2 {
+    _hidden_value = true
+  }
+  number NotablePeachMartie2 {
+    _hidden_value = true
+  }
+  string SpottyYellowWynn {
+    _hidden_value = true
+  }
+  serviceid_number NewWhiteVeronique2 {
+    _hidden_value = true
+  }
+  serviceid_number MarxistSapphireRalina {
+    _hidden_value = true
+  }
+  hidden_boolean OverseasIvoryJuditha {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json NationalBlueCherice {
+    _hidden_value = true
+  }
+  serviceid DeliciousApricotArdine {
+    _hidden_value = true
+  }
+  number RearPurpleMuriel2 {
+    _hidden_value = true
+  }
+  string GreenChocolateDebora {
+    _hidden_value = true
+  }
+  string RussianCyanFelisha {
+    _hidden_value = true
+  }
+  string ComingSilverSandi {
+    _hidden_value = true
+  }
+  "List<serviceid>" NutritiousWhiteVilhelmina {
+    _hidden_value = true
+  }
+  json ColdChocolateDebbie {
+    _hidden_value = true
+  }
+  OccasionalIvoryJulina = 11
+  ShallowPinkMeggy = 803
+  WetAquamarineBelita = "My first time using an elevator was an uplifting experience. The second time let me down."
+  SaltyApricotArleen = false
+  SelfishBeigeBridgette2 = 556
+  _hidden_value = true
+}

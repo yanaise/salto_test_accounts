@@ -1,0 +1,115 @@
+type d1.CorporateEmeraldGarnet5 {
+  annotations {
+    serviceid_number GiganticVioletUlrike {
+    }
+    serviceid VoluntaryGoldGwenette3 {
+    }
+    hidden_boolean DeterminedBeigeCandie {
+    }
+    string LocalBlueCharmane3 {
+    }
+    string PartialOliveLyndel2 {
+    }
+  }
+  json DrabTurquoiseTasha2 {
+    _hidden_value = true
+  }
+  hidden_boolean DistinctHarlequinJanene {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json AnnoyedAquamarineBennie {
+    _hidden_value = true
+  }
+  hidden_boolean UncomfortablePlumMoina3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string StructuralIvoryJosey {
+    _hidden_value = true
+  }
+  hidden_boolean ArtificialMagentaLenee2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SecretGrayHetty {
+    _hidden_value = true
+  }
+  "Map<d1.MagnificentWhiteVanya>" MuddyTurquoiseTheodosia {
+    ProspectiveRedNettie = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    CooperativeBeigeCami = 554
+    PlainTurquoiseTheressa = {
+      legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+    }
+    WorriedGrayHarmony = 942
+    CrowdedTomatoTania = "Did you know that protons have mass? I didn't even know they were catholic."
+    PreciousOrangeMariele = 605
+    UnderlyingLimeKori = 455
+    FragileTealSondra = 78
+    _hidden_value = true
+  }
+  serviceid_number MainBlushCilka {
+    _hidden_value = true
+  }
+  "List<boolean>" ParliamentaryFuchsiaGiacinta3 {
+    _hidden_value = true
+  }
+  number ExternalEmeraldFlorie {
+    _hidden_value = true
+  }
+  string ResidentialIndigoJessamyn {
+    _hidden_value = true
+  }
+  "List<serviceid>" ProudBlueCathee2 {
+    _hidden_value = true
+  }
+  hidden_boolean NoisySilverSadie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json ProgressiveOliveMadella3 {
+    _hidden_value = true
+  }
+  json PricklyAquaAurlie2 {
+    _hidden_value = true
+  }
+  d1.SwissPlumMikaela SleepyTomatoSukey {
+    UndergroundScarletRona = 570
+    SatisfiedHarlequinJeana = "Why would the tomato blush? Because it saw the salad dressing."
+    DynamicPeachMarlyn = "How come the stadium got hot after the game? Because all of the fans left."
+    UselessRedNina = "What do you call two barracuda fish?  A Pairacuda!"
+    RegulatorySalmonQuintilla = "Whoever invented the knock-knock joke should get a no bell prize."
+    DrivingRoseOralle = {
+      legit = "What do you call two barracuda fish?  A Pairacuda!"
+    }
+    _hidden_value = true
+  }
+  serviceid VaguePinkMehetabel3 {
+    _hidden_value = true
+  }
+  number MagicOrangeMara {
+    _hidden_value = true
+  }
+  hidden_boolean KoreanSapphireRasla2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid UnfortunatePeachMarsha {
+    _hidden_value = true
+  }
+  d1.DEFAULT IntenseLavenderKattie3 {
+    _hidden_value = true
+  }
+  GiganticVioletUlrike = 537
+  VoluntaryGoldGwenette3 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  LocalBlueCharmane3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  PartialOliveLyndel2 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

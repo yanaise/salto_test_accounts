@@ -1,0 +1,80 @@
+type d1.OddFuchsiaGenevra3 {
+  serviceid InterimOrangeMalvina3 {
+  }
+  number RichCoffeeDoreen2 {
+  }
+  hidden_boolean AppallingTanSelene3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string EagerBeigeCandra5 {
+  }
+  serviceid_number EmpiricalPinkMeaghan3 {
+  }
+  serviceid_number ValidLavenderKesley2 {
+  }
+  serviceid_number AmbitiousPeachMaureen3 {
+  }
+  serviceid_number ChemicalGreenIsadora4 {
+  }
+  d1.EducationalCrimsonErnestine3 StaticSapphireRebekkah3 {
+    DesperateIvoryJunia = true
+    SorryBrownDanyelle4 = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    RomanticMagentaLeandra3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  string PublicBlushChrysa6 {
+  }
+  d1.MobilePurpleMoselle ResidentSalmonRae4 {
+    UrbanCyanFallon2 = "Did you know that protons have mass? I didn't even know they were catholic."
+    FashionableSapphireRenata3 = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    UnchangedSilverRozella = false
+    VastYellowZea = "To be Frank, I'd have to change my name."
+    ChemicalGreenIsahella2 = true
+  }
+  hidden_boolean FunnyEmeraldGabey {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean TremendousMagentaLeoine4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid HorizontalSalmonPru {
+  }
+  serviceid_number ColossalAmaranthAbbye7 {
+  }
+  number SplendidBlueCatina4 {
+  }
+  serviceid OtherBlueCeline5 {
+  }
+  d1.RequiredMaroonLetisha ObligedOrangeMarcelle2 {
+    BoredAquamarineBerri = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    LegitimatePinkMaybelle = {
+      legit = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    }
+    YummyYellowZorina2 = true
+    ShiveringAquaBabita2 = true
+  }
+  hidden_boolean FluffyAmberAlia4 {
+    _required = false
+    _hidden = true
+    _hidden_value = false
+  }
+  d1.FilthyTurquoiseTeodora SelectedPlumMillicent2 {
+    AbsoluteGreenImogene3 = "Dad Im hungry  Hi hungry Im dad"
+    NorthernCoralElectra3 = "Im only familiar with 25 letters in the English language. I dont know why."
+    SilkyAquaBabs = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    SweetGreenHolli = 49
+  }
+  boolean RainyAquaAurore3 {
+  }
+  serviceid RelatedIndigoJessamyn4 {
+  }
+}

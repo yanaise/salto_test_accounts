@@ -1,0 +1,109 @@
+type d1.HandsomeOliveMalena2 {
+  annotations {
+    number SufficientCrimsonEolande2 {
+    }
+    number RelatedIndigoJessamyn2 {
+    }
+    hidden_boolean ExtensiveGoldGlyn {
+    }
+    string GreatAmaranthAddi2 {
+    }
+    boolean RightBlushCherlyn2 {
+    }
+  }
+  number LoudLavenderKial4 {
+    _hidden_value = true
+  }
+  serviceid PureGrayHenriette2 {
+    _hidden_value = true
+  }
+  serviceid_number AllegedOliveLynne2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT LateAmethystAmata3 {
+    _hidden_value = true
+  }
+  serviceid_number LevelJadeKamila3 {
+    _hidden_value = true
+  }
+  d1.FancyTurquoiseTeirtza ShortYellowWilona4 {
+    TallYellowXylia = "What did one nut say as he chased another nut?  I'm a cashew!"
+    CheapCopperEdita = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    SharedPinkMelicent = 729
+    StuckRoseOralee = 572
+    SorryBrownDanyelle = 936
+    GoverningTanSelle = 302
+    JointCoralEliza = "To be Frank, I'd have to change my name."
+    SorryBrownDanyelle2 = 497
+    PainfulMaroonLilly = "Why would the tomato blush? Because it saw the salad dressing."
+    RichTomatoStorm = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    ImplicitSapphireRhea = 962
+    FlyingMoccasinLoralyn = false
+    _hidden_value = true
+  }
+  serviceid_number CharmingPlumMorgana {
+    _hidden_value = true
+  }
+  number LtdCoralElna4 {
+    _hidden_value = true
+  }
+  json CurrentBrownCynthy4 {
+    _hidden_value = true
+  }
+  boolean DistinctTurquoiseTatiana6 {
+    _hidden_value = true
+  }
+  json OfficialCopperDorisa2 {
+    _hidden_value = true
+  }
+  serviceid_number RespectiveSalmonPersis5 {
+    _hidden_value = true
+  }
+  serviceid_number GiantAmaranthAdaline2 {
+    _hidden_value = true
+  }
+  hidden_boolean StrangeTurquoiseTimmie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json PremierOrangeMari2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT WearyBeigeBrook4 {
+    _hidden_value = true
+  }
+  number VastEmeraldFreddi3 {
+    _hidden_value = true
+  }
+  number IrrelevantPurpleNanette2 {
+    _hidden_value = true
+  }
+  d1.AcuteLavenderKeri AverageTomatoTabbi {
+    TerribleBeigeBrinna = 738
+    ShrillApricotAntonetta = 861
+    FineBrownCourtenay = "What did one nut say as he chased another nut?  I'm a cashew!"
+    HelpfulBlackCarolin = true
+    ConsiderableChocolateDemetra = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    ThoughtfulBlueCaye = "Why do birds fly south for the winter? Because it's too far to walk."
+    LiveIndigoJody = "Whoever invented the knock-knock joke should get a no bell prize."
+    PoorBronzeCorene = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ShallowAmberAlmire = 391
+    ClosedMagentaLela = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  serviceid OddWhiteVinnie {
+    _hidden_value = true
+  }
+  serviceid_number ScrawnyYellowWilma3 {
+    _hidden_value = true
+  }
+  json StripedYellowWinonah2 {
+    _hidden_value = true
+  }
+  SufficientCrimsonEolande2 = 252
+  RelatedIndigoJessamyn2 = 949
+  GreatAmaranthAddi2 = "I'll tell you what often gets over looked... garden fences."
+  RightBlushCherlyn2 = false
+  _hidden_value = true
+}

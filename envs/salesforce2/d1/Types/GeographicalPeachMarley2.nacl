@@ -1,0 +1,65 @@
+type d1.GeographicalPeachMarley2 {
+  annotations {
+    boolean CivicTanShellie2 {
+    }
+    hidden_boolean NotablePeachMartie3 {
+    }
+    json AlliedPlumMissie {
+    }
+    json SystematicOrangeMarcelia {
+    }
+    serviceid_number WarmCopperDulcinea2 {
+    }
+    boolean MechanicalMagentaLeonora {
+    }
+  }
+  boolean SpareMaroonLillian2 {
+    _hidden_value = true
+  }
+  serviceid FatIvoryJoellen {
+    _hidden_value = true
+  }
+  string StrangeYellowWinnifred3 {
+    _hidden_value = true
+  }
+  string NoblePurpleNeda4 {
+    _hidden_value = true
+  }
+  string AnnualCoffeeDonni {
+    _hidden_value = true
+  }
+  number PublicBlushChristyna {
+    _hidden_value = true
+  }
+  boolean HealthyGoldGracia2 {
+    _hidden_value = true
+  }
+  json InnocentTealStacee {
+    _hidden_value = true
+  }
+  hidden_boolean NewBlueChandal {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json UptightBeigeBrittni3 {
+    _hidden_value = true
+  }
+  string FatIvoryJoellen2 {
+    _hidden_value = true
+  }
+  hidden_boolean SpanishGreenIrena2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid YoungAmethystAndee2 {
+    _hidden_value = true
+  }
+  CivicTanShellie2 = false
+  AlliedPlumMissie = "Why is Peter Pan always flying? Because he Neverlands."
+  SystematicOrangeMarcelia = "What do you call two barracuda fish?  A Pairacuda!"
+  WarmCopperDulcinea2 = 97
+  MechanicalMagentaLeonora = false
+  _hidden_value = true
+}

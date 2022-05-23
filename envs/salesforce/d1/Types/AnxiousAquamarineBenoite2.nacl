@@ -1,0 +1,46 @@
+type d1.AnxiousAquamarineBenoite2 {
+  annotations {
+    json BritishBlushCherilyn {
+    }
+    string RenewedSilverSandie {
+    }
+    string LexicalSilverSada2 {
+    }
+    number ClassicJadeKaja {
+    }
+    serviceid FairBlackCarley {
+    }
+    number HumanBronzeConstanta3 {
+    }
+  }
+  string UnfortunatePeachMarta2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT MassiveAmaranthAdriaens {
+    _hidden_value = true
+  }
+  json AnxiousAquamarineBenoite3 {
+    _hidden_value = true
+  }
+  hidden_boolean ConstantEmeraldFranny2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CompulsoryOrangeMalorie2 {
+    _hidden_value = true
+  }
+  number BusyCyanFayre4 {
+    _hidden_value = true
+  }
+  number ExcessSilverSara4 {
+    _hidden_value = true
+  }
+  BritishBlushCherilyn = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  RenewedSilverSandie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  LexicalSilverSada2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ClassicJadeKaja = 407
+  FairBlackCarley = "Why would the tomato blush? Because it saw the salad dressing."
+  HumanBronzeConstanta3 = 669
+  _hidden_value = true
+}

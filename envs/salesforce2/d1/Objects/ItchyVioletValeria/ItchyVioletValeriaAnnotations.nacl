@@ -1,0 +1,63 @@
+type d1.ItchyVioletValeria {
+  annotations {
+    string FlutteringAquaAtalanta {
+    }
+    string ComprehensiveGreenHyacinthia2 {
+    }
+    string DefinitePeachMartguerita3 {
+    }
+    d1.DominantIndigoJenelle PreciseIndigoJobi2 {
+    }
+    serviceid MajorBlushClara2 {
+    }
+    serviceid LightTurquoiseTessie5 {
+    }
+    json DrunkPeachMarlee5 {
+    }
+    serviceid_number BlackBlushClarisse4 {
+    }
+    boolean SweetAquaAshlan4 {
+    }
+    json MechanicalMagentaLeonie5 {
+    }
+    boolean SupremeGreenIsabel4 {
+    }
+    d1.RidiculousMoccasinLiz ProfoundPinkMerla8 {
+    }
+    d1.TightIvoryJoelly MuddyTurquoiseTheresina4 {
+    }
+    d1.KeenGrayHannah TinyAmaranthAgnella4 {
+    }
+    serviceid StrictLavenderKatha5 {
+    }
+    serviceid_number SurprisedEmeraldFredericka {
+    }
+    serviceid_number EuropeanBronzeCon {
+    }
+    boolean PrettyIndigoJennifer3 {
+    }
+    hidden_boolean AwfulAquamarineBernelle5 {
+    }
+    string DelightedIvoryJuliann2 {
+    }
+    serviceid_number FavourablePinkMercie5 {
+    }
+  }
+  FlutteringAquaAtalanta = "How come the stadium got hot after the game? Because all of the fans left."
+  ComprehensiveGreenHyacinthia2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  DefinitePeachMartguerita3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  MajorBlushClara2 = "Slept like a log last night  woke up in the fireplace."
+  LightTurquoiseTessie5 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  DrunkPeachMarlee5 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  BlackBlushClarisse4 = 320
+  SweetAquaAshlan4 = true
+  MechanicalMagentaLeonie5 = "Why was it called the dark ages? Because of all the knights. "
+  SupremeGreenIsabel4 = false
+  TinyAmaranthAgnella4 = true
+  StrictLavenderKatha5 = "A steak pun is a rare medium well done."
+  SurprisedEmeraldFredericka = 263
+  EuropeanBronzeCon = 558
+  PrettyIndigoJennifer3 = true
+  DelightedIvoryJuliann2 = "A steak pun is a rare medium well done."
+  FavourablePinkMercie5 = 853
+}

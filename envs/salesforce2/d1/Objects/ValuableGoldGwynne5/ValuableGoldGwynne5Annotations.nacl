@@ -1,0 +1,57 @@
+type d1.ValuableGoldGwynne5 {
+  annotations {
+    json UnawareSapphireReeta3 {
+    }
+    hidden_boolean HelpfulHarlequinJanette4 {
+    }
+    boolean RapidGrayHildagarde3 {
+    }
+    string CuteTomatoTanya {
+    }
+    string CommonBronzeConsuelo2 {
+    }
+    string BiologicalMaroonLetta3 {
+    }
+    boolean ShortBronzeColleen2 {
+    }
+    serviceid ScottishChocolateDelcina2 {
+    }
+    number SkinnyAmberAlvera {
+    }
+    boolean DifferentBlueCharline4 {
+    }
+    hidden_boolean IdenticalLimeKorrie3 {
+    }
+    json UnhappyMaroonLicha5 {
+    }
+    json TartYellowWynny {
+    }
+    json OralLimeKylila3 {
+    }
+    string AlertTomatoSydney2 {
+    }
+    d1.BigAmaranthAbbi2 FunnyVioletTwyla3 {
+    }
+    d1.OccupationalOliveMadel WickedScarletRoseanne3 {
+    }
+    boolean PlainIndigoJewell {
+    }
+    hidden_boolean HarshOliveMaia3 {
+    }
+  }
+  UnawareSapphireReeta3 = "Slept like a log last night  woke up in the fireplace."
+  RapidGrayHildagarde3 = false
+  CuteTomatoTanya = "What do you call two barracuda fish?  A Pairacuda!"
+  CommonBronzeConsuelo2 = "I'll tell you what often gets over looked... garden fences."
+  BiologicalMaroonLetta3 = "Why would the kid cross the playground? To get to the other slide."
+  ShortBronzeColleen2 = true
+  ScottishChocolateDelcina2 = "How come the stadium got hot after the game? Because all of the fans left."
+  SkinnyAmberAlvera = 181
+  DifferentBlueCharline4 = true
+  UnhappyMaroonLicha5 = "I'll tell you what often gets over looked... garden fences."
+  TartYellowWynny = "I'll tell you what often gets over looked... garden fences."
+  OralLimeKylila3 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  AlertTomatoSydney2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  WickedScarletRoseanne3 = false
+  PlainIndigoJewell = true
+}

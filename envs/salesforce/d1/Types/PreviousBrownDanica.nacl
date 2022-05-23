@@ -1,0 +1,56 @@
+type d1.PreviousBrownDanica {
+  annotations {
+    hidden_boolean InappropriateRoseOttilie {
+    }
+    serviceid_number ApparentCyanFawnia2 {
+    }
+    string RoughGreenIdaline {
+    }
+    json ModestLavenderKelsi3 {
+    }
+  }
+  serviceid_number SquareJadeKaia2 {
+    _hidden_value = true
+  }
+  json UglyPlumMicky3 {
+    _hidden_value = true
+  }
+  number CourageousBeigeCamilla {
+    _hidden_value = true
+  }
+  boolean MinisterialTanSheba {
+    _hidden_value = true
+  }
+  string FaintMaroonLita3 {
+    _hidden_value = true
+  }
+  json ImmenseAmaranthAdele5 {
+    _hidden_value = true
+  }
+  d1.OccasionalIvoryJuliette ApplicablePlumMireille {
+    UglyTurquoiseTiphani = "Im only familiar with 25 letters in the English language. I dont know why."
+    FairBlackCarlen = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    FuriousRedNicolle = 666
+    AbstractMaroonLilyan = 244
+    RipeApricotAriel = 538
+    OlympicRedNessa = 703
+    SignificantBrownDanna = "What do you do on a remote island? Try and find the TV island it belongs to."
+    TenderAquamarineBecca = true
+    MysteriousAzureBonita = 841
+    VastEmeraldFreddi = 618
+    ConstantEmeraldFrayda = "Why would the kid cross the playground? To get to the other slide."
+    BigAmaranthAbbi = 143
+    WorriedGrayHarri = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    _hidden_value = true
+  }
+  "List<string>" StillIndigoJoanne {
+    _hidden_value = true
+  }
+  string ShortYellowWilone2 {
+    _hidden_value = true
+  }
+  ApparentCyanFawnia2 = 937
+  RoughGreenIdaline = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ModestLavenderKelsi3 = "Why was it called the dark ages? Because of all the knights. "
+  _hidden_value = true
+}

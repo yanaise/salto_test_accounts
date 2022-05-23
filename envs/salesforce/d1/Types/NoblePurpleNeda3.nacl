@@ -1,0 +1,23 @@
+type d1.NoblePurpleNeda3 {
+  annotations {
+    d1.LongAmaranthAdina SuitableCrimsonEmelyne {
+    }
+    number WhiteBronzeClovis {
+    }
+    json ValidLavenderKerstin {
+    }
+    json PrettyIndigoJennie2 {
+    }
+    serviceid_number WastefulYellowZilvia {
+    }
+  }
+  "List<serviceid_number>" FoolishSapphireReiko3 {
+    _hidden_value = true
+  }
+  SuitableCrimsonEmelyne = "Why is Peter Pan always flying? Because he Neverlands."
+  WhiteBronzeClovis = 888
+  ValidLavenderKerstin = "What creature is smarter than a talking parrot? A spelling bee."
+  PrettyIndigoJennie2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  WastefulYellowZilvia = 866
+  _hidden_value = true
+}

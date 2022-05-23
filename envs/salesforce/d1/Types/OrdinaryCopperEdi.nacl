@@ -1,0 +1,49 @@
+type d1.OrdinaryCopperEdi is string {
+  annotations {
+    number SillyYellowWini {
+    }
+    d1.DEFAULT CruelAquamarineBessy {
+    }
+    serviceid_number TameYellowYalonda {
+    }
+    number RareWhiteWanda {
+    }
+    string SpareMaroonLillis {
+    }
+    serviceid_number StupidGreenIzabel {
+    }
+    string MaximumGreenIlyssa {
+    }
+    hidden_boolean WidespreadHarlequinJacquette {
+    }
+    serviceid TerritorialSalmonPriscella {
+    }
+    serviceid_number VariedRedNoreen {
+    }
+    boolean DangerousCrimsonEssie {
+    }
+    number UselessRedNinetta {
+    }
+    serviceid_number IntenseLavenderKatuscha {
+    }
+    serviceid SubtleMoccasinLucie {
+    }
+    hidden_boolean NotablePeachMartie {
+    }
+  }
+  SillyYellowWini = 937
+  CruelAquamarineBessy = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  TameYellowYalonda = 622
+  RareWhiteWanda = 546
+  SpareMaroonLillis = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  StupidGreenIzabel = 652
+  MaximumGreenIlyssa = "Why was it called the dark ages? Because of all the knights. "
+  TerritorialSalmonPriscella = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  VariedRedNoreen = 722
+  DangerousCrimsonEssie = true
+  UselessRedNinetta = 310
+  IntenseLavenderKatuscha = 41
+  SubtleMoccasinLucie = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+}

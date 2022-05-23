@@ -1,0 +1,128 @@
+type d1.PerfectCrimsonEtti {
+  annotations {
+    hidden_boolean EldestTanSharla2 {
+    }
+    serviceid_number PremierOrangeMari {
+    }
+    serviceid_number ReasonableCrimsonEmelda {
+    }
+    hidden_boolean EldestTanSharlene2 {
+    }
+    string ToughGoldGlenn {
+    }
+    json WorryingSilverRozanna {
+    }
+  }
+  string ProfoundPinkMerl {
+    _hidden_value = true
+  }
+  string SmallAmaranthAgathe {
+    _hidden_value = true
+  }
+  string IndirectPeachMary {
+    _hidden_value = true
+  }
+  number IdenticalLimeKorney {
+    _hidden_value = true
+  }
+  serviceid LegislativeMaroonLinea {
+    _hidden_value = true
+  }
+  hidden_boolean AmazingMoccasinLiza {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid DeepChocolateDelly {
+    _hidden_value = true
+  }
+  boolean AdditionalCopperDoti {
+    _hidden_value = true
+  }
+  hidden_boolean TechnicalCopperEdeline {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  json LatinLimeKlarrisa {
+    _hidden_value = true
+  }
+  string ComplicatedIndigoJoanna2 {
+    _hidden_value = true
+  }
+  serviceid_number WearyBeigeBrunhilda {
+    _hidden_value = true
+  }
+  number FantasticSapphireRegina {
+    _hidden_value = true
+  }
+  hidden_boolean UnexpectedMagentaLaureen3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean CriminalFuchsiaGeorgetta {
+    _hidden_value = true
+  }
+  serviceid ActualCopperEbonee2 {
+    _hidden_value = true
+  }
+  d1.LowBlushChristy GeneralBlushChristan3 {
+    ExplicitMaroonLisetta2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    UnevenAquamarineBeitris = "My first time using an elevator was an uplifting experience. The second time let me down."
+    TameTomatoSusette = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    KindOrangeMaribeth = "What do you call two barracuda fish?  A Pairacuda!"
+    BrokenAmaranthAilee = 557
+    RelievedSalmonPetronia = false
+    ComplexCopperDrucie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    PublicBlushChrysler = false
+    AverageCoralElysha = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    EntireEmeraldFranciska = 347
+    CurrentBrownDacey = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  hidden_boolean AddedPinkMelina2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean RepresentativePinkMerline {
+    _hidden_value = true
+  }
+  d1.NumerousHarlequinJandy IdenticalLimeKorie {
+    PuzzledTomatoStephie = false
+    SpecificBrownDarb = 911
+    PersistentRosePamela = 575
+    WorryingSilverRozamond = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GreenVioletUla = "What creature is smarter than a talking parrot? A spelling bee."
+    TinyAmaranthAgnes = true
+    SuccessfulBlueCatlee = "Slept like a log last night  woke up in the fireplace."
+    FamousTealSissie = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    KindOrangeMarice = "Slept like a log last night  woke up in the fireplace."
+    CriticalCrimsonEstele = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    LuckyBlackCassandry = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    FundamentalFuchsiaGenevieve = "How come the stadium got hot after the game? Because all of the fans left."
+    NutritiousWhiteVina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    CanadianPlumMinerva = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ExactLimeKore = "What did one nut say as he chased another nut?  I'm a cashew!"
+    RenewedSilverSandy = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    PeculiarPlumMicheline = "What creature is smarter than a talking parrot? A spelling bee."
+    SmoothAquamarineBarbey = false
+    NarrowAmberAllys = 473
+    EnvironmentalCoffeeDomini = 223
+    CombinedOliveMaighdiln = false
+    NuttyWhiteVikki = 743
+    TroubledBeigeBritta = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    KindBlackCaryl2 = "I'll tell you what often gets over looked... garden fences."
+    _hidden_value = true
+  }
+  PremierOrangeMari = 367
+  ReasonableCrimsonEmelda = 21
+  ToughGoldGlenn = "What creature is smarter than a talking parrot? A spelling bee."
+  WorryingSilverRozanna = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  _hidden_value = true
+}

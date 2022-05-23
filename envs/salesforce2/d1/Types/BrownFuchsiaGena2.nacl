@@ -1,0 +1,40 @@
+type d1.BrownFuchsiaGena2 {
+  annotations {
+    number StrictLavenderKatharine2 {
+    }
+    json OkSapphireRhianon3 {
+    }
+    json ModernAmethystAmelita2 {
+    }
+    boolean HarshAmethystAnitra {
+    }
+    json FrontCopperEadie3 {
+    }
+    json InquisitiveTealStacy2 {
+    }
+    hidden_boolean FullBlushChristiana2 {
+    }
+  }
+  hidden_boolean IntensiveMoccasinLura3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean VariableRedNollie4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean UnusualTurquoiseToby {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  StrictLavenderKatharine2 = 303
+  OkSapphireRhianon3 = "Why do birds fly south for the winter? Because it's too far to walk."
+  ModernAmethystAmelita2 = "To be Frank, I'd have to change my name."
+  HarshAmethystAnitra = true
+  FrontCopperEadie3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  InquisitiveTealStacy2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

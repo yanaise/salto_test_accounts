@@ -1,0 +1,50 @@
+type d1.ManyAmethystAngel is number {
+  annotations {
+    boolean MinorEmeraldGabie {
+    }
+    hidden_boolean ArrogantAquamarineBerget {
+    }
+    number SplendidOrangeMandy {
+    }
+    serviceid_number StaticSapphireRebeka {
+    }
+    json CircularRoseOrly {
+    }
+    boolean OrangeWhiteVinny {
+    }
+    serviceid PureGrayHermia {
+    }
+    json BreezyAmaranthAigneis {
+    }
+    boolean MiserableSalmonRachael {
+    }
+    boolean DomesticCopperEaster {
+    }
+    serviceid_number KoreanSapphireRasia {
+    }
+    serviceid_number PrivateBronzeCoreen {
+    }
+    serviceid ShockedPinkMelisandra {
+    }
+    serviceid_number ObedientBlackCassondra {
+    }
+    number RapidAmethystAmy2 {
+    }
+    hidden_boolean FirmGrayHedda {
+    }
+  }
+  MinorEmeraldGabie = true
+  SplendidOrangeMandy = 912
+  StaticSapphireRebeka = 321
+  CircularRoseOrly = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  OrangeWhiteVinny = true
+  PureGrayHermia = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  BreezyAmaranthAigneis = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MiserableSalmonRachael = false
+  DomesticCopperEaster = true
+  KoreanSapphireRasia = 557
+  PrivateBronzeCoreen = 833
+  ShockedPinkMelisandra = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ObedientBlackCassondra = 694
+  RapidAmethystAmy2 = 687
+}

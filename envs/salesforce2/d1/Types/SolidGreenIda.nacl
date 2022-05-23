@@ -1,0 +1,75 @@
+type d1.SolidGreenIda {
+  annotations {
+    number AggressiveMaroonLiliane3 {
+    }
+    serviceid_number SuspiciousPurpleMyrle {
+    }
+    string BriefEmeraldFlorrie2 {
+    }
+  }
+  boolean BrightVioletTove2 {
+    _hidden_value = true
+  }
+  hidden_boolean IntactRosePatti {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid SeparateCopperDorolisa {
+    _hidden_value = true
+  }
+  hidden_boolean BriefEmeraldFlory2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean SuccessiveMoccasinLois {
+    _hidden_value = true
+  }
+  hidden_boolean SatisfactoryLimeKrissy4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number UndergroundScarletRomonda2 {
+    _hidden_value = true
+  }
+  hidden_boolean AppallingTanSelene2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number LittleBlushChiquia {
+    _hidden_value = true
+  }
+  serviceid_number CleanCyanFernande {
+    _hidden_value = true
+  }
+  hidden_boolean StraightAmethystAlysia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  number ClassicJadeKaitlyn {
+    _hidden_value = true
+  }
+  d1.DEFAULT UptightBeigeBrittne2 {
+    _hidden_value = true
+  }
+  json TerribleBeigeBrinna2 {
+    _hidden_value = true
+  }
+  json RemoteIndigoJenica {
+    _hidden_value = true
+  }
+  string ComplexCopperDrucill {
+    _hidden_value = true
+  }
+  string PreliminaryOliveLynea2 {
+    _hidden_value = true
+  }
+  AggressiveMaroonLiliane3 = 680
+  SuspiciousPurpleMyrle = 459
+  BriefEmeraldFlorrie2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  _hidden_value = true
+}

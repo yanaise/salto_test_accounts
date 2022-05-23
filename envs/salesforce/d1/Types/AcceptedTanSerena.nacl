@@ -1,0 +1,25 @@
+type d1.AcceptedTanSerena is boolean {
+  annotations {
+    serviceid HarshOliveMaia {
+    }
+    string EvolutionarySilverRuby {
+    }
+    string SoundAmethystAngelika {
+    }
+    string ExtraCoffeeDiandra {
+    }
+    string QuaintWhiteVivianna {
+    }
+    hidden_boolean TurkishPurpleMoyra {
+    }
+    hidden_boolean ExtremeHarlequinJackie {
+    }
+    hidden_boolean BadAquamarineBerni {
+    }
+  }
+  HarshOliveMaia = "Why was it called the dark ages? Because of all the knights. "
+  EvolutionarySilverRuby = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  SoundAmethystAngelika = "Whoever invented the knock-knock joke should get a no bell prize."
+  ExtraCoffeeDiandra = "Did you know that protons have mass? I didn't even know they were catholic."
+  QuaintWhiteVivianna = "Why is Peter Pan always flying? Because he Neverlands."
+}

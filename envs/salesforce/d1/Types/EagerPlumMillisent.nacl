@@ -1,0 +1,75 @@
+type d1.EagerPlumMillisent {
+  annotations {
+    d1.AcceptedTanSerena ElegantTurquoiseTeddie4 {
+    }
+    d1.ExistingCoffeeDeva MutualLimeKimberley {
+    }
+    d1.DEFAULT IllAzureBobbette {
+    }
+    serviceid_number RegionalCopperDoria {
+    }
+    boolean ParentalRedNicki2 {
+    }
+  }
+  hidden_boolean ViolentIvoryJolene3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string FellowJadeJustine2 {
+    _hidden_value = true
+  }
+  number BewilderedAquamarineBernita3 {
+    _hidden_value = true
+  }
+  d1.SpectacularMaroonLibbie SpontaneousTanShaun2 {
+    FriendlyBlackCarma = 475
+    FrightenedMagentaLavena = 593
+    RepulsiveBeigeBrena = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    UptightBeigeBrittni = {
+      legit = "Slept like a log last night  woke up in the fireplace."
+    }
+    ExactLimeKordula2 = 175
+    LocalBlueCharmian = {
+      legit = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    }
+    SensibleIvoryJordana = "To be Frank, I'd have to change my name."
+    MonetaryIvoryJoey = "Why would the tomato blush? Because it saw the salad dressing."
+    WickedBeigeBryna = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AshamedScarletRosamund = 417
+    ChillyAmaranthAilsun = 265
+    CooingAmethystAngelique = 52
+    FatalPurpleMyrtle = 405
+    ThoughtlessBeigeBrinna = "Why do birds fly south for the winter? Because it's too far to walk."
+    EvilAzureBili = 773
+    RelievedBlueCathie = true
+    CleverTealSibeal = "Why would the kid cross the playground? To get to the other slide."
+    GrowingCrimsonEnrichetta = 57
+    _hidden_value = true
+  }
+  serviceid_number SaltyApricotArleen2 {
+    _hidden_value = true
+  }
+  boolean PlainIndigoJewelle2 {
+    _hidden_value = true
+  }
+  serviceid CompatibleSapphireRenelle {
+    _hidden_value = true
+  }
+  serviceid_number LeftCoffeeDeny {
+    _hidden_value = true
+  }
+  hidden_boolean StingyYellowWinnah2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  ElegantTurquoiseTeddie4 = false
+  MutualLimeKimberley = true
+  IllAzureBobbette = {
+    legit = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  }
+  RegionalCopperDoria = 31
+  ParentalRedNicki2 = true
+  _hidden_value = true
+}

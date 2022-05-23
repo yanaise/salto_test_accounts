@@ -1,0 +1,100 @@
+type d1.AbsoluteGreenImogen {
+  annotations {
+    serviceid_number ColorfulTomatoTandi2 {
+    }
+    d1.UnemployedIvoryJoly BlackBlushClarisse3 {
+    }
+    hidden_boolean CombativeAquamarineBerta4 {
+    }
+    hidden_boolean AestheticSapphireReba3 {
+    }
+    boolean RespectableRosePearl2 {
+    }
+    json BrightVioletTova4 {
+    }
+  }
+  hidden_boolean PastCoffeeDianna5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid HissingApricotAnnmarie2 {
+    _hidden_value = true
+  }
+  string FortunateRoseOllie2 {
+    _hidden_value = true
+  }
+  number SubjectiveSapphireRiannon2 {
+    _hidden_value = true
+  }
+  string BrokenAmaranthAile3 {
+    _hidden_value = true
+  }
+  serviceid_number ComplicatedIndigoJoanne {
+    _hidden_value = true
+  }
+  json FavouriteHarlequinJacqueline {
+    _hidden_value = true
+  }
+  json TallAmaranthAggie {
+    _hidden_value = true
+  }
+  string SmallBlueCharlean2 {
+    _hidden_value = true
+  }
+  string PsychologicalIvoryJoice2 {
+    _hidden_value = true
+  }
+  serviceid_number EldestTanSharlene4 {
+    _hidden_value = true
+  }
+  number ModernTealStar3 {
+    _hidden_value = true
+  }
+  "List<string>" AustralianJadeKat2 {
+    _hidden_value = true
+  }
+  number JapaneseCyanFidela3 {
+    _hidden_value = true
+  }
+  serviceid HorribleVioletValene2 {
+    _hidden_value = true
+  }
+  "List<boolean>" ClosedMagentaLeila4 {
+    _hidden_value = true
+  }
+  "List<boolean>" BadTurquoiseTobye {
+    _hidden_value = true
+  }
+  d1.LongAmaranthAdina ElderlyEmeraldFlorencia {
+    GrubbyAquaAubry = {
+      legit = "Why would the kid cross the playground? To get to the other slide."
+    }
+    GloriousScarletRose2 = true
+    _hidden_value = true
+  }
+  hidden_boolean MoralCyanFenelia2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string HollowAmberAllissa2 {
+    _hidden_value = true
+  }
+  string CarefulCyanFern2 {
+    _hidden_value = true
+  }
+  hidden_boolean CrookedAmberAlison3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.DEFAULT LeftCoffeeDennie {
+    _hidden_value = true
+  }
+  ColorfulTomatoTandi2 = 559
+  BlackBlushClarisse3 = true
+  RespectableRosePearl2 = true
+  BrightVioletTova4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

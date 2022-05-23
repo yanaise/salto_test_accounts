@@ -1,0 +1,22 @@
+type d1.MarriedCyanFannie is string {
+  annotations {
+    string WonderfulYellowZoe {
+    }
+    serviceid UsualCoralElmira {
+    }
+    boolean ProtestantScarletRobina {
+    }
+    string InquisitiveTealStacia {
+    }
+    boolean RoundIvoryJohnette {
+    }
+    serviceid_number QuickestWhiteVonnie {
+    }
+  }
+  WonderfulYellowZoe = "Dad Im hungry  Hi hungry Im dad"
+  UsualCoralElmira = "What creature is smarter than a talking parrot? A spelling bee."
+  ProtestantScarletRobina = true
+  InquisitiveTealStacia = "To be Frank, I'd have to change my name."
+  RoundIvoryJohnette = true
+  QuickestWhiteVonnie = 497
+}

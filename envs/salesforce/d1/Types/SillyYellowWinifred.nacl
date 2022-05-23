@@ -1,0 +1,85 @@
+type d1.SillyYellowWinifred {
+  annotations {
+    number ForthcomingPeachMarris2 {
+    }
+    string HurtAzureBlondie4 {
+    }
+    serviceid_number TastyAquaAshlie3 {
+    }
+    serviceid AutonomousScarletRonny {
+    }
+    boolean ColourfulScarletRosalia3 {
+    }
+    serviceid GrumpyVioletUrsulina2 {
+    }
+  }
+  json CompetentSalmonPeri {
+    _hidden_value = true
+  }
+  serviceid_number ProfitablePurpleNanon {
+    _hidden_value = true
+  }
+  d1.AdverseSapphireRanna ManualRosePaola2 {
+    CleanTomatoTami = 27
+    DreadfulPinkMerrile2 = 372
+    CompulsoryOrangeMalorie = true
+    VividTanShawna = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    _hidden_value = true
+  }
+  hidden_boolean WearyBeigeBrunhilda3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number UnsightlyTurquoiseTisha2 {
+    _hidden_value = true
+  }
+  hidden_boolean WastefulYellowZia4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number GeneralBlushChristean5 {
+    _hidden_value = true
+  }
+  hidden_boolean EnviousAzureBiddy5 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number UncomfortablePlumModestine {
+    _hidden_value = true
+  }
+  d1.DEFAULT FriendlyVioletTrudy3 {
+    _hidden_value = true
+  }
+  boolean AcademicEmeraldFrieda3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT DreadfulPinkMerrill {
+    _hidden_value = true
+  }
+  json GrimScarletRonnica2 {
+    _hidden_value = true
+  }
+  hidden_boolean WesternChocolateDehlia {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.AcceptedTanSerena RegulatorySalmonQuintilla3 {
+    HarshOliveMaia = "My first time using an elevator was an uplifting experience. The second time let me down."
+    EvolutionarySilverRuby = "Why would the kid cross the playground? To get to the other slide."
+    SoundAmethystAngelika = "My first time using an elevator was an uplifting experience. The second time let me down."
+    ExtraCoffeeDiandra = "Why do birds fly south for the winter? Because it's too far to walk."
+    QuaintWhiteVivianna = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  ForthcomingPeachMarris2 = 899
+  HurtAzureBlondie4 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  TastyAquaAshlie3 = 656
+  AutonomousScarletRonny = "What creature is smarter than a talking parrot? A spelling bee."
+  ColourfulScarletRosalia3 = true
+  GrumpyVioletUrsulina2 = "To be Frank, I'd have to change my name."
+  _hidden_value = true
+}

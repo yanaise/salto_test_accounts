@@ -1,0 +1,88 @@
+type d1.DirectChocolateDeana {
+  annotations {
+    boolean SmoothAquamarineBarbi {
+    }
+    number LtdCoralElna {
+    }
+    number ScaryBeigeBriana {
+    }
+    number AutomaticLavenderKi3 {
+    }
+    serviceid StaleAquaArlinda {
+    }
+    serviceid DifferentTealSilvie2 {
+    }
+  }
+  hidden_boolean InadequateLavenderKeeley {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number OutdoorSilverSascha {
+    _hidden_value = true
+  }
+  hidden_boolean MotionlessTurquoiseThelma {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid PriorRosePauli {
+    _hidden_value = true
+  }
+  string DistinguishedPurpleNathalia {
+    _hidden_value = true
+  }
+  string AbsentPinkMelony {
+    _hidden_value = true
+  }
+  hidden_boolean UnitedCopperEddi2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number UnemployedIvoryJoline2 {
+    _hidden_value = true
+  }
+  serviceid CreepyAmberAlaine4 {
+    _hidden_value = true
+  }
+  boolean NastyMaroonLisha {
+    _hidden_value = true
+  }
+  serviceid IncreasedCrimsonEstelle {
+    _hidden_value = true
+  }
+  json HomelessAzureBlinnie2 {
+    _hidden_value = true
+  }
+  serviceid_number PerfectBlackCate2 {
+    _hidden_value = true
+  }
+  json TeenageScarletRobinetta {
+    _hidden_value = true
+  }
+  boolean PsychologicalIvoryJolee2 {
+    _hidden_value = true
+  }
+  hidden_boolean MarvellousMoccasinLorne {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ParentalRedNicholle {
+    _hidden_value = true
+  }
+  boolean JoyousBlackCarry2 {
+    _hidden_value = true
+  }
+  boolean RoundIvoryJohnette2 {
+    _hidden_value = true
+  }
+  SmoothAquamarineBarbi = false
+  LtdCoralElna = 897
+  ScaryBeigeBriana = 896
+  AutomaticLavenderKi3 = 60
+  StaleAquaArlinda = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DifferentTealSilvie2 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  _hidden_value = true
+}

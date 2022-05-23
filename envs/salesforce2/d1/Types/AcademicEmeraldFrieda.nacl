@@ -1,0 +1,72 @@
+type d1.AcademicEmeraldFrieda {
+  annotations {
+    json ExpensiveCrimsonErnaline2 {
+    }
+    d1.LatinLimeKonstanze EthicalScarletRobenia3 {
+    }
+    string DistinctTurquoiseTatiana3 {
+    }
+    serviceid LocalBlueCharmaine {
+    }
+    json ParticularBlushClaudelle2 {
+    }
+    json DirtyIvoryJosefa {
+    }
+    hidden_boolean RadicalGrayHelenelizabeth2 {
+    }
+  }
+  boolean UnknownFuchsiaGilberte2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" WellFuchsiaGisela2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number LivingGrayHenrieta {
+    _hidden_value = true
+  }
+  serviceid_number OuterJadeKaron2 {
+    _hidden_value = true
+  }
+  boolean InterimOrangeMalva {
+    _hidden_value = true
+  }
+  "List<boolean>" CognitiveSalmonQuerida3 {
+    _hidden_value = true
+  }
+  boolean WarmCopperDulcy2 {
+    _hidden_value = true
+  }
+  boolean SubtleMoccasinLucienne {
+    _hidden_value = true
+  }
+  json MarriedCyanFanni2 {
+    _hidden_value = true
+  }
+  number SpatialSalmonPerla {
+    _hidden_value = true
+  }
+  string ComfortableBeigeCamella3 {
+    _hidden_value = true
+  }
+  number FatIvoryJoelly {
+    _hidden_value = true
+  }
+  serviceid AgriculturalGoldGoldia2 {
+    _hidden_value = true
+  }
+  serviceid_number UnitedCopperEddy2 {
+    _hidden_value = true
+  }
+  number ConservativeCoralEllene {
+    _hidden_value = true
+  }
+  ExpensiveCrimsonErnaline2 = "What do you call two barracuda fish?  A Pairacuda!"
+  EthicalScarletRobenia3 = 920
+  DistinctTurquoiseTatiana3 = "A steak pun is a rare medium well done."
+  LocalBlueCharmaine = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ParticularBlushClaudelle2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  DirtyIvoryJosefa = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  _hidden_value = true
+}

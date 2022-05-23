@@ -1,0 +1,27 @@
+type d1.DullVioletTrisha {
+  annotations {
+    hidden_boolean GloriousBlackCarmine5 {
+    }
+    serviceid CulturalCoralElicia2 {
+    }
+    serviceid GrossLavenderKettie {
+    }
+    hidden_boolean LengthySapphireRania4 {
+    }
+    serviceid_number ChubbyAmberAlina2 {
+    }
+    serviceid CivilianSapphireRandee {
+    }
+  }
+  boolean BloodyCyanFedora3 {
+    _hidden_value = true
+  }
+  serviceid_number RigidPinkMerrily4 {
+    _hidden_value = true
+  }
+  CulturalCoralElicia2 = "What creature is smarter than a talking parrot? A spelling bee."
+  GrossLavenderKettie = "Slept like a log last night  woke up in the fireplace."
+  ChubbyAmberAlina2 = 13
+  CivilianSapphireRandee = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  _hidden_value = true
+}

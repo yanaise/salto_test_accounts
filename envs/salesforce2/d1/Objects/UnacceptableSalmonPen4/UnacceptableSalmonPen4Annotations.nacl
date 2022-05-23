@@ -1,0 +1,62 @@
+type d1.UnacceptableSalmonPen4 {
+  annotations {
+    hidden_boolean SadYellowWilletta4 {
+    }
+    hidden_boolean HappyBrownDaisy4 {
+    }
+    d1.AwfulAquamarineBernete2 ClearBlushCindy3 {
+    }
+    serviceid_number BrownFuchsiaGaylene2 {
+    }
+    hidden_boolean EuropeanBronzeConcordia3 {
+    }
+    boolean FlexibleLavenderKathrine {
+    }
+    hidden_boolean TenderRedOdelinda4 {
+    }
+    number NuttyWhiteVikki6 {
+    }
+    json NursingSalmonPhaedra2 {
+    }
+    number ArtificialMagentaLenka3 {
+    }
+    json LateAmethystAmata6 {
+    }
+    json AwareChocolateDasi3 {
+    }
+    json FriendlyBlackCarlynn3 {
+    }
+    serviceid_number MidPinkMelisse3 {
+    }
+    d1.StrongBronzeColly AcceptedTanSerene4 {
+    }
+    boolean ScaredSapphireRahal3 {
+    }
+    boolean CoolGreenIolande4 {
+    }
+    string RegularCopperDorthea2 {
+    }
+    serviceid ScientificCrimsonErda {
+    }
+    string RulingLimeKippie3 {
+    }
+    string FluffyAmberAlia3 {
+    }
+  }
+  BrownFuchsiaGaylene2 = 178
+  FlexibleLavenderKathrine = false
+  NuttyWhiteVikki6 = 944
+  NursingSalmonPhaedra2 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  ArtificialMagentaLenka3 = 215
+  LateAmethystAmata6 = "Why do birds fly south for the winter? Because it's too far to walk."
+  AwareChocolateDasi3 = "Why is Peter Pan always flying? Because he Neverlands."
+  FriendlyBlackCarlynn3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  MidPinkMelisse3 = 991
+  AcceptedTanSerene4 = 119
+  ScaredSapphireRahal3 = false
+  CoolGreenIolande4 = false
+  RegularCopperDorthea2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  ScientificCrimsonErda = "Im only familiar with 25 letters in the English language. I dont know why."
+  RulingLimeKippie3 = "What do you call two barracuda fish?  A Pairacuda!"
+  FluffyAmberAlia3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+}

@@ -1,0 +1,90 @@
+type d1.ComplexCopperDrucie2 {
+  annotations {
+    serviceid_number SingleBronzeCorabella2 {
+    }
+    serviceid_number GiganticAmaranthAdara {
+    }
+    string ModernTealStarla {
+    }
+    json IncredibleRosePatty {
+    }
+    number VariousBrownCorry {
+    }
+    d1.DEFAULT PresidentialLimeKrystalle2 {
+    }
+  }
+  serviceid EntitledIvoryJuliane {
+    _hidden_value = true
+  }
+  serviceid LikelyBlushClarice2 {
+    _hidden_value = true
+  }
+  serviceid HealthyGoldGracia {
+    _hidden_value = true
+  }
+  hidden_boolean HarshOliveMahalia {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid ExcessSilverSara {
+    _hidden_value = true
+  }
+  string PoliticalBlushChloe {
+    _hidden_value = true
+  }
+  number GloriousScarletRosanne {
+    _hidden_value = true
+  }
+  string CompetitiveGrayHeida {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" FineBrownCourtenay2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.StrongBronzeColly StupidTomatoSunshine {
+    MilitaryChocolateDarlleen = "Why is Peter Pan always flying? Because he Neverlands."
+    SophisticatedJadeKarlie = "Slept like a log last night  woke up in the fireplace."
+    ElectricGreenIngrid = true
+    FatVioletTrixie = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    AdditionalCopperDotti = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    UnderlyingLimeKoressa = true
+    MoralCyanFenelia = true
+    BraveMoccasinLucinda = "What creature is smarter than a talking parrot? A spelling bee."
+    SpectacularMaroonLibbi = false
+    ExpectedLimeLaney = true
+    IsraeliPinkMeriel = 157
+    ExceptionalOliveMadonna = true
+    DefensiveRoseOpal = 34
+    AnxiousHarlequinJanna2 = 966
+    SweetAquaAshien = false
+    LongAmaranthAdi = "Did you know that protons have mass? I didn't even know they were catholic."
+    _hidden_value = true
+  }
+  boolean DeliciousScarletRodi {
+    _hidden_value = true
+  }
+  string LiableLimeKimberlyn3 {
+    _hidden_value = true
+  }
+  string GrumpyVioletUrsulina {
+    _hidden_value = true
+  }
+  string FranticAzureBird {
+    _hidden_value = true
+  }
+  string FashionableSapphireRenata4 {
+    _hidden_value = true
+  }
+  SingleBronzeCorabella2 = 721
+  GiganticAmaranthAdara = 360
+  ModernTealStarla = "Why is Peter Pan always flying? Because he Neverlands."
+  IncredibleRosePatty = "Why do birds fly south for the winter? Because it's too far to walk."
+  VariousBrownCorry = 582
+  PresidentialLimeKrystalle2 = {
+    legit = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  }
+  _hidden_value = true
+}

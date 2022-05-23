@@ -1,0 +1,158 @@
+type d1.MinimalPlumMorganne {
+  annotations {
+    json HugeCoffeeDoralynn3 {
+    }
+    serviceid OutstandingIndigoJenna4 {
+    }
+    d1.DEFAULT SmallAmaranthAgathe3 {
+    }
+    boolean RapidGrayHildagard2 {
+    }
+  }
+  hidden_boolean YoungBlueCheri2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number ZanyBlueCelie {
+    _hidden_value = true
+  }
+  serviceid_number SunnyTanSharl {
+    _hidden_value = true
+  }
+  serviceid_number BoldPlumMinnaminnie2 {
+    _hidden_value = true
+  }
+  serviceid ColonialPeachMaudie2 {
+    _hidden_value = true
+  }
+  boolean ArtisticPeachMasha3 {
+    _hidden_value = true
+  }
+  hidden_boolean TragicRosePavia3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid ThoughtlessBeigeBriny {
+    _hidden_value = true
+  }
+  number EverydayLimeKyrstin2 {
+    _hidden_value = true
+  }
+  number ElectoralLimeKristin2 {
+    _hidden_value = true
+  }
+  boolean InformalLavenderKathie2 {
+    _hidden_value = true
+  }
+  boolean QuickCoralElenore3 {
+    _hidden_value = true
+  }
+  number OriginalChocolateDarryl {
+    _hidden_value = true
+  }
+  serviceid_number DeliciousApricotArdisj {
+    _hidden_value = true
+  }
+  d1.DEFAULT JitteryVioletValeria3 {
+    _hidden_value = true
+  }
+  json ConvenientMagentaLeesa2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT AtomicScarletRorie4 {
+    _hidden_value = true
+  }
+  serviceid_number InsufficientPurpleNedi {
+    _hidden_value = true
+  }
+  hidden_boolean ColonialPeachMaudie3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  string TheoreticalIndigoJenifer3 {
+    _hidden_value = true
+  }
+  serviceid BlueVioletTori {
+    _hidden_value = true
+  }
+  number WorldwideTanShannen {
+    _hidden_value = true
+  }
+  number HappyVioletVale2 {
+    _hidden_value = true
+  }
+  serviceid_number YoungBlueCher2 {
+    _hidden_value = true
+  }
+  number MarineMagentaLeone2 {
+    _hidden_value = true
+  }
+  json BreakableTealShir3 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" DangerousCrimsonEssie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean WeirdSilverRoze {
+    _hidden_value = true
+  }
+  number NeighbouringPurpleNananne3 {
+    _hidden_value = true
+  }
+  "List<boolean>" AdditionalCopperDotty3 {
+    _hidden_value = true
+  }
+  json KindBlackCasandra {
+    _hidden_value = true
+  }
+  serviceid GoodBlackCarol {
+    _hidden_value = true
+  }
+  string ShakyAquaAvril {
+    _hidden_value = true
+  }
+  number HolyIndigoJemie2 {
+    _hidden_value = true
+  }
+  "List<serviceid_number>" WealthyPeachMaryjane3 {
+    _hidden_value = true
+  }
+  serviceid_number VerbalPinkMaxie {
+    _hidden_value = true
+  }
+  hidden_boolean SpiritualLavenderKatrine2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number ForeignBronzeCorinna {
+    _hidden_value = true
+  }
+  number EqualCrimsonEmilia3 {
+    _hidden_value = true
+  }
+  string WeirdSilverRoze2 {
+    _hidden_value = true
+  }
+  serviceid_number DevelopedPinkMerilyn4 {
+    _hidden_value = true
+  }
+  serviceid GrumpyVioletUrsuline {
+    _hidden_value = true
+  }
+  json ScreechingApricotAnthe {
+    _hidden_value = true
+  }
+  HugeCoffeeDoralynn3 = "A steak pun is a rare medium well done."
+  OutstandingIndigoJenna4 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SmallAmaranthAgathe3 = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  RapidGrayHildagard2 = true
+  _hidden_value = true
+}

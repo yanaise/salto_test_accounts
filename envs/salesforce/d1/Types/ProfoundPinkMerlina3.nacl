@@ -1,0 +1,52 @@
+type d1.ProfoundPinkMerlina3 {
+  annotations {
+    string RealTomatoStesha2 {
+    }
+    string IdealEmeraldFredi3 {
+    }
+    string PerfectBlackCatarina {
+    }
+    serviceid DirtyIvoryJosepha2 {
+    }
+    json JitteryVioletValerye {
+    }
+    number ExclusiveMagentaLatisha {
+    }
+  }
+  boolean FormalCoralElka {
+    _hidden_value = true
+  }
+  "List<string>" InsufficientPurpleNeely {
+    _hidden_value = true
+  }
+  hidden_boolean UptightBeigeBrittni2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number LightCopperDulcinea {
+    _hidden_value = true
+  }
+  string ConsistentHarlequinJanka {
+    _hidden_value = true
+  }
+  serviceid HonestIndigoJerrine2 {
+    _hidden_value = true
+  }
+  string FrequentLavenderKatie2 {
+    _hidden_value = true
+  }
+  number DearGoldGloria {
+    _hidden_value = true
+  }
+  string IrishCrimsonErmina {
+    _hidden_value = true
+  }
+  RealTomatoStesha2 = "Why would the kid cross the playground? To get to the other slide."
+  IdealEmeraldFredi3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  PerfectBlackCatarina = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DirtyIvoryJosepha2 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  JitteryVioletValerye = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  ExclusiveMagentaLatisha = 214
+  _hidden_value = true
+}

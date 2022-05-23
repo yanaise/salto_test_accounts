@@ -1,0 +1,19 @@
+type d1.PlannedPlumMiran {
+  annotations {
+    boolean RipeApricotAriel2 {
+    }
+    hidden_boolean RelativeGoldGuglielma {
+    }
+    json UnhappyMaroonLida {
+    }
+    serviceid JitteryVioletValeria2 {
+    }
+  }
+  boolean CivicTanShelli3 {
+    _hidden_value = true
+  }
+  RipeApricotAriel2 = true
+  UnhappyMaroonLida = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  JitteryVioletValeria2 = "Why would the tomato blush? Because it saw the salad dressing."
+  _hidden_value = true
+}

@@ -1,0 +1,55 @@
+type d1.WoodenGreenHoratia4 {
+  annotations {
+    d1.DEFAULT WeakAquamarineBelia2 {
+    }
+    hidden_boolean GentleBlackCarmelle2 {
+    }
+    string SpanishGreenIormina2 {
+    }
+    string LargeAmaranthAdelind3 {
+    }
+    serviceid AverageTomatoTabbatha3 {
+    }
+  }
+  number ControversialLimeKyla2 {
+    _hidden_value = true
+  }
+  json RainyAquaAurore2 {
+    _hidden_value = true
+  }
+  serviceid_number ExoticScarletRisa {
+    _hidden_value = true
+  }
+  serviceid_number PositiveCoffeeDominica2 {
+    _hidden_value = true
+  }
+  boolean InnerFuchsiaGenovera3 {
+    _hidden_value = true
+  }
+  hidden_boolean ScaredSalmonRafaelia {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string CommercialCopperDorena3 {
+    _hidden_value = true
+  }
+  "List<boolean>" HostileOrangeMariejeanne3 {
+    _hidden_value = true
+  }
+  hidden_boolean SelectSalmonPhil {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean TestyYellowYolane {
+    _hidden_value = true
+  }
+  WeakAquamarineBelia2 = {
+    legit = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  }
+  SpanishGreenIormina2 = "What creature is smarter than a talking parrot? A spelling bee."
+  LargeAmaranthAdelind3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  AverageTomatoTabbatha3 = "Did you know that protons have mass? I didn't even know they were catholic."
+  _hidden_value = true
+}

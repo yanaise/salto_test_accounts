@@ -1,0 +1,55 @@
+type d1.WoodenGreenHortense {
+  annotations {
+    hidden_boolean OrdinaryCopperEdie {
+    }
+    serviceid CapableEmeraldFlorinda {
+    }
+    string ColourfulScarletRosalia2 {
+    }
+  }
+  boolean LuckyFuchsiaGinnie {
+    _hidden_value = true
+  }
+  serviceid_number EuropeanBronzeConcettina {
+    _hidden_value = true
+  }
+  hidden_boolean SillyYellowWinna {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean ProductivePlumMommy {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.TameTomatoSusannah ElderlyEmeraldFlorence {
+    TragicRosePauline = "How come the stadium got hot after the game? Because all of the fans left."
+    ScornfulBeigeBrianna = true
+    _hidden_value = true
+  }
+  json HeadPinkMegen {
+    _hidden_value = true
+  }
+  serviceid IsolatedPeachMarjory {
+    _hidden_value = true
+  }
+  string WonderfulBlueCelene {
+    _hidden_value = true
+  }
+  number FemaleCrimsonEmmi {
+    _hidden_value = true
+  }
+  serviceid EssentialCoffeeDionne {
+    _hidden_value = true
+  }
+  number SophisticatedJadeKarlotte {
+    _hidden_value = true
+  }
+  json FascinatingOrangeMargarete {
+    _hidden_value = true
+  }
+  CapableEmeraldFlorinda = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  ColourfulScarletRosalia2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  _hidden_value = true
+}

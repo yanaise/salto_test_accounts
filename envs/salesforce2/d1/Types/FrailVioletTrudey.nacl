@@ -1,0 +1,39 @@
+type d1.FrailVioletTrudey {
+  annotations {
+    json WideBronzeCorine3 {
+    }
+    serviceid_number CoolAmberAinslie {
+    }
+    hidden_boolean OutstandingTealStefania {
+    }
+    string BalancedSilverRosita3 {
+    }
+    hidden_boolean GreenVioletUla2 {
+    }
+    serviceid_number FutureCoffeeDolly2 {
+    }
+  }
+  hidden_boolean AmericanBronzeCorrie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean MassiveFuchsiaGerri {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid UnderlyingLimeKoressa3 {
+    _hidden_value = true
+  }
+  hidden_boolean KoreanSapphireRaquela2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  WideBronzeCorine3 = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CoolAmberAinslie = 926
+  BalancedSilverRosita3 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  FutureCoffeeDolly2 = 524
+  _hidden_value = true
+}

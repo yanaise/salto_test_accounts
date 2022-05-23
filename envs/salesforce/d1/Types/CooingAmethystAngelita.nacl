@@ -1,0 +1,63 @@
+type d1.CooingAmethystAngelita {
+  annotations {
+    serviceid WesternChocolateDeerdre5 {
+    }
+    number OkayOliveMaggie4 {
+    }
+    hidden_boolean ExuberantBlackCaritta {
+    }
+    json ClosedMagentaLeila3 {
+    }
+    d1.DEFAULT LegislativeMaroonLinell5 {
+    }
+  }
+  serviceid_number SteepMoccasinLulita {
+    _hidden_value = true
+  }
+  json DarkTurquoiseTarrah3 {
+    _hidden_value = true
+  }
+  serviceid_number OrganisationalTanShantee3 {
+    _hidden_value = true
+  }
+  string BlackBlushClarita2 {
+    _hidden_value = true
+  }
+  boolean BetterVioletTomasina3 {
+    _hidden_value = true
+  }
+  string ConcernedBronzeCorny3 {
+    _hidden_value = true
+  }
+  serviceid_number AnnualCoffeeDonni2 {
+    _hidden_value = true
+  }
+  string DevelopingHarlequinJeanne {
+    _hidden_value = true
+  }
+  "List<d1.EntitledIvoryJuliann>" RoyalBrownCristine {
+    _hidden_value = true
+  }
+  json DelightedIvoryJulie3 {
+    _hidden_value = true
+  }
+  boolean ClassicalHarlequinJackquelin {
+    _hidden_value = true
+  }
+  serviceid_number ExistingCoffeeDesirae2 {
+    _hidden_value = true
+  }
+  json AssociatedMaroonLindsey3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT HonChocolateDatha {
+    _hidden_value = true
+  }
+  WesternChocolateDeerdre5 = "Why is Peter Pan always flying? Because he Neverlands."
+  OkayOliveMaggie4 = 54
+  ClosedMagentaLeila3 = "A steak pun is a rare medium well done."
+  LegislativeMaroonLinell5 = {
+    legit = "What do you do on a remote island? Try and find the TV island it belongs to."
+  }
+  _hidden_value = true
+}

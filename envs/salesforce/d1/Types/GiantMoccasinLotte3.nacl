@@ -1,0 +1,27 @@
+type d1.GiantMoccasinLotte3 {
+  annotations {
+    json ColouredMaroonLivia4 {
+    }
+    string CloudyTomatoTamqrah {
+    }
+    number CognitiveSalmonQuerida6 {
+    }
+    string RepulsiveBeigeBrenn3 {
+    }
+    hidden_boolean RequiredMaroonLetisha2 {
+    }
+    d1.DEFAULT UniversalJadeKacey2 {
+    }
+  }
+  serviceid CulturalCoralElinor {
+    _hidden_value = true
+  }
+  ColouredMaroonLivia4 = "Im only familiar with 25 letters in the English language. I dont know why."
+  CloudyTomatoTamqrah = "What did one nut say as he chased another nut?  I'm a cashew!"
+  CognitiveSalmonQuerida6 = 877
+  RepulsiveBeigeBrenn3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  UniversalJadeKacey2 = {
+    legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  }
+  _hidden_value = true
+}

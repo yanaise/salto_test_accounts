@@ -1,0 +1,53 @@
+type d1.QualifiedPinkMellie {
+  annotations {
+    hidden_boolean AvailableBlushChrystel2 {
+    }
+    hidden_boolean MightyWhiteVeriee4 {
+    }
+    boolean CharmingBeigeCalli2 {
+    }
+    json TenderAquamarineBebe3 {
+    }
+    json ToughGoldGlenine2 {
+    }
+    number FranticAzureBird2 {
+    }
+    number GentleBlackCarmelle5 {
+    }
+    serviceid_number FaithfulBlackCarlina4 {
+    }
+    hidden_boolean HugeCoffeeDoralynn4 {
+    }
+    json DirtyAmberAleta4 {
+    }
+    string TiredBeigeBritta {
+    }
+    hidden_boolean BlackBlushClarisse5 {
+    }
+    boolean SpecificChocolateDarcee {
+    }
+    string ImmensePlumMirna2 {
+    }
+    number SillyYellowWindy {
+    }
+    string ParallelMoccasinLuella2 {
+    }
+    hidden_boolean PositiveCoffeeDominique3 {
+    }
+    string DigitalMaroonLib5 {
+    }
+  }
+  CharmingBeigeCalli2 = false
+  TenderAquamarineBebe3 = "A steak pun is a rare medium well done."
+  ToughGoldGlenine2 = "How come the stadium got hot after the game? Because all of the fans left."
+  FranticAzureBird2 = 525
+  GentleBlackCarmelle5 = 106
+  FaithfulBlackCarlina4 = 435
+  DirtyAmberAleta4 = "Why do birds fly south for the winter? Because it's too far to walk."
+  TiredBeigeBritta = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  SpecificChocolateDarcee = true
+  ImmensePlumMirna2 = "A steak pun is a rare medium well done."
+  SillyYellowWindy = 400
+  ParallelMoccasinLuella2 = "Why would the tomato blush? Because it saw the salad dressing."
+  DigitalMaroonLib5 = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+}

@@ -1,0 +1,37 @@
+type d1.CompactPurpleNanni {
+  annotations {
+    number BadAquamarineBerni3 {
+    }
+    string SlimyAquamarineBarbabra {
+    }
+    hidden_boolean OppositeHarlequinJanean {
+    }
+    string FrequentLavenderKati {
+    }
+    serviceid_number CrudePlumMildred4 {
+    }
+  }
+  serviceid VaguePinkMehetabel {
+    _hidden_value = true
+  }
+  d1.DEFAULT TinyAmaranthAgnese {
+    _hidden_value = true
+  }
+  boolean SplendidBlueCatina2 {
+    _hidden_value = true
+  }
+  serviceid CreepyAmberAlaine7 {
+    _hidden_value = true
+  }
+  json FatVioletTrixi2 {
+    _hidden_value = true
+  }
+  json TeenageScarletRobinette2 {
+    _hidden_value = true
+  }
+  BadAquamarineBerni3 = 82
+  SlimyAquamarineBarbabra = "What did one nut say as he chased another nut?  I'm a cashew!"
+  FrequentLavenderKati = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  CrudePlumMildred4 = 305
+  _hidden_value = true
+}

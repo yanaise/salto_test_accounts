@@ -1,0 +1,73 @@
+type d1.BrownFuchsiaGena {
+  annotations {
+    boolean EmotionalGrayHerta {
+    }
+    json ConstitutionalHarlequinJayme {
+    }
+    string SuitableCrimsonEmera2 {
+    }
+    serviceid QuickAmethystAmmamaria {
+    }
+  }
+  serviceid BurningRedNikkie {
+    _hidden_value = true
+  }
+  hidden_boolean IncreasedCrimsonEstelle2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<json>" AwkwardPeachMaryl2 {
+    _hidden_value = true
+  }
+  number StraightHarlequinJaimie2 {
+    _hidden_value = true
+  }
+  json GrandEmeraldFrancene {
+    _hidden_value = true
+  }
+  serviceid LoudLavenderKial {
+    _hidden_value = true
+  }
+  json MainBlushCinda2 {
+    _hidden_value = true
+  }
+  serviceid SadGrayHestia2 {
+    _hidden_value = true
+  }
+  boolean LooseIvoryJulietta {
+    _hidden_value = true
+  }
+  "List<json>" FederalGrayHally2 {
+    _hidden_value = true
+  }
+  d1.ExactLimeKordula ImperialLavenderKatey {
+    _hidden_value = true
+  }
+  serviceid_number RuralCoralElsbeth {
+    _hidden_value = true
+  }
+  serviceid EventualTanSharron2 {
+    _hidden_value = true
+  }
+  number DecisiveSalmonPenny {
+    _hidden_value = true
+  }
+  string UnitedCopperEddy {
+    _hidden_value = true
+  }
+  number FullBlushChristiana {
+    _hidden_value = true
+  }
+  serviceid ComparativePlumModesta2 {
+    _hidden_value = true
+  }
+  serviceid_number CollectiveLavenderKathy {
+    _hidden_value = true
+  }
+  EmotionalGrayHerta = false
+  ConstitutionalHarlequinJayme = "Dad Im hungry  Hi hungry Im dad"
+  SuitableCrimsonEmera2 = "Slept like a log last night  woke up in the fireplace."
+  QuickAmethystAmmamaria = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

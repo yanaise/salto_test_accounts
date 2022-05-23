@@ -1,0 +1,49 @@
+type d1.PresentBrownCristal {
+  number HuskyApricotAnnabela4 {
+  }
+  json SilentGrayHarlene6 {
+  }
+  serviceid BreezyAmaranthAigneis6 {
+  }
+  d1.SpecifiedSalmonPortia3 AdvancedHarlequinJacinta3 {
+    MinorEmeraldGabriel4 = true
+    SwiftAmethystAnallise2 = "I'll tell you what often gets over looked... garden fences."
+    EvilPeachMaurita4 = file("ToryGreenInes2.txt")
+    KoreanSapphireRaquela3 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+    NiceBrownCymbre = "Why was it called the dark ages? Because of all the knights. "
+  }
+  string SuperPeachMarti3 {
+  }
+  number BrilliantGreenIlse5 {
+  }
+  number CuriousLimeKirby {
+  }
+  number ToughYellowYsabel2 {
+  }
+  number FineBrownCourtnay3 {
+  }
+  d1.AnxiousHarlequinJanna ShyScarletRosemonde3 {
+    ColonialPeachMaure = "How come the stadium got hot after the game? Because all of the fans left."
+    GloriousBlackCarmine = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  json LostJadeKaralynn7 {
+  }
+  hidden_boolean ReluctantMagentaLeeann3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string EnchantingBlackCarena3 {
+  }
+  serviceid LivelyPeachMarylin5 {
+  }
+  hidden_boolean WoodenAquamarineBellina3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number GreyEmeraldFranni4 {
+  }
+  serviceid LikelyBlushClari3 {
+  }
+}

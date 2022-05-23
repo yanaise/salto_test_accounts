@@ -1,0 +1,42 @@
+type d1.StillIndigoJoann {
+  annotations {
+    json EverydayLimeKyrstin3 {
+    }
+    string ConservativeCoralEllette2 {
+    }
+    json ParliamentaryFuchsiaGertrude {
+    }
+    d1.DEFAULT RaspyApricotAnnora2 {
+    }
+    json AdvisoryOrangeMaridel {
+    }
+    hidden_boolean HappyBlackCarolan2 {
+    }
+  }
+  number MeaningfulTanShelly2 {
+    _hidden_value = true
+  }
+  serviceid MarxistSapphireRaine2 {
+    _hidden_value = true
+  }
+  number ExoticScarletRina3 {
+    _hidden_value = true
+  }
+  number LesserMoccasinLucky {
+    _hidden_value = true
+  }
+  serviceid_number DramaticGoldHadria4 {
+    _hidden_value = true
+  }
+  serviceid_number ConvincingSalmonPeggy2 {
+    _hidden_value = true
+  }
+  EverydayLimeKyrstin3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  ConservativeCoralEllette2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+  ParliamentaryFuchsiaGertrude = "How come the stadium got hot after the game? Because all of the fans left."
+  RaspyApricotAnnora2 = {
+    legit = "What did one nut say as he chased another nut?  I'm a cashew!"
+  }
+  AdvisoryOrangeMaridel = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

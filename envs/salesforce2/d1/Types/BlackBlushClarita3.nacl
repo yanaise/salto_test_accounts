@@ -1,0 +1,165 @@
+type d1.BlackBlushClarita3 {
+  annotations {
+    number BrightVioletTory3 {
+    }
+    boolean RepresentativePinkMerna3 {
+    }
+    hidden_boolean SolidAquamarineBasia3 {
+    }
+    number AbundantAmethystAndie2 {
+    }
+  }
+  serviceid IntelligentMaroonLinnell2 {
+    _hidden_value = true
+  }
+  hidden_boolean GivenHarlequinJaney4 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  "List<json>" BeautifulCoffeeDita3 {
+    _hidden_value = true
+  }
+  string WrittenGreenIvette3 {
+    _hidden_value = true
+  }
+  serviceid ConventionalGoldGussi2 {
+    _hidden_value = true
+  }
+  d1.StatutoryGrayHarriette ComingSilverSammy4 {
+    BeneficialPlumMonika = "Why do birds fly south for the winter? Because it's too far to walk."
+    PossibleBlushCheryl = "Im only familiar with 25 letters in the English language. I dont know why."
+    SpotlessTurquoiseTilly = "Whoever invented the knock-knock joke should get a no bell prize."
+    SadYellowWilletta = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    RottenApricotArielle = "Why is Peter Pan always flying? Because he Neverlands."
+    WetGrayHedi = true
+    PrettyWhiteVirgie = true
+    NetGoldGlen = 315
+    FreeBronzeCody = 845
+    _hidden_value = true
+  }
+  serviceid InquisitiveTealStacie3 {
+    _hidden_value = true
+  }
+  boolean ChubbyAmberAlis3 {
+    _hidden_value = true
+  }
+  boolean BlackVioletTonye4 {
+    _hidden_value = true
+  }
+  number GracefulTurquoiseTerra {
+    _hidden_value = true
+  }
+  serviceid DelicateOliveMable2 {
+    _hidden_value = true
+  }
+  hidden_boolean AdverseSapphireRanna5 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.LongAmaranthAdina ShaggyAquaAvril {
+    GrubbyAquaAubry = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    GloriousScarletRose2 = false
+    _hidden_value = true
+  }
+  "List<serviceid_number>" EndlessPeachMarji3 {
+    _hidden_value = true
+  }
+  json SlowCyanEugenie6 {
+    _hidden_value = true
+  }
+  d1.DEFAULT CorrespondingPlumMinnnie {
+    _hidden_value = true
+  }
+  hidden_boolean EmpiricalPinkMechelle3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.DEFAULT VariedRedNoreen3 {
+    _hidden_value = true
+  }
+  serviceid WeakFuchsiaGayle4 {
+    _hidden_value = true
+  }
+  serviceid_number DryCyanEustacia {
+    _hidden_value = true
+  }
+  boolean InnocentTealStacee2 {
+    _hidden_value = true
+  }
+  serviceid_number RoyalBrownCristie3 {
+    _hidden_value = true
+  }
+  serviceid YellowGoldGiulia {
+    _hidden_value = true
+  }
+  number CrowdedTomatoTania6 {
+    _hidden_value = true
+  }
+  hidden_boolean RattyWhiteWenda2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number DoubleCrimsonEtta2 {
+    _hidden_value = true
+  }
+  json DevelopedPinkMerissa3 {
+    _hidden_value = true
+  }
+  number BroadCoralElisabetta8 {
+    _hidden_value = true
+  }
+  boolean MinisterialTanSheela {
+    _hidden_value = true
+  }
+  serviceid_number AssistantOliveLynnell {
+    _hidden_value = true
+  }
+  hidden_boolean StormyTurquoiseTilly2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number RoundIvoryJohnath {
+    _hidden_value = true
+  }
+  json LonelyAzureBobette5 {
+    _hidden_value = true
+  }
+  boolean MeaningfulTealSheree4 {
+    _hidden_value = true
+  }
+  d1.ExtremeHarlequinJackelyn LoudLavenderKial5 {
+    IncCrimsonErmentrude = 446
+    AlliedPlumMisti = true
+    InternalCoralEdy = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    DevelopedPinkMerilyn = 12
+    CrookedAmberAlisha = "Slept like a log last night  woke up in the fireplace."
+    AmericanBronzeCorrianne = 480
+    TragicRosePaulita = 14
+    ConceptualTanShelagh = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    StrangeTurquoiseTimmie = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    NastyWhiteVeronica = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    OldAmethystAmie = 7
+    _hidden_value = true
+  }
+  "List<json>" RivalPurpleNari {
+    _hidden_value = true
+  }
+  json IncCrimsonErmentrude3 {
+    _hidden_value = true
+  }
+  BrightVioletTory3 = 608
+  RepresentativePinkMerna3 = true
+  AbundantAmethystAndie2 = 854
+  _hidden_value = true
+}

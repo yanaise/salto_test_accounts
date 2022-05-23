@@ -1,0 +1,67 @@
+type d1.EnchantingBlackCarena {
+  annotations {
+    d1.DEFAULT EagerPlumMilzie2 {
+    }
+    serviceid DeterminedBeigeCandida {
+    }
+    serviceid_number LengthySapphireRanice {
+    }
+    string MeltedAquaAurea {
+    }
+    boolean BreezyAmaranthAigneis3 {
+    }
+  }
+  d1.DEFAULT ClearTomatoTammi2 {
+    _hidden_value = true
+  }
+  string WonderfulBlueCelesta3 {
+    _hidden_value = true
+  }
+  hidden_boolean CurlyAmberAlbina2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean StickyAquamarineBeatrisa2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  json GeneralBlushChristan4 {
+    _hidden_value = true
+  }
+  serviceid_number AvailableBlushChrystel {
+    _hidden_value = true
+  }
+  string EconomicBlushClaresta2 {
+    _hidden_value = true
+  }
+  number ConfidentialScarletRomola {
+    _hidden_value = true
+  }
+  json MagneticPeachMaurizia {
+    _hidden_value = true
+  }
+  json TastyAquaAshli2 {
+    _hidden_value = true
+  }
+  json NotablePeachMartica {
+    _hidden_value = true
+  }
+  serviceid AsleepJadeKarmen2 {
+    _hidden_value = true
+  }
+  d1.AnxiousHarlequinJanna UpperCyanFaustina {
+    ColonialPeachMaure = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    GloriousBlackCarmine = "Im only familiar with 25 letters in the English language. I dont know why."
+    _hidden_value = true
+  }
+  EagerPlumMilzie2 = {
+    legit = "Why do birds fly south for the winter? Because it's too far to walk."
+  }
+  DeterminedBeigeCandida = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  LengthySapphireRanice = 209
+  MeltedAquaAurea = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  BreezyAmaranthAigneis3 = true
+  _hidden_value = true
+}

@@ -1,0 +1,79 @@
+type d1.PopularChocolateDaveta3 {
+  annotations {
+    hidden_boolean ElatedBeigeCaralie3 {
+    }
+    json AsleepJadeKarlyn2 {
+    }
+    serviceid SmilingBlueCathyleen {
+    }
+    json FaintAmethystAnia {
+    }
+    string NervousAzureBrandea3 {
+    }
+    d1.ExtraCoffeeDianemarie DoubtfulTealSindee {
+    }
+    string SwissPlumMiguela3 {
+    }
+    string ArchitecturalRosePatrica5 {
+    }
+  }
+  hidden_boolean SlimyAquamarineBarbabra3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number HealthyBlackCarolee4 {
+    _hidden_value = true
+  }
+  number CooperativeBeigeCamila3 {
+    _hidden_value = true
+  }
+  boolean DisgustedAzureBev4 {
+    _hidden_value = true
+  }
+  boolean PrimeBrownDanielle2 {
+    _hidden_value = true
+  }
+  d1.DEFAULT VisibleIndigoJill4 {
+    _hidden_value = true
+  }
+  number QuietApricotAnnissa {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" HonestIndigoJerrine3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.MagnificentWhiteVanya ResonantApricotAnstice2 {
+    ProspectiveRedNettie = {
+      legit = "What creature is smarter than a talking parrot? A spelling bee."
+    }
+    CooperativeBeigeCami = 10
+    PlainTurquoiseTheressa = {
+      legit = "Why was it called the dark ages? Because of all the knights. "
+    }
+    WorriedGrayHarmony = 966
+    CrowdedTomatoTania = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    PreciousOrangeMariele = 810
+    UnderlyingLimeKori = 183
+    FragileTealSondra = 856
+    _hidden_value = true
+  }
+  serviceid AllegedOliveLynne3 {
+    _hidden_value = true
+  }
+  hidden_boolean EthicalScarletRobena {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  AsleepJadeKarlyn2 = "A steak pun is a rare medium well done."
+  SmilingBlueCathyleen = "I'll tell you what often gets over looked... garden fences."
+  FaintAmethystAnia = "What creature is smarter than a talking parrot? A spelling bee."
+  NervousAzureBrandea3 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  DoubtfulTealSindee = false
+  SwissPlumMiguela3 = "Slept like a log last night  woke up in the fireplace."
+  ArchitecturalRosePatrica5 = "Whoever invented the knock-knock joke should get a no bell prize."
+  _hidden_value = true
+}

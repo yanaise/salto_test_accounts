@@ -1,0 +1,154 @@
+type d1.ChiefCopperDorri4 {
+  annotations {
+    hidden_boolean RecentBronzeCornelle5 {
+    }
+    hidden_boolean DarkTurquoiseTaryn4 {
+    }
+    number BiologicalMaroonLetizia2 {
+    }
+    hidden_boolean RelevantCoffeeDoralin3 {
+    }
+    serviceid_number AfraidAquamarineBelvia3 {
+    }
+  }
+  json GeneticMoccasinLorie2 {
+    _hidden_value = true
+  }
+  boolean VerbalPinkMaxine {
+    _hidden_value = true
+  }
+  json RoughGreenIdalina {
+    _hidden_value = true
+  }
+  boolean EvilAzureBilli {
+    _hidden_value = true
+  }
+  string ComplexCopperDrucy2 {
+    _hidden_value = true
+  }
+  serviceid_number LinearRedNesta3 {
+    _hidden_value = true
+  }
+  serviceid_number ProminentLavenderKelci4 {
+    _hidden_value = true
+  }
+  boolean CapitalistMagentaLayla {
+    _hidden_value = true
+  }
+  serviceid ApplicablePlumMirella2 {
+    _hidden_value = true
+  }
+  number IdealEmeraldFrederique {
+    _hidden_value = true
+  }
+  json RandomMoccasinLoren4 {
+    _hidden_value = true
+  }
+  number ComingSilverSandi2 {
+    _hidden_value = true
+  }
+  number ReasonableCrimsonEmelda2 {
+    _hidden_value = true
+  }
+  boolean EnchantingBlackCaren {
+    _hidden_value = true
+  }
+  hidden_boolean ArbitrarySilverRoxane4 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number SoundRoseOlenka2 {
+    _hidden_value = true
+  }
+  string InnocentMagentaLarine {
+    _hidden_value = true
+  }
+  boolean MammothAmaranthAdora4 {
+    _hidden_value = true
+  }
+  serviceid_number CheerfulSapphireRhody4 {
+    _hidden_value = true
+  }
+  serviceid GracefulTurquoiseTerrie4 {
+    _hidden_value = true
+  }
+  serviceid_number ClinicalIndigoJenny3 {
+    _hidden_value = true
+  }
+  hidden_boolean SweetAquaAshlan3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number EvolutionarySilverRuth {
+    _hidden_value = true
+  }
+  serviceid_number DualSapphireRhetta {
+    _hidden_value = true
+  }
+  "List<d1.StrongBronzeColly>" FreshApricotArdith2 {
+    MilitaryChocolateDarlleen = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    SophisticatedJadeKarlie = "What creature is smarter than a talking parrot? A spelling bee."
+    ElectricGreenIngrid = false
+    FatVioletTrixie = "Chances are if you' ve seen one shopping center, you've seen a mall."
+    AdditionalCopperDotti = "What do you do on a remote island? Try and find the TV island it belongs to."
+    UnderlyingLimeKoressa = true
+    MoralCyanFenelia = false
+    BraveMoccasinLucinda = "Im only familiar with 25 letters in the English language. I dont know why."
+    SpectacularMaroonLibbi = true
+    ExpectedLimeLaney = true
+    IsraeliPinkMeriel = 392
+    ExceptionalOliveMadonna = true
+    DefensiveRoseOpal = 300
+    AnxiousHarlequinJanna2 = 106
+    SweetAquaAshien = true
+    LongAmaranthAdi = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    _hidden_value = true
+  }
+  hidden_boolean UnnecessaryMoccasinLorain {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid WorriedGrayHarrie2 {
+    _hidden_value = true
+  }
+  serviceid StrongBronzeCollie2 {
+    _hidden_value = true
+  }
+  d1.MarriedCyanFannie HistoricalCyanEvangelina2 {
+    WonderfulYellowZoe = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    UsualCoralElmira = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ProtestantScarletRobina = true
+    InquisitiveTealStacia = "Why was it called the dark ages? Because of all the knights. "
+    RoundIvoryJohnette = false
+    QuickestWhiteVonnie = 394
+    _hidden_value = true
+  }
+  json SocialBlueCharmion2 {
+    _hidden_value = true
+  }
+  boolean GrumpyVioletUrsola {
+    _hidden_value = true
+  }
+  serviceid_number CapitalistMagentaLea2 {
+    _hidden_value = true
+  }
+  serviceid_number HarshApricotAnn {
+    _hidden_value = true
+  }
+  hidden_boolean AvailableBlushChrystal2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean ShinyTurquoiseTiertza3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  BiologicalMaroonLetizia2 = 475
+  AfraidAquamarineBelvia3 = 734
+  _hidden_value = true
+}

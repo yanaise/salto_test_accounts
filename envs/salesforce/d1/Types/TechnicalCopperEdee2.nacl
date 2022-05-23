@@ -1,0 +1,65 @@
+type d1.TechnicalCopperEdee2 {
+  annotations {
+    boolean ConsiderableChocolateDemetra3 {
+    }
+    number LonelyAzureBobine {
+    }
+    boolean ModernAmethystAmeline {
+    }
+    boolean GorgeousVioletUrsala {
+    }
+    serviceid_number AnonymousSapphireRaye2 {
+    }
+  }
+  boolean CrucialFuchsiaGennie2 {
+    _hidden_value = true
+  }
+  hidden_boolean ViolentIvoryJolene {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid_number VaryingPurpleNelly {
+    _hidden_value = true
+  }
+  boolean MultipleLimeKip {
+    _hidden_value = true
+  }
+  serviceid BloodyTomatoTallou2 {
+    _hidden_value = true
+  }
+  number CheerfulSapphireRhody {
+    _hidden_value = true
+  }
+  hidden_boolean ResidentSalmonRachelle2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  boolean RelevantCoffeeDoralia {
+    _hidden_value = true
+  }
+  string IntactRosePatricia2 {
+    _hidden_value = true
+  }
+  hidden_boolean FrenchBrownCyndi2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  json RidiculousMoccasinLiza {
+    _hidden_value = true
+  }
+  serviceid_number DomesticCopperEaster3 {
+    _hidden_value = true
+  }
+  string LovelyBlackCassandra2 {
+    _hidden_value = true
+  }
+  ConsiderableChocolateDemetra3 = true
+  LonelyAzureBobine = 904
+  ModernAmethystAmeline = false
+  GorgeousVioletUrsala = true
+  AnonymousSapphireRaye2 = 692
+  _hidden_value = true
+}

@@ -1,0 +1,48 @@
+type d1.GlobalGrayHermine3 {
+  annotations {
+    json ComprehensiveGreenHyacintha {
+    }
+    json SlightGoldGwenny {
+    }
+    string MusicalIndigoJoanne4 {
+    }
+    hidden_boolean ImaginativeTanSeline5 {
+    }
+    json ThenSalmonPhoebe2 {
+    }
+  }
+  boolean EmotionalGrayHerta2 {
+    _hidden_value = true
+  }
+  d1.FarBlushChristin ProudBlueCathee {
+    _hidden_value = true
+  }
+  number WastefulYellowZia3 {
+    _hidden_value = true
+  }
+  boolean VictoriousBlueCayla {
+    _hidden_value = true
+  }
+  d1.DEFAULT LiveIndigoJodi2 {
+    _hidden_value = true
+  }
+  json ControversialLimeKyla {
+    _hidden_value = true
+  }
+  serviceid PoisedTurquoiseThomasa4 {
+    _hidden_value = true
+  }
+  hidden_boolean ForthcomingPeachMarquita {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.DEFAULT ExcessiveOliveMadelena3 {
+    _hidden_value = true
+  }
+  ComprehensiveGreenHyacintha = "Why was it called the dark ages? Because of all the knights. "
+  SlightGoldGwenny = "Why was it called the dark ages? Because of all the knights. "
+  MusicalIndigoJoanne4 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  ThenSalmonPhoebe2 = "I'll tell you what often gets over looked... garden fences."
+  _hidden_value = true
+}

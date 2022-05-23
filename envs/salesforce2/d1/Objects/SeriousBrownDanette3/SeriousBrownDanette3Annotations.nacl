@@ -1,0 +1,62 @@
+type d1.SeriousBrownDanette3 {
+  annotations {
+    string ResidentialIndigoJessi {
+    }
+    string RuralCoralElsa2 {
+    }
+    number SlowCyanEugenie8 {
+    }
+    string AddedPinkMelinde3 {
+    }
+    d1.LazyVioletVania JustMaroonLissy {
+    }
+    number HissingApricotAnnadiana3 {
+    }
+    number ConfusedAquamarineBertina3 {
+    }
+    serviceid BizarreTanSean5 {
+    }
+    string WickedScarletRoselia5 {
+    }
+    serviceid SuperbMagentaLaurena4 {
+    }
+    string WonderfulYellowZoe8 {
+    }
+    number GoldenGrayHalette4 {
+    }
+    json RespectableRosePearl4 {
+    }
+    boolean StraightforwardMaroonLeyla3 {
+    }
+    boolean VaguePinkMel2 {
+    }
+    boolean CreepyAquamarineBess {
+    }
+    json DisciplinarySilverRycca3 {
+    }
+    json RetiredSilverSarah4 {
+    }
+    number TenderYellowYevette3 {
+    }
+    hidden_boolean OverallCrimsonEmmalyn2 {
+    }
+  }
+  ResidentialIndigoJessi = "A steak pun is a rare medium well done."
+  RuralCoralElsa2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  SlowCyanEugenie8 = 55
+  AddedPinkMelinde3 = "What do you do on a remote island? Try and find the TV island it belongs to."
+  HissingApricotAnnadiana3 = 582
+  ConfusedAquamarineBertina3 = 0
+  BizarreTanSean5 = "To be Frank, I'd have to change my name."
+  WickedScarletRoselia5 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  SuperbMagentaLaurena4 = "Why is Peter Pan always flying? Because he Neverlands."
+  WonderfulYellowZoe8 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  GoldenGrayHalette4 = 864
+  RespectableRosePearl4 = "What creature is smarter than a talking parrot? A spelling bee."
+  StraightforwardMaroonLeyla3 = true
+  VaguePinkMel2 = false
+  CreepyAquamarineBess = false
+  DisciplinarySilverRycca3 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  RetiredSilverSarah4 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  TenderYellowYevette3 = 897
+}

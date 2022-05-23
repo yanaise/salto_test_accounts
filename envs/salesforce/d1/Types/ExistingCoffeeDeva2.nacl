@@ -1,0 +1,25 @@
+type d1.ExistingCoffeeDeva2 {
+  annotations {
+    serviceid RequiredMaroonLeta2 {
+    }
+    hidden_boolean ParallelMoccasinLuelle {
+    }
+    serviceid_number QuickCoralElenore {
+    }
+    serviceid SadYellowWilletta2 {
+    }
+    json SupposedCyanFarrah {
+    }
+  }
+  json ShrillApricotAntonetta2 {
+    _hidden_value = true
+  }
+  boolean EnthusiasticBlackCarilyn {
+    _hidden_value = true
+  }
+  RequiredMaroonLeta2 = "Why do birds fly south for the winter? Because it's too far to walk."
+  QuickCoralElenore = 238
+  SadYellowWilletta2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  SupposedCyanFarrah = "Why do birds fly south for the winter? Because it's too far to walk."
+  _hidden_value = true
+}

@@ -1,0 +1,133 @@
+type d1.BackMoccasinLonna {
+  annotations {
+    serviceid_number FavourablePinkMercy {
+    }
+    hidden_boolean PotentialCoralElbertina {
+    }
+    number PlasticAquaAurelia {
+    }
+    json ProudBlueCatherina {
+    }
+    boolean DisgustedAzureBettye2 {
+    }
+    d1.PrivateBronzeCordy RunningPlumMirabel2 {
+    }
+  }
+  d1.DEFAULT FunOrangeMarcy {
+    _hidden_value = true
+  }
+  boolean PanickyAzureBree {
+    _hidden_value = true
+  }
+  number FragileTealSonia {
+    _hidden_value = true
+  }
+  boolean ElaborateRedNicole2 {
+    _hidden_value = true
+  }
+  serviceid_number ShortAmaranthAgace {
+    _hidden_value = true
+  }
+  d1.DEFAULT RelievedBlueCatherine3 {
+    _hidden_value = true
+  }
+  number ImaginativeTanSella {
+    _hidden_value = true
+  }
+  boolean FoolishAzureBinni {
+    _hidden_value = true
+  }
+  serviceid_number BigVioletTonie {
+    _hidden_value = true
+  }
+  string RedWhiteWendeline2 {
+    _hidden_value = true
+  }
+  string ForwardSapphireRici {
+    _hidden_value = true
+  }
+  hidden_boolean EagerPlumMillie2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string WetAquamarineBelinda {
+    _hidden_value = true
+  }
+  number FemaleCrimsonEmmi2 {
+    _hidden_value = true
+  }
+  hidden_boolean BreakableTealShir2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.DEFAULT IntermediateRoseOfelia {
+    _hidden_value = true
+  }
+  serviceid AlliedPlumMissy {
+    _hidden_value = true
+  }
+  serviceid InterestedCoffeeDierdre3 {
+    _hidden_value = true
+  }
+  boolean EvidentIvoryJune {
+    _hidden_value = true
+  }
+  serviceid IncredibleRosePattie2 {
+    _hidden_value = true
+  }
+  "List<json>" SwiftAmethystAnastasia {
+    _hidden_value = true
+  }
+  number ObligedOrangeMarcelline2 {
+    _hidden_value = true
+  }
+  boolean LikelyBlushClaribel {
+    _hidden_value = true
+  }
+  d1.FancyTurquoiseTeirtza HiddenRedOdelle {
+    TallYellowXylia = "What do you call two barracuda fish?  A Pairacuda!"
+    CheapCopperEdita = "Why was it called the dark ages? Because of all the knights. "
+    SharedPinkMelicent = 959
+    StuckRoseOralee = 289
+    SorryBrownDanyelle = 319
+    GoverningTanSelle = 620
+    JointCoralEliza = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    SorryBrownDanyelle2 = 629
+    PainfulMaroonLilly = "Did you know that protons have mass? I didn't even know they were catholic."
+    RichTomatoStorm = "Why would the kid cross the playground? To get to the other slide."
+    ImplicitSapphireRhea = 626
+    FlyingMoccasinLoralyn = false
+    _hidden_value = true
+  }
+  d1.SwissPlumMikaela TypicalEmeraldFrancine3 {
+    UndergroundScarletRona = 825
+    SatisfiedHarlequinJeana = "What did one nut say as he chased another nut?  I'm a cashew!"
+    DynamicPeachMarlyn = "My first time using an elevator was an uplifting experience. The second time let me down."
+    UselessRedNina = "Why would the tomato blush? Because it saw the salad dressing."
+    RegulatorySalmonQuintilla = "Why is Peter Pan always flying? Because he Neverlands."
+    DrivingRoseOralle = {
+      legit = "A steak pun is a rare medium well done."
+    }
+    _hidden_value = true
+  }
+  json SecondaryFuchsiaGertie {
+    _hidden_value = true
+  }
+  json CurrentBrownCynthy2 {
+    _hidden_value = true
+  }
+  string CooingAmethystAngelle {
+    _hidden_value = true
+  }
+  d1.DEFAULT WeeklyLavenderKeslie2 {
+    _hidden_value = true
+  }
+  FavourablePinkMercy = 891
+  PlasticAquaAurelia = 79
+  ProudBlueCatherina = "Why is Peter Pan always flying? Because he Neverlands."
+  DisgustedAzureBettye2 = false
+  RunningPlumMirabel2 = true
+  _hidden_value = true
+}

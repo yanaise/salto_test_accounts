@@ -1,0 +1,24 @@
+type d1.StickyAquamarineBeatrix {
+  annotations {
+    d1.DEFAULT MeanIvoryJulee2 {
+    }
+    hidden_boolean WiseLavenderKathe2 {
+    }
+    serviceid UnemployedIvoryJoli {
+    }
+    boolean PoliteSalmonRafa2 {
+    }
+    boolean SophisticatedJadeKarlotta {
+    }
+  }
+  json DearGoldGlennis {
+    _hidden_value = true
+  }
+  MeanIvoryJulee2 = {
+    legit = "Whoever invented the knock-knock joke should get a no bell prize."
+  }
+  UnemployedIvoryJoli = "Im only familiar with 25 letters in the English language. I dont know why."
+  PoliteSalmonRafa2 = false
+  SophisticatedJadeKarlotta = true
+  _hidden_value = true
+}

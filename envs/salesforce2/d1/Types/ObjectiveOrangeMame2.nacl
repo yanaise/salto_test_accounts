@@ -1,0 +1,67 @@
+type d1.ObjectiveOrangeMame2 {
+  annotations {
+    hidden_boolean PreciousOrangeMariele5 {
+    }
+    hidden_boolean DisastrousScarletRochella2 {
+    }
+    d1.PrivateBronzeCordy BroadAmberAlikee3 {
+    }
+    hidden_boolean SurroundingOrangeMargery2 {
+    }
+    serviceid_number CulturalCoralElie2 {
+    }
+  }
+  "List<serviceid_number>" ResponsibleCoffeeDevi3 {
+    _hidden_value = true
+  }
+  "List<string>" CrucialFuchsiaGenny5 {
+    _hidden_value = true
+  }
+  string WildTomatoSuzi2 {
+    _hidden_value = true
+  }
+  "List<d1.LatinLimeKonstanze>" QuickestWhiteVonny2 {
+    ResidentSalmonRae = "Whoever invented the knock-knock joke should get a no bell prize."
+    CrazyMoccasinLorrayne = "A steak pun is a rare medium well done."
+    LevelJadeKally2 = "My first time using an elevator was an uplifting experience. The second time let me down."
+    WellFuchsiaGipsy = "Slept like a log last night  woke up in the fireplace."
+    ProperCoralElisabet = 487
+    OutstandingIndigoJenna = 488
+    PositiveCoffeeDona = 19
+    ThoughtlessBeigeBrit = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    CrowdedTomatoTania2 = 558
+    FairCoffeeDinnie = 953
+    PeacefulOrangeMargret = "Im only familiar with 25 letters in the English language. I dont know why."
+    ToxicSalmonPhedra = 474
+    GleamingTurquoiseTeri = false
+    JoyousBlackCarry = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    RoughGreenIdelle = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ParliamentaryFuchsiaGiacinta = true
+    AggressiveMaroonLiliane = {
+      legit = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    }
+    IntegralSalmonPhilly = "Why would the tomato blush? Because it saw the salad dressing."
+    MidPinkMelissa = "Slept like a log last night  woke up in the fireplace."
+    SurprisingGreenIanthe = 858
+    SteadyJadeKaile = true
+    ObnoxiousAzureBrandie = {
+      legit = "Why do birds fly south for the winter? Because it's too far to walk."
+    }
+    KindVioletValma = "Whoever invented the knock-knock joke should get a no bell prize."
+    RainyAquaAurora = false
+    RudeTanShayla = false
+    _hidden_value = true
+  }
+  string WrongTomatoSybille {
+    _hidden_value = true
+  }
+  string AccessibleOrangeMarika5 {
+    _hidden_value = true
+  }
+  serviceid_number AvailableBlushChrystal3 {
+    _hidden_value = true
+  }
+  BroadAmberAlikee3 = true
+  CulturalCoralElie2 = 147
+  _hidden_value = true
+}

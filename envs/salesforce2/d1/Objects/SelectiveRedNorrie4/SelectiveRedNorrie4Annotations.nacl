@@ -1,0 +1,66 @@
+type d1.SelectiveRedNorrie4 {
+  annotations {
+    serviceid SlimRoseOlwen4 {
+    }
+    serviceid_number ElaborateRedNicolea {
+    }
+    serviceid OpenTealStefania {
+    }
+    d1.ExtremeHarlequinJackelyn StingyYellowWinni2 {
+    }
+    boolean PastCoffeeDianemarie3 {
+    }
+    serviceid_number OverallCrimsonEmmalynn3 {
+    }
+    serviceid_number LoudLavenderKial6 {
+    }
+    boolean RearPurpleMureil3 {
+    }
+    json TheoreticalIndigoJeniffer3 {
+    }
+    boolean DeepAmberAllene2 {
+    }
+    hidden_boolean CombativeAquamarineBert3 {
+    }
+    boolean DramaticGoldHadria7 {
+    }
+    d1.EntitledIvoryJuliann BrilliantGreenIlyse {
+    }
+    serviceid GastricMagentaLavina2 {
+    }
+    boolean PromisingRedNonie4 {
+    }
+    number DecisiveSalmonPepi3 {
+    }
+    serviceid MassGreenIlise3 {
+    }
+    serviceid GreenChocolateDebora3 {
+    }
+    string WesternChocolateDeeyn3 {
+    }
+    serviceid_number MarriedCyanFannie4 {
+    }
+    number FewAmethystAndrei4 {
+    }
+  }
+  SlimRoseOlwen4 = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  ElaborateRedNicolea = 986
+  OpenTealStefania = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  StingyYellowWinni2 = false
+  PastCoffeeDianemarie3 = true
+  OverallCrimsonEmmalynn3 = 4
+  LoudLavenderKial6 = 187
+  RearPurpleMureil3 = true
+  TheoreticalIndigoJeniffer3 = "Why would the tomato blush? Because it saw the salad dressing."
+  DeepAmberAllene2 = false
+  DramaticGoldHadria7 = true
+  BrilliantGreenIlyse = file("WeirdSilverRozele4.txt")
+  GastricMagentaLavina2 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  PromisingRedNonie4 = false
+  DecisiveSalmonPepi3 = 630
+  MassGreenIlise3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  GreenChocolateDebora3 = "Dad Im hungry  Hi hungry Im dad"
+  WesternChocolateDeeyn3 = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+  MarriedCyanFannie4 = 595
+  FewAmethystAndrei4 = 289
+}

@@ -1,0 +1,143 @@
+type d1.CurvedAmberAliza {
+  annotations {
+    serviceid_number DramaticGoldHaily {
+    }
+    d1.FederalGrayHalli ClosedMagentaLeilah3 {
+    }
+    serviceid DampMoccasinLory2 {
+    }
+    string UnevenAquamarineBeilul {
+    }
+    serviceid WideBronzeCorilla {
+    }
+  }
+  d1.DEFAULT ManagerialPurpleNerita3 {
+    _hidden_value = true
+  }
+  hidden_boolean FitHarlequinJaclin2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.CharmingBeigeCallida DeliciousApricotArdith {
+    LonelyAzureBobette = "What creature is smarter than a talking parrot? A spelling bee."
+    IndustrialBrownDanya = "A steak pun is a rare medium well done."
+    DelightfulBeigeCandi = 823
+    PrettyIndigoJennilee = false
+    RollingSilverRubie = "To be Frank, I'd have to change my name."
+    MinimalPlumMorgen = 560
+    IntegratedOliveMadonna = true
+    FatAmaranthAbigael = true
+    TallAmaranthAggy = 957
+    BusyCyanFayina = 57
+    _hidden_value = true
+  }
+  hidden_boolean ChineseGoldGuglielma2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string CuddlyAmberAlayne3 {
+    _hidden_value = true
+  }
+  hidden_boolean SolidAquamarineBarry2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.DEFAULT RoundIvoryJohnette3 {
+    _hidden_value = true
+  }
+  serviceid_number BigAmaranthAbagail2 {
+    _hidden_value = true
+  }
+  string VastEmeraldFred {
+    _hidden_value = true
+  }
+  serviceid_number NeighbouringPurpleNana {
+    _hidden_value = true
+  }
+  serviceid_number SlowCyanEugine {
+    _hidden_value = true
+  }
+  boolean FunnyEmeraldGabbi2 {
+    _hidden_value = true
+  }
+  serviceid_number ClearTomatoTammara {
+    _hidden_value = true
+  }
+  d1.CharmingBeigeCallida EarlyBlushCherrita {
+    LonelyAzureBobette = "To be Frank, I'd have to change my name."
+    IndustrialBrownDanya = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    DelightfulBeigeCandi = 596
+    PrettyIndigoJennilee = true
+    RollingSilverRubie = "Im only familiar with 25 letters in the English language. I dont know why."
+    MinimalPlumMorgen = 237
+    IntegratedOliveMadonna = false
+    FatAmaranthAbigael = false
+    TallAmaranthAggy = 135
+    BusyCyanFayina = 532
+    _hidden_value = true
+  }
+  string HandicappedTanShanon2 {
+    _hidden_value = true
+  }
+  serviceid IllAzureBobbette2 {
+    _hidden_value = true
+  }
+  hidden_boolean EagerPlumMillisent2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string GloriousBlackCarmine4 {
+    _hidden_value = true
+  }
+  d1.IllAzureBobbee AssociatedMaroonLindy2 {
+    CriticalCrimsonEstell = "Whoever invented the knock-knock joke should get a no bell prize."
+    GorgeousVioletUna = 778
+    TraditionalChocolateDeidre = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    ScaredSalmonRafaelita = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    MotionlessTurquoiseTheodora = 510
+    BreezyAmaranthAidan = "To be Frank, I'd have to change my name."
+    ScaredSapphireRahal = false
+    BeautifulTomatoTabina = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ExceptionalOliveMadlin = 812
+    HeadPinkMeg = 520
+    UrgentLimeKristyn = false
+    DeliberateRedNoelyn = "What did one nut say as he chased another nut?  I'm a cashew!"
+    BeneficialPlumMonica = "Why is Peter Pan always flying? Because he Neverlands."
+    WillingGoldGussy = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    MobilePurpleMoria = false
+    _hidden_value = true
+  }
+  boolean FatIvoryJoella3 {
+    _hidden_value = true
+  }
+  boolean FairCoffeeDion {
+    _hidden_value = true
+  }
+  boolean BigAmaranthAbbey {
+    _hidden_value = true
+  }
+  serviceid WelshGrayHattie3 {
+    _hidden_value = true
+  }
+  boolean HomelessAzureBlinny {
+    _hidden_value = true
+  }
+  json VaguePinkMeghann3 {
+    _hidden_value = true
+  }
+  hidden_boolean ComprehensiveGreenHyacinthie {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  DramaticGoldHaily = 766
+  ClosedMagentaLeilah3 = 325
+  DampMoccasinLory2 = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  UnevenAquamarineBeilul = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  WideBronzeCorilla = "How come the stadium got hot after the game? Because all of the fans left."
+  _hidden_value = true
+}

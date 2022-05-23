@@ -1,0 +1,49 @@
+type d1.MistyTurquoiseTheda {
+  annotations {
+    d1.SteepAmberAlyce GeneticMoccasinLorilee {
+    }
+    json IllEmeraldGael {
+    }
+    number NakedMagentaLebbie {
+    }
+    serviceid_number BraveBeigeCaitlin {
+    }
+  }
+  number ModernAmethystAmelina {
+    _hidden_value = true
+  }
+  string ProductivePlumMollie {
+    _hidden_value = true
+  }
+  serviceid ImplicitSapphireReyna {
+    _hidden_value = true
+  }
+  hidden_boolean HelpfulBlackCarolin2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  string DemocraticCrimsonEngracia {
+    _hidden_value = true
+  }
+  string BindingSalmonPetra {
+    _hidden_value = true
+  }
+  serviceid AvailableBlushCicely {
+    _hidden_value = true
+  }
+  d1.DEFAULT EndlessPeachMarjory {
+    _hidden_value = true
+  }
+  serviceid_number AboveIvoryJoycelin {
+    _hidden_value = true
+  }
+  "List<json>" BadVioletToinette {
+    _hidden_value = true
+  }
+  GeneticMoccasinLorilee = false
+  IllEmeraldGael = "Why would the tomato blush? Because it saw the salad dressing."
+  NakedMagentaLebbie = 114
+  BraveBeigeCaitlin = 841
+  _hidden_value = true
+}

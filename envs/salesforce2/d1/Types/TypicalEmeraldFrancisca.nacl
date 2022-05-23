@@ -1,0 +1,141 @@
+type d1.TypicalEmeraldFrancisca {
+  annotations {
+    hidden_boolean DynamicPeachMarna2 {
+    }
+    json HeavyChocolateDavita2 {
+    }
+    string TastelessAquaAshley {
+    }
+    hidden_boolean MarxistSapphireRakel2 {
+    }
+    boolean SimpleBronzeCornela {
+    }
+  }
+  string CreepyAquamarineBeryl2 {
+    _hidden_value = true
+  }
+  d1.ImportantTealSophi WorriedGrayHarmony2 {
+    PrimeBrownDanielle = 102
+    FilthyTurquoiseTera = 583
+    ExuberantBlackCarleen = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    DutchLavenderKelsy = 225
+    SpareMaroonLilli = 823
+    OldAmethystAmie2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    DominantIndigoJenda = 840
+    AncientEmeraldFlora = 782
+    _hidden_value = true
+  }
+  d1.LatinLimeKonstanze PrincipalGoldGreer {
+    ResidentSalmonRae = "A steak pun is a rare medium well done."
+    CrazyMoccasinLorrayne = "Im only familiar with 25 letters in the English language. I dont know why."
+    LevelJadeKally2 = "Why would the kid cross the playground? To get to the other slide."
+    WellFuchsiaGipsy = "What do you call two barracuda fish?  A Pairacuda!"
+    ProperCoralElisabet = 784
+    OutstandingIndigoJenna = 909
+    PositiveCoffeeDona = 242
+    ThoughtlessBeigeBrit = "Dad Im hungry  Hi hungry Im dad"
+    CrowdedTomatoTania2 = 442
+    FairCoffeeDinnie = 639
+    PeacefulOrangeMargret = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+    ToxicSalmonPhedra = 281
+    GleamingTurquoiseTeri = true
+    JoyousBlackCarry = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+    RoughGreenIdelle = "What do you do on a remote island? Try and find the TV island it belongs to."
+    ParliamentaryFuchsiaGiacinta = false
+    AggressiveMaroonLiliane = {
+      legit = "Dad Im hungry  Hi hungry Im dad"
+    }
+    IntegralSalmonPhilly = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    MidPinkMelissa = "I'll tell you what often gets over looked... garden fences."
+    SurprisingGreenIanthe = 478
+    SteadyJadeKaile = true
+    ObnoxiousAzureBrandie = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    KindVioletValma = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    RainyAquaAurora = true
+    RudeTanShayla = true
+    _hidden_value = true
+  }
+  d1.CharmingBeigeCallida ImmenseAmaranthAdelice3 {
+    LonelyAzureBobette = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    IndustrialBrownDanya = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    DelightfulBeigeCandi = 118
+    PrettyIndigoJennilee = true
+    RollingSilverRubie = "I'll tell you what often gets over looked... garden fences."
+    MinimalPlumMorgen = 85
+    IntegratedOliveMadonna = false
+    FatAmaranthAbigael = true
+    TallAmaranthAggy = 604
+    BusyCyanFayina = 390
+    _hidden_value = true
+  }
+  string RacialPlumMicki {
+    _hidden_value = true
+  }
+  boolean EventualTanSharona3 {
+    _hidden_value = true
+  }
+  serviceid NetGoldGleda4 {
+    _hidden_value = true
+  }
+  serviceid_number BrokenAmaranthAile2 {
+    _hidden_value = true
+  }
+  string RapidAmethystAmy3 {
+    _hidden_value = true
+  }
+  number AwareChocolateDasi {
+    _hidden_value = true
+  }
+  json AncientEmeraldFlorance3 {
+    _hidden_value = true
+  }
+  json FundamentalFuchsiaGenevieve6 {
+    _hidden_value = true
+  }
+  number BroadCoralElise {
+    _hidden_value = true
+  }
+  serviceid IntellectualJadeKalina3 {
+    _hidden_value = true
+  }
+  d1.DEFAULT SouthernCyanEvelyn2 {
+    _hidden_value = true
+  }
+  json TenderRedOdelinda {
+    _hidden_value = true
+  }
+  serviceid_number UnawareSapphireReena {
+    _hidden_value = true
+  }
+  json ExoticScarletRikki3 {
+    _hidden_value = true
+  }
+  serviceid_number NearbyLimeKoral2 {
+    _hidden_value = true
+  }
+  json SillyIvoryJoell {
+    _hidden_value = true
+  }
+  boolean MultipleLimeKinna {
+    _hidden_value = true
+  }
+  string ConsistentHarlequinJanis2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" CatholicHarlequinJamie2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean DeliciousApricotArdenia {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  HeavyChocolateDavita2 = "Why would the kid cross the playground? To get to the other slide."
+  TastelessAquaAshley = "To be Frank, I'd have to change my name."
+  SimpleBronzeCornela = false
+  _hidden_value = true
+}

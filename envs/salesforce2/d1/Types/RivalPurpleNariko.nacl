@@ -1,0 +1,30 @@
+type d1.RivalPurpleNariko {
+  annotations {
+    serviceid_number SuccessfulBlueCatlin {
+    }
+    hidden_boolean ModestLavenderKelsey2 {
+    }
+  }
+  string DangerousCrimsonEssy {
+    _hidden_value = true
+  }
+  boolean SparklingTurquoiseTildi {
+    _hidden_value = true
+  }
+  serviceid ContinuingGreenIrita {
+    _hidden_value = true
+  }
+  serviceid_number MutualLimeKimberly {
+    _hidden_value = true
+  }
+  serviceid InvolvedCoffeeDenice {
+    _hidden_value = true
+  }
+  hidden_boolean PrincipalGoldGreta {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  SuccessfulBlueCatlin = 737
+  _hidden_value = true
+}

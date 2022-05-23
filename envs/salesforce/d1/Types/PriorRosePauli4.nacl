@@ -1,0 +1,97 @@
+type d1.PriorRosePauli4 {
+  annotations {
+    string SlipperyAquamarineBarbaraanne2 {
+    }
+    d1.DEFAULT DeadBrownDara2 {
+    }
+    hidden_boolean RoyalBrownCristie2 {
+    }
+    string FormalCoralElka3 {
+    }
+    boolean HeadPinkMeg4 {
+    }
+    number PresentBrownCristi {
+    }
+  }
+  hidden_boolean JudicialJadeKarita3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number PastCoffeeDianna3 {
+    _hidden_value = true
+  }
+  serviceid_number SpecialBlushClaudine2 {
+    _hidden_value = true
+  }
+  serviceid_number RecentBronzeCornelle2 {
+    _hidden_value = true
+  }
+  hidden_boolean HonChocolateDaune3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  d1.RoastedWhiteWenonah ClearBlushCinnamon2 {
+    WhiteBronzeClotilda = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    MutualLimeKimberli = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    BreakableTealShir = "My first time using an elevator was an uplifting experience. The second time let me down."
+    AgreedTanSelestina = "Whoever invented the knock-knock joke should get a no bell prize."
+    _hidden_value = true
+  }
+  serviceid ImportantTealSophi3 {
+    _hidden_value = true
+  }
+  number NervousAzureBrande2 {
+    _hidden_value = true
+  }
+  hidden_boolean ConventionalGoldGussie2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid PalestinianTanShanda2 {
+    _hidden_value = true
+  }
+  string AttractiveCyanFerne2 {
+    _hidden_value = true
+  }
+  string RealisticMoccasinLolita {
+    _hidden_value = true
+  }
+  serviceid_number UnknownFuchsiaGilbertina2 {
+    _hidden_value = true
+  }
+  boolean GloriousBlackCarmina {
+    _hidden_value = true
+  }
+  serviceid AutonomousScarletRora {
+    _hidden_value = true
+  }
+  serviceid PalestinianTanShandee {
+    _hidden_value = true
+  }
+  number ShinyTurquoiseTiertza2 {
+    _hidden_value = true
+  }
+  d1.OccupationalOliveMadel YellowGoldGiustina2 {
+    DifferentBlueCharleen = 547
+    AverageCoralElysha2 = {
+      legit = "Whoever invented the knock-knock joke should get a no bell prize."
+    }
+    WearyBeigeBrooke = "Why would the tomato blush? Because it saw the salad dressing."
+    PoisedTurquoiseThomasin = 534
+    _hidden_value = true
+  }
+  boolean MagicOrangeManon3 {
+    _hidden_value = true
+  }
+  SlipperyAquamarineBarbaraanne2 = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  DeadBrownDara2 = {
+    legit = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  }
+  FormalCoralElka3 = "What do you call two barracuda fish?  A Pairacuda!"
+  HeadPinkMeg4 = false
+  PresentBrownCristi = 293
+  _hidden_value = true
+}

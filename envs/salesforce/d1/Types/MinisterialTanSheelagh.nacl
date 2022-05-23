@@ -1,0 +1,48 @@
+type d1.MinisterialTanSheelagh {
+  annotations {
+    serviceid AdditionalCopperDottie2 {
+    }
+    string DarkTurquoiseTaryn {
+    }
+    serviceid EffectiveChocolateDee {
+    }
+    json FondSalmonPiper {
+    }
+    d1.BindingSalmonPeta RubberSilverSaree {
+    }
+    boolean RespectiveSalmonPerrine2 {
+    }
+    d1.LongAmaranthAdina IrrelevantPurpleNanete2 {
+    }
+  }
+  string StatisticalMagentaLanni {
+    _hidden_value = true
+  }
+  boolean ImpressedPeachMarisa {
+    _hidden_value = true
+  }
+  serviceid PotentialCoralElberta {
+    _hidden_value = true
+  }
+  hidden_boolean AdverseSapphireRanna3 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean CatholicHarlequinJamima {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number RequiredMaroonLethia2 {
+    _hidden_value = true
+  }
+  AdditionalCopperDottie2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  DarkTurquoiseTaryn = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+  EffectiveChocolateDee = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+  FondSalmonPiper = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  RubberSilverSaree = "Why is Peter Pan always flying? Because he Neverlands."
+  RespectiveSalmonPerrine2 = false
+  IrrelevantPurpleNanete2 = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+  _hidden_value = true
+}

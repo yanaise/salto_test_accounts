@@ -1,0 +1,149 @@
+type d1.BlueCoffeeDi {
+  annotations {
+    serviceid_number CuteTomatoTara {
+    }
+    number DryCyanEuphemia {
+    }
+    hidden_boolean FarBlushChristiane2 {
+    }
+    json CivilCoffeeDode3 {
+    }
+    json ComprehensiveGreenHyacinthe2 {
+    }
+    number EmbarrassedRedNissie {
+    }
+    d1.AcuteLavenderKeri TastyAquaAshlie {
+    }
+    json FaintMaroonLita2 {
+    }
+  }
+  d1.DEFAULT MarriedCyanFania {
+    _hidden_value = true
+  }
+  json FrontCopperEadith {
+    _hidden_value = true
+  }
+  serviceid_number AdministrativeGreenHonoria2 {
+    _hidden_value = true
+  }
+  boolean GrimScarletRonni2 {
+    _hidden_value = true
+  }
+  hidden_boolean ZanyYellowZorine {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number RedWhiteWendie2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" FilthyTurquoiseTera3 {
+    _hidden_value = true
+  }
+  hidden_boolean SpecificChocolateDarby {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  string AggressiveMaroonLilias {
+    _hidden_value = true
+  }
+  number SupposedCyanFarrah3 {
+    _hidden_value = true
+  }
+  json IncreasingCyanEvvie2 {
+    _hidden_value = true
+  }
+  hidden_boolean BiologicalMaroonLetta {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  number SolarRosePamella {
+    _hidden_value = true
+  }
+  serviceid UnhappyMaroonLicha2 {
+    _hidden_value = true
+  }
+  serviceid_number HurtAzureBlondie3 {
+    _hidden_value = true
+  }
+  hidden_boolean AbundantAmethystAnderea {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number WhisperingApricotArdelis {
+    _hidden_value = true
+  }
+  serviceid CanadianPlumMinerva4 {
+    _hidden_value = true
+  }
+  serviceid OutrageousAzureBrandy3 {
+    _hidden_value = true
+  }
+  number OpenBronzeCleo {
+    _hidden_value = true
+  }
+  hidden_boolean ImpressedPeachMarisa2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid NumerousAmethystAngelica {
+    _hidden_value = true
+  }
+  boolean UselessRedNikolia {
+    _hidden_value = true
+  }
+  string DesirableMagentaLanni {
+    _hidden_value = true
+  }
+  string ReliableLavenderKikelia2 {
+    _hidden_value = true
+  }
+  json EconomicBlushClaresta3 {
+    _hidden_value = true
+  }
+  boolean InterestedCoffeeDina2 {
+    _hidden_value = true
+  }
+  hidden_boolean GrotesqueTurquoiseTerry {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  boolean RoundYellowWilhelmine {
+    _hidden_value = true
+  }
+  "List<number>" MysteriousAzureBonnee2 {
+    _hidden_value = true
+  }
+  json SilentApricotAntonietta {
+    _hidden_value = true
+  }
+  hidden_boolean ClosedMagentaLeila {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  hidden_boolean RegionalCopperDorice2 {
+    _required = false
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number WorthyRedOdette2 {
+    _hidden_value = true
+  }
+  number AccusedSilverSaloma {
+    _hidden_value = true
+  }
+  CuteTomatoTara = 682
+  DryCyanEuphemia = 115
+  CivilCoffeeDode3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ComprehensiveGreenHyacinthe2 = "A steak pun is a rare medium well done."
+  EmbarrassedRedNissie = 839
+  TastyAquaAshlie = 721
+  FaintMaroonLita2 = "What do you call two barracuda fish?  A Pairacuda!"
+  _hidden_value = true
+}

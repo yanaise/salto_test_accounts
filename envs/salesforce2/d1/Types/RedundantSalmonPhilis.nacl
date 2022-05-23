@@ -1,0 +1,89 @@
+type d1.RedundantSalmonPhilis {
+  annotations {
+    string MeltedAquaAurel4 {
+    }
+    serviceid DelightedIvoryJulie2 {
+    }
+    serviceid ClinicalIndigoJeralee {
+    }
+  }
+  serviceid_number MeltedAquaAurea2 {
+    _hidden_value = true
+  }
+  boolean QuickAmethystAmmamaria2 {
+    _hidden_value = true
+  }
+  serviceid AdjacentSilverRoxie2 {
+    _hidden_value = true
+  }
+  serviceid_number FastAmethystAmandie {
+    _hidden_value = true
+  }
+  d1.StrongBronzeColly BizarreTanSean2 {
+    MilitaryChocolateDarlleen = "How come the stadium got hot after the game? Because all of the fans left."
+    SophisticatedJadeKarlie = "Why was it called the dark ages? Because of all the knights. "
+    ElectricGreenIngrid = false
+    FatVioletTrixie = "Dad Im hungry  Hi hungry Im dad"
+    AdditionalCopperDotti = "Did you know that protons have mass? I didn't even know they were catholic."
+    UnderlyingLimeKoressa = false
+    MoralCyanFenelia = true
+    BraveMoccasinLucinda = "Why would the kid cross the playground? To get to the other slide."
+    SpectacularMaroonLibbi = true
+    ExpectedLimeLaney = false
+    IsraeliPinkMeriel = 685
+    ExceptionalOliveMadonna = true
+    DefensiveRoseOpal = 509
+    AnxiousHarlequinJanna2 = 277
+    SweetAquaAshien = true
+    LongAmaranthAdi = "Dad Im hungry  Hi hungry Im dad"
+    _hidden_value = true
+  }
+  serviceid FriendlyBlackCarlynne2 {
+    _hidden_value = true
+  }
+  "List<hidden_boolean>" RisingScarletRosemarie2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid IntelligentMaroonLinnet {
+    _hidden_value = true
+  }
+  number CommonBronzeConsuelo {
+    _hidden_value = true
+  }
+  serviceid_number LivelyPeachMarylinda {
+    _hidden_value = true
+  }
+  hidden_boolean CognitiveSalmonQuerida {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  hidden_boolean TerritorialSalmonPriscilla2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid EnthusiasticPinkMerrielle3 {
+    _hidden_value = true
+  }
+  serviceid HappyBrownDaisy {
+    _hidden_value = true
+  }
+  d1.ExtraCoffeeDianemarie ArtisticPeachMasha {
+    _hidden_value = true
+  }
+  hidden_boolean CrucialFuchsiaGennie3 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  string YoungBlueChere {
+    _hidden_value = true
+  }
+  MeltedAquaAurel4 = "Why would the kid cross the playground? To get to the other slide."
+  DelightedIvoryJulie2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ClinicalIndigoJeralee = "I'm tired of following my dreams. I'm just going to ask them where they are going and meet up with them later."
+  _hidden_value = true
+}

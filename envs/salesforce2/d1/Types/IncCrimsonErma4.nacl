@@ -1,0 +1,116 @@
+type d1.IncCrimsonErma4 {
+  annotations {
+    string SubstantialCoralElspeth2 {
+    }
+    serviceid DecentMoccasinLonni3 {
+    }
+    boolean LostJadeKare {
+    }
+  }
+  number PoorTealStella3 {
+    _hidden_value = true
+  }
+  serviceid OutsideGrayHelene2 {
+    _hidden_value = true
+  }
+  json DizzyVioletTricia3 {
+    _hidden_value = true
+  }
+  json LightTurquoiseTessie4 {
+    _hidden_value = true
+  }
+  boolean HonestIndigoJerrine4 {
+    _hidden_value = true
+  }
+  boolean CuteTomatoTara4 {
+    _hidden_value = true
+  }
+  json CarefulCyanFerdinande3 {
+    _hidden_value = true
+  }
+  string CarefulTealShirley {
+    _hidden_value = true
+  }
+  json ExcessSilverSara5 {
+    _hidden_value = true
+  }
+  boolean HighAmberAllison {
+    _hidden_value = true
+  }
+  hidden_boolean UptightBeigeBrittni5 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.RoastedWhiteWenonah SlightGoldGwenore {
+    WhiteBronzeClotilda = "Why would the tomato blush? Because it saw the salad dressing."
+    MutualLimeKimberli = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    BreakableTealShir = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    AgreedTanSelestina = "Why do birds fly south for the winter? Because it's too far to walk."
+    _hidden_value = true
+  }
+  json FreeBronzeCodie2 {
+    _hidden_value = true
+  }
+  serviceid TroubledBeigeBrittan2 {
+    _hidden_value = true
+  }
+  hidden_boolean VastYellowZaria2 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  number HurtAzureBlondie5 {
+    _hidden_value = true
+  }
+  number BigVioletToni {
+    _hidden_value = true
+  }
+  json FreeBronzeCodie3 {
+    _hidden_value = true
+  }
+  serviceid PrincipalGoldGrayce {
+    _hidden_value = true
+  }
+  serviceid OrganisationalTanShantee4 {
+    _hidden_value = true
+  }
+  d1.SpectacularMaroonLibbie QuaintTurquoiseTiena3 {
+    FriendlyBlackCarma = 817
+    FrightenedMagentaLavena = 353
+    RepulsiveBeigeBrena = "What do you do on a remote island? Try and find the TV island it belongs to."
+    UptightBeigeBrittni = {
+      legit = "I thought my wife was joking when she said she'd leave me if I didn't stop signing \"I'm A Believer\"... Then I saw her face."
+    }
+    ExactLimeKordula2 = 452
+    LocalBlueCharmian = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    SensibleIvoryJordana = "Why would the kid cross the playground? To get to the other slide."
+    MonetaryIvoryJoey = "What creature is smarter than a talking parrot? A spelling bee."
+    WickedBeigeBryna = "Why wouldnt the skeleton cross the road? Because he had no guts."
+    AshamedScarletRosamund = 664
+    ChillyAmaranthAilsun = 855
+    CooingAmethystAngelique = 487
+    FatalPurpleMyrtle = 570
+    ThoughtlessBeigeBrinna = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    EvilAzureBili = 408
+    RelievedBlueCathie = false
+    CleverTealSibeal = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    GrowingCrimsonEnrichetta = 678
+    _hidden_value = true
+  }
+  "List<boolean>" LongAmaranthAdiana3 {
+    _hidden_value = true
+  }
+  string TropicalOliveLydie {
+    _hidden_value = true
+  }
+  json BlushingTomatoTamar3 {
+    _hidden_value = true
+  }
+  SubstantialCoralElspeth2 = "Chances are if you' ve seen one shopping center, you've seen a mall."
+  DecentMoccasinLonni3 = "What creature is smarter than a talking parrot? A spelling bee."
+  LostJadeKare = false
+  _hidden_value = true
+}

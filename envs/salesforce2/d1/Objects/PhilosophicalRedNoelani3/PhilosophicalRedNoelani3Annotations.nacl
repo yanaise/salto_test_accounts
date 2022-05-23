@@ -1,0 +1,58 @@
+type d1.PhilosophicalRedNoelani3 {
+  annotations {
+    serviceid OfficialCopperDorita4 {
+    }
+    boolean GiganticAmaranthAdara2 {
+    }
+    number DeterminedBeigeCandide {
+    }
+    string ExoticSapphireRiki2 {
+    }
+    number StrangeYellowWinnie3 {
+    }
+    boolean LonelyOliveLynde2 {
+    }
+    json EnormousFuchsiaGiovanna {
+    }
+    serviceid_number CreativeJadeKania4 {
+    }
+    hidden_boolean RoundAmberAlmira2 {
+    }
+    d1.AnxiousHarlequinJanna StrongBronzeCollie3 {
+    }
+    boolean NervousHarlequinJanot2 {
+    }
+    boolean ThenSalmonPhoebe5 {
+    }
+    number TanYellowYelena3 {
+    }
+    d1.UrbanCyanFan HappyBrownDaisi2 {
+    }
+    hidden_boolean PreciousWhiteVitoria2 {
+    }
+    boolean LooseIvoryJulieta {
+    }
+    serviceid SignificantBrownDanni {
+    }
+    json ConsciousHarlequinJeanelle3 {
+    }
+    d1.TameTomatoSusannah3 StaleAquaArlina {
+    }
+  }
+  OfficialCopperDorita4 = "Why would the kid cross the playground? To get to the other slide."
+  GiganticAmaranthAdara2 = false
+  DeterminedBeigeCandide = 725
+  ExoticSapphireRiki2 = "What do you call two barracuda fish?  A Pairacuda!"
+  StrangeYellowWinnie3 = 653
+  LonelyOliveLynde2 = false
+  EnormousFuchsiaGiovanna = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  CreativeJadeKania4 = 981
+  StrongBronzeCollie3 = file("ExperimentalLavenderKatleen2.txt")
+  NervousHarlequinJanot2 = true
+  ThenSalmonPhoebe5 = false
+  TanYellowYelena3 = 484
+  HappyBrownDaisi2 = file("MinisterialTanSheba3.txt")
+  LooseIvoryJulieta = true
+  SignificantBrownDanni = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+  ConsciousHarlequinJeanelle3 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+}

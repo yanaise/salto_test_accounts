@@ -1,0 +1,44 @@
+type d1.RelevantCoffeeDoralin {
+  annotations {
+    serviceid_number PalestinianTanShana {
+    }
+    hidden_boolean ExceptionalOliveMadlen {
+    }
+    json InfluentialMoccasinLorette2 {
+    }
+    serviceid InstantSapphireRandy2 {
+    }
+    d1.DEFAULT FoolishAzureBinnie2 {
+    }
+    json ReasonableCrimsonEmalia {
+    }
+  }
+  serviceid PlainTurquoiseTheresita2 {
+    _hidden_value = true
+  }
+  "List<serviceid>" ActiveCopperDre {
+    _hidden_value = true
+  }
+  json HelpfulHarlequinJanette3 {
+    _hidden_value = true
+  }
+  hidden_boolean BrokenAmaranthAile {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  number AssociatedMaroonLindy {
+    _hidden_value = true
+  }
+  d1.DEFAULT RubberSilverSaree2 {
+    _hidden_value = true
+  }
+  PalestinianTanShana = 371
+  InfluentialMoccasinLorette2 = "Did you know that protons have mass? I didn't even know they were catholic."
+  InstantSapphireRandy2 = "Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor."
+  FoolishAzureBinnie2 = {
+    legit = "A steak pun is a rare medium well done."
+  }
+  ReasonableCrimsonEmalia = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  _hidden_value = true
+}

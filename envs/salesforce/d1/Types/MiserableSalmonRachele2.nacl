@@ -1,0 +1,54 @@
+type d1.MiserableSalmonRachele2 {
+  annotations {
+    serviceid_number UnacceptableSalmonPenelopa2 {
+    }
+    hidden_boolean PersonalBronzeCoralyn3 {
+    }
+    serviceid MeltedAquaAura2 {
+    }
+    boolean ExtremeHarlequinJacinthe3 {
+    }
+    number DominantIndigoJen2 {
+    }
+  }
+  number DyingScarletRobyn7 {
+    _hidden_value = true
+  }
+  hidden_boolean MildOliveMaddi2 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ContentPeachMatilda3 {
+    _hidden_value = true
+  }
+  json WesternChocolateDehlia2 {
+    _hidden_value = true
+  }
+  boolean MagnificentWhiteVanny3 {
+    _hidden_value = true
+  }
+  serviceid_number BoringPeachMarni2 {
+    _hidden_value = true
+  }
+  serviceid_number HugeCoffeeDore2 {
+    _hidden_value = true
+  }
+  number BrightCoralElvira3 {
+    _hidden_value = true
+  }
+  json ProperCoralElisabet2 {
+    _hidden_value = true
+  }
+  number BadAquamarineBerni4 {
+    _hidden_value = true
+  }
+  json LightCopperDulcia {
+    _hidden_value = true
+  }
+  UnacceptableSalmonPenelopa2 = 173
+  MeltedAquaAura2 = "Slept like a log last night  woke up in the fireplace."
+  ExtremeHarlequinJacinthe3 = false
+  DominantIndigoJen2 = 968
+  _hidden_value = true
+}

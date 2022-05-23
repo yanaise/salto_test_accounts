@@ -1,0 +1,19 @@
+type d1.CulturalCoralElianore2 {
+  annotations {
+    number GoverningTanSelma3 {
+    }
+    number LoudApricotAnnadiane4 {
+    }
+    hidden_boolean AdvancedHarlequinJacinta2 {
+    }
+    boolean ChillyAmaranthAilina {
+    }
+  }
+  number PastCoffeeDianemarie2 {
+    _hidden_value = true
+  }
+  GoverningTanSelma3 = 901
+  LoudApricotAnnadiane4 = 883
+  ChillyAmaranthAilina = true
+  _hidden_value = true
+}

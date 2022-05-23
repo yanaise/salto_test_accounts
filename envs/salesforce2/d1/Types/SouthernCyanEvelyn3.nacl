@@ -1,0 +1,58 @@
+type d1.SouthernCyanEvelyn3 {
+  annotations {
+    serviceid FunnyBlackCarmelia3 {
+    }
+    boolean PresentBrownCristi2 {
+    }
+    hidden_boolean CompulsoryOrangeMallory2 {
+    }
+    serviceid AngryAquamarineBenetta3 {
+    }
+    number RipeApricotAriana2 {
+    }
+  }
+  boolean CasualOliveLurlene5 {
+    _hidden_value = true
+  }
+  serviceid FeministPlumMin3 {
+    _hidden_value = true
+  }
+  boolean DarkChocolateDeb {
+    _hidden_value = true
+  }
+  serviceid_number AverageTomatoTabbi2 {
+    _hidden_value = true
+  }
+  serviceid InnocentMagentaLarine2 {
+    _hidden_value = true
+  }
+  number PlasticAquaAurelia2 {
+    _hidden_value = true
+  }
+  boolean BeautifulVioletTommi {
+    _hidden_value = true
+  }
+  serviceid CalmPurpleNancee5 {
+    _hidden_value = true
+  }
+  serviceid_number FatVioletTrixi3 {
+    _hidden_value = true
+  }
+  json ExplicitMaroonLisetta4 {
+    _hidden_value = true
+  }
+  string FairCoffeeDion2 {
+    _hidden_value = true
+  }
+  json SpotlessTurquoiseTilly2 {
+    _hidden_value = true
+  }
+  json NastyMaroonLisette {
+    _hidden_value = true
+  }
+  FunnyBlackCarmelia3 = "My first time using an elevator was an uplifting experience. The second time let me down."
+  PresentBrownCristi2 = false
+  AngryAquamarineBenetta3 = "Whoever invented the knock-knock joke should get a no bell prize."
+  RipeApricotAriana2 = 245
+  _hidden_value = true
+}

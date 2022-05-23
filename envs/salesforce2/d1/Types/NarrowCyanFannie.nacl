@@ -1,0 +1,28 @@
+type d1.NarrowCyanFannie {
+  annotations {
+    number DistinguishedPurpleNatasha {
+    }
+    serviceid EmotionalGrayHermione {
+    }
+    d1.ImmenseAmaranthAdelice IncreasingCyanEvita {
+    }
+    serviceid_number MildOliveMadalyn {
+    }
+  }
+  hidden_boolean RepulsiveBeigeBrenn2 {
+    _required = false
+    _hidden = true
+    _hidden_value = true
+  }
+  serviceid CloseBrownCortney {
+    _hidden_value = true
+  }
+  boolean PleasedEmeraldGabriell3 {
+    _hidden_value = true
+  }
+  DistinguishedPurpleNatasha = 806
+  EmotionalGrayHermione = "Why would the kid cross the playground? To get to the other slide."
+  IncreasingCyanEvita = 239
+  MildOliveMadalyn = 357
+  _hidden_value = true
+}

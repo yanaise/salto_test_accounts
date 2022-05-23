@@ -1,0 +1,73 @@
+type d1.FederalGrayHalli2 {
+  annotations {
+    boolean DigitalMaroonLib3 {
+    }
+    string AdjacentSilverRoxi {
+    }
+    number EmbarrassedRedNisse {
+    }
+    hidden_boolean UglyPlumMidge {
+    }
+    json StickyAquamarineBeatrix2 {
+    }
+    d1.BindingSalmonPeta OrganicLimeLacy {
+    }
+  }
+  serviceid TallYellowXylia4 {
+    _hidden_value = true
+  }
+  serviceid YellowYellowZora3 {
+    _hidden_value = true
+  }
+  d1.SteepAmberAlyce RequiredMaroonLethia3 {
+    ChangingJadeKassia = "Whoever invented the knock-knock joke should get a no bell prize."
+    RightBlushCherish = "What did one nut say as he chased another nut?  I'm a cashew!"
+    PreviousBrownDania = true
+    ClosedMagentaLeilah = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    SuperTomatoSusanna = {
+      legit = "Im only familiar with 25 letters in the English language. I dont know why."
+    }
+    ZanyYellowZulema = false
+    ChubbyAmberAline = true
+    CheerfulBeigeCalypso = 545
+    SympatheticPinkMead2 = "What did the father tomato say to the baby tomato whilst on a family walk? Ketchup."
+    FuzzyAquaAuberta = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    GoverningTanSelma = "Why do birds fly south for the winter? Because it's too far to walk."
+    MinorEmeraldGabriel2 = "A steak pun is a rare medium well done."
+    _hidden_value = true
+  }
+  serviceid_number SteadyJadeKaila {
+    _hidden_value = true
+  }
+  string WickedScarletRoseanne {
+    _hidden_value = true
+  }
+  serviceid LowAmberAllyce2 {
+    _hidden_value = true
+  }
+  boolean BlackVioletTonye2 {
+    _hidden_value = true
+  }
+  string ExplicitMaroonLise3 {
+    _hidden_value = true
+  }
+  hidden_boolean PeculiarPlumMichelina3 {
+    _required = true
+    _hidden = false
+    _hidden_value = true
+  }
+  serviceid_number IndependentChocolateDella2 {
+    _hidden_value = true
+  }
+  serviceid_number AcuteLavenderKeri5 {
+    _hidden_value = true
+  }
+  DigitalMaroonLib3 = true
+  AdjacentSilverRoxi = "I knew I shouldn't steal a mixer from work, but it was a whisk I was willing to take."
+  EmbarrassedRedNisse = 26
+  StickyAquamarineBeatrix2 = "Why would the tomato blush? Because it saw the salad dressing."
+  OrganicLimeLacy = "Why wouldnt the skeleton cross the road? Because he had no guts."
+  _hidden_value = true
+}

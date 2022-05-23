@@ -1,0 +1,81 @@
+type d1.BroadAmberAlidia2 {
+  annotations {
+    d1.BindingSalmonPeta SoftAquamarineBarbie2 {
+    }
+    string SilkyAquaBamby2 {
+    }
+    hidden_boolean CuriousLimeKirbie3 {
+    }
+    number ExtendedPlumMilissent2 {
+    }
+    serviceid_number BadVioletToinette3 {
+    }
+  }
+  serviceid SmallAmaranthAgathe4 {
+    _hidden_value = true
+  }
+  string AwkwardPeachMarylee5 {
+    _hidden_value = true
+  }
+  string HardAquaAudre3 {
+    _hidden_value = true
+  }
+  json VictoriousBlueCecil2 {
+    _hidden_value = true
+  }
+  json InformalLavenderKathi {
+    _hidden_value = true
+  }
+  boolean MagicOrangeManya5 {
+    _hidden_value = true
+  }
+  serviceid ConvincedJadeKarine2 {
+    _hidden_value = true
+  }
+  string RedWhiteWendie4 {
+    _hidden_value = true
+  }
+  hidden_boolean StraightforwardMaroonLexy3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  d1.SteepAmberAlyce SportingSilverRuthy2 {
+    ChangingJadeKassia = "Why was it called the dark ages? Because of all the knights. "
+    RightBlushCherish = "What is a centipedes's favorite Beatle song?  I want to hold your hand, hand, hand, hand..."
+    PreviousBrownDania = true
+    ClosedMagentaLeilah = {
+      legit = "To be Frank, I'd have to change my name."
+    }
+    SuperTomatoSusanna = {
+      legit = "Did you hear about the guy whose whole left side was cut off? He's all right now."
+    }
+    ZanyYellowZulema = false
+    ChubbyAmberAline = true
+    CheerfulBeigeCalypso = 343
+    SympatheticPinkMead2 = "Did you hear the joke about the wandering nun? She was a roman catholic."
+    FuzzyAquaAuberta = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
+    GoverningTanSelma = "Why would the tomato blush? Because it saw the salad dressing."
+    MinorEmeraldGabriel2 = "To be Frank, I'd have to change my name."
+    _hidden_value = true
+  }
+  number ThoughtfulBlueCaye2 {
+    _hidden_value = true
+  }
+  serviceid MarineMagentaLeona {
+    _hidden_value = true
+  }
+  hidden_boolean ElectricalLavenderKerrie3 {
+    _required = true
+    _hidden = true
+    _hidden_value = true
+  }
+  json ArtisticPeachMarysa {
+    _hidden_value = true
+  }
+  SoftAquamarineBarbie2 = "Im only familiar with 25 letters in the English language. I dont know why."
+  SilkyAquaBamby2 = "Whoever invented the knock-knock joke should get a no bell prize."
+  ExtendedPlumMilissent2 = 867
+  BadVioletToinette3 = 331
+  _hidden_value = true
+}
